@@ -1,0 +1,171 @@
+# ============================================================
+# 内容源白名单
+# kind: 通讯社 / 公共媒体 / 官方媒体 / 市场化媒体 / 厂商官方 / 垂直媒体 / 个人 / 社区 / 政策
+# 立场标注按「来源级」打，不让模型猜
+# overseas: true 表示国内直连常失败、主要靠 GitHub Actions（海外）抓
+# 第一次运行会做健康检查，抓不到的源会在 状态页 标出来
+# ============================================================
+
+sources:
+  # ---------- 国际局势 ----------
+  - id: bbc_world
+    name: BBC World
+    url: https://feeds.bbci.co.uk/news/world/rss.xml
+    groups: [world]
+    kind: 公共媒体
+    lang: en
+    overseas: true
+  - id: aljazeera
+    name: Al Jazeera
+    url: https://www.aljazeera.com/xml/rss/all.xml
+    groups: [world]
+    kind: 通讯社
+    lang: en
+    overseas: true
+  - id: npr_world
+    name: NPR World
+    url: https://feeds.npr.org/1004/rss.xml
+    groups: [world]
+    kind: 公共媒体
+    lang: en
+    overseas: true
+  - id: zaobao_world
+    name: 联合早报·国际
+    url: https://www.zaobao.com.sg/rss/realtime/world
+    groups: [world]
+    kind: 市场化媒体
+    lang: zh
+  - id: gov_cn
+    name: 中国政府网·政策
+    url: https://www.gov.cn/pushinfo/v150203/rss.xml
+    groups: [world, know]
+    kind: 政策
+    lang: zh
+  - id: nyt_world
+    name: NYT World
+    url: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+    groups: [world]
+    kind: 市场化媒体
+    lang: en
+    overseas: true
+
+  # ---------- AI 发展 ----------
+  - id: qbitai
+    name: 量子位
+    url: https://www.qbitai.com/feed
+    groups: [ai]
+    kind: 垂直媒体
+    lang: zh
+  - id: openai_blog
+    name: OpenAI 官方博客
+    url: https://openai.com/news/rss.xml
+    groups: [ai]
+    kind: 厂商官方
+    lang: en
+    overseas: true
+  - id: deepmind
+    name: Google DeepMind 博客
+    url: https://deepmind.google/blog/rss.xml
+    groups: [ai]
+    kind: 厂商官方
+    lang: en
+    overseas: true
+  - id: hf_blog
+    name: Hugging Face 博客
+    url: https://huggingface.co/blog/feed.xml
+    groups: [ai]
+    kind: 社区
+    lang: en
+    overseas: true
+  - id: simonw
+    name: Simon Willison
+    url: https://simonwillison.net/atom/everything/
+    groups: [ai, know]
+    kind: 个人
+    lang: en
+    overseas: true
+  - id: hn_front
+    name: Hacker News 首页
+    url: https://hnrss.org/frontpage
+    groups: [ai, know]
+    kind: 社区
+    lang: en
+  - id: verge
+    name: The Verge
+    url: https://www.theverge.com/rss/index.xml
+    groups: [ai]
+    kind: 垂直媒体
+    lang: en
+    overseas: true
+  - id: techcrunch
+    name: TechCrunch
+    url: https://techcrunch.com/feed/
+    groups: [ai]
+    kind: 垂直媒体
+    lang: en
+    overseas: true
+  - id: arstechnica
+    name: Ars Technica
+    url: https://feeds.arstechnica.com/arstechnica/index
+    groups: [ai]
+    kind: 垂直媒体
+    lang: en
+    overseas: true
+  - id: leiphone
+    name: 雷锋网
+    url: https://www.leiphone.com/feed
+    groups: [ai]
+    kind: 垂直媒体
+    lang: zh
+  - id: ifanr
+    name: 爱范儿
+    url: https://www.ifanr.com/feed
+    groups: [ai]
+    kind: 垂直媒体
+    lang: zh
+  - id: kr36
+    name: 36氪
+    url: https://36kr.com/feed
+    groups: [ai]
+    kind: 市场化媒体
+    lang: zh
+
+  # ---------- 不为人知的知识 / 方法论 ----------
+  - id: sspai
+    name: 少数派
+    url: https://sspai.com/feed
+    groups: [know]
+    kind: 社区
+    lang: zh
+  - id: ruanyifeng
+    name: 阮一峰的网络日志
+    url: https://www.ruanyifeng.com/blog/atom.xml
+    groups: [know, ai]
+    kind: 个人
+    lang: zh
+  - id: marginalian
+    name: The Marginalian
+    url: https://www.themarginalian.org/feed/
+    groups: [know]
+    kind: 个人
+    lang: en
+    overseas: true
+  - id: waitbutwhy
+    name: Wait But Why
+    url: https://waitbutwhy.com/feed
+    groups: [know]
+    kind: 个人
+    lang: en
+    overseas: true
+  - id: hn_best
+    name: Hacker News 精选
+    url: https://hnrss.org/best
+    groups: [know, ai]
+    kind: 社区
+    lang: en
+  - id: tmtpost
+    name: 钛媒体
+    url: https://www.tmtpost.com/rss.xml
+    groups: [ai, know]
+    kind: 市场化媒体
+    lang: zh

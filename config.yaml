@@ -1,0 +1,59 @@
+# ============================================================
+# 三件事 · 每日晨读  配置文件
+# 改完直接生效，下一次运行（每天 06:30）按新配置出刊
+# ============================================================
+
+site:
+  name: 三件事
+  tagline: 每天早上，只给你看值得的。
+  email_owner: ""          # 可选，显示在页脚
+  timezone: Asia/Shanghai
+  # 站点网址留空时自动读环境变量 SITE_URL（GitHub Actions 里自动填）
+  url: ""
+
+issue:
+  daily_count:
+    headline: 3            # 头条大字卡
+    featured: 5            # 精选列表
+    challenge: 2           # 另一种声音
+    quick: 6               # 一句话速览
+  lookback_hours: 48       # 只收最近 48 小时内的内容
+  max_candidates: 80       # 送进模型排序的候选上限（控制 token）
+  min_sources_confirm: 2   # 同一事件几家报道就算「多源确认」
+
+# 三个方向：weight 决定精选配比；keywords 用于预筛
+interests:
+  world:
+    label: 国际局势
+    weight: 3
+    keywords: [局势, 冲突, 战争, 停火, 谈判, 制裁, 选举, 峰会, 关税, 贸易, 外交, 军事, 联合国, 北约, 欧盟, 俄, 乌克兰, 以色列, 加沙, 中东, 伊朗, 美国, 欧洲, 台海, 南海, 朝鲜, 日本, 印度, 大选, 政变, 油价, 国际]
+  ai:
+    label: AI 发展
+    weight: 4
+    keywords: [人工智能, AI, 大模型, 模型, OpenAI, Anthropic, DeepMind, 谷歌, 微软, 英伟达, GPU, 芯片, 开源, 推理, 智能体, Agent, 多模态, 训练, 算力, 论文, 融资, 发布, 机器人, 自动驾驶, 编程]
+  know:
+    label: 不为人知的知识
+    weight: 3
+    keywords: [方法, 效率, 认知, 学习, 工作, 生活, 经验, 教训, 复盘, 工具, 习惯, 决策, 心理, 时间, 睡眠, 沟通, 写作, 阅读, 笔记, 冷知识, 警示, 坑]
+
+# 模型：任何 OpenAI 兼容接口都能用（DeepSeek / 通义 / 智谱 / 硅基流动…）
+llm:
+  provider: deepseek
+  base_url: https://api.deepseek.com
+  model: deepseek-flash
+  api_key_env: DEEPSEEK_API_KEY     # key 只从环境变量读，永远不写进文件
+  temperature: 0.3
+  timeout: 90
+  json_retry: 2
+  # 成本估算用（元/百万 tokens），按官方页 2026-10-26 的空闲价
+  price_in: 1.0
+  price_out: 4.0
+
+runtime:
+  max_workers: 8
+  fetch_timeout: 12
+  article_timeout: 10
+  article_chars: 2500        # 每篇截取正文长度，控制 token
+  image_max_width: 960       # 配图最大宽度
+  image_quality: 78
+  keep_days: 60              # data/ 里保留多少天
