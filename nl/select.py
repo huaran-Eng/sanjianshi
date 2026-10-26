@@ -185,16 +185,19 @@ def llm_rank(llm, items, interests, limit=24):
         lines.append("%d) [%s|%s] %s || %s" % (
             i, it.get("source_name"), it.get("source_kind"),
             (it.get("title") or "")[:70], (it.get("summary_text") or "")[:60]))
-    prompt = (
+    head = (
         "候选条目如下（格式：编号) [来源|来源类型] 标题 || 摘要）：\n"
         + "\n".join(lines)
-        + "\n\n请挑出最值得这位读者看的 %d 条，给每条 0-100 的重要度分数和方向标签"
+    )
+    tail = (
+        "\n\n请挑出最值得这位读者看的 " + str(limit) + " 条，给每条 0-100 的重要度分数和方向标签"
         "（world=国际局势 / ai=AI 发展 / know=知识方法论）。\n"
         "要求：三个方向都要有；同一新闻多家报道时挑信息最完整的一条；"
         "不要选娱乐八卦、广告、纯促销。\n"
         "输出 JSON：{\"picks\":[{\"i\":编号,\"score\":分数,\"group\":\"world 或 ai 或 know\","
         "\"reason\":\"为什么选它，15 字内\"}]}"
-    ) % limit
+    )
+    prompt = head + tail
     try:
         text = llm.complete([
             {"role": "system", "content": SYSTEM_RANK},
