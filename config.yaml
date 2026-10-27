@@ -56,4 +56,4 @@ runtime:
   article_chars: 2500        # 每篇截取正文长度，控制 token
   image_max_width: 960       # 配图最大宽度
   image_quality: 78
-  keep_days: 60              # data/ 里保留多少天
+  keep_days: 0               # 0 = 全部保留（历史留存用）；程序目前不会自动删旧期

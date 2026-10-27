@@ -33,6 +33,16 @@ def badge(kind):
     return '<span class="badge %s">%s</span>' % (KIND_CLASS.get(kind, "b-gray"), e(kind or "媒体"))
 
 
+def item_chips(item):
+    """卡片上的分类小标签：事件类型 + 地区。"""
+    out = []
+    if item.get("type_label"):
+        out.append('<span class="chip">%s</span>' % e(item["type_label"]))
+    if item.get("region_label"):
+        out.append('<span class="chip c-dim">%s</span>' % e(item["region_label"]))
+    return "".join(out)
+
+
 def fmt_time(iso):
     try:
         return datetime.fromisoformat(iso).strftime("%m-%d %H:%M")
@@ -96,6 +106,7 @@ def story(item, idx, prefix):
            % (badge(item.get("source_kind")), e(item.get("source_name")), e(fmt_time(item.get("published")))))
     if item.get("source_count", 1) > 1:
         src += '<span class="dotsep">·</span>%d 家报道' % item["source_count"]
+    src += item_chips(item)
     why = ('<div class="why"><b>为什么给你看：</b>%s</div>' % e(item.get("why"))) if item.get("why") else ""
     return ('<div class="story"><div class="num">%02d</div>'
             '<h3>%s</h3><div class="meta">%s</div>%s'
@@ -109,9 +120,10 @@ def featured(items, prefix):
     for it in items:
         rows.append('<div class="row">%s<div class="t"><h4><a href="%s" target="_blank" rel="noopener" '
                     'style="text-decoration:none">%s</a></h4><p>%s</p>'
-                    '<div class="meta">%s<span class="dotsep">·</span>%s</div></div></div>' % (
+                    '<div class="meta">%s<span class="dotsep">·</span>%s%s</div></div></div>' % (
                         img_block(it, prefix, "thumb-sm"), e(it.get("link")), e(it.get("title")),
-                        e(it.get("summary")), badge(it.get("source_kind")), e(it.get("source_name"))))
+                        e(it.get("summary")), badge(it.get("source_kind")), e(it.get("source_name")),
+                        item_chips(it)))
     return '<div class="featured">%s</div>' % "".join(rows)
 
 
@@ -137,12 +149,57 @@ def challenge_block(ch, prefix):
         e(ch.get("diff")))
 
 
+def _bar_rows(rows, total):
+    total = total or 1
+    out = []
+    for r in rows:
+        pct = max(2, int(round((r.get("n") or 0) * 100.0 / total)))
+        out.append('<div class="bar"><span>%s</span><span class="track">'
+                   '<span class="fill" style="width:%d%%;display:block"></span></span><em>%d</em></div>'
+                   % (e(r.get("label")), pct, r.get("n") or 0))
+    return "".join(out)
+
+
+def report_block(rep):
+    """每期客观总结报告：数字全部由代码统计，模型只写归纳（单独标注为判断）。"""
+    if not rep:
+        return ""
+    total = sum((t.get("n") or 0) for t in (rep.get("types") or [])) or 1
+    types_html = _bar_rows(rep.get("types") or [], total) or '<div class="rmuted">本期没有类型数据</div>'
+    regions_html = _bar_rows(rep.get("regions") or [], total) or '<div class="rmuted">—</div>'
+    signals = rep.get("signals") or []
+    if signals:
+        judge = ('<div class="judge"><b>编辑归纳（判断，不是事实）</b><ul>%s</ul></div>'
+                 % "".join("<li>%s</li>" % e(s) for s in signals))
+    else:
+        judge = ('<div class="judge muted"><b>没有归纳判断</b>：本期未启用模型归纳，'
+                 '下面只有统计数字。</div>')
+    conf = rep.get("confirmed") or []
+    if conf:
+        parts = ["%s（%d 家）" % (e((c.get("title") or "")[:34]), c.get("n") or 1) for c in conf]
+        conf_html = ('<div class="conf"><b>多源确认 %d 条：</b>%s</div>'
+                     % (rep.get("confirmed_n") or len(conf), "；".join(parts)))
+    else:
+        conf_html = '<div class="conf"><b>多源确认：</b>本期没有多家媒体同时报道的条目。</div>'
+    mode = "模型归纳" if rep.get("mode") == "llm" else "规则统计"
+    return ('<div class="report">'
+            '<div class="rhead"><span class="badge b-teal">%s</span>'
+            '<span class="rmeta">数字由程序统计，不经过模型</span></div>'
+            '<p class="ov">%s</p>'
+            '<div class="rgrid"><div class="rcol"><h5>事件类型</h5>%s</div>'
+            '<div class="rcol"><h5>地区</h5>%s</div></div>'
+            '%s%s'
+            '<div class="rnote">%s</div></div>') % (
+        e(mode), e(rep.get("overview") or ""), types_html, regions_html, judge, conf_html,
+        e(rep.get("note") or ""))
+
+
 def quick(items):
     rows = []
     for it in items:
         rows.append('<li><a href="%s" target="_blank" rel="noopener">%s</a>'
-                    '<span class="src">%s</span></li>' % (e(it.get("link")), e(it.get("title")),
-                                                         e(it.get("source_name"))))
+                    '<span class="src">%s</span>%s</li>' % (e(it.get("link")), e(it.get("title")),
+                                                           e(it.get("source_name")), item_chips(it)))
     return '<div class="quick"><ol>%s</ol></div>' % "".join(rows)
 
 
@@ -230,18 +287,47 @@ def render_issue(issue, prefix=""):
     if issue.get("quick"):
         parts.append(sec_head("速览", "一句话过一遍"))
         parts.append(quick(issue["quick"]))
+    if issue.get("report"):
+        parts.append(sec_head("本期总结", "客观总结报告", "先看数字，再看归纳；归纳单独标注为判断"))
+        parts.append(report_block(issue["report"]))
     parts.append(stats_bars(counts))
     parts.append(footer(issue))
     return page(issue, "".join(parts), prefix=prefix)
 
 
-def render_archive_index(issues, site_name):
+def render_archive_index(issues, site_name, index=None):
+    idx = index or {}
+    agg = idx.get("aggregate") or {}
+    total_items = int(agg.get("items") or 0)
+    if not total_items:
+        total_items = sum(int(((it.get("issue") or {}).get("stats") or {}).get("selected") or 0) for it in issues)
+    stats = ('<div class="stats arch-stats">'
+             '<div class="stat"><b>%d</b><span>累计期数</span></div>'
+             '<div class="stat"><b>%d</b><span>累计条目</span></div>'
+             '<div class="stat"><b>%s</b><span>起始</span></div>'
+             '<div class="stat"><b>%s</b><span>最新一期</span></div></div>') % (
+        int(agg.get("issues") or len(issues)), total_items,
+        e((agg.get("first") or "—")[5:]), e((agg.get("last") or "—")[5:]))
+    cum_html = ""
+    if agg.get("types"):
+        cum_html = ('<div class="note"><b>累计类型分布（%d 条）</b>%s</div>'
+                    % (total_items, _bar_rows(agg["types"], total_items or 1)))
     rows = []
     for it in issues:
+        iss = it.get("issue") or {}
+        rep = iss.get("report") or {}
+        head = (rep.get("overview") or "")[:88]
+        chips = "".join('<span class="chip">%s %d</span>' % (e(t.get("label")), t.get("n") or 0)
+                        for t in (rep.get("types") or [])[:4])
         rows.append('<div class="row"><div class="t"><h4><a href="archive/%s.html" style="text-decoration:none">'
-                    '%s · %s</a></h4><p>%s</p></div></div>'
-                    % (it["date"], e(it["date"]), e(it.get("weekday") or ""), e(it.get("one_liner") or "")))
-    body = sec_head("归档", "往期", "共 %d 期" % len(issues)) + '<div class="featured">%s</div>' % "".join(rows)
+                    '%s · %s · 第 %d 期</a></h4><p>%s</p>'
+                    '<div class="meta">%s<span class="dotsep">·</span>本期 %d 条</div></div></div>'
+                    % (it["date"], e(it["date"]), e(it.get("weekday") or ""),
+                       int(iss.get("issue_no") or 1), e(head), chips,
+                       int((iss.get("stats") or {}).get("selected") or 0)))
+    body = (sec_head("归档", "往期", "共 %d 期 · 累计 %d 条；每期都保留分类解析与总结报告"
+                     % (len(issues), total_items))
+            + stats + cum_html + '<div class="featured">%s</div>' % "".join(rows))
     issue = {"date": "归档", "one_liner": "往期归档", "lede": "", "stats": {}, "archives": []}
     return page(issue, body)
 
@@ -262,13 +348,16 @@ def render_about(config, sources):
               '<tr style="color:#6b7280;text-align:left"><th style="padding:6px 4px">来源</th>'
               '<th style="padding:6px 4px">方向</th><th style="padding:6px 4px">类型</th>'
               '<th style="padding:6px 4px">区域</th></tr>' + "".join(src_rows) + '</table></div>'
+            + '<div class="note"><b>分类与总结报告</b><br>每期给每条打「事件类型 / 地区」标签，'
+              '并生成一份总结报告：条数、来源、多源确认等数字全部由程序统计，'
+              '模型只负责归纳，归纳部分单独标注为「判断」。往期全部保留，归档页可按期回看。</div>'
             + '<div class="note"><b>关于「不编造」</b><br>摘要如果来自模型，会要求只转述原文；'
               '如果原文信息不足，就写「原文未说明」。每条都保留原始链接，欢迎点开核对。</div>')
     issue = {"date": "关于", "one_liner": "关于这个页面", "lede": "", "stats": {}, "archives": []}
     return page(issue, body)
 
 
-def write_site(issue, out_dir, archive_issues, config, sources, assets_dir):
+def write_site(issue, out_dir, archive_issues, config, sources, assets_dir, history=None):
     os.makedirs(out_dir, exist_ok=True)
     site_assets = os.path.join(out_dir, "assets")
     os.makedirs(site_assets, exist_ok=True)
@@ -282,7 +371,7 @@ def write_site(issue, out_dir, archive_issues, config, sources, assets_dir):
         with open(os.path.join(out_dir, "archive", it["date"] + ".html"), "w", encoding="utf-8") as f:
             f.write(render_issue(other, "../"))
     with open(os.path.join(out_dir, "archive.html"), "w", encoding="utf-8") as f:
-        f.write(render_archive_index(archive_issues, config.get("site", {}).get("name", "")))
+        f.write(render_archive_index(archive_issues, config.get("site", {}).get("name", ""), history))
     with open(os.path.join(out_dir, "about.html"), "w", encoding="utf-8") as f:
         f.write(render_about(config, sources))
     with open(os.path.join(out_dir, "manifest.json"), "w", encoding="utf-8") as f:

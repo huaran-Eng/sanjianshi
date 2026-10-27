@@ -1,5 +1,5 @@
 // 每日新闻 PWA：网络优先，断网回退缓存
-var CACHE = 'sanjianshi-v1';
+var CACHE = 'sanjianshi-v2';
 self.addEventListener('install', function (e) { self.skipWaiting(); });
 self.addEventListener('activate', function (e) { e.waitUntil(self.clients.claim()); });
 self.addEventListener('fetch', function (e) {

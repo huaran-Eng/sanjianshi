@@ -17,6 +17,7 @@ from pathlib import Path
 
 import yaml
 
+from nl import report as rep
 from nl import select as sel
 from nl.article import fetch_article_meta
 from nl.fetch import fetch_all, now_local, strip_html
@@ -152,11 +153,14 @@ def write_summaries(llm, items, interests, workers=4):
         list(ex.map(one, items))
 
 
-def load_archives(data_dir, keep=12):
+def load_archives(data_dir, keep=0):
+    """读 data/ 下的历史期数；keep=0 表示全部保留（长期归档）。"""
     out = []
     if not Path(data_dir).exists():
         return out
     for p in sorted(Path(data_dir).glob("*.json"), reverse=True):
+        if p.name == "index.json":
+            continue
         try:
             with open(p, "r", encoding="utf-8") as f:
                 issue = json.load(f)
@@ -165,13 +169,80 @@ def load_archives(data_dir, keep=12):
         if issue.get("date"):
             out.append({"date": issue["date"], "weekday": issue.get("weekday"),
                         "one_liner": issue.get("one_liner"), "issue": issue})
-        if len(out) >= keep:
+        if keep and len(out) >= keep:
             break
     return out
 
 
-def strip_imgs(issue):
-    return issue
+STRIP_ITEM_KEYS = ("article_text", "_members", "summary_html", "summary_text",
+                  "sources", "groups", "lang", "neg", "heuristic", "ts")
+
+
+def slim_item(it, strip_img=False):
+    out = {}
+    for k, v in it.items():
+        if k in STRIP_ITEM_KEYS:
+            continue
+        if strip_img and k == "img":
+            out[k] = ""
+            continue
+        out[k] = v
+    return out
+
+
+def slim_issue(issue, strip_img=False):
+    """数据文件只留展示与归档需要的字段，去掉正文这类大字段（仓库体积可控）。"""
+    out = dict(issue)
+    for key in ("headline", "featured"):
+        out[key] = [slim_item(x, strip_img) for x in issue.get(key) or []]
+    if out.get("quick"):
+        out["quick"] = [dict(x) for x in out["quick"]]
+    ch = issue.get("challenge")
+    if ch:
+        ch2 = dict(ch)
+        if ch2.get("pair"):
+            ch2["pair"] = [slim_item(p, strip_img) for p in ch2["pair"]]
+        out["challenge"] = ch2
+    return out
+
+
+def backfill():
+    """补历史：给 data/ 下已有的期数补分类与总结报告，并精简字段（不联网、不调模型）。"""
+    cfg = load_yaml(ROOT / "config.yaml")
+    interests = cfg.get("interests") or {}
+    data_dir = ROOT / "data"
+    if not data_dir.exists():
+        print("没有 data/ 目录")
+        return 1
+    issues = []
+    for p in sorted(data_dir.glob("*.json")):
+        if p.name == "index.json":
+            continue
+        try:
+            with open(p, "r", encoding="utf-8") as f:
+                issue = json.load(f)
+        except Exception as exc:
+            print("跳过 %s（%s）" % (p.name, exc))
+            continue
+        if not issue.get("date"):
+            continue
+        items = rep.flatten(issue)
+        rep.classify(items)
+        data = rep.build(None, items, interests, issue.get("stats") or {}, use_llm=False)
+        issue["report"] = data
+        slim = slim_issue(issue)
+        with open(p, "w", encoding="utf-8") as f:
+            json.dump(slim, f, ensure_ascii=False, indent=1)
+        issues.append(slim)
+        print("补齐 %s：%d 条 / 类型 %d 种 / 报告 %s 模式"
+              % (issue["date"], len(items), len(data["types"]), data["mode"]))
+    index = rep.build_index(issues)
+    with open(data_dir / "index.json", "w", encoding="utf-8") as f:
+        json.dump(index, f, ensure_ascii=False, indent=1)
+    print("索引已更新：%d 期 / 累计 %d 条 / %s ~ %s"
+          % (index["aggregate"]["issues"], index["aggregate"]["items"],
+             index["aggregate"]["first"], index["aggregate"]["last"]))
+    return 0
 
 
 def main(argv=None):
@@ -184,7 +255,10 @@ def main(argv=None):
     ap.add_argument("--no-images", action="store_true")
     ap.add_argument("--workers", type=int, default=0)
     ap.add_argument("--sources", default="")
+    ap.add_argument("--backfill", action="store_true", help="只补历史数据（分类+报告+精简），不联网")
     args = ap.parse_args(argv)
+    if args.backfill:
+        return backfill()
 
     cfg = load_yaml(ROOT / "config.yaml")
     sources = load_yaml(ROOT / "sources.yaml", "sources")
@@ -305,6 +379,11 @@ def main(argv=None):
         fallback = "今天没有挑出值得看的条目"
     one_liner = sel.write_one_liner(llm, headline, fallback)
     all_sel = list(headline) + list(featured) + list(quick) + ([challenge[0], challenge[1]] if challenge else [])
+    # 分类解析 + 客观总结报告：数字由代码统计，模型只打标签、写归纳
+    report = rep.build(llm, all_sel, interests, {
+        "scanned": len(fresh), "selected": len(all_sel),
+        "sources_ok": ok, "sources_total": len(sources),
+    })
     counts = {}
     for it in all_sel:
         g = it.get("group") or "other"
@@ -323,46 +402,50 @@ def main(argv=None):
         "generated_at": now_local().strftime("%Y-%m-%d %H:%M"),
         "errors": [{"name": n, "error": e} for n, e in errors],
     }
-    archives = [a for a in load_archives(ROOT / "data", keep=13) if a["date"] != today][:12]
+    all_hist = [a for a in load_archives(ROOT / "data") if a["date"] != today]
+    archives = all_hist[:12]
     issue = {
         "date": today,
         "date_cn": "%d 月 %d 日" % (dt.month, dt.day),
         "weekday": WEEKDAYS[dt.weekday()],
-        "issue_no": len(archives) + 1,
+        "issue_no": len(all_hist) + 1,
         "one_liner": one_liner,
         "lede": lede,
         "cover_image": (headline[0].get("img") if headline else "") or "",
         "headline": [dict(x) for x in headline],
         "featured": [dict(x) for x in featured],
         "quick": [{"title": x["title"], "link": x["link"], "source_name": x["source_name"],
-                   "source_kind": x.get("source_kind"), "id": x["id"]} for x in quick],
+                   "source_kind": x.get("source_kind"), "id": x["id"],
+                   "type": x.get("type"), "type_label": x.get("type_label"),
+                   "region": x.get("region"), "region_label": x.get("region_label")} for x in quick],
         "challenge": challenge_out,
         "counts": counts,
+        "report": report,
         "stats": stats,
         "archives": [{"date": a["date"], "weekday": a["weekday"]} for a in archives],
     }
 
+    issue_disk = slim_issue(issue)
     data_dir = ROOT / "data"
     data_dir.mkdir(exist_ok=True)
     with open(data_dir / (today + ".json"), "w", encoding="utf-8") as f:
-        json.dump(issue, f, ensure_ascii=False, indent=1)
+        json.dump(issue_disk, f, ensure_ascii=False, indent=1)
 
-    archive_payload = []
-    for a in archives:
-        issue_copy = dict(a["issue"])
+    archive_payload = [{"date": today, "weekday": issue["weekday"],
+                        "one_liner": issue["one_liner"], "issue": issue_disk}]
+    for a in all_hist:
+        issue_copy = slim_issue(a["issue"], strip_img=True)
         issue_copy["archives"] = issue["archives"]
-        for key in ("headline", "featured"):
-            issue_copy[key] = [{**x, "img": ""} for x in issue_copy.get(key) or []]
-        if issue_copy.get("challenge"):
-            ch = dict(issue_copy["challenge"])
-            if ch.get("pair"):
-                ch["pair"] = [{**p, "img": ""} for p in ch["pair"]]
-            issue_copy["challenge"] = ch
         archive_payload.append({"date": a["date"], "weekday": a["weekday"],
                                 "one_liner": a["one_liner"], "issue": issue_copy})
 
+    idx_issues = [issue_disk] + [a["issue"] for a in all_hist]
+    history = rep.build_index(idx_issues)
+    with open(data_dir / "index.json", "w", encoding="utf-8") as f:
+        json.dump(history, f, ensure_ascii=False, indent=1)
+
     print("[5/6] 写出站点到 %s ..." % args.out, flush=True)
-    write_site(issue, args.out, archive_payload, cfg, sources, str(ROOT / "assets"))
+    write_site(issue, args.out, archive_payload, cfg, sources, str(ROOT / "assets"), history)
 
     print("[6/6] 完成：%s" % (Path(args.out) / "index.html"))
     print("      扫描 %d / 事件 %d / 入选 %d / 来源 %d-%d / 模式 %s / 成本 ¥%.4f"

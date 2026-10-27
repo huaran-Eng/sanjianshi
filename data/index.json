@@ -1,0 +1,119 @@
+{
+ "updated": "2026-10-27 21:02",
+ "issues": [
+  {
+   "date": "2026-10-27",
+   "weekday": "周二",
+   "issue_no": 2,
+   "one_liner": "今天值得看：寒武纪的「英伟达平替」叙事，还能讲多久…；Anthropic is burnin…",
+   "selected": 16,
+   "sources_ok": 21,
+   "groups": {
+    "ai": 7,
+    "world": 4,
+    "know": 3,
+    "other": 2
+   },
+   "types": {
+    "other": 8,
+    "tech": 5,
+    "business": 2,
+    "world": 1
+   },
+   "regions": {
+    "us": 6,
+    "cn": 4,
+    "global": 4,
+    "me": 2
+   },
+   "head": "本期入选 16 条，扫描 259 条原始条目，21/24 个来源可用。按方向：国际局势 2 条、AI 发展 5 条、不为人知的知识 1 条。"
+  },
+  {
+   "date": "2026-10-26",
+   "weekday": "周一",
+   "issue_no": 1,
+   "one_liner": "今天值得看：端到端推理时延降低 15%：京东广告联…；Kevin Roose is AGI-…",
+   "selected": 16,
+   "sources_ok": 20,
+   "groups": {
+    "ai": 9,
+    "world": 4,
+    "know": 3
+   },
+   "types": {
+    "tech": 7,
+    "other": 6,
+    "policy": 1,
+    "business": 1,
+    "product": 1
+   },
+   "regions": {
+    "cn": 6,
+    "us": 5,
+    "global": 4,
+    "me": 1
+   },
+   "head": "本期入选 16 条，扫描 264 条原始条目，20/24 个来源可用。按方向：国际局势 2 条、AI 发展 7 条、不为人知的知识 1 条。"
+  }
+ ],
+ "aggregate": {
+  "issues": 2,
+  "items": 32,
+  "first": "2026-10-26",
+  "last": "2026-10-27",
+  "types": [
+   {
+    "key": "other",
+    "label": "其他",
+    "n": 14
+   },
+   {
+    "key": "tech",
+    "label": "技术进展",
+    "n": 12
+   },
+   {
+    "key": "business",
+    "label": "商业资本",
+    "n": 3
+   },
+   {
+    "key": "policy",
+    "label": "政策监管",
+    "n": 1
+   },
+   {
+    "key": "product",
+    "label": "产品发布",
+    "n": 1
+   },
+   {
+    "key": "world",
+    "label": "国际关系",
+    "n": 1
+   }
+  ],
+  "regions": [
+   {
+    "key": "us",
+    "label": "美国",
+    "n": 11
+   },
+   {
+    "key": "cn",
+    "label": "中国",
+    "n": 10
+   },
+   {
+    "key": "global",
+    "label": "全球",
+    "n": 8
+   },
+   {
+    "key": "me",
+    "label": "中东",
+    "n": 3
+   }
+  ]
+ }
+}
