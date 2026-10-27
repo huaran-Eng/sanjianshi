@@ -3,141 +3,141 @@
  "date_cn": "10 月 27 日",
  "weekday": "周二",
  "issue_no": 2,
- "one_liner": "今天值得看：寒武纪的「英伟达平替」叙事，还能讲多久…；Anthropic is burnin…",
- "lede": "扫描 259 条，从 21/24 个可用来源里留下 16 条：国际局势 4 条 · AI 发展 7 条 · 不为人知的知识 3 条。",
- "cover_image": "assets/img/a7b72fe83500f7c1.jpg",
+ "one_liner": "科大讯飞称星火X2.6以全国产算力训练，OpenAI称安全起见断网训练最强模型",
+ "lede": "扫描 298 条，从 21/24 个可用来源里留下 16 条：国际局势 3 条 · AI 发展 8 条 · 不为人知的知识 3 条。",
+ "cover_image": "assets/img/feea336239cfbdc2.jpg",
  "headline": [
   {
-   "id": "a7b72fe83500f7c1",
+   "id": "feea336239cfbdc2",
    "source_id": "tmtpost",
    "source_name": "钛媒体",
    "source_kind": "市场化媒体",
-   "title": "寒武纪的「英伟达平替」叙事，还能讲多久？",
-   "link": "https://www.tmtpost.com/8182159.html",
-   "published": "2026-10-26T18:25:23+08:00",
-   "image_url": "https://images.tmtpost.com/uploads/images/2026/10/423a5d8d1850c1b1991a24530bcd90f8_1793010328.jpg",
+   "title": "科大讯飞刘庆峰：讯飞星火X2.6全国产算力训练，押注端侧模型\"绕开\"封锁",
+   "link": "https://www.tmtpost.com/8183533.html",
+   "published": "2026-10-27T17:29:45+08:00",
+   "image_url": "https://images.tmtpost.com/uploads/images/2026/10/0fb72839a7c48b6569c12f6c79c3a8bd_1793093387.png",
    "source_count": 1,
    "group": "ai",
-   "img": "assets/img/a7b72fe83500f7c1.jpg",
-   "summary": "寒武纪2026年三季度财报显示，单季营收35.31亿元、同比增长104.47%，归母净利润14.04亿元、同比增长147.74%，前三季度归母净利润37.15亿元。同期公司股价较2026年6月底市值突破1万亿元的高点回撤超过40%，市值回落至约5862亿元。截至三季度末，寒武纪存货116.65亿元、预付款项30.44亿元，前三季度资产减值损失5.02亿元，公司称主要因前期战略备货的原材料库龄增长而计提存货跌价准备。",
-   "why": "关系到国产AI算力公司的经营质量与资本市场对其「英伟达平替」叙事的重新定价，属于AI发展议题。",
+   "img": "assets/img/feea336239cfbdc2.jpg",
+   "summary": "科大讯飞在2026全球1024开发者节上发布端云一体的讯飞星火X2.6，由一个云端大模型和一个4B端侧模型组成，按任务难度和数据敏感度决定任务留在本地、两端协同还是交给云端。刘庆峰表示，星火X2.6采用全国产算力训练，国产算力与英伟达相比“将近两代”，差距主要在显存和带宽，他判断未来两年会拉平。据大会介绍，业内端侧模型在复杂智能体任务上的完成率约为百分之十二点几，讯飞4B模型提升到41.9%，下一步目标是60%。",
+   "why": "这条讲的是国产算力约束下的大模型路线选择，涉及端侧模型、端云分工和训练效率的具体数据，属于读者关注的AI发展议题。",
    "tags": [
-    "AI算力",
-    "寒武纪",
-    "财报"
+    "AI",
+    "国产算力",
+    "端侧模型"
    ],
    "summary_mode": "llm",
-   "type": "business",
+   "type": "product",
    "region": "cn",
-   "topic": "寒武纪的「英伟达平替」叙事，还能讲多久？",
-   "type_label": "商业资本",
+   "topic": "讯飞星火X2.6发布",
+   "type_label": "产品发布",
    "region_label": "中国"
   },
   {
-   "id": "00bb07dfec259897",
-   "source_id": "verge",
-   "source_name": "The Verge",
+   "id": "f045a0a710eb5243",
+   "source_id": "ifanr",
+   "source_name": "爱范儿",
    "source_kind": "垂直媒体",
-   "title": "Anthropic is burning gas to feed the AI boom",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
-   "published": "2026-10-27T05:45:31+08:00",
-   "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_B.jpg?quality=90&strip=all&crop=0,0,100,100",
+   "title": "刚刚，GPT-6.1 Terra 骨折价发布，Agent 时代的打工模型来了",
+   "link": "https://www.ifanr.com/1686080?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "published": "2026-10-27T13:00:58+08:00",
+   "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/10/13-1.jpg",
    "source_count": 1,
    "group": "ai",
-   "img": "assets/img/00bb07dfec259897.jpg",
-   "summary": "Anthropic 在提交给美国证券交易委员会的文件中承认，其数据中心正越来越依赖天然气，这使公司的 AI 数据中心建设容易受到燃料成本上涨和现有供应链限制的影响。Anthropic 还表示，全球气温上升将增加公司的运营成本；文件中称，获取电力供应和电力充足的数据中心选址的竞争很激烈，部分计划中的数据中心依赖现场天然气涡轮机发电。原文提到，燃气轮机短缺正在拖慢数据中心建设，一些开发商在现场安装燃气发动机，以避开接入电网的长时间等待。",
-   "why": "涉及 AI 基础设施的能源依赖与建设瓶颈，属于 AI 发展议题，且不含明星八卦。",
+   "img": "assets/img/f045a0a710eb5243.jpg",
+   "summary": "OpenAI 发布新一代模型 GPT-6.1 Terra，主打更快的响应速度、更强的视觉理解与电脑操作能力，以及更低的使用成本；标准 API 价格比上一代 GPT-5.6 Terra 降低 50%。在 Agents’ Last Exam 测试的中等推理强度下，该模型得分比 GPT-5.6 Terra 提高 15 个百分点，单次任务成本降至约三分之一。在 Terminal-Bench 4.0 最高推理强度下，它的任务解决率为 50.3%，上一代 GPT-5.6 Terra 的公开成绩为 21.5%。",
+   "why": "这条属于 AI 发展方向，涉及新模型发布、API 降价和 Agent 执行任务的测试数据，与读者的关注点直接相关。",
    "tags": [
-    "AI 数据中心",
-    "能源",
-    "Anthropic"
+    "AI模型",
+    "OpenAI",
+    "Agent"
    ],
    "summary_mode": "llm",
-   "type": "tech",
+   "type": "product",
    "region": "us",
-   "topic": "Anthropic is burning gas to ",
-   "type_label": "技术进展",
+   "topic": "OpenAI发布GPT-6.1 Terra",
+   "type_label": "产品发布",
    "region_label": "美国"
   },
   {
-   "id": "af861fc2c4ececd6",
-   "source_id": "aljazeera",
-   "source_name": "Al Jazeera",
-   "source_kind": "通讯社",
-   "title": "Jordan attacks Syria in response to Karak church attack",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/jordan-attacks-syria-in-response-to-karak-church-attack?traffic_source=rss",
-   "published": "2026-10-27T07:48:51+08:00",
-   "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/Screenshot-2026-10-26-at-23.44.43-1793058384.png?resize=1200%2C675",
+   "id": "0e210903a9a2cdbb",
+   "source_id": "qbitai",
+   "source_name": "量子位",
+   "source_kind": "垂直媒体",
+   "title": "OpenAI开始断网训练最强模型：“安全起见”",
+   "link": "https://www.qbitai.com/2026/10/505529.html",
+   "published": "2026-10-26T17:37:57+08:00",
+   "image_url": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
    "source_count": 1,
    "group": "ai",
-   "img": "assets/img/af861fc2c4ececd6.jpg",
-   "summary": "约旦空军对叙利亚南部发动了数次空袭，称这是对周五发生在卡拉克（Karak）的教堂袭击的回应，该袭击造成九人死亡。叙利亚当局表示，德拉（Deraa）乡村地区有数人死亡，其中包括儿童。",
-   "why": "读者关注国际局势，这条涉及约旦、叙利亚的跨境军事行动及造成平民伤亡的官方说法。",
+   "img": "assets/img/0e210903a9a2cdbb.jpg",
+   "summary": "OpenAI 宣布实施新的前沿模型训练安全政策，禁止模型访问真实互联网。OpenAI 表示，完全物理隔离目前并不可行，因为训练系统本身需要连接外部服务来运行和监测实验。OpenAI 组织大规模红队测试，参与者包括 GPT-6 Astra Cyber 和一款内部前沿模型，测试烧了数千亿 Token，相当于数千万元人民币。",
+   "why": "AI 前沿实验室的安全隔离措施与事故细节，直接关系到 AI 发展与治理走向。",
    "tags": [
-    "约旦",
-    "叙利亚",
-    "空袭"
+    "AI安全",
+    "OpenAI",
+    "模型训练"
    ],
    "summary_mode": "llm",
-   "type": "other",
-   "region": "me",
-   "topic": "Jordan attacks Syria in resp",
-   "type_label": "其他",
-   "region_label": "中东"
+   "type": "policy",
+   "region": "us",
+   "topic": "OpenAI断网训练安全政策",
+   "type_label": "政策监管",
+   "region_label": "美国"
   }
  ],
  "featured": [
   {
-   "id": "c0f356bfacf16408",
+   "id": "c0b79b17196dd7c0",
    "source_id": "tmtpost",
    "source_name": "钛媒体",
    "source_kind": "市场化媒体",
-   "title": "半年亏掉807亿美元，Anthropic公开递交招股书：它凭什么值2万亿？",
-   "link": "https://www.tmtpost.com/8182734.html",
-   "published": "2026-10-26T22:24:00+08:00",
-   "image_url": "https://images.tmtpost.com/uploads/images/2026/10/d91c2b798b06f3df308f531a19aebc95_1793025102.png",
+   "title": "Kimi额度的问题，Anthropic找到了解决办法",
+   "link": "https://www.tmtpost.com/8183235.html",
+   "published": "2026-10-27T18:19:24+08:00",
+   "image_url": "https://images.tmtpost.com/uploads/images/2023/tkrss/4t5hyjtng3.png",
    "source_count": 1,
    "group": "ai",
-   "img": "assets/img/c0f356bfacf16408.jpg",
-   "summary": "Anthropic于美东时间10月26日上午向美国证券交易委员会公开递交S-1注册文件，2026年上半年营收162.86亿美元，上年同期为11.63亿美元，同期净亏损807.48亿美元，其中绝大部分为723.9亿美元非现金会计费用，源于其为扩张融资发行的可转换票据及其他融资工具的公允价值上升。S-1披露，2025年底以来新签及修订的租赁与商业协议涉及约4170亿美元未来最低付款义务，另有部分条款尚未最终确定的协议预计涉及约1250亿至1500亿美元。文件的风险因素章节写明，公司依赖亚马逊、谷歌、微软等数量有限的云服务商及博通等供应商获取算力与关键部件，而这些供应商与公司存在战略与投资关系、且互为客户。",
-   "why": "这条呈现了AI公司上市定价、算力承诺规模与云厂商利益冲突三方面的具体披露数据，对应读者对AI发展的关注。",
+   "img": "assets/img/c0b79b17196dd7c0.jpg",
+   "summary": "Kimi K3.1 Pro 发布后，多位用户反馈额度消耗过快，月之暗面发布公告称“问题出在我们，我们也本应更早修复”，在补偿额度的同时表示将“减少不必要的子Agent调用和输出长度”。Anthropic 此前发文《构建Agent：何时该把子Agent折叠回主循环》，称对比多家企业部署的 Claude 后发现，一个带技能的 Agent 在质量上胜过“一群子Agent分工”，单任务成本和延迟往往更低，所消耗的 token 也远低于一群子Agent。文章还提到，多Agent系统的 token 消耗约为普通对话的15倍，且这部分消耗主要花在“记”上而非“想”上。",
+   "why": "关注 AI 发展的读者可以从中看到 Agent 架构从多子Agent 折回单循环的取舍，以及 token 成本的具体来源。",
    "tags": [
-    "AI",
+    "AI Agent",
     "Anthropic",
-    "IPO"
+    "Kimi"
+   ],
+   "summary_mode": "llm",
+   "type": "industry",
+   "region": "cn",
+   "topic": "Kimi额度消耗与子Agent",
+   "type_label": "行业观察",
+   "region_label": "中国"
+  },
+  {
+   "id": "2b89bd38159e8049",
+   "source_id": "tmtpost",
+   "source_name": "钛媒体",
+   "source_kind": "市场化媒体",
+   "title": "百元一盒“维生素小贴纸”火了：年入6000万，估值超50亿",
+   "link": "https://www.tmtpost.com/8183227.html",
+   "published": "2026-10-27T18:19:26+08:00",
+   "image_url": "https://images.tmtpost.com/uploads/images/wx/2026/10/20261027111956955939.jpg",
+   "source_count": 1,
+   "group": "world",
+   "img": "assets/img/2b89bd38159e8049.jpg",
+   "summary": "美国品牌Barrière把维生素做成贴片形态，加入珠宝、星座等设计元素，单盒定价13~18美元。据CNBC数据，其2026年营收预计突破1000万美元，同比增长100%；Caplight数据显示，其估值已超过8亿美元。Grand View Research数据显示，2024年全球维生素贴片市场规模约2.07亿美元，2026年预计突破3亿美元。",
+   "why": "这条讲的是海外新消费品类如何用「品类重定义+渠道分层」在成熟保健品市场里找到位置，属于不为人知但值得了解的方法论，与明星八卦无关。",
+   "tags": [
+    "消费品牌",
+    "品类创新",
+    "海外市场"
    ],
    "summary_mode": "llm",
    "type": "business",
    "region": "us",
-   "topic": "半年亏掉807亿美元，Anthropic公开递交招股书：",
+   "topic": "维生素贴片品牌估值",
    "type_label": "商业资本",
    "region_label": "美国"
-  },
-  {
-   "id": "3b63131fc5e59ae1",
-   "source_id": "aljazeera",
-   "source_name": "Al Jazeera",
-   "source_kind": "通讯社",
-   "title": "Iran war live: Iran says US ‘not serious’ about talks; ship ablaze off Iraq",
-   "link": "https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-iran-says-us-not-serious-on-talks-ship-on-fire-off-iraq?traffic_source=rss",
-   "published": "2026-10-27T08:00:00+08:00",
-   "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20261026__D4F36DD__v3__HighRes__IranIsraelUsWarEconomy-1793053451.jpg?resize=1920%2C1440",
-   "source_count": 1,
-   "group": "world",
-   "img": "assets/img/3b63131fc5e59ae1.jpg",
-   "summary": "伊朗方面表示，美国对谈判“并不认真”。英国海事贸易行动办公室（UKMTO）称，伊拉克近海有一艘船只起火。",
-   "why": "涉及美伊谈判走向与中东航运安全，属于这位读者关注的国际局势。",
-   "tags": [
-    "国际局势",
-    "伊朗",
-    "航运安全"
-   ],
-   "summary_mode": "llm",
-   "type": "world",
-   "region": "me",
-   "topic": "Iran war live: Iran says US ",
-   "type_label": "国际关系",
-   "region_label": "中东"
   },
   {
    "id": "092717378f2cbc13",
@@ -151,203 +151,311 @@
    "source_count": 1,
    "group": "know",
    "img": "assets/img/092717378f2cbc13.jpg",
-   "summary": "60 元打造你的 vibe coding 神器：小米蓝牙遥控器 2 pro",
-   "why": "属于你关注的「不为人知的知识」。",
-   "tags": [],
-   "summary_mode": "extractive",
-   "type": "other",
-   "region": "cn",
-   "topic": "60 元打造你的 vibe coding 神器：小米蓝牙",
-   "type_label": "其他",
-   "region_label": "中国"
-  },
-  {
-   "id": "2eac331e64d2dccc",
-   "source_id": "tmtpost",
-   "source_name": "钛媒体",
-   "source_kind": "市场化媒体",
-   "title": "端到端推理时延降低 15%：京东广告联合鲲鹏超节点，探索生成式广告行业新路径",
-   "link": "https://www.tmtpost.com/8181692.html",
-   "published": "2026-10-26T20:19:13+08:00",
-   "image_url": "https://images.tmtpost.com/uploads/images/2026/10/7725997d8fb089d988367e0c803be7a5_1793017158.jpg",
-   "source_count": 1,
-   "group": "ai",
-   "img": "assets/img/2eac331e64d2dccc.jpg",
-   "summary": "京东给全链路设置的时延预算是300毫秒，留给广告模型推理的部分只有20到100毫秒。京东广告从深度学习迁移到生成式推荐后，行为上下文增长10倍、模型结构放大100倍、算力需求提高约1000倍。京东与鲲鹏合作，通过灵衢协议组网和KV Cache两级缓存，把端到端推理时延降低15%，缓存间时延下降3个量级。",
-   "why": "讲的是AI推理算力与存储架构的具体工程解法，属于AI基础设施方向的技术信息，不含明星八卦。",
+   "summary": "作者介绍用售价约50到60元的小米电视蓝牙语音遥控器2 Pro（型号RC003），配合社区开源工具SayAll，在macOS和Windows上实现按住语音键口述Prompt、松手上屏。原文称该遥控器支持蓝牙BLE直连，语音键传输专用语音数据包，SayAll会在系统中生成虚拟音频输入设备MiRemoteV 2ch。",
+   "why": "属于AI编程工作流的具体方法论，成本低、步骤可复现，符合读者对AI发展与实用方法的关注。",
    "tags": [
-    "AI基础设施",
-    "推理时延",
-    "算力架构"
+    "AI编程",
+    "工具教程",
+    "语音输入"
    ],
    "summary_mode": "llm",
-   "type": "tech",
+   "type": "product",
    "region": "cn",
-   "topic": "端到端推理时延降低 15%：京东广告联合鲲鹏超节点，探索",
-   "type_label": "技术进展",
+   "topic": "小米遥控器改语音输入",
+   "type_label": "产品发布",
    "region_label": "中国"
   },
   {
-   "id": "9f204734c262bcf3",
+   "id": "f0ff5aba829cd535",
+   "source_id": "leiphone",
+   "source_name": "雷锋网",
+   "source_kind": "垂直媒体",
+   "title": "源创计划首期路演：五个AI硬科技项目集中亮相，智源学者加速从实验室走向产业一线",
+   "link": "https://www.leiphone.com/category/ai/80I0hBKAVSTsKbtM.html",
+   "published": "2026-10-27T14:15:00+08:00",
+   "image_url": "https://static.leiphone.com/uploads/new/images/20261027/6ae040998a734.png?imageView2/2/w/740",
+   "source_count": 1,
+   "group": "ai",
+   "img": "assets/img/f0ff5aba829cd535.jpg",
+   "summary": "10月26日，北京智源人工智能研究院的“源创计划”首期路演在中关村国际技术交易中心举办，五个AI硬科技项目集中亮相。五个项目分别聚焦3D自选通V-RRAM芯片、神经形态具身智能、哈密顿世界模型、极端环境的可靠物理智能、地表物理环境统一世界模型等方向。活动还设置了项目与基金洽谈环节，推动创业团队与投资机构交流对接。",
+   "why": "这条新闻涉及AI前沿技术和成果转化的实际路径，与读者对AI发展的关注直接相关。",
+   "tags": [
+    "AI",
+    "科技成果转化",
+    "具身智能"
+   ],
+   "summary_mode": "llm",
+   "type": "research",
+   "region": "cn",
+   "topic": "智源源创计划首期路演",
+   "type_label": "研究进展",
+   "region_label": "中国"
+  },
+  {
+   "id": "b205922b046cac9c",
    "source_id": "aljazeera",
    "source_name": "Al Jazeera",
    "source_kind": "通讯社",
-   "title": "What will Lula’s fourth term mean for Brazil?",
-   "link": "https://www.aljazeera.com/video/inside-story/2026/10/26/what-will-lulas-fourth-term-mean-for-brazil?traffic_source=rss",
-   "published": "2026-10-27T04:55:47+08:00",
-   "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/AP26299155828378-1792995389.jpg?resize=1920%2C1440",
+   "title": "Why Jordan has struck Syria: What we know",
+   "link": "https://www.aljazeera.com/news/2026/10/27/why-jordan-has-struck-syria-what-we-know?traffic_source=rss",
+   "published": "2026-10-27T18:46:53+08:00",
+   "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ae020c4-1793073348.jpg?resize=1200%2C630",
    "source_count": 1,
    "group": "world",
-   "img": "assets/img/9f204734c262bcf3.jpg",
-   "summary": "路易斯·伊纳西奥·卢拉·达席尔瓦在周日的第二轮投票中被宣布获胜，赢得第四个非连续任期；他在第一轮投票中曾输给右翼对手。对手弗拉维奥·博索纳罗对结果提出异议，并表示希望结果被取消。卢拉承诺采取新的执政方式，但原文称他面临诸多挑战。",
-   "why": "巴西大选结果出现争议，属于读者关注的国际局势议题。",
+   "img": "assets/img/b205922b046cac9c.jpg",
+   "summary": "约旦军方称，其战机对叙利亚南部的“恐怖组织据点”发动了报复性空袭，目标是涉嫌参与上周约旦一座希腊东正教教堂袭击的嫌疑人；约旦方面称空袭与叙利亚方面进行了协调。叙利亚外交部表示，对此次空袭“完全保留意见”，称约旦发动空袭前“未与叙方协调或通知”，叙方官员称这是“背信弃义的攻击”。叙利亚方面称，约旦空袭德拉省和苏韦达省乡村导致7人死亡，其中包括3名儿童；叙民防部门称，在德拉省拉贾特地区al-Taff村，一次空袭击中一顶帐篷，造成同一家庭的5名成员死亡，其中包括3名儿童和1名妇女，另有3人受伤。",
+   "why": "涉及中东国家间的军事行动与双方说法矛盾，符合读者对国际局势的关注。",
    "tags": [
-    "国际局势",
-    "巴西",
-    "选举"
+    "约旦",
+    "叙利亚",
+    "空袭"
    ],
    "summary_mode": "llm",
-   "type": "other",
-   "region": "global",
-   "topic": "What will Lula’s fourth term",
-   "type_label": "其他",
-   "region_label": "全球"
+   "type": "world",
+   "region": "me",
+   "topic": "约旦空袭叙利亚南部",
+   "type_label": "国际关系",
+   "region_label": "中东"
   }
  ],
  "quick": [
   {
-   "title": "《影之刃零》：第一个登上世界舞台的「中国武侠游戏」",
-   "link": "https://www.ifanr.com/1685506?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "title": "Marcus Aurelius on the Good Luck of Your Bad Luck",
+   "link": "https://www.themarginalian.org/2026/10/27/marcus-aurelius-luck/",
+   "source_name": "The Marginalian",
+   "source_kind": "个人",
+   "id": "42dcedc2c4c889fe",
+   "type": "other",
+   "type_label": "其他",
+   "region": "global",
+   "region_label": "全球"
+  },
+  {
+   "title": "中国版Muse能管事！我把宠物保单、双11算价和周末旅行全交给了灵光2.0",
+   "link": "https://www.ifanr.com/1686050?utm_source=rss&utm_medium=rss&utm_campaign=",
    "source_name": "爱范儿",
    "source_kind": "垂直媒体",
-   "id": "c5b1a33e58aba010",
-   "type": "other",
+   "id": "2ed003303d8ec5a0",
+   "type": "product",
+   "type_label": "产品发布",
    "region": "cn",
-   "topic": "《影之刃零》：第一个登上世界舞台的「中国武侠游戏」",
-   "type_label": "其他",
    "region_label": "中国"
   },
   {
-   "title": "ChatGPT’s expanding world of work",
-   "link": "https://openai.com/index/chatgpt-expanding-world-of-work",
-   "source_name": "OpenAI 官方博客",
-   "source_kind": "厂商官方",
-   "id": "cb08fe51e47993b6",
+   "title": "Here’s the latest.",
+   "link": "https://www.nytimes.com/live/2026/10/27/world/israel-elections/heres-the-latest",
+   "source_name": "NYT World",
+   "source_kind": "市场化媒体",
+   "id": "8c16453ee0fd3bd3",
    "type": "other",
-   "region": "global",
-   "topic": "ChatGPT’s expanding world of",
    "type_label": "其他",
+   "region": "global",
    "region_label": "全球"
   },
   {
-   "title": "Machado’s Return to Venezuela Tests Limits of U.S. Sway",
-   "link": "https://www.nytimes.com/2026/10/26/world/americas/venezuela-machado-rodriguez-trump.html",
-   "source_name": "NYT World",
-   "source_kind": "市场化媒体",
-   "id": "6a4ce588eb0c04a4",
-   "type": "other",
-   "region": "us",
-   "topic": "Machado’s Return to Venezuel",
-   "type_label": "其他",
-   "region_label": "美国"
-  },
-  {
-   "title": "派评 | 近期值得关注的 App",
-   "link": "https://sspai.com/post/117529",
+   "title": "社区速递 163 | 金豪 59 调整版钢笔与九月派友剁手清单",
+   "link": "https://sspai.com/post/117633",
    "source_name": "少数派",
    "source_kind": "社区",
-   "id": "cc4ef658778caf2e",
+   "id": "fd71c9debb74c83f",
    "type": "other",
-   "region": "global",
-   "topic": "派评 | 近期值得关注的 App",
    "type_label": "其他",
-   "region_label": "全球"
+   "region": "cn",
+   "region_label": "中国"
   },
   {
-   "title": "OpenAI announces three big science discoveries and a new way to work with academics",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
-   "source_name": "The Verge",
+   "title": "Muse之后，灵光2.0让Personal Agent接手中国式日常",
+   "link": "https://www.leiphone.com/category/industrynews/PubkEap5yOtdT59V.html",
+   "source_name": "雷锋网",
    "source_kind": "垂直媒体",
-   "id": "45f5560fff767308",
-   "type": "tech",
-   "region": "us",
-   "topic": "OpenAI announces three big s",
-   "type_label": "技术进展",
-   "region_label": "美国"
+   "id": "c79e7fe312535cca",
+   "type": "product",
+   "type_label": "产品发布",
+   "region": "cn",
+   "region_label": "中国"
   },
   {
-   "title": "Election Surprises",
-   "link": "https://www.nytimes.com/2026/10/26/world/brazil-serbia-election-results-anthropic.html",
-   "source_name": "NYT World",
-   "source_kind": "市场化媒体",
-   "id": "60ee7c5d7c3cfae5",
-   "type": "other",
-   "region": "global",
-   "topic": "Election Surprises",
-   "type_label": "其他",
-   "region_label": "全球"
+   "title": "王的猜想，被 AI 一夜通关",
+   "link": "https://www.ifanr.com/1686064?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source_name": "爱范儿",
+   "source_kind": "垂直媒体",
+   "id": "3150c676a392d97e",
+   "type": "research",
+   "type_label": "研究进展",
+   "region": "us",
+   "region_label": "美国"
   }
  ],
  "challenge": {
-  "question": "GPT-6.1 Terra",
-  "a": "GPT-6.1 Terra ( via ) It's always interesting to note which aspects of a new model are emphasized in the release announcement. In the case of GPT-6.1 Terra, OpenAI went with visual reasoning and computer use: Terra sits ",
-  "b": "OpenAI GPT-6.1 Terra Delivering fast and capable computer use at scale We’re introducing GPT-6.1 Terra , a fast, efficient model that combines detailed visual reasoning and precise computer use alongside clearer, more na",
-  "diff": "两家来源类型不同（个人 / 社区），原文表述不一致之处需要对照阅读。",
+  "question": "Anthropic 的硅谷往事",
+  "a": "往往从一次分道扬镳开始。五年前，OpenAI 的一群核心研究员选择离开。",
+  "b": "Article URL: https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm Comments URL: https://news.ycombinator.com/item?id=50242939 Points: 1646 # Comments: 1565",
+  "diff": "两家来源类型不同（市场化媒体 / 社区），原文表述不一致之处需要对照阅读。",
   "mode": "extractive",
   "pair": [
    {
-    "id": "6550e7a97c0492f9",
-    "source_id": "simonw",
-    "source_name": "Simon Willison",
-    "source_kind": "个人",
-    "title": "GPT-6.1 Terra",
-    "link": "https://simonwillison.net/2026/Oct/26/gpt-61-terra/",
-    "published": "2026-10-27T07:53:07+08:00",
-    "image_url": "https://static.simonwillison.net/static/2026-10-26/terra-max.webp",
-    "type": "tech",
+    "id": "e8a5b2f731eba6fe",
+    "source_id": "tmtpost",
+    "source_name": "钛媒体",
+    "source_kind": "市场化媒体",
+    "title": "Anthropic 的硅谷往事",
+    "link": "https://www.tmtpost.com/8183513.html",
+    "published": "2026-10-27T18:19:15+08:00",
+    "image_url": "https://images.tmtpost.com/uploads/images/2023/tkrss/r4t3qegrsdfbvf3.png",
+    "type": "industry",
     "region": "us",
-    "topic": "GPT-6.1 Terra",
-    "type_label": "技术进展",
+    "topic": "Anthropic硅谷创业往事",
+    "type_label": "行业观察",
     "region_label": "美国"
    },
    {
-    "id": "dceef438e266fd1d",
-    "source_id": "hn_front",
-    "source_name": "Hacker News 首页",
+    "id": "32304ec35428b045",
+    "source_id": "hn_best",
+    "source_name": "Hacker News 精选",
     "source_kind": "社区",
-    "title": "GPT-6.1 Terra",
-    "link": "https://openai.com/index/introducing-gpt-6-1-terra/",
-    "published": "2026-10-27T02:01:17+08:00",
-    "image_url": "https://cdn.openai.com/mdx-assets/71f084db-a08b-48c5-b96e-5fbdc21a1a00/terra-art-card-16x9.0394724b.png",
-    "type": "tech",
+    "title": "Anthropic S-1",
+    "link": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+    "published": "2026-10-26T21:04:50+08:00",
+    "image_url": null,
+    "type": "business",
     "region": "us",
-    "topic": "GPT-6.1 Terra",
-    "type_label": "技术进展",
+    "topic": "Anthropic提交S-1文件",
+    "type_label": "商业资本",
     "region_label": "美国"
    }
   ],
   "kind": "同一事件"
  },
  "counts": {
-  "ai": 7,
-  "world": 4,
+  "ai": 8,
+  "world": 3,
   "know": 3,
   "other": 2
  },
+ "report": {
+  "mode": "llm",
+  "overview": "OpenAI 发布 GPT-6.1 Terra，并宣布禁止前沿模型访问真实互联网的训练安全政策。科大讯飞发布全国产算力训练的星火X2.6，月之暗面就 Kimi 额度消耗过快致歉并补偿。灵光2.0 等 Personal Agent 产品集中出现。",
+  "signals": [
+   "OpenAI 同期推出新模型与训练安全政策，能力迭代与安全约束并行",
+   "国产模型强调全国产算力训练，并选择端云协同与端侧路线",
+   "Personal Agent 产品密集落地，从对话延伸到代办日常事务"
+  ],
+  "groups": [
+   {
+    "key": "ai",
+    "label": "AI 发展",
+    "n": 8
+   },
+   {
+    "key": "world",
+    "label": "国际局势",
+    "n": 3
+   },
+   {
+    "key": "know",
+    "label": "不为人知的知识",
+    "n": 3
+   }
+  ],
+  "types": [
+   {
+    "key": "product",
+    "label": "产品发布",
+    "n": 5
+   },
+   {
+    "key": "other",
+    "label": "其他",
+    "n": 3
+   },
+   {
+    "key": "business",
+    "label": "商业资本",
+    "n": 2
+   },
+   {
+    "key": "research",
+    "label": "研究进展",
+    "n": 2
+   },
+   {
+    "key": "industry",
+    "label": "行业观察",
+    "n": 2
+   },
+   {
+    "key": "policy",
+    "label": "政策监管",
+    "n": 1
+   },
+   {
+    "key": "world",
+    "label": "国际关系",
+    "n": 1
+   }
+  ],
+  "regions": [
+   {
+    "key": "cn",
+    "label": "中国",
+    "n": 7
+   },
+   {
+    "key": "us",
+    "label": "美国",
+    "n": 6
+   },
+   {
+    "key": "global",
+    "label": "全球",
+    "n": 2
+   },
+   {
+    "key": "me",
+    "label": "中东",
+    "n": 1
+   }
+  ],
+  "confirmed": [],
+  "confirmed_n": 0,
+  "source_kinds": [
+   {
+    "kind": "垂直媒体",
+    "n": 6
+   },
+   {
+    "kind": "市场化媒体",
+    "n": 5
+   },
+   {
+    "kind": "社区",
+    "n": 3
+   },
+   {
+    "kind": "通讯社",
+    "n": 1
+   },
+   {
+    "kind": "个人",
+    "n": 1
+   }
+  ],
+  "note": "数字由程序统计；类型/地区标签来自模型或关键词规则；「归纳判断」是编辑视角的概括，不是事实，每条都附原文链接可核对。"
+ },
  "stats": {
-  "scanned": 259,
+  "scanned": 298,
   "selected": 16,
-  "raw": 2729,
-  "clusters": 237,
-  "dedup": 252,
+  "raw": 2730,
+  "clusters": 277,
+  "dedup": 293,
   "sources_ok": 21,
   "sources_total": 24,
   "lookback_hours": 48,
   "llm_mode": "llm",
   "model": "deepseek-flash",
-  "llm_calls": 11,
-  "cost": 0.033,
-  "generated_at": "2026-10-27 08:39",
+  "llm_calls": 12,
+  "cost": 0.0435,
+  "generated_at": "2026-10-27 21:17",
   "errors": [
    {
     "name": "联合早报·国际",
@@ -368,100 +476,5 @@
    "date": "2026-10-26",
    "weekday": "周一"
   }
- ],
- "report": {
-  "mode": "code",
-  "overview": "本期入选 16 条，扫描 259 条原始条目，21/24 个来源可用。按方向：国际局势 2 条、AI 发展 5 条、不为人知的知识 1 条。按事件类型：其他 8 条、技术进展 5 条、商业资本 2 条等。按地区：美国 6 条、中国 4 条、全球 4 条等。本期没有多家媒体同时报道的条目，全部为单一来源。",
-  "signals": [],
-  "groups": [
-   {
-    "key": "ai",
-    "label": "AI 发展",
-    "n": 5
-   },
-   {
-    "key": "world",
-    "label": "国际局势",
-    "n": 2
-   },
-   {
-    "key": "know",
-    "label": "不为人知的知识",
-    "n": 1
-   }
-  ],
-  "types": [
-   {
-    "key": "other",
-    "label": "其他",
-    "n": 8
-   },
-   {
-    "key": "tech",
-    "label": "技术进展",
-    "n": 5
-   },
-   {
-    "key": "business",
-    "label": "商业资本",
-    "n": 2
-   },
-   {
-    "key": "world",
-    "label": "国际关系",
-    "n": 1
-   }
-  ],
-  "regions": [
-   {
-    "key": "us",
-    "label": "美国",
-    "n": 6
-   },
-   {
-    "key": "cn",
-    "label": "中国",
-    "n": 4
-   },
-   {
-    "key": "global",
-    "label": "全球",
-    "n": 4
-   },
-   {
-    "key": "me",
-    "label": "中东",
-    "n": 2
-   }
-  ],
-  "confirmed": [],
-  "confirmed_n": 0,
-  "source_kinds": [
-   {
-    "kind": "市场化媒体",
-    "n": 5
-   },
-   {
-    "kind": "垂直媒体",
-    "n": 3
-   },
-   {
-    "kind": "通讯社",
-    "n": 3
-   },
-   {
-    "kind": "社区",
-    "n": 3
-   },
-   {
-    "kind": "厂商官方",
-    "n": 1
-   },
-   {
-    "kind": "个人",
-    "n": 1
-   }
-  ],
-  "note": "数字由程序统计；类型/地区标签来自模型或关键词规则；「归纳判断」是编辑视角的概括，不是事实，每条都附原文链接可核对。"
- }
+ ]
 }
