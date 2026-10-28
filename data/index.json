@@ -1,34 +1,33 @@
 {
- "updated": "2026-10-28 00:38",
+ "updated": "2026-10-28 15:11",
  "issues": [
   {
    "date": "2026-10-28",
    "weekday": "周三",
    "issue_no": 3,
-   "one_liner": "谷歌发布 Genie 4；OpenAI 称安全起见断网训练；智源五个 AI 项目路演",
+   "one_liner": "今天值得看：具身智能军备竞赛，胜负手在工程生态；刚刚，GPT-6.1 Terra 骨折…",
    "selected": 16,
-   "sources_ok": 21,
+   "sources_ok": 25,
    "groups": {
-    "ai": 10,
-    "world": 3,
+    "ai": 8,
+    "world": 5,
     "know": 1,
     "other": 2
    },
    "types": {
+    "world": 7,
     "product": 6,
-    "business": 3,
-    "world": 3,
-    "industry": 2,
-    "policy": 1,
-    "other": 1
+    "business": 1,
+    "security": 1,
+    "industry": 1
    },
    "regions": {
-    "cn": 6,
-    "us": 6,
-    "me": 2,
-    "global": 2
+    "cn": 5,
+    "me": 5,
+    "us": 3,
+    "eu": 3
    },
-   "head": "谷歌发布世界模型Genie 4，支持原生音频生成；OpenAI发布GPT-6.1 Terra，API价格较上一代降低50%，并宣布禁止前沿模"
+   "head": "AI 领域密集发布：OpenAI 发布 GPT-6.1 Terra，谷歌发布世界模型 Genie 4；腾讯、蚂蚁、逐际动力开源模型与工程底座"
   },
   {
    "date": "2026-10-27",
@@ -102,7 +101,12 @@
    {
     "key": "other",
     "label": "其他",
-    "n": 10
+    "n": 9
+   },
+   {
+    "key": "world",
+    "label": "国际关系",
+    "n": 8
    },
    {
     "key": "tech",
@@ -112,49 +116,54 @@
    {
     "key": "business",
     "label": "商业资本",
-    "n": 6
-   },
-   {
-    "key": "world",
-    "label": "国际关系",
     "n": 4
    },
    {
     "key": "industry",
     "label": "行业观察",
-    "n": 4
+    "n": 3
    },
    {
     "key": "policy",
     "label": "政策监管",
-    "n": 3
+    "n": 2
    },
    {
     "key": "research",
     "label": "研究进展",
     "n": 2
+   },
+   {
+    "key": "security",
+    "label": "安全事件",
+    "n": 1
    }
   ],
   "regions": [
    {
     "key": "cn",
     "label": "中国",
-    "n": 19
+    "n": 18
    },
    {
     "key": "us",
     "label": "美国",
-    "n": 17
-   },
-   {
-    "key": "global",
-    "label": "全球",
-    "n": 8
+    "n": 14
    },
    {
     "key": "me",
     "label": "中东",
-    "n": 4
+    "n": 7
+   },
+   {
+    "key": "global",
+    "label": "全球",
+    "n": 6
+   },
+   {
+    "key": "eu",
+    "label": "欧洲",
+    "n": 3
    }
   ]
  }
