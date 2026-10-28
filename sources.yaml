@@ -29,11 +29,17 @@ sources:
     kind: 公共媒体
     lang: en
     overseas: true
-  - id: zaobao_world
-    name: 联合早报·国际
-    url: https://www.zaobao.com.sg/rss/realtime/world
+  - id: chinanews_world
+    name: 中国新闻网·国际
+    url: https://www.chinanews.com.cn/rss/world.xml
     groups: [world]
-    kind: 市场化媒体
+    kind: 通讯社
+    lang: zh
+  - id: un_news_zh
+    name: 联合国新闻·中文
+    url: https://news.un.org/feed/subscribe/zh/news/all/rss.xml
+    groups: [world]
+    kind: 公共媒体
     lang: zh
   - id: gov_cn
     name: 中国政府网·政策
@@ -123,10 +129,10 @@ sources:
     groups: [ai]
     kind: 垂直媒体
     lang: zh
-  - id: kr36
-    name: 36氪
-    url: https://36kr.com/feed
-    groups: [ai]
+  - id: jiemian
+    name: 界面新闻
+    url: https://a.jiemian.com/index.php?m=article&a=rss
+    groups: [ai, know]
     kind: 市场化媒体
     lang: zh
 
@@ -140,8 +146,16 @@ sources:
   - id: ruanyifeng
     name: 阮一峰的网络日志
     url: https://www.ruanyifeng.com/blog/atom.xml
+    fallbacks:
+      - https://www.ruanyifeng.com/blog/index.xml
     groups: [know, ai]
     kind: 个人
+    lang: zh
+  - id: solidot
+    name: 奇客 Solidot
+    url: https://www.solidot.org/index.rss
+    groups: [know, ai]
+    kind: 垂直媒体
     lang: zh
   - id: marginalian
     name: The Marginalian

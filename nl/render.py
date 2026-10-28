@@ -43,6 +43,18 @@ def item_chips(item):
     return "".join(out)
 
 
+def title_html(item, tag="h3", link=False):
+    """标题：有中文译名就显示中文，并把英文原题放在下面（不丢原文，方便核对）。"""
+    cn = (item.get("title_cn") or "").strip()
+    en = (item.get("title") or "").strip()
+    if not cn or cn == en:
+        return "<%s>%s</%s>" % (tag, e(en), tag)
+    inner = e(cn)
+    if link:
+        inner = '<a href="%s" target="_blank" rel="noopener" style="text-decoration:none">%s</a>' % (e(item.get("link")), e(cn))
+    return "<%s>%s</%s><div class=\"orig-title\">原标题：%s</div>" % (tag, inner, tag, e(en))
+
+
 def fmt_time(iso):
     try:
         return datetime.fromisoformat(iso).strftime("%m-%d %H:%M")
@@ -109,19 +121,18 @@ def story(item, idx, prefix):
     src += item_chips(item)
     why = ('<div class="why"><b>为什么给你看：</b>%s</div>' % e(item.get("why"))) if item.get("why") else ""
     return ('<div class="story"><div class="num">%02d</div>'
-            '<h3>%s</h3><div class="meta">%s</div>%s'
+            '%s<div class="meta">%s</div>%s'
             '<p class="sum">%s</p>%s'
             '<a class="read" href="%s" target="_blank" rel="noopener">阅读原文 →</a></div>') % (
-        idx, e(item.get("title")), src, img_block(item, prefix), e(item.get("summary")), why, e(item.get("link")))
+        idx, title_html(item, "h3"), src, img_block(item, prefix), e(item.get("summary")), why, e(item.get("link")))
 
 
 def featured(items, prefix):
     rows = []
     for it in items:
-        rows.append('<div class="row">%s<div class="t"><h4><a href="%s" target="_blank" rel="noopener" '
-                    'style="text-decoration:none">%s</a></h4><p>%s</p>'
+        rows.append('<div class="row">%s<div class="t">%s<p>%s</p>'
                     '<div class="meta">%s<span class="dotsep">·</span>%s%s</div></div></div>' % (
-                        img_block(it, prefix, "thumb-sm"), e(it.get("link")), e(it.get("title")),
+                        img_block(it, prefix, "thumb-sm"), title_html(it, "h4", link=True),
                         e(it.get("summary")), badge(it.get("source_kind")), e(it.get("source_name")),
                         item_chips(it)))
     return '<div class="featured">%s</div>' % "".join(rows)
@@ -197,17 +208,28 @@ def report_block(rep):
 def quick(items):
     rows = []
     for it in items:
+        cn = (it.get("title_cn") or "").strip()
+        en = (it.get("title") or "").strip()
+        label = cn or en
+        extra = ('<span class="q-orig">%s</span>' % e(en)) if (cn and cn != en) else ""
         rows.append('<li><a href="%s" target="_blank" rel="noopener">%s</a>'
-                    '<span class="src">%s</span>%s</li>' % (e(it.get("link")), e(it.get("title")),
-                                                           e(it.get("source_name")), item_chips(it)))
+                    '<span class="src">%s</span>%s%s</li>' % (
+                        e(it.get("link")), e(label), e(it.get("source_name")), item_chips(it), extra))
     return '<div class="quick"><ol>%s</ol></div>' % "".join(rows)
 
 
 def footer(issue):
     st = issue.get("stats") or {}
     llm_mode = st.get("llm_mode", "extractive")
-    model = ("AI 摘要：%s（%d 次调用，约 ¥%.3f）" % (st.get("model", ""), st.get("llm_calls", 0), st.get("cost", 0.0))
+    model = ("AI 摘要：%s（约 ¥%.3f）" % (st.get("model") or "模型", st.get("cost", 0.0))
              if llm_mode == "llm" else "AI 摘要：本机未配置密钥，本期为「原文摘录」模式（不编造内容）")
+    errs = st.get("errors") or []
+    if errs:
+        names = "、".join("%s（%s）" % (x.get("name"), (x.get("error") or "")[:22]) for x in errs[:6])
+        err_note = ('<div class="note errs"><b>本期没抓到的源 %d 个：</b>%s'
+                    '%s</div>' % (len(errs), e(names), " 等" if len(errs) > 6 else ""))
+    else:
+        err_note = ""
     return ('<div class="foot">'
             '<div class="stats">'
             '<div class="stat"><b>%d</b><span>扫描条目</span></div>'
@@ -226,10 +248,11 @@ def footer(issue):
             '<li>同一事件尽量给出第二家报道；</li>'
             '<li>每条都带原始链接和时间，摘要可核对；</li>'
             '<li>如果某天你一条都不想点，那就是这个方向不对，告诉我改源。</li></ol></div>'
+            '%s'
             '<div class="copy">%s<br>生成时间：%s · 出刊日 %s</div></div>') % (
         st.get("scanned", 0), st.get("selected", 0), st.get("sources_ok", 0), st.get("sources_total", 0),
         st.get("cost", 0.0), st.get("sources_total", 0), st.get("lookback_hours", 48),
-        st.get("sources_total", 0), model, e(st.get("generated_at")), e(issue.get("date")))
+        st.get("sources_total", 0), err_note, model, e(st.get("generated_at")), e(issue.get("date")))
 
 
 def archive_links(issue, is_archive):

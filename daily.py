@@ -73,8 +73,23 @@ def build_clusters(items, interests):
     return reps
 
 
+def title_overlap(a, b):
+    """两条标题共享多少个 2 字词/英文词，用来判断它们是不是真在讲同一件事。"""
+    def toks(t):
+        t = (t or "").lower()
+        out = set(re.findall(r"[a-z]{3,}", t))
+        cjk = re.findall(r"[\u4e00-\u9fff]+", t)
+        for seg in cjk:
+            for i in range(len(seg) - 1):
+                out.add(seg[i:i + 2])
+        return out
+    ta, tb = toks(a), toks(b)
+    return len(ta & tb) if ta and tb else 0
+
+
 def pick_challenge(reps, interests, need=2):
-    """挑战区：优先同一事件、来源类型不同的两篇；没有就跨来源类型挑两条。"""
+    """挑战区：优先同一事件、来源类型不同的两篇；
+    没有同一事件时，只挑「同方向 + 标题确实有共同词」的两条，避免硬凑。"""
     if need < 2:
         return None
     pair = None
@@ -94,11 +109,21 @@ def pick_challenge(reps, interests, need=2):
     if pair:
         return pair
     ordered = [r for r in reps if r.get("group")]
+    best_pair, best_overlap = None, 1
     for i in range(len(ordered)):
         for j in range(i + 1, len(ordered)):
             a, b = ordered[i], ordered[j]
-            if a.get("source_kind") and b.get("source_kind") and a["source_kind"] != b["source_kind"]:
-                return (dict(a), dict(b), "两个视角")
+            if a.get("group") != b.get("group"):
+                continue
+            if not (a.get("source_kind") and b.get("source_kind")):
+                continue
+            if a["source_kind"] == b["source_kind"]:
+                continue
+            ov = title_overlap(a.get("title"), b.get("title"))
+            if ov > best_overlap:
+                best_overlap, best_pair = ov, (dict(a), dict(b), "两个视角")
+    if best_pair:
+        return best_pair
     return None
 
 
@@ -307,7 +332,9 @@ def main(argv=None):
 
     llm = LLM(cfg.get("llm") or {})
     if args.no_llm:
-        llm.key = ""
+        llm.disable()
+    if llm.available():
+        print("      模型链：%s" % " -> ".join(p["name"] for p in llm.active_providers()), flush=True)
     pool = reps[:limit]
     if llm.available():
         print("[3/6] 模型排序（%d 个候选）..." % len(pool), flush=True)
@@ -345,6 +372,8 @@ def main(argv=None):
     out_dir = Path(args.out)
 
     write_summaries(llm, list(headline) + list(featured), interests)
+    # 速览只有标题、不过模型写摘要，这里单独补一次「英文标题翻中文」
+    sel.translate_titles(llm, quick)
     challenge_out = None
     if challenge:
         a, b, kind = challenge
@@ -397,7 +426,7 @@ def main(argv=None):
         "sources_ok": ok, "sources_total": len(sources),
         "lookback_hours": hours,
         "llm_mode": "llm" if llm.available() else "extractive",
-        "model": (cfg.get("llm") or {}).get("model", ""),
+        "model": llm.provider_label() or llm.model_name(),
         "llm_calls": llm.calls, "cost": round(llm.cost_cny(), 4),
         "generated_at": now_local().strftime("%Y-%m-%d %H:%M"),
         "errors": [{"name": n, "error": e} for n, e in errors],
@@ -414,7 +443,8 @@ def main(argv=None):
         "cover_image": (headline[0].get("img") if headline else "") or "",
         "headline": [dict(x) for x in headline],
         "featured": [dict(x) for x in featured],
-        "quick": [{"title": x["title"], "link": x["link"], "source_name": x["source_name"],
+        "quick": [{"title": x["title"], "title_cn": x.get("title_cn") or "",
+                   "link": x["link"], "source_name": x["source_name"],
                    "source_kind": x.get("source_kind"), "id": x["id"],
                    "type": x.get("type"), "type_label": x.get("type_label"),
                    "region": x.get("region"), "region_label": x.get("region_label")} for x in quick],
@@ -448,9 +478,9 @@ def main(argv=None):
     write_site(issue, args.out, archive_payload, cfg, sources, str(ROOT / "assets"), history)
 
     print("[6/6] 完成：%s" % (Path(args.out) / "index.html"))
-    print("      扫描 %d / 事件 %d / 入选 %d / 来源 %d-%d / 模式 %s / 成本 ¥%.4f"
+    print("      扫描 %d / 事件 %d / 入选 %d / 来源 %d-%d / 模式 %s / 模型 %s / 成本 ¥%.4f"
           % (stats["scanned"], stats["clusters"], stats["selected"], stats["sources_ok"],
-             stats["sources_total"], stats["llm_mode"], stats["cost"]))
+             stats["sources_total"], stats["llm_mode"], stats["model"] or "-", stats["cost"]))
     if llm.errors:
         print("      模型报错 %d 次：%s" % (len(llm.errors), llm.errors[-1][:200]))
     return 0

@@ -38,6 +38,10 @@ NEGATIVE = ("涨停", "跌停", "收盘", "沪指", "纳指", "道琼斯", "股�
             "基金", "理财", "楼市", "房价", "彩票", "博彩", "星座", "综艺", "八卦", "绯闻",
             "球赛", "比分", "夺冠", "演唱会", "票房", "网红", "带货",
             "期货", "大宗商品", "行情", "合约价", "LME", "金价")
+# 活动通稿/软文的味道：标题里命中越多，越可能是主办方广告
+PR_WORDS = ("路演", "启幕", "开幕式", "闭幕式", "隆重", "圆满", "成功举办", "顺利举行",
+            "揭牌", "签约仪式", "颁奖", "亮相", "集中展示", "首期", "招募", "报名",
+            "展位", "展会", "巡展", "发布会现场", "圆桌", "致辞", "剪彩")
 
 
 CUT_MARKERS = ("主作者", "联合创作者", "联合创作", "分享到", "点击下方按钮", "举报",
@@ -98,6 +102,14 @@ def is_roundup(title):
     if seps >= 3:
         return True
     return any(k in low for k in ROUNDUP)
+
+
+def is_english(text):
+    """标题是不是基本英文（用来决定要不要补一个中文标题）。"""
+    t = text or ""
+    cjk = sum(1 for ch in t if "\u4e00" <= ch <= "\u9fff")
+    alpha = sum(1 for ch in t.lower() if "a" <= ch <= "z")
+    return cjk <= 2 and alpha >= 8
 
 
 def norm_title(t):
@@ -166,12 +178,18 @@ def keyword_score(item, interests):
     low = text.lower()
     neg = sum(1 for w in NEGATIVE if w.lower() in low)
     neg_penalty = -min(neg * 5.0, 10.0)
+    pr = sum(1 for w in PR_WORDS if w in title)
+    pr_penalty = -min(pr * 4.0, 8.0)
     item["neg"] = neg
+    item["pr"] = pr
     item["group"] = group
     item["heuristic"] = round(best_hits * 2.2 + weight + recency + kind_bonus
-                              + length_penalty + neg_penalty, 2)
+                              + length_penalty + neg_penalty + pr_penalty, 2)
     # 纯消费/行情/八卦且不沾三个方向关键词的，直接不进候选
     if neg and best_hits == 0:
+        item["skip"] = True
+    # 活动通稿/软文：既没沾关注方向、又带一堆宣传词，也直接剔掉
+    if pr >= 2 and best_hits == 0:
         item["skip"] = True
     return item["heuristic"]
 
@@ -321,7 +339,8 @@ def write_one(llm, item, interests):
         user = (
             "读者关注三类：国际局势、AI 发展、不为人知但值得了解的知识/方法论；不喜欢明星八卦。\n"
             "【原文】标题：%s\n来源：%s（%s）\n发布时间：%s\n正文：\n%s\n\n"
-            "输出 JSON：{\"summary\":\"2-3 句中文摘要，每句一个事实，只能来自原文\","
+            "输出 JSON：{\"title_cn\":\"中文标题，30 字内，只翻译不补充信息；原文已是中文就原样返回\","
+            "\"summary\":\"2-3 句中文摘要，每句一个事实，只能来自原文\","
             "\"why\":\"一句话说明这条为什么值得这位读者看（也可以写「不相关但重要」）\","
             "\"tags\":[\"最多 3 个短标签\"]}"
         ) % (item.get("title"), item.get("source_name"), item.get("source_kind", ""),
@@ -335,6 +354,9 @@ def write_one(llm, item, interests):
             summ = (data.get("summary") or "").strip()
             if len(summ) >= 20:
                 item["summary"] = summ
+                cn = (data.get("title_cn") or "").strip()
+                if cn and 4 <= len(cn) <= 60 and is_english(item.get("title")):
+                    item["title_cn"] = cn
                 item["why"] = (data.get("why") or "").strip() or "本期为你挑的一条重要内容。"
                 item["tags"] = [t for t in (data.get("tags") or []) if isinstance(t, str)][:3]
                 item["summary_mode"] = "llm"
@@ -351,6 +373,35 @@ def write_one(llm, item, interests):
     item["tags"] = []
     item["summary_mode"] = "extractive"
     return item
+
+
+def translate_titles(llm, items):
+    """把英文标题批量翻成中文（一次调用），结果写进 title_cn；失败就留空，绝不编。"""
+    todo = [(i, it) for i, it in enumerate(items) if is_english(it.get("title"))]
+    if not todo or not llm.available():
+        return items
+    lines = "\n".join("%d) %s" % (i, (it.get("title") or "")[:120]) for i, it in todo)
+    user = ("把下面英文新闻标题翻成中文，只翻译、不补充信息、不加引号，每条不超过 30 字：\n"
+            + lines
+            + "\n\n只输出 JSON：{\"titles\":[{\"i\":编号,\"cn\":\"中文标题\"}]}")
+    try:
+        text = llm.complete([
+            {"role": "system", "content": SYSTEM_WRITER},
+            {"role": "user", "content": user},
+        ], json_mode=True, max_tokens=700)
+        data = parse_json(text) or {}
+        for row in (data.get("titles") or []):
+            try:
+                i = int(row["i"])
+                cn = (row.get("cn") or "").strip()
+            except Exception:
+                continue
+            if not (0 <= i < len(items)) or not cn or len(cn) < 4 or len(cn) > 60:
+                continue
+            items[i]["title_cn"] = cn
+        return items
+    except Exception:
+        return items
 
 
 def write_one_liner(llm, picked, fallback):

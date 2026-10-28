@@ -2,6 +2,7 @@
 shots/
 site/
 _test_site/
+_preview/
 
 # Python
 __pycache__/
@@ -10,4 +11,13 @@ __pycache__/
 # 系统
 .DS_Store
 Thumbs.db
+
+# 临时/密钥（不要提交）
 _token.txt
+_push_api.py
+_mock_v3/
+_skiptest/
+_check_step.sh
+_t_chain.py
+_e2e.py
+_mock.py

@@ -1,9 +1,15 @@
-# 每天北京时间 05:30 出刊（GitHub Actions 用 UTC：21:30）
+# 每天北京时间凌晨出刊。GitHub Actions 的定时任务不保证准点：实测连续两天把计划时间
+# 延后了约 3 小时才启动（计划 05:30，实际 08:37 才出刊）。所以排三次（北京 01:00 / 02:00 / 03:00），
+# 全部延后 3 小时也能在 06:00 前出刊；只要第一次成功，后面两次会跳过。
+# 幂等保护：出刊前先检查 data/<今天>.json 是否已存在（前一次成功出刊会提交进仓库），
+# 已存在就直接跳过，不重复抓取、不重复发布。手动 workflow_dispatch 不受此限制，总是重建。
 name: 每日出刊
 
 on:
   schedule:
-    - cron: "30 21 * * *"
+    - cron: "0 17 * * *"   # UTC 17:00 = 北京 01:00
+    - cron: "0 18 * * *"   # UTC 18:00 = 北京 02:00
+    - cron: "0 19 * * *"   # UTC 19:00 = 北京 03:00
   workflow_dispatch: {}
 
 permissions:
@@ -18,18 +24,34 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+    outputs:
+      skip: ${{ steps.check.outputs.skip }}
     steps:
       - uses: actions/checkout@v4
 
+      - name: 检查今天是否已经出过刊
+        id: check
+        run: |
+          D=$(TZ=Asia/Shanghai date +%F)
+          if [ "${{ github.event_name }}" = "schedule" ] && [ -f "data/${D}.json" ]; then
+            echo "今天（${D}）这一期已经在仓库里，跳过本次抓取与发布。"
+            echo "skip=1" >> "$GITHUB_OUTPUT"
+          else
+            echo "skip=0" >> "$GITHUB_OUTPUT"
+          fi
+
       - uses: actions/setup-python@v5
+        if: steps.check.outputs.skip == '0'
         with:
           python-version: "3.12"
           cache: pip
 
       - name: 安装依赖
+        if: steps.check.outputs.skip == '0'
         run: pip install -r requirements.txt
 
       - name: 计算站点地址
+        if: steps.check.outputs.skip == '0'
         run: |
           OWNER=$(echo "${{ github.repository_owner }}" | tr "[:upper:]" "[:lower:]")
           REPO=${{ github.event.repository.name }}
@@ -40,26 +62,31 @@ jobs:
           fi
 
       - name: 出刊
+        if: steps.check.outputs.skip == '0'
         env:
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
         run: python daily.py --out site
 
       - name: 提交当期数据（归档用）
+        if: steps.check.outputs.skip == '0'
         run: |
           git config user.name "daily-bot"
           git config user.email "actions@users.noreply.github.com"
           git add data
-          git diff --cached --quiet || git commit -m "data: $(date -u +%F)"
+          git diff --cached --quiet || git commit -m "data: $(TZ=Asia/Shanghai date +%F)"
           git push
 
       - uses: actions/configure-pages@v5
+        if: steps.check.outputs.skip == '0'
 
       - uses: actions/upload-pages-artifact@v3
+        if: steps.check.outputs.skip == '0'
         with:
           path: site
 
   deploy:
     needs: build
+    if: needs.build.outputs.skip == '0'
     runs-on: ubuntu-latest
     environment:
       name: github-pages

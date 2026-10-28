@@ -108,24 +108,41 @@ def normalize(src, entry):
     }
 
 
+def _try_one(url, src, timeout):
+    r = requests.get(url, headers=HEADERS, timeout=timeout, allow_redirects=True)
+    if r.status_code != 200:
+        return None, "HTTP %s" % r.status_code
+    parsed = feedparser.parse(r.content)
+    if not parsed.entries:
+        ctype = (r.headers.get("content-type") or "")[:40]
+        return None, "解析不到条目（%s）" % (ctype or "empty")
+    items = []
+    for e in parsed.entries:
+        it = normalize(src, e)
+        if it:
+            items.append(it)
+    return (items or None), (None if items else "解析不到条目")
+
+
 def fetch_source(src, timeout=12):
-    """返回 (items, error)。error 为 None 表示成功。"""
-    try:
-        r = requests.get(src["url"], headers=HEADERS, timeout=timeout, allow_redirects=True)
-        if r.status_code != 200:
-            return [], "HTTP %s" % r.status_code
-        parsed = feedparser.parse(r.content)
-        if not parsed.entries:
-            ctype = (r.headers.get("content-type") or "")[:40]
-            return [], "解析不到条目（%s）" % (ctype or "empty")
-        items = []
-        for e in parsed.entries:
-            it = normalize(src, e)
-            if it:
-                items.append(it)
-        return items, None
-    except Exception as exc:
-        return [], "%s: %s" % (type(exc).__name__, str(exc)[:120])
+    """返回 (items, error)。error 为 None 表示成功。
+    支持 src["fallbacks"]（备用地址列表）与一次重试：某些源对中国大陆 IP 时好时坏。"""
+    urls = [src["url"]] + [u for u in (src.get("fallbacks") or []) if u and u != src["url"]]
+    errs = []
+    for url in urls:
+        for attempt in range(2):
+            try:
+                items, err = _try_one(url, src, timeout)
+                if items:
+                    return items, None
+                errs.append(err)
+                break  # 解析不到条目/HTTP 错误，换下一个地址，不原地重试
+            except Exception as exc:
+                errs.append("%s" % type(exc).__name__)
+                if attempt == 1:
+                    break
+                continue
+    return [], " / ".join([e for e in errs if e][:2]) or "unknown"
 
 
 def fetch_all(sources, max_workers=8, timeout=12):

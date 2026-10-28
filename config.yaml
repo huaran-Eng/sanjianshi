@@ -36,18 +36,29 @@ interests:
     weight: 3
     keywords: [方法, 效率, 认知, 学习, 工作, 生活, 经验, 教训, 复盘, 工具, 习惯, 决策, 心理, 时间, 睡眠, 沟通, 写作, 阅读, 笔记, 冷知识, 警示, 坑]
 
-# 模型：任何 OpenAI 兼容接口都能用（DeepSeek / 通义 / 智谱 / 硅基流动…）
+# 模型：任何 OpenAI 兼容接口都能用。按 providers 顺序依次尝试：
+#   前一个没配 key、或调用失败（限流/欠费/超时），自动换下一个，最后全失败才降级成「原文摘录」模式。
+# 想让 AI 一分钱不花：去 https://bigmodel.cn/usercenter/proj-mgmt/apikeys 申请智谱 key，
+#   在 GitHub 仓库 Secrets 里加 ZHIPU_API_KEY，免费模型就会排在前面先用。
 llm:
-  provider: deepseek
-  base_url: https://api.deepseek.com
-  model: deepseek-flash
-  api_key_env: DEEPSEEK_API_KEY     # key 只从环境变量读，永远不写进文件
   temperature: 0.3
   timeout: 90
   json_retry: 2
-  # 成本估算用（元/百万 tokens），按官方页 2026-10-26 的空闲价
-  price_in: 1.0
-  price_out: 4.0
+  # 成本估算用（元/百万 tokens），价格按各家官方页 2026-10-28
+  providers:
+    - name: glm-4.5-flash
+      base_url: https://open.bigmodel.cn/api/paas/v4
+      model: glm-4.5-flash
+      api_key_env: ZHIPU_API_KEY     # 没配这个 key 就自动跳过，不报错
+      price_in: 0.0                  # 免费模型
+      price_out: 0.0
+      timeout: 60
+    - name: deepseek-flash
+      base_url: https://api.deepseek.com
+      model: deepseek-flash
+      api_key_env: DEEPSEEK_API_KEY  # key 只从环境变量读，永远不写进文件
+      price_in: 1.0                  # 空闲价（高峰 2 / 8）
+      price_out: 4.0
 
 runtime:
   max_workers: 8
