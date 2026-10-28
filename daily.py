@@ -413,6 +413,17 @@ def main(argv=None):
         "scanned": len(fresh), "selected": len(all_sel),
         "sources_ok": ok, "sources_total": len(sources),
     })
+    # 挑战区如果是「同一事件，不同来源」，它就属于多源确认，补进报告，
+    # 否则会出现「挑战区同一件事两家报」但「多源确认 0 条」的自相矛盾。
+    if challenge_out and challenge_out.get("kind") == "同一事件":
+        pair = challenge_out.get("pair") or []
+        ttl = (pair[0].get("title") if pair else "") or (pair[1].get("title") if len(pair) > 1 else "") or ""
+        ttl = ttl.strip()
+        conf = list(report.get("confirmed") or [])
+        if ttl and all((c.get("title") or "").strip() != ttl for c in conf):
+            conf.insert(0, {"title": ttl, "n": len(pair) or 2})
+            report["confirmed"] = conf[:6]
+            report["confirmed_n"] = len(report["confirmed"])
     counts = {}
     for it in all_sel:
         g = it.get("group") or "other"
