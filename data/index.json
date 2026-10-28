@@ -1,6 +1,37 @@
 {
- "updated": "2026-10-28 15:14",
+ "updated": "2026-10-28 21:31",
  "issues": [
+  {
+   "date": "2026-10-29",
+   "weekday": "周四",
+   "issue_no": 4,
+   "one_liner": "具身智能、GPT-6.1 Terra 发布与 Anthropic 公开 S1 文件成为今日头条。",
+   "selected": 16,
+   "sources_ok": 25,
+   "groups": {
+    "ai": 8,
+    "world": 7,
+    "know": 1
+   },
+   "types": {
+    "world": 6,
+    "product": 5,
+    "security": 1,
+    "society": 1,
+    "industry": 1,
+    "tech": 1,
+    "other": 1
+   },
+   "regions": {
+    "cn": 5,
+    "me": 4,
+    "us": 3,
+    "global": 2,
+    "eu": 1,
+    "asia": 1
+   },
+   "head": "本期多条AI动态：OpenAI发布GPT-6.1 Terra，谷歌DeepMind发布Genie 4，腾讯开源混元同声传译模型，蚂蚁开源Li"
+  },
   {
    "date": "2026-10-28",
    "weekday": "周三",
@@ -89,30 +120,30 @@
   }
  ],
  "aggregate": {
-  "issues": 3,
-  "items": 48,
+  "issues": 4,
+  "items": 64,
   "first": "2026-10-26",
-  "last": "2026-10-28",
+  "last": "2026-10-29",
   "types": [
    {
     "key": "product",
     "label": "产品发布",
-    "n": 12
-   },
-   {
-    "key": "other",
-    "label": "其他",
-    "n": 9
+    "n": 17
    },
    {
     "key": "world",
     "label": "国际关系",
-    "n": 8
+    "n": 14
+   },
+   {
+    "key": "other",
+    "label": "其他",
+    "n": 10
    },
    {
     "key": "tech",
     "label": "技术进展",
-    "n": 7
+    "n": 8
    },
    {
     "key": "business",
@@ -122,7 +153,7 @@
    {
     "key": "industry",
     "label": "行业观察",
-    "n": 3
+    "n": 4
    },
    {
     "key": "policy",
@@ -137,6 +168,11 @@
    {
     "key": "security",
     "label": "安全事件",
+    "n": 2
+   },
+   {
+    "key": "society",
+    "label": "社会民生",
     "n": 1
    }
   ],
@@ -144,27 +180,32 @@
    {
     "key": "cn",
     "label": "中国",
-    "n": 18
+    "n": 23
    },
    {
     "key": "us",
     "label": "美国",
-    "n": 14
+    "n": 17
    },
    {
     "key": "me",
     "label": "中东",
-    "n": 7
+    "n": 11
    },
    {
     "key": "global",
     "label": "全球",
-    "n": 7
+    "n": 9
    },
    {
     "key": "eu",
     "label": "欧洲",
-    "n": 2
+    "n": 3
+   },
+   {
+    "key": "asia",
+    "label": "亚太",
+    "n": 1
    }
   ]
  }

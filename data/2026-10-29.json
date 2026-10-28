@@ -1,0 +1,497 @@
+{
+ "date": "2026-10-29",
+ "date_cn": "10 月 29 日",
+ "weekday": "周四",
+ "issue_no": 4,
+ "one_liner": "具身智能、GPT-6.1 Terra 发布与 Anthropic 公开 S1 文件成为今日头条。",
+ "lede": "扫描 397 条，从 25/26 个可用来源里留下 16 条：国际局势 7 条 · AI 发展 8 条 · 不为人知的知识 1 条。",
+ "cover_image": "assets/img/08ff2474d29f4c7b.jpg",
+ "headline": [
+  {
+   "id": "08ff2474d29f4c7b",
+   "source_id": "leiphone",
+   "source_name": "雷锋网",
+   "source_kind": "垂直媒体",
+   "title": "具身智能军备竞赛，胜负手在工程生态",
+   "link": "https://www.leiphone.com/category/ai/D4SlkV6zQ4ill9MG.html",
+   "published": "2026-10-28T18:17:00+08:00",
+   "image_url": "https://static.leiphone.com/uploads/new/images/20261028/6ae1cb534d871.jpg?imageMogr2/quality/90",
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "img": "assets/img/08ff2474d29f4c7b.jpg",
+   "summary": "逐际动力开源 FluxVLA Engine，定位为面向具身智能研发的工程底座，贯通数据、训练、评测、推理与真机部署，10 月 22 日完成一次重要更新。据其技术报告，该底座已将 OpenVLA、π0.5、DiT4DiT、GR00T 等不同技术路线的模型纳入同一套研发与评测体系；GPT-6 Astra 以纯 API 方式接入，MiniMax-M3.1-Flash 成为第二个 checkpoint-free 的纯 API 推理策略，可在 LIBERO 与 RoboCasa GR1 上跑评测。在推理加速方面，系统对 GR00T 和 π0.5 两条路线用 CUDA Graph 预先录制固定执行图并做算子融合，不修改模型权重，报告称针对 GR00T 动作头的数值对齐测试中，加速前后输出动作的余弦相似度超过 0.99999。",
+   "why": "属于 AI 发展方向，讨论的是具身智能研发中的工程复用与真机部署问题，而非明星八卦。",
+   "tags": [
+    "具身智能",
+    "开源框架",
+    "AI工程"
+   ],
+   "summary_mode": "llm",
+   "type": "tech",
+   "region": "cn",
+   "topic": "开源具身智能工程底座",
+   "type_label": "技术进展",
+   "region_label": "中国"
+  },
+  {
+   "id": "f045a0a710eb5243",
+   "source_id": "ifanr",
+   "source_name": "爱范儿",
+   "source_kind": "垂直媒体",
+   "title": "刚刚，GPT-6.1 Terra 骨折价发布，Agent 时代的打工模型来了",
+   "link": "https://www.ifanr.com/1686080?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "published": "2026-10-27T13:00:58+08:00",
+   "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/10/13-1.jpg",
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "img": "assets/img/f045a0a710eb5243.jpg",
+   "summary": "OpenAI 又卷起了大模型的性价比。就在刚刚，OpenAI 正式发布新一代模型 GPT-6.1 Terra，主打更快的响应速度、更强的视觉理解和电脑操作能力，以及更低的使用成本。图｜博客🔗 https://openai.com/index/introducing-gpt-6-1-terra/ 相比上一代 GPT-5.6 Terra，新模型的标准 API 价格直接降低 50%，但在复杂任务执行、事实准确率和编程能力上均有明显提升。",
+   "why": "属于你关注的「AI 发展」。",
+   "tags": [],
+   "summary_mode": "extractive",
+   "type": "product",
+   "region": "us",
+   "topic": "OpenAI发布GPT-6.1",
+   "type_label": "产品发布",
+   "region_label": "美国"
+  },
+  {
+   "id": "f1127d68cb549f50",
+   "source_id": "solidot",
+   "source_name": "奇客 Solidot",
+   "source_kind": "垂直媒体",
+   "title": "Anthropic 公布了 S1 文件",
+   "link": "https://www.solidot.org/story?sid=85717",
+   "published": "2026-10-27T14:33:38+08:00",
+   "image_url": null,
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "summary": "奇客 Solidot 发布了一条标题为「Anthropic 公布了 S1 文件」的内容，发布时间为 2026-10-27T14:33。原文正文只有版权声明、备案号和举报联系方式等站点信息，没有说明 S1 文件的具体内容。",
+   "why": "这条内容涉及 AI 公司 Anthropic，属于读者关注的 AI 发展方向，但原文没有给出可供判断的细节。",
+   "tags": [
+    "AI",
+    "Anthropic",
+    "原文信息不足"
+   ],
+   "summary_mode": "llm",
+   "type": "other",
+   "region": "us",
+   "topic": "Anthropic公布S1文件",
+   "type_label": "其他",
+   "region_label": "美国"
+  }
+ ],
+ "featured": [
+  {
+   "id": "a2669b34be102095",
+   "source_id": "ifanr",
+   "source_name": "爱范儿",
+   "source_kind": "垂直媒体",
+   "title": "刚刚，谷歌 Genie 4 发布，120 秒的世界却让我看见 AI 的未来",
+   "link": "https://www.ifanr.com/1686234?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "published": "2026-10-28T06:37:04+08:00",
+   "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/10/1234-scaled.jpg",
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "img": "assets/img/a2669b34be102095.jpg",
+   "summary": "谷歌 DeepMind 发布新一代世界模型 Genie 4，单次模拟时长从约一分钟延长至两分钟，并首次支持原生音频生成。Genie 4 引入 Gemini 负责规划行动，Genie 4 负责实时生成环境。原文提到，Genie 4 目前仍存在音频准确性和长期一致性方面的问题。",
+   "why": "这条内容直接对应读者关注的 AI 发展，涉及世界模型与 Gemini 结合的新进展。",
+   "tags": [
+    "AI",
+    "谷歌",
+    "世界模型"
+   ],
+   "summary_mode": "llm",
+   "type": "product",
+   "region": "us",
+   "topic": "谷歌发布世界模型Genie 4",
+   "type_label": "产品发布",
+   "region_label": "美国"
+  },
+  {
+   "id": "c4877a5cd0d3d285",
+   "source_id": "chinanews_world",
+   "source_name": "中国新闻网·国际",
+   "source_kind": "通讯社",
+   "title": "特朗普夫人：“俄乌奥列什基停火提前生效，范围已扩大”",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-28/10721974.shtml",
+   "published": "2026-10-28T07:43:55+08:00",
+   "image_url": null,
+   "source_count": 1,
+   "pr": 0,
+   "group": "world",
+   "summary": "梅拉尼娅表示，俄乌在赫尔松地区奥列什基的停火协议于27日提前生效，停火范围已扩大到奥列什基以外区域，以便为人道主义救援车队提供安全通道。她称停火于莫斯科时间27日凌晨4时生效，比原计划提前两天，俄军总参谋长格拉西莫夫已证实这一消息。另据美国白宫23日声明，梅拉尼娅促成该停火协议，原定10月29日开始，范围仅限奥列什基市，以便人道主义物资进入并安排平民撤离。",
+   "why": "俄乌停火进展属于国际局势，且原文提到人道主义通道安排。",
+   "tags": [
+    "俄乌停火",
+    "国际局势",
+    "人道主义通道"
+   ],
+   "summary_mode": "llm",
+   "type": "world",
+   "region": "eu",
+   "topic": "俄乌奥列什基停火生效",
+   "type_label": "国际关系",
+   "region_label": "欧洲"
+  },
+  {
+   "id": "b961a9178f1b0ef6",
+   "source_id": "jiemian",
+   "source_name": "界面新闻",
+   "source_kind": "市场化媒体",
+   "title": "亚丁国际机场再次遭袭，也门交通部谴责胡塞武装发动袭击",
+   "link": "https://www.jiemian.com/article/15257803.html",
+   "published": "2026-10-28T22:58:12+08:00",
+   "image_url": "https:https://img.jiemian.com/101/original/20220307/164664253426029700_a580x330.png",
+   "source_count": 1,
+   "pr": 0,
+   "group": "know",
+   "summary": "也门交通部10月28日发表声明，谴责胡塞武装当天两次袭击亚丁国际机场，袭击分别发生在当地时间13时和15时。声明称，亚丁国际机场数日内已累计遭到胡塞武装6次袭击。也门交通部表示，胡塞武装应对袭击及其后果承担全部责任，并呼吁国际社会和相关联合国机构采取行动制止袭击。",
+   "why": "亚丁机场遭袭关系到也门民航运行和人道救援，属于国际局势动态。",
+   "tags": [
+    "也门",
+    "亚丁机场",
+    "胡塞武装"
+   ],
+   "summary_mode": "llm",
+   "type": "security",
+   "region": "me",
+   "topic": "也门亚丁机场再遭袭击",
+   "type_label": "安全事件",
+   "region_label": "中东"
+  },
+  {
+   "id": "341a4dfe364326fe",
+   "source_id": "tmtpost",
+   "source_name": "钛媒体",
+   "source_kind": "市场化媒体",
+   "title": "腾讯AI压力来到微信小微",
+   "link": "https://www.tmtpost.com/8184625.html",
+   "published": "2026-10-28T20:14:39+08:00",
+   "image_url": "https://images.tmtpost.com/uploads/images/2023/tkrss/23t4q3y5w6whtrf3.png",
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "img": "assets/img/341a4dfe364326fe.jpg",
+   "summary": "腾讯发布并开源混元同声传译大模型Hy-SimulMT，据官方资料，该模型在翻译高准确率的同时平均响应时间仅为3秒。在OpenRouter全球调用量榜单上，2026年10月27日当周腾讯混元Hy4 preview调用量为9万亿tokens，排名第五。2026年6月开始灰度测试的微信原生AI助手小微，可唤起位置已从首页扩展到公众号、朋友圈、聊天对话框等多个触点，目前仍处测试阶段，未予全量推送。",
+   "why": "涉及腾讯混元模型调用量排名与微信AI助手小微的灰度进展，属于AI发展与产品落地两条线的事实更新。",
+   "tags": [
+    "AI",
+    "腾讯",
+    "微信"
+   ],
+   "summary_mode": "llm",
+   "type": "product",
+   "region": "cn",
+   "topic": "腾讯开源同传大模型",
+   "type_label": "产品发布",
+   "region_label": "中国"
+  },
+  {
+   "id": "8791dbd7345438d4",
+   "source_id": "jiemian",
+   "source_name": "界面新闻",
+   "source_kind": "市场化媒体",
+   "title": "以选举委员会公布特殊选票初步数量，或将影响最终大选格局",
+   "link": "https://www.jiemian.com/article/15257896.html",
+   "published": "2026-10-28T23:49:28+08:00",
+   "image_url": "https:https://img.jiemian.com/101/original/20220307/164664253426029700_a580x330.png",
+   "source_count": 1,
+   "pr": 0,
+   "group": "world",
+   "summary": "以色列中央选举委员会10月28日宣布，今年议会选举中的“双层信封”特殊选票数量预计在43万至48万张之间，少于此前报道的约60万张。这类选票主要由以军士兵、服刑人员、驻外外交人员以及其他无法前往指定投票站的选民投下，选举官员将在核实选民身份并确认其未在其他地方投票后单独清点。在以色列政坛，平均每4万张票决定议会1个席位，因此这批最后清点的特殊选票往往会成为决定各党派席位乃至影响组阁的关键变量。",
+   "why": "涉及以色列议会选举格局与组阁走向，属国际局势类内容。",
+   "tags": [
+    "以色列",
+    "议会选举",
+    "国际局势"
+   ],
+   "summary_mode": "llm",
+   "type": "world",
+   "region": "me",
+   "topic": "以选委会公布特殊选票数",
+   "type_label": "国际关系",
+   "region_label": "中东"
+  }
+ ],
+ "quick": [
+  {
+   "title": "当DeepSeek成为一种亚文化",
+   "title_cn": "",
+   "link": "https://www.tmtpost.com/8184563.html",
+   "source_name": "钛媒体",
+   "source_kind": "市场化媒体",
+   "id": "3b0b16fbe7c174ff",
+   "type": "industry",
+   "type_label": "行业观察",
+   "region": "cn",
+   "region_label": "中国"
+  },
+  {
+   "title": "加沙民众将在临时帐篷中迎来第四个冬天，人道主义援助持续受阻",
+   "title_cn": "",
+   "link": "https://news.un.org/feed/view/zh/story/2026/10/1143082",
+   "source_name": "联合国新闻·中文",
+   "source_kind": "公共媒体",
+   "id": "ec8937d52f14efed",
+   "type": "society",
+   "type_label": "社会民生",
+   "region": "me",
+   "region_label": "中东"
+  },
+  {
+   "title": "Personal Agent走向真实任务，蚂蚁百灵开源 Ling-3.1-flash-1019",
+   "title_cn": "",
+   "link": "https://www.qbitai.com/2026/10/505928.html",
+   "source_name": "量子位",
+   "source_kind": "垂直媒体",
+   "id": "bd1f46a9fcc096fc",
+   "type": "product",
+   "type_label": "产品发布",
+   "region": "cn",
+   "region_label": "中国"
+  },
+  {
+   "title": "以色列大选出口民调出炉！两大阵营均未过半，谁能组阁成悬念",
+   "title_cn": "",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-28/10721968.shtml",
+   "source_name": "中国新闻网·国际",
+   "source_kind": "通讯社",
+   "id": "4d61a8b527dbd183",
+   "type": "world",
+   "type_label": "国际关系",
+   "region": "me",
+   "region_label": "中东"
+  },
+  {
+   "title": "国产AI 3D大模型Hi3D来了！开源可商用，PK干掉GPT-6",
+   "title_cn": "",
+   "link": "https://www.qbitai.com/2026/10/505694.html",
+   "source_name": "量子位",
+   "source_kind": "垂直媒体",
+   "id": "f1633cde9d56e82a",
+   "type": "product",
+   "type_label": "产品发布",
+   "region": "cn",
+   "region_label": "中国"
+  },
+  {
+   "title": "缅甸危机：联合国官员警告冲突恶化，呼吁追究暴行责任并扩大人道援助",
+   "title_cn": "",
+   "link": "https://news.un.org/feed/view/zh/story/2026/10/1143079",
+   "source_name": "联合国新闻·中文",
+   "source_kind": "公共媒体",
+   "id": "01b2bc9cdb5e201c",
+   "type": "world",
+   "type_label": "国际关系",
+   "region": "asia",
+   "region_label": "亚太"
+  }
+ ],
+ "challenge": {
+  "question": "外媒：弗拉维奥·博索纳罗败选后离开巴西 已抵达美",
+  "a": "中新网 10月28日电 综合外媒报道，在巴西总统选举中落败的自由党候选人弗拉维奥·博索纳罗已于当地时间27日傍晚抵达美国。美国《华盛顿邮报》报道，美国国务院一名高级官员27日表示，弗拉维奥·博索纳罗及其家人已获批美国签证。",
+  "b": "巴西参议员博索纳罗抵达美国|界面新闻 · 快讯 天下快讯 巴西参议员博索纳罗抵达美国 界面快报 · 来源：界面新闻 据巴西方面当地时间10月28日消息，巴西参议员、自由党候选人弗拉维奥·博索纳罗及其家人乘坐飞机抵达美国。巴西总统卢拉27日批评弗拉维奥·博索纳罗在总统选举落败后离境行为是“可耻的”。",
+  "diff": "两家来源类型不同（通讯社 / 市场化媒体），原文表述不一致之处需要对照阅读。",
+  "mode": "extractive",
+  "pair": [
+   {
+    "id": "6cd55ab524635923",
+    "source_id": "chinanews_world",
+    "source_name": "中国新闻网·国际",
+    "source_kind": "通讯社",
+    "title": "外媒：弗拉维奥·博索纳罗败选后离开巴西 已抵达美国佛罗里达州",
+    "link": "https://www.chinanews.com.cn/gj/2026/10-28/10722070.shtml",
+    "published": "2026-10-28T10:55:12+08:00",
+    "image_url": null,
+    "source_count": 1,
+    "pr": 0,
+    "group": "world",
+    "type": "world",
+    "region": "global",
+    "topic": "博索纳罗败选后抵美",
+    "type_label": "国际关系",
+    "region_label": "全球"
+   },
+   {
+    "id": "ce9c65802f83d09b",
+    "source_id": "jiemian",
+    "source_name": "界面新闻",
+    "source_kind": "市场化媒体",
+    "title": "巴西参议员博索纳罗抵达美国",
+    "link": "https://www.jiemian.com/article/15257709.html",
+    "published": "2026-10-28T21:55:55+08:00",
+    "image_url": "https:https://img.jiemian.com/101/original/20220307/164664253426029700_a580x330.png",
+    "source_count": 1,
+    "pr": 0,
+    "group": "world",
+    "type": "world",
+    "region": "global",
+    "topic": "博索纳罗抵美卢拉批评",
+    "type_label": "国际关系",
+    "region_label": "全球"
+   }
+  ],
+  "kind": "两个视角"
+ },
+ "counts": {
+  "ai": 8,
+  "world": 7,
+  "know": 1
+ },
+ "report": {
+  "mode": "llm",
+  "overview": "本期多条AI动态：OpenAI发布GPT-6.1 Terra，谷歌DeepMind发布Genie 4，腾讯开源混元同声传译模型，蚂蚁开源Ling-3.1-flash-1019，国产3D大模型Hi3D开源。国际方面，以色列议会选举出口民调显示两阵营均未过半，俄乌奥列什基停火提前生效，也门亚丁机场再遭袭击，巴西博索纳罗败选后抵达美国。",
+  "signals": [
+   "多家厂商集中发布或开源模型，覆盖世界模型、同传与3D生成",
+   "以色列大选两阵营均未过半，组阁归属待定",
+   "中东冲突与人道议题并行，停火与援助进展不一"
+  ],
+  "groups": [
+   {
+    "key": "ai",
+    "label": "AI 发展",
+    "n": 8
+   },
+   {
+    "key": "world",
+    "label": "国际局势",
+    "n": 7
+   },
+   {
+    "key": "know",
+    "label": "不为人知的知识",
+    "n": 1
+   }
+  ],
+  "types": [
+   {
+    "key": "world",
+    "label": "国际关系",
+    "n": 6
+   },
+   {
+    "key": "product",
+    "label": "产品发布",
+    "n": 5
+   },
+   {
+    "key": "security",
+    "label": "安全事件",
+    "n": 1
+   },
+   {
+    "key": "society",
+    "label": "社会民生",
+    "n": 1
+   },
+   {
+    "key": "industry",
+    "label": "行业观察",
+    "n": 1
+   },
+   {
+    "key": "tech",
+    "label": "技术进展",
+    "n": 1
+   },
+   {
+    "key": "other",
+    "label": "其他",
+    "n": 1
+   }
+  ],
+  "regions": [
+   {
+    "key": "cn",
+    "label": "中国",
+    "n": 5
+   },
+   {
+    "key": "me",
+    "label": "中东",
+    "n": 4
+   },
+   {
+    "key": "us",
+    "label": "美国",
+    "n": 3
+   },
+   {
+    "key": "global",
+    "label": "全球",
+    "n": 2
+   },
+   {
+    "key": "eu",
+    "label": "欧洲",
+    "n": 1
+   },
+   {
+    "key": "asia",
+    "label": "亚太",
+    "n": 1
+   }
+  ],
+  "confirmed": [],
+  "confirmed_n": 0,
+  "source_kinds": [
+   {
+    "kind": "垂直媒体",
+    "n": 6
+   },
+   {
+    "kind": "市场化媒体",
+    "n": 5
+   },
+   {
+    "kind": "通讯社",
+    "n": 3
+   },
+   {
+    "kind": "公共媒体",
+    "n": 2
+   }
+  ],
+  "note": "数字由程序统计；类型/地区标签来自模型或关键词规则；「归纳判断」是编辑视角的概括，不是事实，每条都附原文链接可核对。"
+ },
+ "stats": {
+  "scanned": 397,
+  "selected": 16,
+  "raw": 2842,
+  "clusters": 365,
+  "dedup": 386,
+  "sources_ok": 25,
+  "sources_total": 26,
+  "lookback_hours": 48,
+  "llm_mode": "llm",
+  "model": "deepseek-flash ×12",
+  "llm_calls": 12,
+  "cost": 0.0432,
+  "generated_at": "2026-10-29 05:31",
+  "errors": [
+   {
+    "name": "阮一峰的网络日志",
+    "error": "HTTP 403 / HTTP 403"
+   }
+  ]
+ },
+ "archives": [
+  {
+   "date": "2026-10-28",
+   "weekday": "周三"
+  },
+  {
+   "date": "2026-10-27",
+   "weekday": "周二"
+  },
+  {
+   "date": "2026-10-26",
+   "weekday": "周一"
+  }
+ ]
+}
