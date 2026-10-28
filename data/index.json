@@ -1,6 +1,35 @@
 {
- "updated": "2026-10-27 13:17",
+ "updated": "2026-10-28 00:38",
  "issues": [
+  {
+   "date": "2026-10-28",
+   "weekday": "周三",
+   "issue_no": 3,
+   "one_liner": "谷歌发布 Genie 4；OpenAI 称安全起见断网训练；智源五个 AI 项目路演",
+   "selected": 16,
+   "sources_ok": 21,
+   "groups": {
+    "ai": 10,
+    "world": 3,
+    "know": 1,
+    "other": 2
+   },
+   "types": {
+    "product": 6,
+    "business": 3,
+    "world": 3,
+    "industry": 2,
+    "policy": 1,
+    "other": 1
+   },
+   "regions": {
+    "cn": 6,
+    "us": 6,
+    "me": 2,
+    "global": 2
+   },
+   "head": "谷歌发布世界模型Genie 4，支持原生音频生成；OpenAI发布GPT-6.1 Terra，API价格较上一代降低50%，并宣布禁止前沿模"
+  },
   {
    "date": "2026-10-27",
    "weekday": "周二",
@@ -60,15 +89,20 @@
   }
  ],
  "aggregate": {
-  "issues": 2,
-  "items": 32,
+  "issues": 3,
+  "items": 48,
   "first": "2026-10-26",
-  "last": "2026-10-27",
+  "last": "2026-10-28",
   "types": [
+   {
+    "key": "product",
+    "label": "产品发布",
+    "n": 12
+   },
    {
     "key": "other",
     "label": "其他",
-    "n": 9
+    "n": 10
    },
    {
     "key": "tech",
@@ -76,56 +110,51 @@
     "n": 7
    },
    {
-    "key": "product",
-    "label": "产品发布",
+    "key": "business",
+    "label": "商业资本",
     "n": 6
    },
    {
-    "key": "business",
-    "label": "商业资本",
-    "n": 3
+    "key": "world",
+    "label": "国际关系",
+    "n": 4
+   },
+   {
+    "key": "industry",
+    "label": "行业观察",
+    "n": 4
    },
    {
     "key": "policy",
     "label": "政策监管",
-    "n": 2
+    "n": 3
    },
    {
     "key": "research",
     "label": "研究进展",
     "n": 2
-   },
-   {
-    "key": "industry",
-    "label": "行业观察",
-    "n": 2
-   },
-   {
-    "key": "world",
-    "label": "国际关系",
-    "n": 1
    }
   ],
   "regions": [
    {
     "key": "cn",
     "label": "中国",
-    "n": 13
+    "n": 19
    },
    {
     "key": "us",
     "label": "美国",
-    "n": 11
+    "n": 17
    },
    {
     "key": "global",
     "label": "全球",
-    "n": 6
+    "n": 8
    },
    {
     "key": "me",
     "label": "中东",
-    "n": 2
+    "n": 4
    }
   ]
  }
