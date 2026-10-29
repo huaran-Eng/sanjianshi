@@ -1,6 +1,36 @@
 {
- "updated": "2026-10-28 21:31",
+ "updated": "2026-10-29 21:32",
  "issues": [
+  {
+   "date": "2026-10-30",
+   "weekday": "周五",
+   "issue_no": 5,
+   "one_liner": "具身智能竞争转向工程生态，泽连斯基称乌方愿谈任何议题，深兰华为发布大模型工作手机",
+   "selected": 16,
+   "sources_ok": 25,
+   "groups": {
+    "ai": 6,
+    "world": 5,
+    "know": 3,
+    "other": 2
+   },
+   "types": {
+    "tech": 7,
+    "other": 3,
+    "policy": 2,
+    "world": 2,
+    "research": 1,
+    "industry": 1
+   },
+   "regions": {
+    "global": 7,
+    "us": 5,
+    "eu": 2,
+    "cn": 1,
+    "asia": 1
+   },
+   "head": "本期入选 16 条，扫描 409 条原始条目，25/26 个来源可用。按方向：国际局势 5 条、AI 发展 6 条、不为人知的知识 3 条。"
+  },
   {
    "date": "2026-10-29",
    "weekday": "周四",
@@ -120,10 +150,10 @@
   }
  ],
  "aggregate": {
-  "issues": 4,
-  "items": 64,
+  "issues": 5,
+  "items": 80,
   "first": "2026-10-26",
-  "last": "2026-10-29",
+  "last": "2026-10-30",
   "types": [
    {
     "key": "product",
@@ -133,17 +163,27 @@
    {
     "key": "world",
     "label": "国际关系",
-    "n": 14
-   },
-   {
-    "key": "other",
-    "label": "其他",
-    "n": 10
+    "n": 16
    },
    {
     "key": "tech",
     "label": "技术进展",
-    "n": 8
+    "n": 15
+   },
+   {
+    "key": "other",
+    "label": "其他",
+    "n": 13
+   },
+   {
+    "key": "industry",
+    "label": "行业观察",
+    "n": 5
+   },
+   {
+    "key": "policy",
+    "label": "政策监管",
+    "n": 4
    },
    {
     "key": "business",
@@ -151,19 +191,9 @@
     "n": 4
    },
    {
-    "key": "industry",
-    "label": "行业观察",
-    "n": 4
-   },
-   {
-    "key": "policy",
-    "label": "政策监管",
-    "n": 2
-   },
-   {
     "key": "research",
     "label": "研究进展",
-    "n": 2
+    "n": 3
    },
    {
     "key": "security",
@@ -180,12 +210,17 @@
    {
     "key": "cn",
     "label": "中国",
-    "n": 23
+    "n": 24
    },
    {
     "key": "us",
     "label": "美国",
-    "n": 17
+    "n": 22
+   },
+   {
+    "key": "global",
+    "label": "全球",
+    "n": 16
    },
    {
     "key": "me",
@@ -193,19 +228,14 @@
     "n": 11
    },
    {
-    "key": "global",
-    "label": "全球",
-    "n": 9
-   },
-   {
     "key": "eu",
     "label": "欧洲",
-    "n": 3
+    "n": 5
    },
    {
     "key": "asia",
     "label": "亚太",
-    "n": 1
+    "n": 2
    }
   ]
  }
