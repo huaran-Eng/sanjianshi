@@ -1,6 +1,36 @@
 {
- "updated": "2026-10-29 21:32",
+ "updated": "2026-10-30 21:23",
  "issues": [
+  {
+   "date": "2026-10-31",
+   "weekday": "周六",
+   "issue_no": 6,
+   "one_liner": "全国首个具身仿真数采中心在杭州落地，行业两年积累百万小时数据",
+   "selected": 16,
+   "sources_ok": 24,
+   "groups": {
+    "ai": 6,
+    "world": 5,
+    "know": 3,
+    "other": 2
+   },
+   "types": {
+    "tech": 4,
+    "world": 3,
+    "policy": 2,
+    "business": 2,
+    "research": 2,
+    "other": 2,
+    "industry": 1
+   },
+   "regions": {
+    "us": 7,
+    "cn": 4,
+    "global": 3,
+    "me": 2
+   },
+   "head": "本期入选 16 条，扫描 415 条原始条目，24/26 个来源可用。按方向：国际局势 5 条、AI 发展 6 条、不为人知的知识 3 条。"
+  },
   {
    "date": "2026-10-30",
    "weekday": "周五",
@@ -150,50 +180,50 @@
   }
  ],
  "aggregate": {
-  "issues": 5,
-  "items": 80,
+  "issues": 6,
+  "items": 96,
   "first": "2026-10-26",
-  "last": "2026-10-30",
+  "last": "2026-10-31",
   "types": [
+   {
+    "key": "world",
+    "label": "国际关系",
+    "n": 19
+   },
+   {
+    "key": "tech",
+    "label": "技术进展",
+    "n": 19
+   },
    {
     "key": "product",
     "label": "产品发布",
     "n": 17
    },
    {
-    "key": "world",
-    "label": "国际关系",
-    "n": 16
-   },
-   {
-    "key": "tech",
-    "label": "技术进展",
-    "n": 15
-   },
-   {
     "key": "other",
     "label": "其他",
-    "n": 13
-   },
-   {
-    "key": "industry",
-    "label": "行业观察",
-    "n": 5
+    "n": 15
    },
    {
     "key": "policy",
     "label": "政策监管",
-    "n": 4
+    "n": 6
    },
    {
     "key": "business",
     "label": "商业资本",
-    "n": 4
+    "n": 6
+   },
+   {
+    "key": "industry",
+    "label": "行业观察",
+    "n": 6
    },
    {
     "key": "research",
     "label": "研究进展",
-    "n": 3
+    "n": 5
    },
    {
     "key": "security",
@@ -208,24 +238,24 @@
   ],
   "regions": [
    {
-    "key": "cn",
-    "label": "中国",
-    "n": 24
-   },
-   {
     "key": "us",
     "label": "美国",
-    "n": 22
+    "n": 29
+   },
+   {
+    "key": "cn",
+    "label": "中国",
+    "n": 28
    },
    {
     "key": "global",
     "label": "全球",
-    "n": 16
+    "n": 19
    },
    {
     "key": "me",
     "label": "中东",
-    "n": 11
+    "n": 13
    },
    {
     "key": "eu",

@@ -1,0 +1,500 @@
+{
+ "date": "2026-10-31",
+ "date_cn": "10 月 31 日",
+ "weekday": "周六",
+ "issue_no": 6,
+ "one_liner": "全国首个具身仿真数采中心在杭州落地，行业两年积累百万小时数据",
+ "lede": "扫描 415 条，从 24/26 个可用来源里留下 16 条：国际局势 5 条 · AI 发展 6 条 · 不为人知的知识 3 条。",
+ "cover_image": "assets/img/03497b7e90d4e99c.jpg",
+ "headline": [
+  {
+   "id": "03497b7e90d4e99c",
+   "source_id": "leiphone",
+   "source_name": "雷锋网",
+   "source_kind": "垂直媒体",
+   "title": "全行业两年攒下百万小时数据，影溯想 1 个月生产完：全国首个具身仿真数采中心落地杭州",
+   "link": "https://www.leiphone.com/category/academic/xPVWQgBN3Foj7fo5.html",
+   "published": "2026-10-30T19:08:00+08:00",
+   "image_url": "https://static.leiphone.com/uploads/new/images/20261030/6ae4767186efc.jpg?imageMogr2/quality/90",
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "img": "assets/img/03497b7e90d4e99c.jpg",
+   "summary": "影溯于10月29日在杭州落地全国首家以仿真为主的具身智能数采中心，目标是让月产能达到百万小时级数据。据中国信息通信研究院，截至今年6月底，全国建成启用超过70家训练场，另有40余家在建或规划。影溯称该中心基于少量真机或遥操示范种子，在数百个并行环境中自动批量合成轨迹数据。",
+   "why": "这条报道讲的是具身智能的数据生产方式从「人×小时」转向「环境配置数×并行算力」，属于 AI 发展方向，涉及可迁移的方法论，并且没有明星八卦内容。",
+   "tags": [
+    "具身智能",
+    "仿真数据",
+    "AI"
+   ],
+   "summary_mode": "llm",
+   "type": "research",
+   "region": "cn",
+   "topic": "全行业两年攒下百万小时数据，影溯想 1 个月生产完：全国",
+   "type_label": "研究进展",
+   "region_label": "中国"
+  },
+  {
+   "id": "8b2e0d20ff316f2f",
+   "source_id": "tmtpost",
+   "source_name": "钛媒体",
+   "source_kind": "市场化媒体",
+   "title": "具身智能患上了焦虑症",
+   "link": "https://www.tmtpost.com/8187761.html",
+   "published": "2026-10-30T19:01:28+08:00",
+   "image_url": "https://images.tmtpost.com/uploads/images/2026/10/29b836a4fb1b5fc201f735d627ec5b77_1793358093.jpg",
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "img": "assets/img/8b2e0d20ff316f2f.jpg",
+   "summary": "2026年10月1日至15日，具身智能赛道融资共19起、金额49.34亿元，原文称对比巅峰时期单月339.8亿元的融资总额，热度大幅缩水。宇树科技上市后36个交易日，股价从开盘价1100元/股跌至404.03元/股，最大跌幅超63%。人形机器人场景应用联盟数据显示，2026上半年国内公开人形机器人中标项目共218个、总规模17.23亿元，其中来自工业企业的订单仅占21.1%。",
+   "why": "这条报道用融资额、股价和中标订单等数据，呈现具身智能从上半年融资狂热到下半年降温的过程，属于读者关注的 AI 发展方向。",
+   "tags": [
+    "具身智能",
+    "融资",
+    "机器人"
+   ],
+   "summary_mode": "llm",
+   "type": "business",
+   "region": "cn",
+   "topic": "具身智能患上了焦虑症",
+   "type_label": "商业资本",
+   "region_label": "中国"
+  },
+  {
+   "id": "503888e48b94de4e",
+   "source_id": "chinanews_world",
+   "source_name": "中国新闻网·国际",
+   "source_kind": "通讯社",
+   "title": "以媒：超10架美国军机飞抵以色列空军基地",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-30/10723088.shtml",
+   "published": "2026-10-30T07:21:09+08:00",
+   "image_url": null,
+   "source_count": 1,
+   "pr": 0,
+   "group": "world",
+   "summary": "有分析人士依据公开航班追踪数据称，过去一周有10多架美国军用运输机降落在以色列南部的奥夫达和内瓦蒂姆两个空军基地。报道称这些运输机的具体载货情况尚不清楚，并称推测此举与美方在可能爆发新一轮冲突前加强该地区防空能力有关。以色列方面消息人士称，美以正保持密切协调，美方正在考虑对伊朗采取下一步行动，目前尚未作出最终决定。",
+   "why": "涉及美国军机部署与美以协调动向，属于读者关注的国际局势议题；但原文对载货内容和后续决定均未确认。",
+   "tags": [
+    "国际局势",
+    "美以关系",
+    "中东"
+   ],
+   "summary_mode": "llm",
+   "type": "world",
+   "region": "me",
+   "topic": "以媒：超10架美国军机飞抵以色列空军基地",
+   "type_label": "国际关系",
+   "region_label": "中东"
+  }
+ ],
+ "featured": [
+  {
+   "id": "fd021e90a0e8df82",
+   "source_id": "leiphone",
+   "source_name": "雷锋网",
+   "source_kind": "垂直媒体",
+   "title": "MiniMax H3 开源生态持续拓展，英伟达团队开源 4K 视频增强方案",
+   "link": "https://www.leiphone.com/category/industrynews/eJ3swacisd2iTByo.html",
+   "published": "2026-10-30T15:06:00+08:00",
+   "image_url": "https://static.leiphone.com/uploads/new/images/20261030/6ae44159b0730.jpg?imageView2/2/w/740",
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "img": "assets/img/fd021e90a0e8df82.jpg",
+   "summary": "英伟达与麻省理工学院研究人员组成的 Efficient-Large-Model 团队在 Hugging Face 发布视频增强项目 Open-H3-Regenerate-2K 的模型权重，配套推理代码已在 NVlabs/Sana 仓库开放。该方案基于 MiniMax H3，将低分辨率视频草稿重新生成为高分辨率视频，支持 2560×1440 的 2K 输出，最高可实现 3840×2160 的原生 4K 重生成。项目团队公布的测试显示，在单张 NVIDIA B200 GPU、预热后的测试条件下，约 5 秒视频的潜空间放大、三步细化和 2K 解码合计耗时，由 87.26 秒降至 22.45 秒。",
+   "why": "这条属于 AI 发展方向的进展，涉及开源模型生态与视频生成推理效率的具体数据，适合关注 AI 的读者。",
+   "tags": [
+    "AI",
+    "开源模型",
+    "视频生成"
+   ],
+   "summary_mode": "llm",
+   "type": "tech",
+   "region": "us",
+   "topic": "MiniMax H3 开源生态持续拓展，英伟达团队开源 ",
+   "type_label": "技术进展",
+   "region_label": "美国"
+  },
+  {
+   "id": "a0babe4cbfb7433b",
+   "source_id": "un_news_zh",
+   "source_name": "联合国新闻·中文",
+   "source_kind": "公共媒体",
+   "title": "人权高专办：加沙民众正深陷反复流离失所的“梦魇”",
+   "link": "https://news.un.org/feed/view/zh/story/2026/10/1143101",
+   "published": "2026-10-30T20:00:00+08:00",
+   "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/21-05-2026-displacement-Gaza.jpg/image560x340cropped.jpg",
+   "source_count": 1,
+   "pr": 0,
+   "group": "world",
+   "img": "assets/img/a0babe4cbfb7433b.jpg",
+   "summary": "联合国人权事务高级专员办事处周五发出警告，称以色列军队不断将巴勒斯坦人逼向加沙地带日益狭小的区域。该机构还指出，以军破坏民用基础设施，并袭击流离失所者安置点。原文称，这些情况引发国际社会对种族清洗的担忧。",
+   "why": "属于你关注的国际局势，且来源为联合国官方渠道，信息源单一明确。",
+   "tags": [
+    "加沙",
+    "联合国",
+    "人权"
+   ],
+   "summary_mode": "llm",
+   "type": "other",
+   "region": "me",
+   "topic": "人权高专办：加沙民众正深陷反复流离失所的“梦魇”",
+   "type_label": "其他",
+   "region_label": "中东"
+  },
+  {
+   "id": "6c58ababe15cd1b7",
+   "source_id": "solidot",
+   "source_name": "奇客 Solidot",
+   "source_kind": "垂直媒体",
+   "title": "美国肯塔基男子成为首位以宗教理由豁免使用 AI 的人文主义者",
+   "link": "https://www.solidot.org/story?sid=85743",
+   "published": "2026-10-29T17:13:23+08:00",
+   "image_url": null,
+   "source_count": 1,
+   "pr": 0,
+   "group": "know",
+   "summary": "原文标题称，美国肯塔基州一名男子成为首位以宗教理由获得豁免、可不使用 AI 的人文主义者。原文正文只有版权说明和网站备案信息，没有提供这名男子的身份、豁免的申请过程或理由细节。",
+   "why": "这条内容涉及 AI 与宗教、个人权利的交集，属于读者关注的 AI 议题中的边缘案例，但原文未给出可供核实的细节。",
+   "tags": [
+    "AI",
+    "宗教豁免",
+    "人文主义"
+   ],
+   "summary_mode": "llm",
+   "type": "policy",
+   "region": "us",
+   "topic": "美国肯塔基男子成为首位以宗教理由豁免使用 AI 的人文主",
+   "type_label": "政策监管",
+   "region_label": "美国"
+  },
+  {
+   "id": "2f942521f725ed9a",
+   "source_id": "qbitai",
+   "source_name": "量子位",
+   "source_kind": "垂直媒体",
+   "title": "英伟达团队基于 MiniMax H3 开源视频增强方案，最高支持 4K 重生成",
+   "link": "https://www.qbitai.com/2026/10/506743.html",
+   "published": "2026-10-30T15:31:11+08:00",
+   "image_url": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "img": "assets/img/2f942521f725ed9a.jpg",
+   "summary": "英伟达与麻省理工学院研究人员组成的团队在 Hugging Face 发布视频增强项目 Open-H3-Regenerate-2K 的模型权重，配套推理代码已在 NVlabs/Sana 仓库开放。该方案基于 MiniMax H3，将低分辨率视频草稿重新生成为高分辨率视频，支持 2560×1440 的 2K 输出，最高可实现 3840×2160 的原生 4K 重生成。测试显示，在单张 NVIDIA B200 GPU 上，一段约 5 秒视频的潜空间放大、三步细化和 2K 解码合计耗时从 87.26 秒降至 22.45 秒。",
+   "why": "这条消息涉及 AI 视频生成的开源模型与推理加速方案，属于读者关注的 AI 发展方向。",
+   "tags": [
+    "AI",
+    "视频生成",
+    "开源模型"
+   ],
+   "summary_mode": "llm",
+   "type": "tech",
+   "region": "us",
+   "topic": "英伟达团队基于 MiniMax H3 开源视频增强方案，",
+   "type_label": "技术进展",
+   "region_label": "美国"
+  },
+  {
+   "id": "9e1d33fe5015df7c",
+   "source_id": "chinanews_world",
+   "source_name": "中国新闻网·国际",
+   "source_kind": "通讯社",
+   "title": "消息人士：五角大楼官员要求欧洲缓和对俄言辞",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-30/10723323.shtml",
+   "published": "2026-10-30T14:59:22+08:00",
+   "image_url": null,
+   "source_count": 1,
+   "pr": 0,
+   "group": "world",
+   "summary": "据路透社报道，知情人士透露，五角大楼官员最近几周要求几个北约国家缓和有关俄罗斯的言论，理由是欧洲领导人和官员的一些声明破坏了欧洲大陆的安全。立陶宛、拉脱维亚和爱沙尼亚等国收到敦促谨慎发表公开言论的信息。五角大楼政策主管科尔比是传达这一信息的美国官员之一，他曾告诉一位波罗的海国家官员不应对俄罗斯进行任何「挑衅」。",
+   "why": "涉及美国与北约盟友在对俄言辞上的分歧，是观察国际局势与俄乌冲突外交走向的一条线索。",
+   "tags": [
+    "国际局势",
+    "北约",
+    "俄乌冲突"
+   ],
+   "summary_mode": "llm",
+   "type": "policy",
+   "region": "us",
+   "topic": "消息人士：五角大楼官员要求欧洲缓和对俄言辞",
+   "type_label": "政策监管",
+   "region_label": "美国"
+  }
+ ],
+ "quick": [
+  {
+   "title": "富力地产：将继续与“20富力地产PPN001”持有人保持沟通，努力筹措偿债资金",
+   "title_cn": "",
+   "link": "https://www.jiemian.com/article/15275194.html",
+   "source_name": "界面新闻",
+   "source_kind": "市场化媒体",
+   "id": "61124cc2efafe4e3",
+   "type": "business",
+   "type_label": "商业资本",
+   "region": "global",
+   "region_label": "全球"
+  },
+  {
+   "title": "STEPX Neo 发布两周即迎首次升级，智能体能力持续释放",
+   "title_cn": "",
+   "link": "https://www.qbitai.com/2026/10/506554.html",
+   "source_name": "量子位",
+   "source_kind": "垂直媒体",
+   "id": "0d597fa4589a655f",
+   "type": "tech",
+   "type_label": "技术进展",
+   "region": "global",
+   "region_label": "全球"
+  },
+  {
+   "title": "美媒曝：特朗普施压下，乌克兰已暂停袭击俄罗斯炼油厂",
+   "title_cn": "",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-30/10723243.shtml",
+   "source_name": "中国新闻网·国际",
+   "source_kind": "通讯社",
+   "id": "17aa349d11e6d0c2",
+   "type": "other",
+   "type_label": "其他",
+   "region": "us",
+   "region_label": "美国"
+  },
+  {
+   "title": "一天造300万个沙盒，10万张卡自己写系统：2026年国产 RSI 到底有多野？",
+   "title_cn": "",
+   "link": "https://www.leiphone.com/category/yanxishe/UIbgVZxTjEoMswaE.html",
+   "source_name": "雷锋网",
+   "source_kind": "垂直媒体",
+   "id": "86088a8a85a3a6c8",
+   "type": "research",
+   "type_label": "研究进展",
+   "region": "cn",
+   "region_label": "中国"
+  },
+  {
+   "title": "河北女首富给字节做“算力”包租公，AIDC收入暴涨126%，股价却跌没了一半？",
+   "title_cn": "",
+   "link": "https://www.tmtpost.com/8186907.html",
+   "source_name": "钛媒体",
+   "source_kind": "市场化媒体",
+   "id": "98c4c45283d065b9",
+   "type": "tech",
+   "type_label": "技术进展",
+   "region": "cn",
+   "region_label": "中国"
+  },
+  {
+   "title": "【子午播报】2026年10月30日",
+   "title_cn": "",
+   "link": "https://news.un.org/feed/view/zh/story/2026/10/1143097",
+   "source_name": "联合国新闻·中文",
+   "source_kind": "公共媒体",
+   "id": "577189c278e057d7",
+   "type": "industry",
+   "type_label": "行业观察",
+   "region": "global",
+   "region_label": "全球"
+  }
+ ],
+ "challenge": {
+  "question": "俄方：俄美乌三方会谈有“决定性意义”",
+  "a": "俄方：俄美乌三方会谈有“决定性意义”|界面新闻 · 快讯 天下快讯 俄方：俄美乌三方会谈有“决定性意义” 界面快报 · 来源：界面新闻 据俄新社10月30日报道，俄罗斯总统助理乌沙科夫当天表示，俄方计划在美国斡旋下同乌克兰方面在阿联酋阿布扎比举行三方会谈，会谈对解决乌克兰问题具有“决定性意义”。点赞 收藏 看评论 分享至 微博分享 微信分享 QQzone 评论 暂无评论哦，快来评价一下吧！",
+  "b": "据俄罗斯方面10月30日消息，俄罗斯总统助理乌沙科夫当天表示，俄方计划在美国斡旋下同乌克兰方面在阿联酋阿布扎比举行三方会谈，会谈对解决乌克兰问题具有“决定性意义”。乌沙科夫在接受全俄国家电视广播公司电视节目主持人扎鲁宾采访时说，对这些年来发生的一切以及未来，俄美乌三方会谈具有“决定性意义”。",
+  "diff": "两家来源类型不同（市场化媒体 / 通讯社），原文表述不一致之处需要对照阅读。",
+  "mode": "extractive",
+  "pair": [
+   {
+    "id": "c6bebdc4c3785d2c",
+    "source_id": "jiemian",
+    "source_name": "界面新闻",
+    "source_kind": "市场化媒体",
+    "title": "俄方：俄美乌三方会谈有“决定性意义”",
+    "link": "https://www.jiemian.com/article/15275245.html",
+    "published": "2026-10-30T23:51:24+08:00",
+    "image_url": "https:https://img.jiemian.com/101/original/20220307/164664253426029700_a580x330.png",
+    "type": "world",
+    "region": "us",
+    "topic": "俄方：俄美乌三方会谈有“决定性意义”",
+    "type_label": "国际关系",
+    "region_label": "美国"
+   },
+   {
+    "id": "f619bb48cebc6023",
+    "source_id": "chinanews_world",
+    "source_name": "中国新闻网·国际",
+    "source_kind": "通讯社",
+    "title": "俄方：俄美乌三方会谈有“决定性意义”",
+    "link": "https://www.chinanews.com.cn/gj/2026/10-31/10723698.shtml",
+    "published": "2026-10-31T00:09:22+08:00",
+    "image_url": null,
+    "type": "world",
+    "region": "us",
+    "topic": "俄方：俄美乌三方会谈有“决定性意义”",
+    "type_label": "国际关系",
+    "region_label": "美国"
+   }
+  ],
+  "kind": "同一事件"
+ },
+ "counts": {
+  "ai": 6,
+  "world": 5,
+  "know": 3,
+  "other": 2
+ },
+ "report": {
+  "mode": "code",
+  "overview": "本期入选 16 条，扫描 415 条原始条目，24/26 个来源可用。按方向：国际局势 5 条、AI 发展 6 条、不为人知的知识 3 条。按事件类型：技术进展 4 条、国际关系 3 条、政策监管 2 条等。按地区：美国 7 条、中国 4 条、全球 3 条等。本期没有多家媒体同时报道的条目，全部为单一来源。",
+  "signals": [],
+  "groups": [
+   {
+    "key": "ai",
+    "label": "AI 发展",
+    "n": 6
+   },
+   {
+    "key": "world",
+    "label": "国际局势",
+    "n": 5
+   },
+   {
+    "key": "know",
+    "label": "不为人知的知识",
+    "n": 3
+   }
+  ],
+  "types": [
+   {
+    "key": "tech",
+    "label": "技术进展",
+    "n": 4
+   },
+   {
+    "key": "world",
+    "label": "国际关系",
+    "n": 3
+   },
+   {
+    "key": "policy",
+    "label": "政策监管",
+    "n": 2
+   },
+   {
+    "key": "business",
+    "label": "商业资本",
+    "n": 2
+   },
+   {
+    "key": "research",
+    "label": "研究进展",
+    "n": 2
+   },
+   {
+    "key": "other",
+    "label": "其他",
+    "n": 2
+   },
+   {
+    "key": "industry",
+    "label": "行业观察",
+    "n": 1
+   }
+  ],
+  "regions": [
+   {
+    "key": "us",
+    "label": "美国",
+    "n": 7
+   },
+   {
+    "key": "cn",
+    "label": "中国",
+    "n": 4
+   },
+   {
+    "key": "global",
+    "label": "全球",
+    "n": 3
+   },
+   {
+    "key": "me",
+    "label": "中东",
+    "n": 2
+   }
+  ],
+  "confirmed": [
+   {
+    "title": "俄方：俄美乌三方会谈有“决定性意义”",
+    "n": 2
+   }
+  ],
+  "confirmed_n": 1,
+  "source_kinds": [
+   {
+    "kind": "垂直媒体",
+    "n": 6
+   },
+   {
+    "kind": "市场化媒体",
+    "n": 4
+   },
+   {
+    "kind": "通讯社",
+    "n": 4
+   },
+   {
+    "kind": "公共媒体",
+    "n": 2
+   }
+  ],
+  "note": "数字由程序统计；类型/地区标签来自模型或关键词规则；「归纳判断」是编辑视角的概括，不是事实，每条都附原文链接可核对。"
+ },
+ "stats": {
+  "scanned": 415,
+  "selected": 16,
+  "raw": 1974,
+  "clusters": 401,
+  "dedup": 413,
+  "sources_ok": 24,
+  "sources_total": 26,
+  "lookback_hours": 48,
+  "llm_mode": "llm",
+  "model": "deepseek-flash ×12",
+  "llm_calls": 12,
+  "cost": 0.0413,
+  "generated_at": "2026-10-31 05:23",
+  "errors": [
+   {
+    "name": "Hugging Face 博客",
+    "error": "HTTP 202"
+   },
+   {
+    "name": "阮一峰的网络日志",
+    "error": "HTTP 403 / HTTP 403"
+   }
+  ]
+ },
+ "archives": [
+  {
+   "date": "2026-10-30",
+   "weekday": "周五"
+  },
+  {
+   "date": "2026-10-29",
+   "weekday": "周四"
+  },
+  {
+   "date": "2026-10-28",
+   "weekday": "周三"
+  },
+  {
+   "date": "2026-10-27",
+   "weekday": "周二"
+  },
+  {
+   "date": "2026-10-26",
+   "weekday": "周一"
+  }
+ ]
+}
