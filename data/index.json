@@ -1,6 +1,37 @@
 {
- "updated": "2026-10-30 21:23",
+ "updated": "2026-10-31 20:24",
  "issues": [
+  {
+   "date": "2026-11-01",
+   "weekday": "周日",
+   "issue_no": 7,
+   "one_liner": "国内首个具身仿真数采中心在杭州落地，称一个月可完成全行业两年积累的数据量。",
+   "selected": 16,
+   "sources_ok": 25,
+   "groups": {
+    "ai": 6,
+    "world": 5,
+    "know": 3,
+    "other": 2
+   },
+   "types": {
+    "world": 5,
+    "product": 4,
+    "research": 2,
+    "other": 2,
+    "business": 1,
+    "industry": 1,
+    "tech": 1
+   },
+   "regions": {
+    "cn": 8,
+    "global": 4,
+    "me": 2,
+    "us": 1,
+    "eu": 1
+   },
+   "head": "本期包含微软与英伟达推出Surface Laptop Ultra、新芯航途发布车规级AI芯片X7 Ultra、DeepSeek发布新Agen"
+  },
   {
    "date": "2026-10-31",
    "weekday": "周六",
@@ -180,50 +211,50 @@
   }
  ],
  "aggregate": {
-  "issues": 6,
-  "items": 96,
+  "issues": 7,
+  "items": 112,
   "first": "2026-10-26",
-  "last": "2026-10-31",
+  "last": "2026-11-01",
   "types": [
    {
     "key": "world",
     "label": "国际关系",
-    "n": 19
-   },
-   {
-    "key": "tech",
-    "label": "技术进展",
-    "n": 19
+    "n": 24
    },
    {
     "key": "product",
     "label": "产品发布",
-    "n": 17
+    "n": 21
+   },
+   {
+    "key": "tech",
+    "label": "技术进展",
+    "n": 20
    },
    {
     "key": "other",
     "label": "其他",
-    "n": 15
+    "n": 17
+   },
+   {
+    "key": "business",
+    "label": "商业资本",
+    "n": 7
+   },
+   {
+    "key": "research",
+    "label": "研究进展",
+    "n": 7
+   },
+   {
+    "key": "industry",
+    "label": "行业观察",
+    "n": 7
    },
    {
     "key": "policy",
     "label": "政策监管",
     "n": 6
-   },
-   {
-    "key": "business",
-    "label": "商业资本",
-    "n": 6
-   },
-   {
-    "key": "industry",
-    "label": "行业观察",
-    "n": 6
-   },
-   {
-    "key": "research",
-    "label": "研究进展",
-    "n": 5
    },
    {
     "key": "security",
@@ -238,29 +269,29 @@
   ],
   "regions": [
    {
-    "key": "us",
-    "label": "美国",
-    "n": 29
-   },
-   {
     "key": "cn",
     "label": "中国",
-    "n": 28
+    "n": 36
+   },
+   {
+    "key": "us",
+    "label": "美国",
+    "n": 30
    },
    {
     "key": "global",
     "label": "全球",
-    "n": 19
+    "n": 23
    },
    {
     "key": "me",
     "label": "中东",
-    "n": 13
+    "n": 15
    },
    {
     "key": "eu",
     "label": "欧洲",
-    "n": 5
+    "n": 6
    },
    {
     "key": "asia",

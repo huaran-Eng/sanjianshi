@@ -1,0 +1,519 @@
+{
+ "date": "2026-11-01",
+ "date_cn": "11 月 1 日",
+ "weekday": "周日",
+ "issue_no": 7,
+ "one_liner": "国内首个具身仿真数采中心在杭州落地，称一个月可完成全行业两年积累的数据量。",
+ "lede": "扫描 379 条，从 25/26 个可用来源里留下 16 条：国际局势 5 条 · AI 发展 6 条 · 不为人知的知识 3 条。",
+ "cover_image": "assets/img/fc89c0e9300159df.jpg",
+ "headline": [
+  {
+   "id": "fc89c0e9300159df",
+   "source_id": "tmtpost",
+   "source_name": "钛媒体",
+   "source_kind": "市场化媒体",
+   "title": "预测失效的那刻，存储行业撞见物理AI的边界",
+   "link": "https://www.tmtpost.com/8188551.html",
+   "published": "2026-10-31T19:57:24+08:00",
+   "image_url": "https://images.tmtpost.com/uploads/images/2023/tkrss/t435htrn3.png",
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "img": "assets/img/fc89c0e9300159df.jpg",
+   "summary": "微软联合英伟达推出搭载RTX Spark超级芯片的Surface Laptop Ultra，这是Windows生态首次拿到英伟达这款一体化顶级SoC。Counterpoint Research此前预计人形机器人存储需求5年增加20倍，马斯克驳斥称其“荒谬”，并表示机器人所需的内存容量将超过地球上其他所有设备的总和。原文指出，双方的测算建立在不同的前提假设上：一方沿着已商业化终端的增长路径做线性外推，另一方从具身智能的终点倒推基础设施需求上限。",
+   "why": "这条报道呈现了AI算力与存储需求预测中的方法论分歧，有助于理解具身智能的工程约束，契合读者对AI发展的关注。",
+   "tags": [
+    "AI",
+    "具身智能",
+    "存储需求"
+   ],
+   "summary_mode": "llm",
+   "type": "product",
+   "region": "global",
+   "topic": "微软英伟达推出Surface新机",
+   "type_label": "产品发布",
+   "region_label": "全球"
+  },
+  {
+   "id": "afe1aca41c0ecb2c",
+   "source_id": "un_news_zh",
+   "source_name": "联合国新闻·中文",
+   "source_kind": "公共媒体",
+   "title": "【世界进行时】2026年10月30日",
+   "link": "https://news.un.org/feed/view/zh/story/2026/10/1143108",
+   "published": "2026-10-30T20:00:00+08:00",
+   "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Graphics%20Library/24-00009ag_UNWeekly_YouTube_thumbnail_1280x720px_C.jpg/image560x340cropped.jpg",
+   "source_count": 1,
+   "pr": 0,
+   "group": "world",
+   "img": "assets/img/afe1aca41c0ecb2c.jpg",
+   "summary": "10月28日，联合国大会以130票赞成、17票反对、25票弃权通过决议，敦促美国立即终止对古巴的经济、商业和金融封锁，这是联大连续第34年通过类似决议。由联合国人权理事会设立的乌克兰问题独立国际调查委员会发布报告，认定俄军指挥官在明知后果的情况下袭击乌克兰能源系统，构成蓄意攻击平民和民用设施的战争罪。联合国毒品和犯罪问题办公室调查显示，2026年阿富汗罂粟种植面积同比增加330%，鸦片产量增至上一年的五倍，这是该国自2022年实施毒品禁令以来鸦片生产首次显著反弹。",
+   "why": "这条汇总了联大表决、乌克兰调查结论和阿富汗鸦片产量等多项国际动态，符合读者对国际局势的关注。",
+   "tags": [
+    "国际局势",
+    "联合国",
+    "俄乌战争"
+   ],
+   "summary_mode": "llm",
+   "type": "world",
+   "region": "global",
+   "topic": "联大通过终止对古巴封锁决议",
+   "type_label": "国际关系",
+   "region_label": "全球"
+  },
+  {
+   "id": "03497b7e90d4e99c",
+   "source_id": "leiphone",
+   "source_name": "雷锋网",
+   "source_kind": "垂直媒体",
+   "title": "全行业两年攒下百万小时数据，影溯想 1 个月生产完：全国首个具身仿真数采中心落地杭州",
+   "link": "https://www.leiphone.com/category/academic/xPVWQgBN3Foj7fo5.html",
+   "published": "2026-10-30T19:08:00+08:00",
+   "image_url": "https://static.leiphone.com/uploads/new/images/20261030/6ae4767186efc.jpg?imageMogr2/quality/90",
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "img": "assets/img/03497b7e90d4e99c.jpg",
+   "summary": "影溯于10月29日在杭州落地全国首家以仿真为主的具身智能数采中心，目标将产能拉升至月产百万小时级数据。据中国信息通信研究院，截至今年6月底全国已建成启用超过70家训练场，另有40余家在建或规划，但大量训练场集中在易展示任务上，复杂长程任务挖掘不足。影溯称该中心基于少量真机或遥操示范种子，在数百个并行环境中自动批量合成闭环轨迹，产能公式为“环境配置数×并行算力”。",
+   "why": "涉及具身智能的数据供给方式变化，属于AI发展方向，且不涉及明星八卦。",
+   "tags": [
+    "具身智能",
+    "仿真数据",
+    "AI"
+   ],
+   "summary_mode": "llm",
+   "type": "industry",
+   "region": "cn",
+   "topic": "具身仿真数采中心落地杭州",
+   "type_label": "行业观察",
+   "region_label": "中国"
+  }
+ ],
+ "featured": [
+  {
+   "id": "4d85203b6d5c6bc0",
+   "source_id": "tmtpost",
+   "source_name": "钛媒体",
+   "source_kind": "市场化媒体",
+   "title": "从算法到芯片，Momenta正在下一盘什么棋？",
+   "link": "https://www.tmtpost.com/8188282.html",
+   "published": "2026-10-31T19:43:34+08:00",
+   "image_url": "https://images.tmtpost.com/uploads/images/2023/tkrss/2y354u6wj5yethgr3.png",
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "img": "assets/img/4d85203b6d5c6bc0.jpg",
+   "summary": "10月29日，新芯航途发布车规级AI芯片X7 Ultra，具备700 TOPS大模型算力。新芯航途脱胎于Momenta内部的芯片设计项目，双方在技术和业务层面保持紧密联系。其首款产品X7于2026年3月量产上车，截至发布会量产8个月累计出货超过20万颗，搭载10款量产车型，获超过40款车型订单。",
+   "why": "这条内容涉及AI芯片与智能驾驶的软硬件协同路径，属于AI发展议题，与读者关注方向相关。",
+   "tags": [
+    "AI芯片",
+    "智能驾驶",
+    "Momenta"
+   ],
+   "summary_mode": "llm",
+   "type": "product",
+   "region": "cn",
+   "topic": "新芯航途发布车规AI芯片",
+   "type_label": "产品发布",
+   "region_label": "中国"
+  },
+  {
+   "id": "884668938e2d9b1d",
+   "source_id": "chinanews_world",
+   "source_name": "中国新闻网·国际",
+   "source_kind": "通讯社",
+   "title": "俄罗斯外长：日本停止对俄不友好方可恢复全面对话",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-31/10723805.shtml",
+   "published": "2026-10-31T10:43:37+08:00",
+   "image_url": null,
+   "source_count": 1,
+   "pr": 0,
+   "group": "world",
+   "summary": "据俄罗斯媒体报道，俄罗斯外交部10月30日发布声明称，俄外长拉夫罗夫当天应日方请求，在美国亚特兰大出席二十国集团外长会期间同日本外务大臣茂木敏充简短交谈，双方谈及双边关系。拉夫罗夫强调，日本停止对俄不友好做法，是恢复俄日全面对话的必要条件。",
+   "why": "这条内容属于国际局势类，讲的是俄日双边关系的接触与俄方表态，符合读者对国际局势的关注。",
+   "tags": [
+    "国际局势",
+    "俄日关系",
+    "G20外长会"
+   ],
+   "summary_mode": "llm",
+   "type": "world",
+   "region": "global",
+   "topic": "俄外长称日需停止不友好做法",
+   "type_label": "国际关系",
+   "region_label": "全球"
+  },
+  {
+   "id": "86088a8a85a3a6c8",
+   "source_id": "leiphone",
+   "source_name": "雷锋网",
+   "source_kind": "垂直媒体",
+   "title": "一天造300万个沙盒，10万张卡自己写系统：2026年国产 RSI 到底有多野？",
+   "link": "https://www.leiphone.com/category/yanxishe/UIbgVZxTjEoMswaE.html",
+   "published": "2026-10-30T19:32:00+08:00",
+   "image_url": "https://static.leiphone.com/uploads/new/images/20261030/6ae47fea95fac.jpg?imageMogr2/quality/90",
+   "source_count": 1,
+   "pr": 0,
+   "group": "know",
+   "img": "assets/img/86088a8a85a3a6c8.jpg",
+   "summary": "雷锋网报道称，2026年RSI（AI造AI）成为国内模型厂商争相晒出的内部成果，也是国内一级市场最热的方向之一。上海交大、清华、字节、商汤等机构的35位研究者在9月发表论文，把RSI分为L1到L5五层，结论是全球前沿大厂大多处于L1到L2的过渡阶段。智谱用GLM-5.3驱动的Infra Agent在10万张国产芯片集群上，仅用两周从零搭起GLM-5.3-Flash的生产级推理服务，端到端吞吐拉到初始基线的3.2倍；DeepSeek联合清华推出自动化沙箱集群DSec，每天约生产300万个沙箱。",
+   "why": "这条新闻讲的是AI自己改进AI的工程进展和分层标准，属于读者关注的AI发展方向，也涉及国产芯片集群等产业信息。",
+   "tags": [
+    "AI发展",
+    "RSI",
+    "国产模型"
+   ],
+   "summary_mode": "llm",
+   "type": "research",
+   "region": "cn",
+   "topic": "国产RSI研究分层与进展",
+   "type_label": "研究进展",
+   "region_label": "中国"
+  },
+  {
+   "id": "118bb5dd658bb6a8",
+   "source_id": "tmtpost",
+   "source_name": "钛媒体",
+   "source_kind": "市场化媒体",
+   "title": "芯片的大买主们，快没钱了？",
+   "link": "https://www.tmtpost.com/8188472.html",
+   "published": "2026-10-31T19:57:20+08:00",
+   "image_url": "https://images.tmtpost.com/uploads/images/2023/tkrss/2r4t3hrn3.png",
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "img": "assets/img/118bb5dd658bb6a8.jpg",
+   "summary": "Alphabet 三季度经营活动带来约423亿美元现金，购置设备和物业支出约514亿美元，自由现金流为负约91亿美元。黄仁勋表示新云服务商缺少的是营运资金，马斯克则称过去几周债务市场几乎不再向缺乏AI数据中心以外大规模收入的公司提供资金，并预言两百多家新云将经历大规模倒闭与整合。CoreWeave 二季度经营活动现金净流入约6.79亿美元，购置设备和物业支出64.22亿美元，同期净利息费用约6.4亿美元、相当于营收的四分之一。",
+   "why": "这条讲的是AI算力扩张背后的资金与融资条件变化，属于AI发展议题。",
+   "tags": [
+    "AI算力",
+    "融资",
+    "芯片"
+   ],
+   "summary_mode": "llm",
+   "type": "business",
+   "region": "global",
+   "topic": "芯片大客户现金流与融资承压",
+   "type_label": "商业资本",
+   "region_label": "全球"
+  },
+  {
+   "id": "a0babe4cbfb7433b",
+   "source_id": "un_news_zh",
+   "source_name": "联合国新闻·中文",
+   "source_kind": "公共媒体",
+   "title": "人权高专办：加沙民众正深陷反复流离失所的“梦魇”",
+   "link": "https://news.un.org/feed/view/zh/story/2026/10/1143101",
+   "published": "2026-10-30T20:00:00+08:00",
+   "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/21-05-2026-displacement-Gaza.jpg/image560x340cropped.jpg",
+   "source_count": 1,
+   "pr": 0,
+   "group": "world",
+   "img": "assets/img/a0babe4cbfb7433b.jpg",
+   "summary": "联合国人权高专办10月30日警告，以色列军队不断将巴勒斯坦人逼向加沙地带日益狭小的区域，同时破坏民用基础设施、袭击流离失所者安置点。人权高专办表示，以色列已宣布计划将军事部署范围扩大至加沙地带总面积的70%，以军驻扎区域以“黄线”为界，驻军范围扩大使附近居民被迫再次逃离。人权高专办称，过去两周以军在加沙城及加沙地带中部多处向西扩大军事部署，至少两次袭击舒加艾耶地区的流离失所者营地；据巴勒斯坦公共工程和住房部统计，10月25日无人机袭击帐篷导致200户家庭、共800人再次流离失所。",
+   "why": "涉及加沙局势与平民流离失所的国际动态，属读者关注的国际局势范畴。",
+   "tags": [
+    "加沙",
+    "联合国",
+    "流离失所"
+   ],
+   "summary_mode": "llm",
+   "type": "world",
+   "region": "me",
+   "topic": "加沙民众反复流离失所",
+   "type_label": "国际关系",
+   "region_label": "中东"
+  }
+ ],
+ "quick": [
+  {
+   "title": "《久坐健康指南》作者、运动健康领域创作者阿帅装了啥？",
+   "title_cn": "",
+   "link": "https://sspai.com/prime/story/zhuanglesha-261030",
+   "source_name": "少数派",
+   "source_kind": "社区",
+   "id": "f035d3f8d8d0e6df",
+   "type": "other",
+   "type_label": "其他",
+   "region": "cn",
+   "region_label": "中国"
+  },
+  {
+   "title": "世界模型首次指导设计芯片！超大核NPU700TOPS，99%算力可用",
+   "title_cn": "",
+   "link": "https://www.qbitai.com/2026/10/506866.html",
+   "source_name": "量子位",
+   "source_kind": "垂直媒体",
+   "id": "6110239b6ccd54e9",
+   "type": "research",
+   "type_label": "研究进展",
+   "region": "cn",
+   "region_label": "中国"
+  },
+  {
+   "title": "乌克兰：奥列什基停火为平民带来希望，但救援车辆仍遭袭击",
+   "title_cn": "",
+   "link": "https://news.un.org/feed/view/zh/story/2026/10/1143106",
+   "source_name": "联合国新闻·中文",
+   "source_kind": "公共媒体",
+   "id": "a66df42467eaf4ca",
+   "type": "world",
+   "type_label": "国际关系",
+   "region": "eu",
+   "region_label": "欧洲"
+  },
+  {
+   "title": "精确到秒的时间记录是怎样的？我的柳比歇夫法半年实践",
+   "title_cn": "",
+   "link": "https://sspai.com/post/116435",
+   "source_name": "少数派",
+   "source_kind": "社区",
+   "id": "13046a9697dc3ebc",
+   "type": "other",
+   "type_label": "其他",
+   "region": "cn",
+   "region_label": "中国"
+  },
+  {
+   "title": "英伟达团队基于 MiniMax H3 开源视频增强方案，最高支持 4K 重生成",
+   "title_cn": "",
+   "link": "https://www.qbitai.com/2026/10/506743.html",
+   "source_name": "量子位",
+   "source_kind": "垂直媒体",
+   "id": "2f942521f725ed9a",
+   "type": "tech",
+   "type_label": "技术进展",
+   "region": "us",
+   "region_label": "美国"
+  },
+  {
+   "title": "伊朗外长：目前没有与美国官员会面的计划",
+   "title_cn": "",
+   "link": "https://www.chinanews.com.cn/gj/2026/10-31/10724122.shtml",
+   "source_name": "中国新闻网·国际",
+   "source_kind": "通讯社",
+   "id": "73e9c4818cb95f23",
+   "type": "world",
+   "type_label": "国际关系",
+   "region": "me",
+   "region_label": "中东"
+  }
+ ],
+ "challenge": {
+  "question": "是发布新架构还是架构探索？",
+  "a": "强调仍属工程实践的架构探索，部分为开源原型，尚非正式独立产品，并详述四项能力",
+  "b": "强调 DeepSeek 已发布全新 Agent 架构，列举双层架构、事件驱动等技术思路，内部实例持续运行",
+  "diff": "A 说尚非正式产品，B 称发布全新架构",
+  "mode": "llm",
+  "pair": [
+   {
+    "id": "72eb02ac1b431de8",
+    "source_id": "ifanr",
+    "source_name": "爱范儿",
+    "source_kind": "垂直媒体",
+    "title": "DeepSeek 重磅发布全新 Agent 架构：AI 开始指挥 AI 干活",
+    "link": "https://www.ifanr.com/1687026?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "published": "2026-10-31T21:59:57+08:00",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/10/7-1.jpg",
+    "type": "product",
+    "region": "cn",
+    "topic": "DeepSeek发布新Agent架构",
+    "type_label": "产品发布",
+    "region_label": "中国"
+   },
+   {
+    "id": "9f05f2e72f9b5a44",
+    "source_id": "jiemian",
+    "source_name": "界面新闻",
+    "source_kind": "市场化媒体",
+    "title": "DeepSeek发布全新Agent架构",
+    "link": "https://www.jiemian.com/article/15278252.html",
+    "published": "2026-10-31T22:39:24+08:00",
+    "image_url": "https:https://img.jiemian.com/101/original/20220307/164664251748738900_a580x330.png",
+    "type": "product",
+    "region": "cn",
+    "topic": "DeepSeek发布新Agent架构",
+    "type_label": "产品发布",
+    "region_label": "中国"
+   }
+  ],
+  "kind": "同一事件"
+ },
+ "counts": {
+  "ai": 6,
+  "world": 5,
+  "know": 3,
+  "other": 2
+ },
+ "report": {
+  "mode": "llm",
+  "overview": "本期包含微软与英伟达推出Surface Laptop Ultra、新芯航途发布车规级AI芯片X7 Ultra、DeepSeek发布新Agent架构等产品动态，以及世界模型指导芯片设计、国产RSI分层等研究进展。联合国方面就古巴封锁、加沙流离失所与乌克兰停火作出表态。",
+  "signals": [
+   "多家厂商同期发布Agent架构与车规芯片，产品侧动作密集。",
+   "具身智能训练场全国已超70家，仿真数采中心落地杭州。",
+   "联合国机构就古巴、加沙、乌克兰议题集中发声。"
+  ],
+  "groups": [
+   {
+    "key": "ai",
+    "label": "AI 发展",
+    "n": 6
+   },
+   {
+    "key": "world",
+    "label": "国际局势",
+    "n": 5
+   },
+   {
+    "key": "know",
+    "label": "不为人知的知识",
+    "n": 3
+   }
+  ],
+  "types": [
+   {
+    "key": "world",
+    "label": "国际关系",
+    "n": 5
+   },
+   {
+    "key": "product",
+    "label": "产品发布",
+    "n": 4
+   },
+   {
+    "key": "research",
+    "label": "研究进展",
+    "n": 2
+   },
+   {
+    "key": "other",
+    "label": "其他",
+    "n": 2
+   },
+   {
+    "key": "business",
+    "label": "商业资本",
+    "n": 1
+   },
+   {
+    "key": "industry",
+    "label": "行业观察",
+    "n": 1
+   },
+   {
+    "key": "tech",
+    "label": "技术进展",
+    "n": 1
+   }
+  ],
+  "regions": [
+   {
+    "key": "cn",
+    "label": "中国",
+    "n": 8
+   },
+   {
+    "key": "global",
+    "label": "全球",
+    "n": 4
+   },
+   {
+    "key": "me",
+    "label": "中东",
+    "n": 2
+   },
+   {
+    "key": "us",
+    "label": "美国",
+    "n": 1
+   },
+   {
+    "key": "eu",
+    "label": "欧洲",
+    "n": 1
+   }
+  ],
+  "confirmed": [
+   {
+    "title": "DeepSeek 重磅发布全新 Agent 架构：AI 开始指挥 AI 干活",
+    "n": 2
+   },
+   {
+    "title": "伊朗外长：目前没有与美国官员会面的计划",
+    "n": 2
+   }
+  ],
+  "confirmed_n": 2,
+  "source_kinds": [
+   {
+    "kind": "垂直媒体",
+    "n": 5
+   },
+   {
+    "kind": "市场化媒体",
+    "n": 4
+   },
+   {
+    "kind": "公共媒体",
+    "n": 3
+   },
+   {
+    "kind": "通讯社",
+    "n": 2
+   },
+   {
+    "kind": "社区",
+    "n": 2
+   }
+  ],
+  "note": "数字由程序统计；类型/地区标签来自模型或关键词规则；「归纳判断」是编辑视角的概括，不是事实，每条都附原文链接可核对。"
+ },
+ "stats": {
+  "scanned": 379,
+  "selected": 16,
+  "raw": 2862,
+  "clusters": 366,
+  "dedup": 376,
+  "sources_ok": 25,
+  "sources_total": 26,
+  "lookback_hours": 48,
+  "llm_mode": "llm",
+  "model": "deepseek-flash ×12",
+  "llm_calls": 12,
+  "cost": 0.0445,
+  "generated_at": "2026-11-01 04:24",
+  "errors": [
+   {
+    "name": "阮一峰的网络日志",
+    "error": "HTTP 403 / HTTP 403"
+   }
+  ]
+ },
+ "archives": [
+  {
+   "date": "2026-10-31",
+   "weekday": "周六"
+  },
+  {
+   "date": "2026-10-30",
+   "weekday": "周五"
+  },
+  {
+   "date": "2026-10-29",
+   "weekday": "周四"
+  },
+  {
+   "date": "2026-10-28",
+   "weekday": "周三"
+  },
+  {
+   "date": "2026-10-27",
+   "weekday": "周二"
+  },
+  {
+   "date": "2026-10-26",
+   "weekday": "周一"
+  }
+ ]
+}
