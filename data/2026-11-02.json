@@ -1,0 +1,517 @@
+{
+ "date": "2026-11-02",
+ "date_cn": "11 月 2 日",
+ "weekday": "周一",
+ "issue_no": 8,
+ "one_liner": "Pika 基于 MiniMax H3 开源 H3 Flex，六步实现音视频联合生成",
+ "lede": "扫描 319 条，从 26/26 个可用来源里留下 16 条：国际局势 4 条 · AI 发展 8 条 · 不为人知的知识 2 条。",
+ "cover_image": "assets/img/bf8e5ac4e4e54145.jpg",
+ "headline": [
+  {
+   "id": "bf8e5ac4e4e54145",
+   "source_id": "leiphone",
+   "source_name": "雷锋网",
+   "source_kind": "垂直媒体",
+   "title": "Pika 基于 MiniMax H3 开源 H3 Flex，六步实现音视频联合生成",
+   "link": "https://www.leiphone.com/category/industrynews/MK1z0js4sqcp1xca.html",
+   "published": "2026-11-01T17:46:00+08:00",
+   "image_url": "https://static.leiphone.com/uploads/new/images/20261101//6ae70a2ab884d.jpg?imageMogr2/quality/90",
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "img": "assets/img/bf8e5ac4e4e54145.jpg",
+   "summary": "近日，Pika 发布 MiniMax H3 衍生模型 Pika H3 Flex，并开放适配器权重与推理代码。该模型通过六步去噪联合生成画面和声音，支持文本、首尾帧和多模态参考输入，供创作者进行镜头设计、参考生成和视频编辑。本次发布包含两套 LoRA 适配器，分别用于文本及首尾帧条件生成、多模态参考生成，同时提供 MiniMax H3 基础组件和本地推理工具。",
+   "why": "属于你关注的「AI 发展」。",
+   "tags": [],
+   "summary_mode": "extractive",
+   "type": "product",
+   "region": "cn",
+   "topic": "音视频联合生成模型开源",
+   "type_label": "产品发布",
+   "region_label": "中国"
+  },
+  {
+   "id": "328f8612ae991245",
+   "source_id": "tmtpost",
+   "source_name": "钛媒体",
+   "source_kind": "市场化媒体",
+   "title": "Agent改写算力账本，CPU不再是AI服务器的配角？",
+   "link": "https://www.tmtpost.com/8189082.html",
+   "published": "2026-11-01T17:13:10+08:00",
+   "image_url": "https://images.tmtpost.com/uploads/images/2023/tkrss/2y354u6wj5yethgr3.png",
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "img": "assets/img/328f8612ae991245.jpg",
+   "summary": "TrendForce集邦咨询预估，随着AI服务厂商推出AI Agent相关应用，服务器CPU需求自2025年下半年起稳步成长，2026年出货年增幅将达31%，2027年有望再年增逾40%。英特尔首席执行官陈立武表示，随着AI工作负载重心由训练转向推理，CPU与GPU的比例关系正从1:8向1:1转变；行业数据显示，AI智能体时代每吉瓦所需CPU核心数可能从3000万增至1.2亿。投行KeyBanc分析师表示，AMD EPYC服务器CPU 2026年全年产能近乎售罄，高端型号交期拉长至8–10周。",
+   "why": "这条讲AI负载从训练转向推理后，采购清单从只买GPU变成GPU、CPU、内存、网络、配电散热整体核算，属于AI发展方向的算力账本变化。",
+   "tags": [
+    "AI算力",
+    "服务器CPU",
+    "Agent"
+   ],
+   "summary_mode": "llm",
+   "type": "industry",
+   "region": "global",
+   "topic": "AI Agent推升服务器CPU需求",
+   "type_label": "行业观察",
+   "region_label": "全球"
+  },
+  {
+   "id": "6110239b6ccd54e9",
+   "source_id": "qbitai",
+   "source_name": "量子位",
+   "source_kind": "垂直媒体",
+   "title": "世界模型首次指导设计芯片！超大核NPU700TOPS，99%算力可用",
+   "link": "https://www.qbitai.com/2026/10/506866.html",
+   "published": "2026-10-31T13:11:19+08:00",
+   "image_url": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "img": "assets/img/6110239b6ccd54e9.jpg",
+   "summary": "新芯航途发布首款对外亮相的芯片X7 Ultra，NPU算力700 TOPS，NPU计算利用率达98.7%。官方称其量化模型输出与FP32基准模型相似度超过99.99%，对比行业旗舰产品内存带宽消耗降低80%、能效提升100%。该芯片以Momenta的R7世界模型作为“大模型算力”评测对象，新芯航途与Momenta无直接股权隶属关系。",
+   "why": "涉及AI芯片与大模型算力评测方法的变化，属于AI发展方向的硬信息。",
+   "tags": [
+    "AI芯片",
+    "世界模型",
+    "智驾"
+   ],
+   "summary_mode": "llm",
+   "type": "product",
+   "region": "cn",
+   "topic": "世界模型指导设计的NPU芯片",
+   "type_label": "产品发布",
+   "region_label": "中国"
+  }
+ ],
+ "featured": [
+  {
+   "id": "efd36ba232c8edf5",
+   "source_id": "tmtpost",
+   "source_name": "钛媒体",
+   "source_kind": "市场化媒体",
+   "title": "具身智能的钱，流向机器人的“皮肤”",
+   "link": "https://www.tmtpost.com/8188790.html",
+   "published": "2026-11-01T10:57:24+08:00",
+   "image_url": "https://images.tmtpost.com/uploads/images/2026/10/31/b0fc9f1a890e9ba6f034739386f3c99b_1793448432.jpeg",
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "img": "assets/img/efd36ba232c8edf5.jpg",
+   "summary": "IT桔子统计显示，2026年10月具身智能赛道发生33起融资、总额101.05亿元，9月为60起、110.28亿元。10月29日，生产柔性织物触觉传感器的企业矩侨工业宣布完成亿元A轮融资，由蚂蚁集团领投。这是蚂蚁在触觉赛道上的第二次投资，此前两个月它刚领投视触觉路线的戴盟机器人。",
+   "why": "这条新闻讲的是AI与机器人产业上游的资金流向变化，属于AI发展议题，也不涉及明星八卦。",
+   "tags": [
+    "具身智能",
+    "触觉传感器",
+    "融资"
+   ],
+   "summary_mode": "llm",
+   "type": "business",
+   "region": "cn",
+   "topic": "具身智能融资流向触觉传感器",
+   "type_label": "商业资本",
+   "region_label": "中国"
+  },
+  {
+   "id": "4f3133b8ba59f8e4",
+   "source_id": "chinanews_world",
+   "source_name": "中国新闻网·国际",
+   "source_kind": "通讯社",
+   "title": "（国际观察）高油价等多重因素推动俄罗斯卢布“逆势走强”",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-01/10724443.shtml",
+   "published": "2026-11-01T19:38:59+08:00",
+   "image_url": null,
+   "source_count": 1,
+   "pr": 0,
+   "group": "world",
+   "summary": "11月1日，俄罗斯央行官网显示1美元兑换80.56卢布，与10月底汇率基本持平；10月卢布汇率从85.71走强并稳固在80关口。多位分析人士认为，卢布走强主要受高油价、高基准利率、出口收入增加，以及出口商在纳税高峰期前抛售外汇和地缘政治环境影响。俄央行10月23日将基准利率维持在14%不变，并将今年通胀预期从6%–7%上调至7.1%–7.6%。",
+   "why": "适合关注国际局势的读者：原文呈现了油价、利率、出口收入与地缘政治因素如何共同影响俄罗斯卢布汇率，并列出分析师对11月汇率区间和风险因素的判断。",
+   "tags": [
+    "俄罗斯卢布",
+    "国际金融",
+    "油价"
+   ],
+   "summary_mode": "llm",
+   "type": "business",
+   "region": "global",
+   "topic": "多重因素推动卢布走强",
+   "type_label": "商业资本",
+   "region_label": "全球"
+  },
+  {
+   "id": "604318dbb657de28",
+   "source_id": "leiphone",
+   "source_name": "雷锋网",
+   "source_kind": "垂直媒体",
+   "title": "阿里巴巴与 Apple 达成合作，将千问集成至 Apple 智能",
+   "link": "https://www.leiphone.com/category/industrynews/es0ZV9LsDEsG7QLE.html",
+   "published": "2026-10-31T06:52:00+08:00",
+   "image_url": null,
+   "source_count": 1,
+   "pr": 0,
+   "group": "know",
+   "summary": "10月31日，阿里巴巴与 Apple 达成合作，将千问集成至 Apple 智能，中国用户可在 Siri、写作工具及视觉智能中调用千问的文本与图像理解、内容生成能力。该功能将于11月4日起随最新 iOS 开发者 Beta 版开放测试，并于12月 iOS 27.3 正式发布时面向中国用户推出。用户可自主选择是否开通，请求及生成的回复均不会被阿里巴巴用于模型训练。",
+   "why": "AI 发展方面，这是千问进入苹果系统级功能的落地安排，涉及可用时间、入口和隐私处理方式。",
+   "tags": [
+    "AI",
+    "阿里巴巴",
+    "Apple"
+   ],
+   "summary_mode": "llm",
+   "type": "business",
+   "region": "cn",
+   "topic": "千问集成至Apple智能",
+   "type_label": "商业资本",
+   "region_label": "中国"
+  },
+  {
+   "id": "3922cbd39c43330c",
+   "source_id": "solidot",
+   "source_name": "奇客 Solidot",
+   "source_kind": "垂直媒体",
+   "title": "Sam Altman 认为 PC 内存闲置太糟糕",
+   "link": "https://www.solidot.org/story?sid=85763",
+   "published": "2026-10-31T20:46:18+08:00",
+   "image_url": null,
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "summary": "原文标题为「Sam Altman 认为 PC 内存闲置太糟糕」。正文只包含版权声明、备案号与举报联系方式，未提供该说法的具体内容、出处或背景。原文未说明相关细节。",
+   "why": "这条报道的主题与读者关注的 AI 发展有关，但原文没有可转述的实质信息。",
+   "tags": [
+    "AI",
+    "Sam Altman",
+    "信息不足"
+   ],
+   "summary_mode": "llm",
+   "type": "other",
+   "region": "us",
+   "topic": "仅有标题无正文的条目",
+   "type_label": "其他",
+   "region_label": "美国"
+  },
+  {
+   "id": "81f78c36d8229828",
+   "source_id": "chinanews_world",
+   "source_name": "中国新闻网·国际",
+   "source_kind": "通讯社",
+   "title": "特朗普：美国在伊朗仍需处理一两个目标，包括镐山核设施",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-01/10724256.shtml",
+   "published": "2026-11-01T13:47:34+08:00",
+   "image_url": null,
+   "source_count": 1,
+   "pr": 0,
+   "group": "world",
+   "summary": "美国总统特朗普10月31日表示，美国已摧毁伊朗大部分军事力量，但仍需处理一两个目标，其中包括镐山的地下核设施。特朗普称，镐山位于伊朗中部伊斯法罕省纳坦兹核设施附近，被认为是伊朗最坚固的地下核设施之一；伊朗方面则表示镐山设施“是空的”，美国袭击镐山的行动注定失败。被问及是否将于本周重新对伊朗开战，特朗普回应：“为什么你要问这么愚蠢的问题？”",
+   "why": "直接关系国际局势与美伊冲突走向，且原文给出了具体时间、地点与双方表态，可供跟踪判断。",
+   "tags": [
+    "国际局势",
+    "美伊关系",
+    "核设施"
+   ],
+   "summary_mode": "llm",
+   "type": "world",
+   "region": "me",
+   "topic": "美称仍需处理伊朗核设施",
+   "type_label": "国际关系",
+   "region_label": "中东"
+  }
+ ],
+ "quick": [
+  {
+   "title": "怀旧手记｜夏普 Telios：20 多年前，Handheld PC 中的「少数派」",
+   "title_cn": "",
+   "link": "https://sspai.com/post/116991",
+   "source_name": "少数派",
+   "source_kind": "社区",
+   "id": "dfb2cf320ec765f3",
+   "type": "other",
+   "type_label": "其他",
+   "region": "asia",
+   "region_label": "亚太"
+  },
+  {
+   "title": "详解Super Agent：会主动干活，更懂何时闭嘴",
+   "title_cn": "",
+   "link": "https://www.tmtpost.com/8189032.html",
+   "source_name": "钛媒体",
+   "source_kind": "市场化媒体",
+   "id": "064451148a58d81c",
+   "type": "tech",
+   "type_label": "技术进展",
+   "region": "cn",
+   "region_label": "中国"
+  },
+  {
+   "title": "Al Jazeera celebrates 30th anniversary",
+   "title_cn": "半岛电视台庆祝成立30周年",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/al-jazeera-celebrates-30th-anniversary?traffic_source=rss",
+   "source_name": "Al Jazeera",
+   "source_kind": "通讯社",
+   "id": "624668aac2831580",
+   "type": "other",
+   "type_label": "其他",
+   "region": "me",
+   "region_label": "中东"
+  },
+  {
+   "title": "刚刚，DeepSeek重磅开源：Agent底座架构！",
+   "title_cn": "",
+   "link": "https://www.qbitai.com/2026/10/506904.html",
+   "source_name": "量子位",
+   "source_kind": "垂直媒体",
+   "id": "f111b6b554194644",
+   "type": "tech",
+   "type_label": "技术进展",
+   "region": "cn",
+   "region_label": "中国"
+  },
+  {
+   "title": "Police clash with housing crisis protesters in Portugal",
+   "title_cn": "葡萄牙警方与住房危机抗议者发生冲突",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/police-clash-with-housing-crisis-protesters-in-portugal?traffic_source=rss",
+   "source_name": "Al Jazeera",
+   "source_kind": "通讯社",
+   "id": "6288aef334e04173",
+   "type": "society",
+   "type_label": "社会民生",
+   "region": "eu",
+   "region_label": "欧洲"
+  },
+  {
+   "title": "从“懂回答”到“能执行”：Zoho如何让AI走进企业业务",
+   "title_cn": "",
+   "link": "https://www.leiphone.com/category/industrynews/00recUTGoMQ1JRh4.html",
+   "source_name": "雷锋网",
+   "source_kind": "垂直媒体",
+   "id": "168c21957128f492",
+   "type": "business",
+   "type_label": "商业资本",
+   "region": "cn",
+   "region_label": "中国"
+  }
+ ],
+ "challenge": {
+  "question": "漏洞成因与攻击路径是什么",
+  "a": "A强调无需安装或粘贴，仅打开分享链接即可在受害者登录态执行代码、读取私聊并外传",
+  "b": "B强调攻击链复杂，起点是MathLive虚拟键盘的postMessage加innerHTML，可注入无沙箱iframe",
+  "diff": "A聚焦后果，B聚焦技术机制；成因归属原文未说明",
+  "mode": "llm",
+  "pair": [
+   {
+    "id": "55006e99bd5a1642",
+    "source_id": "hn_best",
+    "source_name": "Hacker News 精选",
+    "source_kind": "社区",
+    "title": "Do the math: How we took over ChatGPT accounts",
+    "link": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+    "published": "2026-10-31T18:30:11+08:00",
+    "image_url": "https://www.parameter.ai/opengraph-image.png",
+    "type": "security",
+    "region": "us",
+    "topic": "ChatGPT账号被接管",
+    "type_label": "安全事件",
+    "region_label": "美国"
+   },
+   {
+    "id": "8757c64281c0e81e",
+    "source_id": "simonw",
+    "source_name": "Simon Willison",
+    "source_kind": "个人",
+    "title": "How We Took Over ChatGPT Accounts",
+    "link": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/",
+    "published": "2026-11-01T07:15:22+08:00",
+    "image_url": null,
+    "type": "security",
+    "region": "us",
+    "topic": "ChatGPT账号被接管漏洞披露",
+    "type_label": "安全事件",
+    "region_label": "美国"
+   }
+  ],
+  "kind": "同一事件"
+ },
+ "counts": {
+  "ai": 8,
+  "world": 4,
+  "know": 2,
+  "other": 2
+ },
+ "report": {
+  "mode": "llm",
+  "overview": "本期条目涉及Pika、新芯航途、DeepSeek等模型与芯片发布，Agent带动CPU需求、具身智能融资、阿里与Apple合作等商业动向；国际方面有卢布走强、特朗普谈伊朗核设施、葡萄牙住房抗议；另有团队披露接管ChatGPT账号的漏洞。",
+  "signals": [
+   "算力叙事延伸到Agent与推理，CPU、NPU需求被条目反复提及",
+   "具身智能融资延续，资金流向触觉传感器等零部件环节",
+   "AI安全议题出现：有团队公开披露接管ChatGPT账号"
+  ],
+  "groups": [
+   {
+    "key": "ai",
+    "label": "AI 发展",
+    "n": 8
+   },
+   {
+    "key": "world",
+    "label": "国际局势",
+    "n": 4
+   },
+   {
+    "key": "know",
+    "label": "不为人知的知识",
+    "n": 2
+   }
+  ],
+  "types": [
+   {
+    "key": "business",
+    "label": "商业资本",
+    "n": 4
+   },
+   {
+    "key": "other",
+    "label": "其他",
+    "n": 3
+   },
+   {
+    "key": "product",
+    "label": "产品发布",
+    "n": 2
+   },
+   {
+    "key": "security",
+    "label": "安全事件",
+    "n": 2
+   },
+   {
+    "key": "tech",
+    "label": "技术进展",
+    "n": 2
+   },
+   {
+    "key": "world",
+    "label": "国际关系",
+    "n": 1
+   },
+   {
+    "key": "society",
+    "label": "社会民生",
+    "n": 1
+   },
+   {
+    "key": "industry",
+    "label": "行业观察",
+    "n": 1
+   }
+  ],
+  "regions": [
+   {
+    "key": "cn",
+    "label": "中国",
+    "n": 7
+   },
+   {
+    "key": "us",
+    "label": "美国",
+    "n": 3
+   },
+   {
+    "key": "me",
+    "label": "中东",
+    "n": 2
+   },
+   {
+    "key": "global",
+    "label": "全球",
+    "n": 2
+   },
+   {
+    "key": "eu",
+    "label": "欧洲",
+    "n": 1
+   },
+   {
+    "key": "asia",
+    "label": "亚太",
+    "n": 1
+   }
+  ],
+  "confirmed": [
+   {
+    "title": "Do the math: How we took over ChatGPT accounts",
+    "n": 2
+   }
+  ],
+  "confirmed_n": 1,
+  "source_kinds": [
+   {
+    "kind": "垂直媒体",
+    "n": 6
+   },
+   {
+    "kind": "通讯社",
+    "n": 4
+   },
+   {
+    "kind": "市场化媒体",
+    "n": 3
+   },
+   {
+    "kind": "社区",
+    "n": 2
+   },
+   {
+    "kind": "个人",
+    "n": 1
+   }
+  ],
+  "note": "数字由程序统计；类型/地区标签来自模型或关键词规则；「归纳判断」是编辑视角的概括，不是事实，每条都附原文链接可核对。"
+ },
+ "stats": {
+  "scanned": 319,
+  "selected": 16,
+  "raw": 2864,
+  "clusters": 305,
+  "dedup": 310,
+  "sources_ok": 26,
+  "sources_total": 26,
+  "lookback_hours": 48,
+  "llm_mode": "llm",
+  "model": "deepseek-flash ×13",
+  "llm_calls": 13,
+  "cost": 0.0389,
+  "generated_at": "2026-11-02 04:58",
+  "errors": []
+ },
+ "archives": [
+  {
+   "date": "2026-11-01",
+   "weekday": "周日"
+  },
+  {
+   "date": "2026-10-31",
+   "weekday": "周六"
+  },
+  {
+   "date": "2026-10-30",
+   "weekday": "周五"
+  },
+  {
+   "date": "2026-10-29",
+   "weekday": "周四"
+  },
+  {
+   "date": "2026-10-28",
+   "weekday": "周三"
+  },
+  {
+   "date": "2026-10-27",
+   "weekday": "周二"
+  },
+  {
+   "date": "2026-10-26",
+   "weekday": "周一"
+  }
+ ]
+}
