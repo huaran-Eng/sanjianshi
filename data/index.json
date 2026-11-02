@@ -1,6 +1,37 @@
 {
- "updated": "2026-11-01 20:58",
+ "updated": "2026-11-02 23:47",
  "issues": [
+  {
+   "date": "2026-11-03",
+   "weekday": "周二",
+   "issue_no": 9,
+   "one_liner": "今天值得看：美官员：美俄乌三方会谈将于10日至11…；美团发布LongCat-2.5大模型…",
+   "selected": 16,
+   "sources_ok": 26,
+   "groups": {
+    "world": 5,
+    "ai": 6,
+    "know": 3,
+    "other": 2
+   },
+   "types": {
+    "world": 6,
+    "product": 3,
+    "policy": 2,
+    "industry": 2,
+    "research": 1,
+    "security": 1,
+    "other": 1
+   },
+   "regions": {
+    "global": 6,
+    "cn": 3,
+    "me": 3,
+    "us": 2,
+    "asia": 2
+   },
+   "head": "美俄乌三方会谈定于11月10日至11日在阿布扎比举行；美国中期选举11月3日投票；特朗普称不急于决定是否重启对伊战事，伊朗称伊美间接磋商密集"
+  },
   {
    "date": "2026-11-02",
    "weekday": "周一",
@@ -244,20 +275,20 @@
   }
  ],
  "aggregate": {
-  "issues": 8,
-  "items": 128,
+  "issues": 9,
+  "items": 144,
   "first": "2026-10-26",
-  "last": "2026-11-02",
+  "last": "2026-11-03",
   "types": [
    {
     "key": "world",
     "label": "国际关系",
-    "n": 25
+    "n": 31
    },
    {
     "key": "product",
     "label": "产品发布",
-    "n": 23
+    "n": 26
    },
    {
     "key": "tech",
@@ -267,7 +298,7 @@
    {
     "key": "other",
     "label": "其他",
-    "n": 20
+    "n": 21
    },
    {
     "key": "business",
@@ -277,22 +308,22 @@
    {
     "key": "industry",
     "label": "行业观察",
+    "n": 10
+   },
+   {
+    "key": "policy",
+    "label": "政策监管",
     "n": 8
    },
    {
     "key": "research",
     "label": "研究进展",
-    "n": 7
-   },
-   {
-    "key": "policy",
-    "label": "政策监管",
-    "n": 6
+    "n": 8
    },
    {
     "key": "security",
     "label": "安全事件",
-    "n": 4
+    "n": 5
    },
    {
     "key": "society",
@@ -304,22 +335,22 @@
    {
     "key": "cn",
     "label": "中国",
-    "n": 43
+    "n": 46
    },
    {
     "key": "us",
     "label": "美国",
-    "n": 33
+    "n": 35
    },
    {
     "key": "global",
     "label": "全球",
-    "n": 25
+    "n": 31
    },
    {
     "key": "me",
     "label": "中东",
-    "n": 17
+    "n": 20
    },
    {
     "key": "eu",
@@ -329,7 +360,7 @@
    {
     "key": "asia",
     "label": "亚太",
-    "n": 3
+    "n": 5
    }
   ]
  }
