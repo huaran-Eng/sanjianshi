@@ -1,0 +1,511 @@
+{
+ "date": "2026-11-04",
+ "date_cn": "11 月 4 日",
+ "weekday": "周三",
+ "issue_no": 10,
+ "one_liner": "朝中社称日本正快速变为战争国家，乌称联合国援助400多名撤离民众。",
+ "lede": "扫描 391 条，从 26/26 个可用来源里留下 16 条：国际局势 6 条 · AI 发展 6 条 · 不为人知的知识 2 条。",
+ "cover_image": "assets/img/94ebbc15834efbf2.jpg",
+ "headline": [
+  {
+   "id": "94ebbc15834efbf2",
+   "source_id": "tmtpost",
+   "source_name": "钛媒体",
+   "source_kind": "市场化媒体",
+   "title": "推理时代，算力产业需要换一套账本丨ToB产业观察",
+   "link": "https://www.tmtpost.com/8191692.html",
+   "published": "2026-11-03T19:00:09+08:00",
+   "image_url": "https://images.tmtpost.com/uploads/images/2026/11/3879323d6d1a41e57c0863597827972b_1793703612.png",
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "img": "assets/img/94ebbc15834efbf2.jpg",
+   "summary": "文章指出，AI算力的价值衡量正从训练时代的峰值算力，转向推理时代的效率，客户开始关注每秒能生成多少Token以及每个Token的成本。中国信通院报告称，2026年推理算力占AI算力总负载的比重将达到70.5%，Gartner预测2026年全球推理支出将首次超过训练支出。文章还提到，交付验证涉及设备健康、集群与网络兼容性、业务负载验证以及连续运行与验收四个层面。",
+   "why": "读者关注AI发展，这条讲的是推理算力取代训练算力成为主战场，以及Token成本、软件优化和芯片格局的变化，属于AI基础设施层面的结构性变化。",
+   "tags": [
+    "AI算力",
+    "推理",
+    "Token经济"
+   ],
+   "summary_mode": "llm",
+   "type": "industry",
+   "region": "cn",
+   "topic": "推理算力成本成关注焦点",
+   "type_label": "行业观察",
+   "region_label": "中国"
+  },
+  {
+   "id": "daa1bebff4666f57",
+   "source_id": "chinanews_world",
+   "source_name": "中国新闻网·国际",
+   "source_kind": "通讯社",
+   "title": "朝中社：日本正快速变为战争国家 日本右翼活动威胁地区和平稳定",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-03/10725431.shtml",
+   "published": "2026-11-03T16:56:21+08:00",
+   "image_url": null,
+   "source_count": 1,
+   "pr": 0,
+   "group": "world",
+   "summary": "朝中社11月3日报道，朝鲜军事评论员发表文章称日本正快速变成战争国家。文章称，5月至9月日本在菲律宾境内发射88式岸基反舰导弹，赴美完成“战斧”巡航导弹试射，并在日美澳联合演习中使用“堤丰”中导系统。文章还提到，在10月19日至29日的日美“利剑27”联合军演中，“25式地对舰导弹”参加了演习。",
+   "why": "涉及东北亚安全局势与日本军事动向，属读者关注的国际局势范畴。",
+   "tags": [
+    "国际局势",
+    "朝鲜",
+    "日本军事"
+   ],
+   "summary_mode": "llm",
+   "type": "world",
+   "region": "asia",
+   "topic": "朝鲜批评日本军事扩张",
+   "type_label": "国际关系",
+   "region_label": "亚太"
+  },
+  {
+   "id": "0e8fa5d0dde63fee",
+   "source_id": "un_news_zh",
+   "source_name": "联合国新闻·中文",
+   "source_kind": "公共媒体",
+   "title": "乌克兰：联合国援助400多名撤离围困的民众，呼吁保障冬季能源供应",
+   "link": "https://news.un.org/feed/view/zh/story/2026/11/1143119",
+   "published": "2026-11-02T20:00:00+08:00",
+   "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/UNICEF%20Oleksii%20Filippov%204.jpg/image560x340cropped.jpg",
+   "source_count": 1,
+   "pr": 0,
+   "group": "world",
+   "img": "assets/img/0e8fa5d0dde63fee.jpg",
+   "summary": "联合国世界粮食计划署周一表示，在乌克兰赫尔松地区短暂停火期间，400多名民众从俄罗斯控制的奥莱什基市撤离。粮食署已向他们提供紧急食品援助，并准备根据后续撤离情况扩大援助规模。联合国开发计划署呼吁国际社会继续提供资金支持，帮助乌克兰在严冬来临前恢复能源供应。",
+   "why": "这条报道涉及乌克兰战事下的人道局势与冬季能源问题，属于读者关注的国际局势。",
+   "tags": [
+    "乌克兰",
+    "联合国",
+    "人道援助"
+   ],
+   "summary_mode": "llm",
+   "type": "world",
+   "region": "eu",
+   "topic": "乌克兰撤离民众与冬季援助",
+   "type_label": "国际关系",
+   "region_label": "欧洲"
+  }
+ ],
+ "featured": [
+  {
+   "id": "b289af387f5a1b7c",
+   "source_id": "tmtpost",
+   "source_name": "钛媒体",
+   "source_kind": "市场化媒体",
+   "title": "DeepSeek不满足于模型，还要让AI自己干活",
+   "link": "https://www.tmtpost.com/8190971.html",
+   "published": "2026-11-03T17:38:34+08:00",
+   "image_url": "https://images.tmtpost.com/uploads/images/2023/tkrss/675859f3.png",
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "img": "assets/img/b289af387f5a1b7c.jpg",
+   "summary": "10月31日，DeepSeek Harness团队发布技术文章《Super-agent设计探索》，同日在GitHub开源配套原型，采用MIT协议。文章提出用router统一接收多渠道消息、worker并行执行任务的分工架构，并给出实验数据：任务完成时间中位数12.4分钟，95分位15.7分钟。DeepSeek说明这是基于合成负载与简化环境的初步实验，GitHub上的原型是研究原型，并非正式产品。",
+   "why": "读者关注AI发展，这条讲的是AI智能体架构的具体工程思路，不涉及明星八卦。",
+   "tags": [
+    "AI智能体",
+    "DeepSeek",
+    "开源"
+   ],
+   "summary_mode": "llm",
+   "type": "tech",
+   "region": "cn",
+   "topic": "DeepSeek开源智能体原型",
+   "type_label": "技术进展",
+   "region_label": "中国"
+  },
+  {
+   "id": "0fcfa43f709d56a5",
+   "source_id": "chinanews_world",
+   "source_name": "中国新闻网·国际",
+   "source_kind": "通讯社",
+   "title": "朝中社：日本正快速变为战争国家",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-03/10725361.shtml",
+   "published": "2026-11-03T15:46:01+08:00",
+   "image_url": null,
+   "source_count": 1,
+   "pr": 0,
+   "group": "world",
+   "summary": "据朝中社3日报道，朝鲜军事评论员发表文章称，日本撕去“和平国家”的外衣，正在快速变成战争国家，并称日本谋求先发制人打击能力进一步加剧地区紧张局势。文章称，5月至9月，日本在菲律宾境内发射88式岸基反舰导弹，赴美完成“战斧”巡航导弹试射，在日美澳联合演习中使用“堤丰”中导系统；在10月19日至29日的日美“利剑27”联合军演中，“25式地对舰导弹”参加演习。文章还称，日本军事力量已完成从“防御”到“攻击”的转型。",
+   "why": "读者关注国际局势，这条呈现朝鲜官方通讯社对日本军事动向的具体指控与所列举的演习、试射事实。",
+   "tags": [
+    "国际局势",
+    "朝鲜",
+    "日本军事"
+   ],
+   "summary_mode": "llm",
+   "type": "world",
+   "region": "asia",
+   "topic": "朝中社称日本走向战争国家",
+   "type_label": "国际关系",
+   "region_label": "亚太"
+  },
+  {
+   "id": "8e141de236159353",
+   "source_id": "ifanr",
+   "source_name": "爱范儿",
+   "source_kind": "垂直媒体",
+   "title": "ChatGPT 正在偷偷给你画像，用这段提示词让它交出来",
+   "link": "https://www.ifanr.com/1686832?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "published": "2026-11-02T15:37:27+08:00",
+   "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/10/covermemory.jpg",
+   "source_count": 1,
+   "pr": 0,
+   "group": "know",
+   "img": "assets/img/8e141de236159353.jpg",
+   "summary": "一篇被 ACM Web Conference 2026 接收的论文，利用 GDPR 数据访问权从 80 名用户处获得 1058 段对话、22971 轮交互和 2050 条记忆条目。研究者检测发现，只有 4.1% 的记忆是用户明确要求记住的，其余 95.9% 由 ChatGPT 单方面写入。论文还提出 Attribution Shield，用改写查询来降低个人归因，评测中 94%～100% 的改写查询显著降低了个人归因。",
+   "why": "关注 AI 发展的读者可了解对话式 AI 记忆机制的实际运作方式，以及一项可自查记忆的提示词。",
+   "tags": [
+    "AI 记忆",
+    "隐私",
+    "ChatGPT"
+   ],
+   "summary_mode": "llm",
+   "type": "research",
+   "region": "us",
+   "topic": "研究揭示ChatGPT记忆构成",
+   "type_label": "研究进展",
+   "region_label": "美国"
+  },
+  {
+   "id": "eb9e15811107ffb7",
+   "source_id": "leiphone",
+   "source_name": "雷锋网",
+   "source_kind": "垂直媒体",
+   "title": "香港大学发布全球首个KYA报告关注智能体信任建设，九类企业实践获收录",
+   "link": "https://www.leiphone.com/category/industrynews/KkjVOHcQ55GyhDLv.html",
+   "published": "2026-11-03T18:09:00+08:00",
+   "image_url": "https://static.leiphone.com/uploads/new/images/20261103/6ae9b2e0b83fc.jpg?imageMogr2/quality/90",
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "img": "assets/img/eb9e15811107ffb7.jpg",
+   "summary": "11月3日，香港大学KYA课题组在香港金融科技周发布全球首个KYA领域报告《KYA：智能体信用体系研究报告》，报告结合109份从业者有效问卷和近十个企业案例，提出智能体成熟度模型、KYA框架和智能体发展指数。问卷显示，76%的受访从业者在过去一年频繁或偶尔遇到与智能体信任、安全、问责或合规有关的顾虑，88%的受访者认为行业需要统一的智能体可信评估或认证标准。报告还提出“智能体信任资本”概念，并收录九类正在建立智能体信任的代表企业，覆盖支付、金融、教育、能源、医疗等领域。",
+   "why": "这条属于AI发展议题，讲的是智能体从技术能力走向商业委托时的身份、授权与责任问题，对关注AI落地的人有参考价值。",
+   "tags": [
+    "AI智能体",
+    "信任体系",
+    "香港大学"
+   ],
+   "summary_mode": "llm",
+   "type": "research",
+   "region": "cn",
+   "topic": "港大发布智能体信用报告",
+   "type_label": "研究进展",
+   "region_label": "中国"
+  },
+  {
+   "id": "6e03058bbd503add",
+   "source_id": "chinanews_world",
+   "source_name": "中国新闻网·国际",
+   "source_kind": "通讯社",
+   "title": "佩斯科夫：俄美乌三方会谈10日至11日在阿布扎比举行",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-03/10725462.shtml",
+   "published": "2026-11-03T17:49:34+08:00",
+   "image_url": null,
+   "source_count": 1,
+   "pr": 0,
+   "group": "world",
+   "summary": "俄罗斯总统新闻秘书佩斯科夫11月3日在回答提问时证实，俄罗斯、美国和乌克兰三方谈判将于11月10日至11日在阿联酋阿布扎比举行。该消息由总台记者王斌报道，发布时间为2026年11月3日。",
+   "why": "这条内容涉及俄美乌三方直接会谈的时间与地点，属于读者关注的国际局势动态；原文未说明会谈议题与预期结果。",
+   "tags": [
+    "国际局势",
+    "俄美乌",
+    "阿布扎比会谈"
+   ],
+   "summary_mode": "llm",
+   "type": "world",
+   "region": "me",
+   "topic": "俄美乌将在阿布扎比会谈",
+   "type_label": "国际关系",
+   "region_label": "中东"
+  }
+ ],
+ "quick": [
+  {
+   "title": "xTool 的「快」与「难」：硬门槛、多线程研发与生态扩张",
+   "title_cn": "",
+   "link": "https://www.leiphone.com/category/weiwu/Z53iSk1j7SIjzefT.html",
+   "source_name": "雷锋网",
+   "source_kind": "垂直媒体",
+   "id": "0efec208101ea650",
+   "type": "business",
+   "type_label": "商业资本",
+   "region": "cn",
+   "region_label": "中国"
+  },
+  {
+   "title": "从消费互联网到AI，迪拜投资人寻找中国新标的｜出海参考",
+   "title_cn": "",
+   "link": "https://www.tmtpost.com/8191572.html",
+   "source_name": "钛媒体",
+   "source_kind": "市场化媒体",
+   "id": "4a9c51dd00ca5f9f",
+   "type": "business",
+   "type_label": "商业资本",
+   "region": "me",
+   "region_label": "中东"
+  },
+  {
+   "title": "泽连斯基称阿布扎比谈判将重点讨论能源停火等议题",
+   "title_cn": "",
+   "link": "https://www.jiemian.com/article/15289492.html",
+   "source_name": "界面新闻",
+   "source_kind": "市场化媒体",
+   "id": "42202223bfa5fa1d",
+   "type": "world",
+   "type_label": "国际关系",
+   "region": "me",
+   "region_label": "中东"
+  },
+  {
+   "title": "一夜之间，GPT-6.2 Astra 和 Fable 5.5 双双曝光，AI 圈疯狂 11 月要来了",
+   "title_cn": "",
+   "link": "https://www.ifanr.com/1687071?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source_name": "爱范儿",
+   "source_kind": "垂直媒体",
+   "id": "e48d8c409eef8cf4",
+   "type": "product",
+   "type_label": "产品发布",
+   "region": "us",
+   "region_label": "美国"
+  },
+  {
+   "title": "特朗普：对伊朗发动了“小规模攻击”",
+   "title_cn": "",
+   "link": "https://www.jiemian.com/article/15289459.html",
+   "source_name": "界面新闻",
+   "source_kind": "市场化媒体",
+   "id": "197c798b35a01498",
+   "type": "world",
+   "type_label": "国际关系",
+   "region": "me",
+   "region_label": "中东"
+  },
+  {
+   "title": "Texans vote in most expensive Senate race in US history",
+   "title_cn": "得州选民投票，美国史上最昂贵参议院选举",
+   "link": "https://www.aljazeera.com/news/2026/11/3/texans-vote-in-most-expensive-senate-race-in-us-history?traffic_source=rss",
+   "source_name": "Al Jazeera",
+   "source_kind": "通讯社",
+   "id": "cd2e392331cf737b",
+   "type": "world",
+   "type_label": "国际关系",
+   "region": "us",
+   "region_label": "美国"
+  }
+ ],
+ "challenge": {
+  "question": "泽连斯基：北约将与美欧代表在布鲁塞尔讨论乌克兰问",
+  "a": "泽连斯基：北约将与美欧代表在布鲁塞尔讨论乌克兰问题|界面新闻 · 快讯 天下快讯 泽连斯基：北约将与美欧代表在布鲁塞尔讨论乌克兰问题 界面快报 · 来源：界面新闻 乌克兰总统泽连斯基11月3日在柏林与德国总理默茨举行的联合新闻发布会上表示，美国、欧洲、北约和乌克兰各方团队将于4日在布鲁塞尔举行会晤，讨论乌克兰重建方案和安全保障问题。美国总统特使威特科夫2日在社交媒体上表示，美国谈判代表本周将在布鲁塞尔与法国、德国、英国、欧盟及北约的代表",
+  "b": "泽连斯基：北约将与美欧代表在布鲁塞尔讨论乌克兰问题-中新网 即时 时政 财经 同心 东西问 国际 社会 理论·评论 中国侨网 大湾区 文娱 体育 教育 法治 健康 生活 铸牢中华民族共同体意识 宗教 一带一路 中国—东盟商贸资讯平台 中国新闻周刊 国是直通车 创意 直播 视频 图片 专栏 各地 安徽 | 北京 | 重庆 | 福建 | 甘肃 | 贵州 | 广东 | 广西 | 海南 | 河北 | 河南 | 湖北 | 湖南 | 黑龙江 | 江",
+  "diff": "两家来源类型不同（市场化媒体 / 通讯社），原文表述不一致之处需要对照阅读。",
+  "mode": "extractive",
+  "pair": [
+   {
+    "id": "cc0b7d11cb913dc6",
+    "source_id": "jiemian",
+    "source_name": "界面新闻",
+    "source_kind": "市场化媒体",
+    "title": "泽连斯基：北约将与美欧代表在布鲁塞尔讨论乌克兰问题",
+    "link": "https://www.jiemian.com/article/15289485.html",
+    "published": "2026-11-03T23:07:24+08:00",
+    "image_url": "https:https://img.jiemian.com/101/original/20220307/164664253426029700_a580x330.png",
+    "type": "world",
+    "region": "eu",
+    "topic": "北约与美欧讨论乌克兰问题",
+    "type_label": "国际关系",
+    "region_label": "欧洲"
+   },
+   {
+    "id": "aca7f10b04340181",
+    "source_id": "chinanews_world",
+    "source_name": "中国新闻网·国际",
+    "source_kind": "通讯社",
+    "title": "泽连斯基：北约将与美欧代表在布鲁塞尔讨论乌克兰问题",
+    "link": "https://www.chinanews.com.cn/gj/2026/11-04/10725694.shtml",
+    "published": "2026-11-04T00:28:50+08:00",
+    "image_url": null,
+    "type": "world",
+    "region": "eu",
+    "topic": "北约与美欧讨论乌克兰问题",
+    "type_label": "国际关系",
+    "region_label": "欧洲"
+   }
+  ],
+  "kind": "同一事件"
+ },
+ "counts": {
+  "ai": 6,
+  "world": 6,
+  "know": 2,
+  "other": 2
+ },
+ "report": {
+  "mode": "llm",
+  "overview": "本期国际条目集中：俄美乌三方会谈将于11月10日至11日在阿布扎比举行，泽连斯基称将讨论能源停火与战俘交换；朝鲜发文称日本正变为战争国家，特朗普称美国对伊朗发动“小规模攻击”。AI方面，DeepSeek开源智能体原型、港大发布KYA报告、两家新模型曝光。",
+  "signals": [
+   "乌克兰议题多线推进：阿布扎比会谈与布鲁塞尔磋商同期安排",
+   "中东同时出现军事与外交动向：美称攻击伊朗，又承办三方会谈",
+   "AI条目集中于智能体与模型迭代，多为开源与报告发布"
+  ],
+  "groups": [
+   {
+    "key": "world",
+    "label": "国际局势",
+    "n": 6
+   },
+   {
+    "key": "ai",
+    "label": "AI 发展",
+    "n": 6
+   },
+   {
+    "key": "know",
+    "label": "不为人知的知识",
+    "n": 2
+   }
+  ],
+  "types": [
+   {
+    "key": "world",
+    "label": "国际关系",
+    "n": 9
+   },
+   {
+    "key": "business",
+    "label": "商业资本",
+    "n": 2
+   },
+   {
+    "key": "research",
+    "label": "研究进展",
+    "n": 2
+   },
+   {
+    "key": "product",
+    "label": "产品发布",
+    "n": 1
+   },
+   {
+    "key": "industry",
+    "label": "行业观察",
+    "n": 1
+   },
+   {
+    "key": "tech",
+    "label": "技术进展",
+    "n": 1
+   }
+  ],
+  "regions": [
+   {
+    "key": "cn",
+    "label": "中国",
+    "n": 4
+   },
+   {
+    "key": "me",
+    "label": "中东",
+    "n": 4
+   },
+   {
+    "key": "us",
+    "label": "美国",
+    "n": 3
+   },
+   {
+    "key": "eu",
+    "label": "欧洲",
+    "n": 3
+   },
+   {
+    "key": "asia",
+    "label": "亚太",
+    "n": 2
+   }
+  ],
+  "confirmed": [
+   {
+    "title": "泽连斯基：北约将与美欧代表在布鲁塞尔讨论乌克兰问题",
+    "n": 2
+   }
+  ],
+  "confirmed_n": 1,
+  "source_kinds": [
+   {
+    "kind": "市场化媒体",
+    "n": 6
+   },
+   {
+    "kind": "通讯社",
+    "n": 5
+   },
+   {
+    "kind": "垂直媒体",
+    "n": 4
+   },
+   {
+    "kind": "公共媒体",
+    "n": 1
+   }
+  ],
+  "note": "数字由程序统计；类型/地区标签来自模型或关键词规则；「归纳判断」是编辑视角的概括，不是事实，每条都附原文链接可核对。"
+ },
+ "stats": {
+  "scanned": 391,
+  "selected": 16,
+  "raw": 2880,
+  "clusters": 371,
+  "dedup": 385,
+  "sources_ok": 26,
+  "sources_total": 26,
+  "lookback_hours": 48,
+  "llm_mode": "llm",
+  "model": "deepseek-flash ×13",
+  "llm_calls": 13,
+  "cost": 0.0415,
+  "generated_at": "2026-11-04 06:13",
+  "errors": []
+ },
+ "archives": [
+  {
+   "date": "2026-11-03",
+   "weekday": "周二"
+  },
+  {
+   "date": "2026-11-02",
+   "weekday": "周一"
+  },
+  {
+   "date": "2026-11-01",
+   "weekday": "周日"
+  },
+  {
+   "date": "2026-10-31",
+   "weekday": "周六"
+  },
+  {
+   "date": "2026-10-30",
+   "weekday": "周五"
+  },
+  {
+   "date": "2026-10-29",
+   "weekday": "周四"
+  },
+  {
+   "date": "2026-10-28",
+   "weekday": "周三"
+  },
+  {
+   "date": "2026-10-27",
+   "weekday": "周二"
+  },
+  {
+   "date": "2026-10-26",
+   "weekday": "周一"
+  }
+ ]
+}
