@@ -1,0 +1,515 @@
+{
+ "date": "2026-11-05",
+ "date_cn": "11 月 5 日",
+ "weekday": "周四",
+ "issue_no": 11,
+ "one_liner": "后摩智能完成数十亿元B轮融资，端侧大模型AI芯片进入规模化兑现期",
+ "lede": "扫描 399 条，从 26/26 个可用来源里留下 16 条：国际局势 5 条 · AI 发展 6 条 · 不为人知的知识 3 条。",
+ "cover_image": "",
+ "headline": [
+  {
+   "id": "084f476fa0a4224f",
+   "source_id": "leiphone",
+   "source_name": "雷锋网",
+   "source_kind": "垂直媒体",
+   "title": "后摩智能低调完成数十亿元B轮融资，端侧大模型AI芯片进入规模化兑现期",
+   "link": "https://www.leiphone.com/category/industrynews/cyDQKpjtzDEPhrr8.html",
+   "published": "2026-11-04T10:21:00+08:00",
+   "image_url": null,
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "summary": "据知情人士透露，存算一体AI芯片企业后摩智能已于近期完成B轮融资，单笔融资金额达数十亿元人民币，近一年内连续完成多轮融资。公司披露，其端边大模型AI芯片M50量产不到一年，已获得150多个产品定点，服务客户超过百家。本轮资金将主要用于扩大M50规模化交付、推进新一代M6X与下一代3D CIM产品研发，并完善软件工具链与产业生态。",
+   "why": "读者关注AI发展，这条涉及端侧AI芯片的融资进展与量产落地情况，属于原文给出的可核查事实。",
+   "tags": [
+    "AI芯片",
+    "融资",
+    "端侧AI"
+   ],
+   "summary_mode": "llm",
+   "type": "business",
+   "region": "cn",
+   "topic": "后摩智能完成B轮融资",
+   "type_label": "商业资本",
+   "region_label": "中国"
+  },
+  {
+   "id": "7af08fde4578934a",
+   "source_id": "tmtpost",
+   "source_name": "钛媒体",
+   "source_kind": "市场化媒体",
+   "title": "大模型时代，智驾芯片的算力赢学失效了",
+   "link": "https://www.tmtpost.com/8193596.html",
+   "published": "2026-11-04T18:44:24+08:00",
+   "image_url": "https://images.tmtpost.com/uploads/images/2026/11/3c009f400627e02a8dce9888119d2c1d_1793789069.png",
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "img": "assets/img/7af08fde4578934a.jpg",
+   "summary": "10月29日，XHEART在苏州发布智驾芯片X7 Ultra，CEO李宗霖称其具有700 TOPS大模型算力，下一代X9要冲击3000 TOPS。次日，地平线创始人余凯发微博批评行业的等效算力折算口径，并以自家征程6P举例称，NV口径下为560 TOPS，按所谓等效算力算法同一块芯片可写成1960 TOPS。小鹏通用智能中心负责人刘先明在2026年CVPR披露的实测数据显示，开源模型配通用芯片计算利用率为22.8%、推理耗时800毫秒，换用小鹏图灵芯片后升至35.1%、300毫秒，再配小鹏自研第二代VLA模型则为82.5%、80毫秒。",
+   "why": "涉及AI芯片的算力口径争议与算法前移到硬件定义的趋势，属于读者关注的AI发展议题。",
+   "tags": [
+    "AI芯片",
+    "智驾",
+    "算力口径"
+   ],
+   "summary_mode": "llm",
+   "type": "industry",
+   "region": "cn",
+   "topic": "智驾芯片算力口径之争",
+   "type_label": "行业观察",
+   "region_label": "中国"
+  },
+  {
+   "id": "66b553ab1d41b929",
+   "source_id": "chinanews_world",
+   "source_name": "中国新闻网·国际",
+   "source_kind": "通讯社",
+   "title": "伊朗官员和中东舆论：美国政局“新平衡”利好伊朗",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-04/10726229.shtml",
+   "published": "2026-11-04T21:06:51+08:00",
+   "image_url": null,
+   "source_count": 1,
+   "pr": 0,
+   "group": "world",
+   "summary": "中新社 北京11月4日电 综合消息：伊朗官员4日针对美国中期选举结果表示，“美国人民对战争说‘不’”，“世界听见美国人民发出的响亮信息”。中东媒体评论认为，美国政局在中期选举后形成新平衡，形势利好伊朗，但伊方仍“非常谨慎”。伊朗伊斯兰议会议长卡利巴夫4日在社交平台发文称，“是遵从良知，还是承受生活重压？",
+   "why": "属于你关注的「国际局势」。",
+   "tags": [],
+   "summary_mode": "extractive",
+   "type": "world",
+   "region": "me",
+   "topic": "伊朗回应美中期选举",
+   "type_label": "国际关系",
+   "region_label": "中东"
+  }
+ ],
+ "featured": [
+  {
+   "id": "4ecdd25671d71dff",
+   "source_id": "leiphone",
+   "source_name": "雷锋网",
+   "source_kind": "垂直媒体",
+   "title": "Transformer 架构还能咋改？严骏驰团队提供两条思路 | CNCC 2026",
+   "link": "https://www.leiphone.com/category/private/qWW7SeepMBzAQAfb.html",
+   "published": "2026-11-04T15:48:00+08:00",
+   "image_url": "https://static.leiphone.com/uploads/new/images/20261104/6aeae2f3b14d9.png?imageMogr2/quality/90",
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "img": "assets/img/4ecdd25671d71dff.jpg",
+   "summary": "上海交通大学教授严骏驰在 CNCC 2026 报告中介绍 JTok 和 xHC 两项工作，前者为 token 引入可学习参数表，后者扩展残差流。在 MoE 实验中，JTok-M 在同一算力预算下损失稳定降低约 2.2%，达到同样损失所需训练算力约为底座的 65%。严骏驰也提到，这些方法的推理延迟在其工程实现中增加约 7%，新增参数表还带来存储和带宽压力。",
+   "why": "属于 AI 架构方向的高校研究，且原文明确列出了收益数字与推理延迟代价，适合关注 AI 发展的读者判断这类改动的实际边界。",
+   "tags": [
+    "AI 架构",
+    "Transformer",
+    "模型训练"
+   ],
+   "summary_mode": "llm",
+   "type": "research",
+   "region": "cn",
+   "topic": "Transformer架构两条改进思路",
+   "type_label": "研究进展",
+   "region_label": "中国"
+  },
+  {
+   "id": "3c9f4784bfd24344",
+   "source_id": "chinanews_world",
+   "source_name": "中国新闻网·国际",
+   "source_kind": "通讯社",
+   "title": "特朗普承认伊朗战争是共和党中期选举失利的原因之一",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-04/10725971.shtml",
+   "published": "2026-11-04T14:55:15+08:00",
+   "image_url": null,
+   "source_count": 1,
+   "pr": 0,
+   "group": "world",
+   "summary": "据美国《华尔街日报》报道，特朗普11月3日晚表示，伊朗战争是共和党在中期选举中普遍失利的原因之一，但他称并不后悔发动这场战争。特朗普认为油价上涨而非战争本身才是最大的政治包袱。多家美国媒体3日晚预测，民主党将夺回参众两院控制权。",
+   "why": "涉及美国中期选举结果与伊朗战争的政治后果，属于国际局势中的重要动向。",
+   "tags": [
+    "国际局势",
+    "美国中期选举",
+    "伊朗战争"
+   ],
+   "summary_mode": "llm",
+   "type": "world",
+   "region": "us",
+   "topic": "特朗普承认伊朗战争影响选情",
+   "type_label": "国际关系",
+   "region_label": "美国"
+  },
+  {
+   "id": "73b49435cd64142c",
+   "source_id": "leiphone",
+   "source_name": "雷锋网",
+   "source_kind": "垂直媒体",
+   "title": "灵光开放生态持续扩容，新增微信读书、夸克、哈啰打车、麦当劳等多项服务连接",
+   "link": "https://www.leiphone.com/category/industrynews/KAD74l2DdSMcKPgY.html",
+   "published": "2026-11-04T15:57:00+08:00",
+   "image_url": "https://static.leiphone.com/uploads/new/images/20261104/6aeae4dff2f10.png?imageView2/2/w/740",
+   "source_count": 1,
+   "pr": 0,
+   "group": "know",
+   "img": "assets/img/73b49435cd64142c.jpg",
+   "summary": "11 月 4 日，蚂蚁灵光新增播客订阅、夸克网盘、哈啰打车、麦当劳和微信读书等连接器服务，其开放生态已打通 40 项外部连接器。原文称，从灵光用户请求的分类看，财务与消费场景占比 23.83%，健康与习惯场景占比 21.46%。",
+   "why": "这条消息涉及 AI 助手从单一问答工具向跨场景任务管理的延伸，属于读者关注的 AI 发展方向。",
+   "tags": [
+    "AI助手",
+    "蚂蚁灵光",
+    "生态接入"
+   ],
+   "summary_mode": "llm",
+   "type": "product",
+   "region": "cn",
+   "topic": "灵光开放生态新增连接器",
+   "type_label": "产品发布",
+   "region_label": "中国"
+  },
+  {
+   "id": "cb8a47e76fea4434",
+   "source_id": "ifanr",
+   "source_name": "爱范儿",
+   "source_kind": "垂直媒体",
+   "title": "实测腾讯Hy4：我用它复刻《王者荣耀》，WorkBuddy 真能接大活了",
+   "link": "https://www.ifanr.com/1687613?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "published": "2026-11-04T16:37:32+08:00",
+   "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/hycover.jpg",
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "img": "assets/img/cb8a47e76fea4434.jpg",
+   "summary": "如果你在用 WorkBuddy，一定不会对 Hy4 preview 这款模型感到陌生。今天 Hy 4 发布，从预览版到正式版，腾讯混元在 Agent 能力和各类长程任务上进行了优化。面对真实生产任务，Hy 4 的表现比预览版有明显的全面提升，在多个 Benchmark 上拿下了开源的第一。",
+   "why": "属于你关注的「AI 发展」。",
+   "tags": [],
+   "summary_mode": "extractive",
+   "type": "product",
+   "region": "cn",
+   "topic": "腾讯混元Hy4正式发布",
+   "type_label": "产品发布",
+   "region_label": "中国"
+  },
+  {
+   "id": "c037804fe9a69fc2",
+   "source_id": "jiemian",
+   "source_name": "界面新闻",
+   "source_kind": "市场化媒体",
+   "title": "佩斯科夫：目前尚无普京与特朗普通话的计划",
+   "link": "https://www.jiemian.com/article/15294920.html",
+   "published": "2026-11-04T22:52:44+08:00",
+   "image_url": "https:https://img.jiemian.com/101/original/20220307/164664253426029700_a580x330.png",
+   "source_count": 1,
+   "pr": 0,
+   "group": "world",
+   "summary": "俄罗斯总统新闻秘书佩斯科夫11月4日表示，目前尚无普京与美国总统特朗普通电话的计划。佩斯科夫还表示，克里姆林宫将在适当时候公布俄方参加乌克兰问题三方谈判的完整代表团名单，谈判将围绕安全保障问题展开，细节在闭门会议上讨论。佩斯科夫3日表示，俄美乌三方会谈将于11月10日至11日在阿联酋首都阿布扎比举行，俄方代表团仍由俄总统助理梅金斯基率领。",
+   "why": "涉及美俄元首沟通与乌克兰问题三方谈判安排，属国际局势读者关注的内容。",
+   "tags": [
+    "国际局势",
+    "俄美关系",
+    "乌克兰谈判"
+   ],
+   "summary_mode": "llm",
+   "type": "world",
+   "region": "eu",
+   "topic": "俄方称暂无普特通话计划",
+   "type_label": "国际关系",
+   "region_label": "欧洲"
+  }
+ ],
+ "quick": [
+  {
+   "title": "币安称黑客通过虚假工作面试入侵工程师笔记本电脑",
+   "title_cn": "",
+   "link": "https://www.solidot.org/story?sid=85789",
+   "source_name": "奇客 Solidot",
+   "source_kind": "垂直媒体",
+   "id": "202dabbccc256e5d",
+   "type": "security",
+   "type_label": "安全事件",
+   "region": "global",
+   "region_label": "全球"
+  },
+  {
+   "title": "为什么大家都学腾讯，把对手的模型请进来？",
+   "title_cn": "",
+   "link": "https://www.tmtpost.com/8192671.html",
+   "source_name": "钛媒体",
+   "source_kind": "市场化媒体",
+   "id": "6a975850707e300f",
+   "type": "industry",
+   "type_label": "行业观察",
+   "region": "cn",
+   "region_label": "中国"
+  },
+  {
+   "title": "特朗普称不后悔发动伊朗战事",
+   "title_cn": "",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-04/10726038.shtml",
+   "source_name": "中国新闻网·国际",
+   "source_kind": "通讯社",
+   "id": "a65d579dfe28ef67",
+   "type": "world",
+   "type_label": "国际关系",
+   "region": "us",
+   "region_label": "美国"
+  },
+  {
+   "title": "The Souls of Animals",
+   "title_cn": "动物的灵魂",
+   "link": "https://www.themarginalian.org/2026/11/04/the-souls-of-animals/",
+   "source_name": "The Marginalian",
+   "source_kind": "个人",
+   "id": "628c2ec1b2503c74",
+   "type": "other",
+   "type_label": "其他",
+   "region": "global",
+   "region_label": "全球"
+  },
+  {
+   "title": "42亿GPU采购背后，游族网络跨界AI算力生意",
+   "title_cn": "",
+   "link": "https://www.tmtpost.com/8193553.html",
+   "source_name": "钛媒体",
+   "source_kind": "市场化媒体",
+   "id": "31fa19186ccf0c23",
+   "type": "business",
+   "type_label": "商业资本",
+   "region": "cn",
+   "region_label": "中国"
+  },
+  {
+   "title": "海地黑帮头目寻求联合国斡旋，萨尔瓦多派出2000名兵力搜寻失踪士兵",
+   "title_cn": "",
+   "link": "https://news.un.org/feed/view/zh/story/2026/11/1143125",
+   "source_name": "联合国新闻·中文",
+   "source_kind": "公共媒体",
+   "id": "0a72e0a92c67842c",
+   "type": "world",
+   "type_label": "国际关系",
+   "region": "global",
+   "region_label": "全球"
+  }
+ ],
+ "challenge": {
+  "question": "两稿事实与表述一致，无实质分歧",
+  "a": "与B内容相同，仅文末标注来源为「央视新闻」，括号为全角",
+  "b": "与A内容相同，未标注来源，括号为半角",
+  "diff": "仅来源标注与括号格式不同，无实质差异",
+  "mode": "llm",
+  "pair": [
+   {
+    "id": "b27c1e90ff6016c3",
+    "source_id": "jiemian",
+    "source_name": "界面新闻",
+    "source_kind": "市场化媒体",
+    "title": "中东欧四国总统峰会在斯洛伐克举行",
+    "link": "https://www.jiemian.com/article/15294978.html",
+    "published": "2026-11-04T23:18:14+08:00",
+    "image_url": "https:https://img.jiemian.com/101/original/20220307/164664253426029700_a580x330.png",
+    "type": "world",
+    "region": "eu",
+    "topic": "中东欧四国总统峰会",
+    "type_label": "国际关系",
+    "region_label": "欧洲"
+   },
+   {
+    "id": "5f144c3acad0fba7",
+    "source_id": "chinanews_world",
+    "source_name": "中国新闻网·国际",
+    "source_kind": "通讯社",
+    "title": "中东欧四国总统峰会在斯洛伐克举行",
+    "link": "https://www.chinanews.com.cn/gj/2026/11-05/10726334.shtml",
+    "published": "2026-11-05T00:09:38+08:00",
+    "image_url": null,
+    "type": "world",
+    "region": "eu",
+    "topic": "中东欧四国总统峰会",
+    "type_label": "国际关系",
+    "region_label": "欧洲"
+   }
+  ],
+  "kind": "同一事件"
+ },
+ "counts": {
+  "ai": 6,
+  "world": 5,
+  "know": 3,
+  "other": 2
+ },
+ "report": {
+  "mode": "llm",
+  "overview": "后摩智能完成数十亿元B轮融资，游族网络披露42.25亿元GPU采购合同；腾讯混元Hy4正式发布，XHEART发布智驾芯片X7 Ultra。美国中期选举后，伊朗官员表态称形势利好伊朗，特朗普承认伊朗战事影响共和党表现；中东欧四国总统峰会在斯洛伐克举行。",
+  "signals": [
+   "AI芯片领域融资、采购与新品发布同期出现，资本与产品动作密集。",
+   "美国中期选举结果引发伊朗方面与特朗普本人分别表态。",
+   "国际斡旋与多边会议动态增多，涉及海地与中东欧四国。"
+  ],
+  "groups": [
+   {
+    "key": "ai",
+    "label": "AI 发展",
+    "n": 6
+   },
+   {
+    "key": "world",
+    "label": "国际局势",
+    "n": 5
+   },
+   {
+    "key": "know",
+    "label": "不为人知的知识",
+    "n": 3
+   }
+  ],
+  "types": [
+   {
+    "key": "world",
+    "label": "国际关系",
+    "n": 7
+   },
+   {
+    "key": "business",
+    "label": "商业资本",
+    "n": 2
+   },
+   {
+    "key": "product",
+    "label": "产品发布",
+    "n": 2
+   },
+   {
+    "key": "industry",
+    "label": "行业观察",
+    "n": 2
+   },
+   {
+    "key": "research",
+    "label": "研究进展",
+    "n": 1
+   },
+   {
+    "key": "security",
+    "label": "安全事件",
+    "n": 1
+   },
+   {
+    "key": "other",
+    "label": "其他",
+    "n": 1
+   }
+  ],
+  "regions": [
+   {
+    "key": "cn",
+    "label": "中国",
+    "n": 7
+   },
+   {
+    "key": "eu",
+    "label": "欧洲",
+    "n": 3
+   },
+   {
+    "key": "global",
+    "label": "全球",
+    "n": 3
+   },
+   {
+    "key": "us",
+    "label": "美国",
+    "n": 2
+   },
+   {
+    "key": "me",
+    "label": "中东",
+    "n": 1
+   }
+  ],
+  "confirmed": [
+   {
+    "title": "中东欧四国总统峰会在斯洛伐克举行",
+    "n": 2
+   }
+  ],
+  "confirmed_n": 1,
+  "source_kinds": [
+   {
+    "kind": "垂直媒体",
+    "n": 5
+   },
+   {
+    "kind": "市场化媒体",
+    "n": 5
+   },
+   {
+    "kind": "通讯社",
+    "n": 4
+   },
+   {
+    "kind": "个人",
+    "n": 1
+   },
+   {
+    "kind": "公共媒体",
+    "n": 1
+   }
+  ],
+  "note": "数字由程序统计；类型/地区标签来自模型或关键词规则；「归纳判断」是编辑视角的概括，不是事实，每条都附原文链接可核对。"
+ },
+ "stats": {
+  "scanned": 399,
+  "selected": 16,
+  "raw": 2879,
+  "clusters": 374,
+  "dedup": 395,
+  "sources_ok": 26,
+  "sources_total": 26,
+  "lookback_hours": 48,
+  "llm_mode": "llm",
+  "model": "deepseek-flash ×13",
+  "llm_calls": 13,
+  "cost": 0.0432,
+  "generated_at": "2026-11-05 06:25",
+  "errors": []
+ },
+ "archives": [
+  {
+   "date": "2026-11-04",
+   "weekday": "周三"
+  },
+  {
+   "date": "2026-11-03",
+   "weekday": "周二"
+  },
+  {
+   "date": "2026-11-02",
+   "weekday": "周一"
+  },
+  {
+   "date": "2026-11-01",
+   "weekday": "周日"
+  },
+  {
+   "date": "2026-10-31",
+   "weekday": "周六"
+  },
+  {
+   "date": "2026-10-30",
+   "weekday": "周五"
+  },
+  {
+   "date": "2026-10-29",
+   "weekday": "周四"
+  },
+  {
+   "date": "2026-10-28",
+   "weekday": "周三"
+  },
+  {
+   "date": "2026-10-27",
+   "weekday": "周二"
+  },
+  {
+   "date": "2026-10-26",
+   "weekday": "周一"
+  }
+ ]
+}

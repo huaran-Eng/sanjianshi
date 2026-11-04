@@ -1,6 +1,37 @@
 {
- "updated": "2026-11-03 22:13",
+ "updated": "2026-11-04 22:25",
  "issues": [
+  {
+   "date": "2026-11-05",
+   "weekday": "周四",
+   "issue_no": 11,
+   "one_liner": "后摩智能完成数十亿元B轮融资，端侧大模型AI芯片进入规模化兑现期",
+   "selected": 16,
+   "sources_ok": 26,
+   "groups": {
+    "ai": 6,
+    "world": 5,
+    "know": 3,
+    "other": 2
+   },
+   "types": {
+    "world": 7,
+    "business": 2,
+    "product": 2,
+    "industry": 2,
+    "research": 1,
+    "security": 1,
+    "other": 1
+   },
+   "regions": {
+    "cn": 7,
+    "eu": 3,
+    "global": 3,
+    "us": 2,
+    "me": 1
+   },
+   "head": "后摩智能完成数十亿元B轮融资，游族网络披露42.25亿元GPU采购合同；腾讯混元Hy4正式发布，XHEART发布智驾芯片X7 Ultra。美"
+  },
   {
    "date": "2026-11-04",
    "weekday": "周三",
@@ -305,20 +336,20 @@
   }
  ],
  "aggregate": {
-  "issues": 10,
-  "items": 160,
+  "issues": 11,
+  "items": 176,
   "first": "2026-10-26",
-  "last": "2026-11-04",
+  "last": "2026-11-05",
   "types": [
    {
     "key": "world",
     "label": "国际关系",
-    "n": 40
+    "n": 47
    },
    {
     "key": "product",
     "label": "产品发布",
-    "n": 27
+    "n": 29
    },
    {
     "key": "tech",
@@ -328,22 +359,22 @@
    {
     "key": "other",
     "label": "其他",
-    "n": 21
+    "n": 22
    },
    {
     "key": "business",
     "label": "商业资本",
-    "n": 13
+    "n": 15
    },
    {
     "key": "industry",
     "label": "行业观察",
-    "n": 11
+    "n": 13
    },
    {
     "key": "research",
     "label": "研究进展",
-    "n": 10
+    "n": 11
    },
    {
     "key": "policy",
@@ -353,7 +384,7 @@
    {
     "key": "security",
     "label": "安全事件",
-    "n": 5
+    "n": 6
    },
    {
     "key": "society",
@@ -365,27 +396,27 @@
    {
     "key": "cn",
     "label": "中国",
-    "n": 50
+    "n": 57
    },
    {
     "key": "us",
     "label": "美国",
-    "n": 38
+    "n": 40
    },
    {
     "key": "global",
     "label": "全球",
-    "n": 31
+    "n": 34
    },
    {
     "key": "me",
     "label": "中东",
-    "n": 24
+    "n": 25
    },
    {
     "key": "eu",
     "label": "欧洲",
-    "n": 10
+    "n": 13
    },
    {
     "key": "asia",
