@@ -1,0 +1,541 @@
+{
+ "date": "2026-11-06",
+ "date_cn": "11 月 6 日",
+ "weekday": "周五",
+ "issue_no": 12,
+ "one_liner": "泽连斯基与欧洲理事会主席会晤，磋商乌克兰入盟等事宜",
+ "lede": "扫描 382 条，从 25/26 个可用来源里留下 16 条：国际局势 5 条 · AI 发展 6 条 · 不为人知的知识 3 条。",
+ "cover_image": "assets/img/655c6dfcc03ddf7b.jpg",
+ "headline": [
+  {
+   "id": "655c6dfcc03ddf7b",
+   "source_id": "tmtpost",
+   "source_name": "钛媒体",
+   "source_kind": "市场化媒体",
+   "title": "具身大脑行业迎来“终极反派”",
+   "link": "https://www.tmtpost.com/8194579.html",
+   "published": "2026-11-05T17:22:36+08:00",
+   "image_url": "https://images.tmtpost.com/uploads/images/2026/11/05/2a6fe150c3103f46aea16d2c5659e575_1793852288.png",
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "img": "assets/img/655c6dfcc03ddf7b.jpg",
+   "summary": "在Astra的实测视频中，一个并非为机器人专门训练的通用大模型操纵几百美元的机械臂画金门大桥，第一遍线条歪扭，到第四遍轮廓和细节已清晰可见。宇树科技创始人王兴兴称，公司未对大模型做任何专门训练，就用GPT-6 Astra让机器人完成自主识别调色盘、更换颜料、清洗画笔等动作。NE时代统计，9月国内具身智能一级市场发生46起融资，参考金额约116.24亿元，分别较8月下降4.2%和40.1%。",
+   "why": "这条消息呈现通用大模型对具身智能行业格局和一级市场融资的影响，符合你对AI发展的关注。",
+   "tags": [
+    "具身智能",
+    "通用大模型",
+    "一级市场融资"
+   ],
+   "summary_mode": "llm",
+   "type": "tech",
+   "region": "cn",
+   "topic": "通用大模型操控机械臂",
+   "type_label": "技术进展",
+   "region_label": "中国"
+  },
+  {
+   "id": "3c69f6111476afb6",
+   "source_id": "jiemian",
+   "source_name": "界面新闻",
+   "source_kind": "市场化媒体",
+   "title": "泽连斯基与欧洲理事会主席会晤，磋商乌克兰入盟等事宜",
+   "link": "https://www.jiemian.com/article/15300280.html",
+   "published": "2026-11-05T23:17:30+08:00",
+   "image_url": "https:https://img.jiemian.com/101/original/20220307/164664253426029700_a580x330.png",
+   "source_count": 1,
+   "pr": 0,
+   "group": "world",
+   "summary": "当地时间11月5日，乌克兰总统泽连斯基表示，他与欧洲理事会主席科斯塔举行会晤。双方重点磋商乌克兰加入欧盟谈判进程、推动欧洲一体化的新方案，以及阿布扎比乌美俄三方会晤的筹备事宜。泽连斯基提出，欧洲应当参与乌克兰安全保障和战后重建相关谈判，这一主张得到科斯塔支持。",
+   "why": "涉及乌克兰入盟与乌美俄三方会晤筹备，属于国际局势动向。",
+   "tags": [
+    "乌克兰",
+    "欧盟",
+    "国际局势"
+   ],
+   "summary_mode": "llm",
+   "type": "world",
+   "region": "eu",
+   "topic": "乌欧磋商入盟与三方会晤",
+   "type_label": "国际关系",
+   "region_label": "欧洲"
+  },
+  {
+   "id": "8cd6ef9450441d0c",
+   "source_id": "ifanr",
+   "source_name": "爱范儿",
+   "source_kind": "垂直媒体",
+   "title": "GPT Images 2.6 突然发布，蓝色大肥鱼实现 GIF 表情包自由",
+   "link": "https://www.ifanr.com/1687778?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "published": "2026-11-05T14:14:03+08:00",
+   "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/9-1.jpg",
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "img": "assets/img/8cd6ef9450441d0c.jpg",
+   "summary": "OpenAI 发布新一代图像生成模型 Images 2.6，并同步向 ChatGPT、Codex 和 API 开放，图像生成速度提升 50%，支持用文字提示词生成 GIF，并改善多轮编辑一致性。OpenAI 披露全球用户每周通过 ChatGPT、Codex 和 API 创建图片达 40 亿张，平均每天超过 5 亿张。The Information 援引知情人士称，OpenAI 最快可能在当地时间周五推出 Astra、Sol 以及专注网络安全的模型，具体发布时间仍可能调整。",
+   "why": "读者关注 AI 发展，这条涉及图像模型能力升级、官方披露的使用量数据，以及后续模型发布传闻，虽然可用的信息只有原文提到的这些。",
+   "tags": [
+    "AI 图像生成",
+    "OpenAI",
+    "产品发布"
+   ],
+   "summary_mode": "llm",
+   "type": "product",
+   "region": "us",
+   "topic": "OpenAI发布图像模型2.6",
+   "type_label": "产品发布",
+   "region_label": "美国"
+  }
+ ],
+ "featured": [
+  {
+   "id": "cb8a47e76fea4434",
+   "source_id": "ifanr",
+   "source_name": "爱范儿",
+   "source_kind": "垂直媒体",
+   "title": "实测腾讯Hy4：我用它复刻《王者荣耀》，WorkBuddy 真能接大活了",
+   "link": "https://www.ifanr.com/1687613?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "published": "2026-11-04T16:37:32+08:00",
+   "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/hycover.jpg",
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "img": "assets/img/cb8a47e76fea4434.jpg",
+   "summary": "腾讯混元Hy4正式版发布，在Agent能力和长程任务上相比预览版有优化，称在多个Benchmark上取得开源第一。Hy4新增视觉理解能力，可上传录屏让模型学习并复刻其中的元素，生成的产物也能通过截图自我反馈优化。Hy4已在WorkBuddy上线，11月4日至15日限时免费，API价格与预览版一致。",
+   "why": "读者关注AI发展，这条涉及国产大模型在Agent、多模态和长程任务上的具体能力变化，并附带可试用的免费窗口。",
+   "tags": [
+    "腾讯混元",
+    "AI Agent",
+    "多模态"
+   ],
+   "summary_mode": "llm",
+   "type": "product",
+   "region": "cn",
+   "topic": "腾讯混元Hy4正式版发布",
+   "type_label": "产品发布",
+   "region_label": "中国"
+  },
+  {
+   "id": "ef7383f4d8934171",
+   "source_id": "jiemian",
+   "source_name": "界面新闻",
+   "source_kind": "市场化媒体",
+   "title": "联合国安理会通过主席声明，强调加强外交在武装冲突中的作用",
+   "link": "https://www.jiemian.com/article/15300331.html",
+   "published": "2026-11-05T23:34:11+08:00",
+   "image_url": "https:https://img.jiemian.com/101/original/20220307/164664253426029700_a580x330.png",
+   "source_count": 1,
+   "pr": 0,
+   "group": "world",
+   "summary": "当地时间11月5日，联合国安理会一致通过“加强外交在武装冲突中的作用”的主席声明。该声明草案由巴基斯坦起草，强调即使武装冲突已经爆发，各方仍应保持外交接触。这是安理会首次专门通过强调以外交手段控制和缓和正在发生的武装冲突的文件。",
+   "why": "这条消息涉及国际局势与多边外交机制，也记录了安理会一项“首次”动作，符合你对国际局势的关注。",
+   "tags": [
+    "联合国安理会",
+    "外交",
+    "武装冲突"
+   ],
+   "summary_mode": "llm",
+   "type": "world",
+   "region": "global",
+   "topic": "安理会通过主席声明",
+   "type_label": "国际关系",
+   "region_label": "全球"
+  },
+  {
+   "id": "a0fd1a0100403375",
+   "source_id": "chinanews_world",
+   "source_name": "中国新闻网·国际",
+   "source_kind": "通讯社",
+   "title": "如何发现被星光掩盖的系外行星？国际研发出高灵敏度探测新方法",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-05/10726448.shtml",
+   "published": "2026-11-05T12:12:19+08:00",
+   "image_url": null,
+   "source_count": 1,
+   "pr": 0,
+   "group": "know",
+   "summary": "国际学术期刊《自然》在线发表一篇天文学论文，介绍一种利用机器学习算法去除望远镜观测中星光的系外行星探测新方法，灵敏度最高可达传统成像方法的15倍。研究提出名为FLIP的影像处理框架，能生成特定恒星的模拟眩光并从直接观测结果中减去，用韦布望远镜近红外相机数据测试后获得51波江座b的首个影像。论文作者提醒，后续研究应关注降低计算成本并用更大数据量测试。",
+   "why": "属于AI方法与天文学交叉的新进展，与读者对AI发展及冷门方法论的兴趣相关，且非明星八卦。",
+   "tags": [
+    "系外行星",
+    "机器学习",
+    "天文观测"
+   ],
+   "summary_mode": "llm",
+   "type": "research",
+   "region": "global",
+   "topic": "机器学习探系外行星",
+   "type_label": "研究进展",
+   "region_label": "全球"
+  },
+  {
+   "id": "cf601dd710d94b1e",
+   "source_id": "solidot",
+   "source_name": "奇客 Solidot",
+   "source_kind": "垂直媒体",
+   "title": "Google 和 OpenAI 的模型对特定口音有偏见",
+   "link": "https://www.solidot.org/story?sid=85804",
+   "published": "2026-11-05T17:00:58+08:00",
+   "image_url": null,
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "summary": "原文标题称，Google 和 OpenAI 的模型对特定口音存在偏见。原文正文只有站点版权声明、备案号和举报联系方式，未给出该说法的具体内容、研究来源或数据。",
+   "why": "这条消息与读者关注的 AI 发展相关，但原文没有提供任何细节，目前只能确认标题本身。",
+   "tags": [
+    "AI 偏见",
+    "语音模型",
+    "原文缺正文"
+   ],
+   "summary_mode": "llm",
+   "type": "other",
+   "region": "global",
+   "topic": "模型口音偏见报道",
+   "type_label": "其他",
+   "region_label": "全球"
+  },
+  {
+   "id": "d2def86c3afb77a3",
+   "source_id": "un_news_zh",
+   "source_name": "联合国新闻·中文",
+   "source_kind": "公共媒体",
+   "title": "燃油价格上涨冲击全球 发展中经济体负担最重",
+   "link": "https://news.un.org/feed/view/zh/story/2026/11/1143135",
+   "published": "2026-11-04T20:00:00+08:00",
+   "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/04-11-2026-Adobe-Stock-fuel-station.jpg/image560x340cropped.jpg",
+   "source_count": 1,
+   "pr": 0,
+   "group": "world",
+   "img": "assets/img/d2def86c3afb77a3.jpg",
+   "summary": "今年2月，战争导致霍尔木兹海峡封锁，全球油价随之飙升。联合国贸易和发展会议发布的一份新报告显示，各国在加油站承受的压力远非均等。报告称，全球发展中经济体正为此付出最沉重的代价。",
+   "why": "这条内容属于国际局势与全球经济议题，涉及油价冲击在不同经济体之间的不均衡分布。",
+   "tags": [
+    "国际局势",
+    "油价",
+    "发展中经济体"
+   ],
+   "summary_mode": "llm",
+   "type": "society",
+   "region": "global",
+   "topic": "油价上涨冲击发展中经济体",
+   "type_label": "社会民生",
+   "region_label": "全球"
+  }
+ ],
+ "quick": [
+  {
+   "title": "Chromebook 统治美国校园，AI 成了没得选的「套餐」",
+   "title_cn": "",
+   "link": "https://www.ifanr.com/1687912?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source_name": "爱范儿",
+   "source_kind": "垂直媒体",
+   "id": "bdd075c2ac013da2",
+   "type": "industry",
+   "type_label": "行业观察",
+   "region": "us",
+   "region_label": "美国"
+  },
+  {
+   "title": "嘉加资本对话Normal Computing创始人：在硅谷，创始人只需做对三件事",
+   "title_cn": "",
+   "link": "https://www.tmtpost.com/8194735.html",
+   "source_name": "钛媒体",
+   "source_kind": "市场化媒体",
+   "id": "fd3d408d90e6fadc",
+   "type": "business",
+   "type_label": "商业资本",
+   "region": "us",
+   "region_label": "美国"
+  },
+  {
+   "title": "美参议院民主党领袖：民主党将结束伊朗战争，伊朗战事“必须结束”",
+   "title_cn": "",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-05/10726505.shtml",
+   "source_name": "中国新闻网·国际",
+   "source_kind": "通讯社",
+   "id": "cb3d47ee709114fb",
+   "type": "world",
+   "type_label": "国际关系",
+   "region": "us",
+   "region_label": "美国"
+  },
+  {
+   "title": "Bethesda 宣布《上古卷轴VI：哨兵》",
+   "title_cn": "",
+   "link": "https://www.solidot.org/story?sid=85790",
+   "source_name": "奇客 Solidot",
+   "source_kind": "垂直媒体",
+   "id": "8908090121aa9c3f",
+   "type": "product",
+   "type_label": "产品发布",
+   "region": "us",
+   "region_label": "美国"
+  },
+  {
+   "title": "基于本体+知识+Harness+Datat Agent的智能体完整落地链路！",
+   "title_cn": "",
+   "link": "https://www.qbitai.com/2026/11/507696.html",
+   "source_name": "量子位",
+   "source_kind": "垂直媒体",
+   "id": "4e89b55a8318c2e5",
+   "type": "industry",
+   "type_label": "行业观察",
+   "region": "cn",
+   "region_label": "中国"
+  },
+  {
+   "title": "联合国阿卜耶伊安全部队继续发挥稳定作用 无人机袭击凸显地区安全风险",
+   "title_cn": "",
+   "link": "https://news.un.org/feed/view/zh/story/2026/11/1143137",
+   "source_name": "联合国新闻·中文",
+   "source_kind": "公共媒体",
+   "id": "1b27a029fa54b15d",
+   "type": "world",
+   "type_label": "国际关系",
+   "region": "global",
+   "region_label": "全球"
+  }
+ ],
+ "challenge": {
+  "question": "两段原文是否存在分歧",
+  "a": "强调自主流水线一次运行生成948个Linux提权漏洞补丁，API成本120万美元",
+  "b": "表述与A逐字相同，同样强调948个补丁、2308个候选、1724个复现",
+  "diff": "两段原文文字完全一致，原文未说明分歧",
+  "mode": "llm",
+  "pair": [
+   {
+    "id": "f039a83ebe474ce0",
+    "source_id": "hn_best",
+    "source_name": "Hacker News 精选",
+    "source_kind": "社区",
+    "title": "A thousand fewer paths to root",
+    "link": "https://openai.com/index/a-thousand-fewer-paths-to-root/",
+    "published": "2026-11-05T07:33:14+08:00",
+    "image_url": "https://images.ctfassets.net/kftzwdyauwt9/400PQ4WTCOvXwwvk1OMOHv/03970ddeafd22fdbc9832669deacc59c/a-thousand-fewer-paths-to-root-social.png?w=1600&h=900&fit=fill",
+    "type": "security",
+    "region": "us",
+    "topic": "OpenAI自动化修补提权漏洞",
+    "type_label": "安全事件",
+    "region_label": "美国"
+   },
+   {
+    "id": "2b282755d14b8699",
+    "source_id": "openai_blog",
+    "source_name": "OpenAI 官方博客",
+    "source_kind": "厂商官方",
+    "title": "A thousand fewer paths to root",
+    "link": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+    "published": "2026-11-04T16:00:00+08:00",
+    "image_url": "https://images.ctfassets.net/kftzwdyauwt9/400PQ4WTCOvXwwvk1OMOHv/03970ddeafd22fdbc9832669deacc59c/a-thousand-fewer-paths-to-root-social.png?w=1600&h=900&fit=fill",
+    "type": "security",
+    "region": "us",
+    "topic": "OpenAI自动化修补提权漏洞",
+    "type_label": "安全事件",
+    "region_label": "美国"
+   }
+  ],
+  "kind": "同一事件"
+ },
+ "counts": {
+  "ai": 6,
+  "world": 5,
+  "know": 3,
+  "other": 2
+ },
+ "report": {
+  "mode": "llm",
+  "overview": "本期条目涵盖模型与产品发布，OpenAI发布图像模型Images 2.6，腾讯混元Hy4正式版发布，宇树科技称未专门训练即用大模型让机器人自主识别。国际方面有泽连斯基与欧洲理事会主席会晤、安理会通过外交作用主席声明、美民主党领袖称伊朗战事必须结束，以及联合国阿卜耶伊局势通报。",
+  "signals": [
+   "大模型与图像模型密集发布，产品迭代集中在头部厂商",
+   "机器人条目强调未做专门训练即完成识别任务",
+   "国际条目多为会晤、声明与战事表态，未给出结果"
+  ],
+  "groups": [
+   {
+    "key": "ai",
+    "label": "AI 发展",
+    "n": 6
+   },
+   {
+    "key": "world",
+    "label": "国际局势",
+    "n": 5
+   },
+   {
+    "key": "know",
+    "label": "不为人知的知识",
+    "n": 3
+   }
+  ],
+  "types": [
+   {
+    "key": "world",
+    "label": "国际关系",
+    "n": 4
+   },
+   {
+    "key": "product",
+    "label": "产品发布",
+    "n": 3
+   },
+   {
+    "key": "security",
+    "label": "安全事件",
+    "n": 2
+   },
+   {
+    "key": "industry",
+    "label": "行业观察",
+    "n": 2
+   },
+   {
+    "key": "business",
+    "label": "商业资本",
+    "n": 1
+   },
+   {
+    "key": "research",
+    "label": "研究进展",
+    "n": 1
+   },
+   {
+    "key": "society",
+    "label": "社会民生",
+    "n": 1
+   },
+   {
+    "key": "tech",
+    "label": "技术进展",
+    "n": 1
+   },
+   {
+    "key": "other",
+    "label": "其他",
+    "n": 1
+   }
+  ],
+  "regions": [
+   {
+    "key": "us",
+    "label": "美国",
+    "n": 7
+   },
+   {
+    "key": "global",
+    "label": "全球",
+    "n": 5
+   },
+   {
+    "key": "cn",
+    "label": "中国",
+    "n": 3
+   },
+   {
+    "key": "eu",
+    "label": "欧洲",
+    "n": 1
+   }
+  ],
+  "confirmed": [
+   {
+    "title": "A thousand fewer paths to root",
+    "n": 2
+   }
+  ],
+  "confirmed_n": 1,
+  "source_kinds": [
+   {
+    "kind": "垂直媒体",
+    "n": 6
+   },
+   {
+    "kind": "市场化媒体",
+    "n": 4
+   },
+   {
+    "kind": "通讯社",
+    "n": 2
+   },
+   {
+    "kind": "公共媒体",
+    "n": 2
+   },
+   {
+    "kind": "社区",
+    "n": 1
+   },
+   {
+    "kind": "厂商官方",
+    "n": 1
+   }
+  ],
+  "note": "数字由程序统计；类型/地区标签来自模型或关键词规则；「归纳判断」是编辑视角的概括，不是事实，每条都附原文链接可核对。"
+ },
+ "stats": {
+  "scanned": 382,
+  "selected": 16,
+  "raw": 2855,
+  "clusters": 359,
+  "dedup": 380,
+  "sources_ok": 25,
+  "sources_total": 26,
+  "lookback_hours": 48,
+  "llm_mode": "llm",
+  "model": "deepseek-flash ×12",
+  "llm_calls": 12,
+  "cost": 0.037,
+  "generated_at": "2026-11-06 06:33",
+  "errors": [
+   {
+    "name": "雷锋网",
+    "error": "ReadTimeout / ReadTimeout"
+   }
+  ]
+ },
+ "archives": [
+  {
+   "date": "2026-11-05",
+   "weekday": "周四"
+  },
+  {
+   "date": "2026-11-04",
+   "weekday": "周三"
+  },
+  {
+   "date": "2026-11-03",
+   "weekday": "周二"
+  },
+  {
+   "date": "2026-11-02",
+   "weekday": "周一"
+  },
+  {
+   "date": "2026-11-01",
+   "weekday": "周日"
+  },
+  {
+   "date": "2026-10-31",
+   "weekday": "周六"
+  },
+  {
+   "date": "2026-10-30",
+   "weekday": "周五"
+  },
+  {
+   "date": "2026-10-29",
+   "weekday": "周四"
+  },
+  {
+   "date": "2026-10-28",
+   "weekday": "周三"
+  },
+  {
+   "date": "2026-10-27",
+   "weekday": "周二"
+  },
+  {
+   "date": "2026-10-26",
+   "weekday": "周一"
+  }
+ ]
+}

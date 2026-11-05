@@ -1,6 +1,38 @@
 {
- "updated": "2026-11-04 22:25",
+ "updated": "2026-11-05 22:33",
  "issues": [
+  {
+   "date": "2026-11-06",
+   "weekday": "周五",
+   "issue_no": 12,
+   "one_liner": "泽连斯基与欧洲理事会主席会晤，磋商乌克兰入盟等事宜",
+   "selected": 16,
+   "sources_ok": 25,
+   "groups": {
+    "ai": 6,
+    "world": 5,
+    "know": 3,
+    "other": 2
+   },
+   "types": {
+    "world": 4,
+    "product": 3,
+    "security": 2,
+    "industry": 2,
+    "business": 1,
+    "research": 1,
+    "society": 1,
+    "tech": 1,
+    "other": 1
+   },
+   "regions": {
+    "us": 7,
+    "global": 5,
+    "cn": 3,
+    "eu": 1
+   },
+   "head": "本期条目涵盖模型与产品发布，OpenAI发布图像模型Images 2.6，腾讯混元Hy4正式版发布，宇树科技称未专门训练即用大模型让机器人自"
+  },
   {
    "date": "2026-11-05",
    "weekday": "周四",
@@ -336,45 +368,45 @@
   }
  ],
  "aggregate": {
-  "issues": 11,
-  "items": 176,
+  "issues": 12,
+  "items": 192,
   "first": "2026-10-26",
-  "last": "2026-11-05",
+  "last": "2026-11-06",
   "types": [
    {
     "key": "world",
     "label": "国际关系",
-    "n": 47
+    "n": 51
    },
    {
     "key": "product",
     "label": "产品发布",
-    "n": 29
+    "n": 32
    },
    {
     "key": "tech",
     "label": "技术进展",
-    "n": 23
+    "n": 24
    },
    {
     "key": "other",
     "label": "其他",
-    "n": 22
+    "n": 23
    },
    {
     "key": "business",
     "label": "商业资本",
-    "n": 15
+    "n": 16
    },
    {
     "key": "industry",
     "label": "行业观察",
-    "n": 13
+    "n": 15
    },
    {
     "key": "research",
     "label": "研究进展",
-    "n": 11
+    "n": 12
    },
    {
     "key": "policy",
@@ -384,29 +416,29 @@
    {
     "key": "security",
     "label": "安全事件",
-    "n": 6
+    "n": 8
    },
    {
     "key": "society",
     "label": "社会民生",
-    "n": 2
+    "n": 3
    }
   ],
   "regions": [
    {
     "key": "cn",
     "label": "中国",
-    "n": 57
+    "n": 60
    },
    {
     "key": "us",
     "label": "美国",
-    "n": 40
+    "n": 47
    },
    {
     "key": "global",
     "label": "全球",
-    "n": 34
+    "n": 39
    },
    {
     "key": "me",
@@ -416,7 +448,7 @@
    {
     "key": "eu",
     "label": "欧洲",
-    "n": 13
+    "n": 14
    },
    {
     "key": "asia",
