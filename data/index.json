@@ -1,6 +1,34 @@
 {
- "updated": "2026-11-05 22:33",
+ "updated": "2026-11-06 21:57",
  "issues": [
+  {
+   "date": "2026-11-07",
+   "weekday": "周六",
+   "issue_no": 13,
+   "one_liner": "菜鸟发布与AI及具身智能产业合作计划，GPT Images 2.6 与 M6 款 MacBook Pro 同日亮相。",
+   "selected": 16,
+   "sources_ok": 26,
+   "groups": {
+    "ai": 7,
+    "world": 6,
+    "know": 3
+   },
+   "types": {
+    "world": 5,
+    "business": 4,
+    "product": 3,
+    "industry": 2,
+    "research": 1,
+    "tech": 1
+   },
+   "regions": {
+    "us": 7,
+    "cn": 4,
+    "global": 3,
+    "asia": 2
+   },
+   "head": "菜鸟发布AI及具身智能产业合作计划，OpenAI发布图像模型Images 2.6并开放ChatGPT、Codex与API。苹果国行AI于11"
+  },
   {
    "date": "2026-11-06",
    "weekday": "周五",
@@ -368,25 +396,25 @@
   }
  ],
  "aggregate": {
-  "issues": 12,
-  "items": 192,
+  "issues": 13,
+  "items": 208,
   "first": "2026-10-26",
-  "last": "2026-11-06",
+  "last": "2026-11-07",
   "types": [
    {
     "key": "world",
     "label": "国际关系",
-    "n": 51
+    "n": 56
    },
    {
     "key": "product",
     "label": "产品发布",
-    "n": 32
+    "n": 35
    },
    {
     "key": "tech",
     "label": "技术进展",
-    "n": 24
+    "n": 25
    },
    {
     "key": "other",
@@ -396,17 +424,17 @@
    {
     "key": "business",
     "label": "商业资本",
-    "n": 16
+    "n": 20
    },
    {
     "key": "industry",
     "label": "行业观察",
-    "n": 15
+    "n": 17
    },
    {
     "key": "research",
     "label": "研究进展",
-    "n": 12
+    "n": 13
    },
    {
     "key": "policy",
@@ -428,17 +456,17 @@
    {
     "key": "cn",
     "label": "中国",
-    "n": 60
+    "n": 64
    },
    {
     "key": "us",
     "label": "美国",
-    "n": 47
+    "n": 54
    },
    {
     "key": "global",
     "label": "全球",
-    "n": 39
+    "n": 42
    },
    {
     "key": "me",
@@ -453,7 +481,7 @@
    {
     "key": "asia",
     "label": "亚太",
-    "n": 7
+    "n": 9
    }
   ]
  }

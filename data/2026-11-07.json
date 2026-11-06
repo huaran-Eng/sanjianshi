@@ -1,0 +1,522 @@
+{
+ "date": "2026-11-07",
+ "date_cn": "11 月 7 日",
+ "weekday": "周六",
+ "issue_no": 13,
+ "one_liner": "菜鸟发布与AI及具身智能产业合作计划，GPT Images 2.6 与 M6 款 MacBook Pro 同日亮相。",
+ "lede": "扫描 394 条，从 26/26 个可用来源里留下 16 条：国际局势 6 条 · AI 发展 7 条 · 不为人知的知识 3 条。",
+ "cover_image": "",
+ "headline": [
+  {
+   "id": "e81565f23b81e569",
+   "source_id": "leiphone",
+   "source_name": "雷锋网",
+   "source_kind": "垂直媒体",
+   "title": "菜鸟发布与AI及具身智能产业合作计划",
+   "link": "https://www.leiphone.com/category/industrynews/DUZcuKBxESiGrXWu.html",
+   "published": "2026-11-06T09:57:00+08:00",
+   "image_url": null,
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "summary": "11月5日，菜鸟在香港智慧港举行AI及具身智能产业合作发布会，宣布向产业伙伴开放全球仓网，打造AI及具身智能物流实景训练集群。菜鸟同时推出“科技出海三日达”服务，面向AI算力与机器人企业提供从样机测试、规模化交付到海外运营的全链路供应链服务。会上菜鸟与多家AI及具身智能领域头部企业达成首批合作，近百家产业链企业代表到场。",
+   "why": "读者关注AI发展，这条涉及具身智能的训练场景开放与硬科技出海供应链，属产业落地层面的动向。",
+   "tags": [
+    "菜鸟",
+    "具身智能",
+    "供应链"
+   ],
+   "summary_mode": "llm",
+   "type": "business",
+   "region": "cn",
+   "topic": "菜鸟发布AI产业合作计划",
+   "type_label": "商业资本",
+   "region_label": "中国"
+  },
+  {
+   "id": "8cd6ef9450441d0c",
+   "source_id": "ifanr",
+   "source_name": "爱范儿",
+   "source_kind": "垂直媒体",
+   "title": "GPT Images 2.6 突然发布，蓝色大肥鱼实现 GIF 表情包自由",
+   "link": "https://www.ifanr.com/1687778?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "published": "2026-11-05T14:14:03+08:00",
+   "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/9-1.jpg",
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "img": "assets/img/8cd6ef9450441d0c.jpg",
+   "summary": "OpenAI 发布新一代图像生成模型 Images 2.6，并同步向 ChatGPT、Codex 和 API 开放。据 OpenAI 说法，其图像生成速度较此前提升 50%，并支持通过文字提示词生成 GIF 动图。面向开发者，OpenAI 推出 GPT-Image-2.6 Flare 和 Sunburst 两款模型，分别侧重快速生成和高质量图像编辑。",
+   "why": "读者关注 AI 发展，这条涉及 OpenAI 图像模型的新发布与开发者端模型分工。",
+   "tags": [
+    "OpenAI",
+    "图像生成",
+    "AI"
+   ],
+   "summary_mode": "llm",
+   "type": "product",
+   "region": "us",
+   "topic": "OpenAI发布图像模型2.6",
+   "type_label": "产品发布",
+   "region_label": "美国"
+  },
+  {
+   "id": "71e99d0aef6ef010",
+   "source_id": "sspai",
+   "source_name": "少数派",
+   "source_kind": "社区",
+   "title": "更高能效比，带来新惊喜：M6 款 MacBook Pro 初探",
+   "link": "https://sspai.com/post/118570",
+   "published": "2026-11-06T11:06:53+08:00",
+   "image_url": "https://rssfile.sspai.com/05/11/2026/article/e102dbca-f5af-d314-cf18-d41886c9eea2.jpeg?imageMogr2/auto-orient/ignore-error/1",
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "img": "assets/img/71e99d0aef6ef010.jpg",
+   "summary": "M6 芯片采用新架构，CPU 和 GPU 均由 10 核增至 12 核，比 M5 多一个神经网络引擎，内存带宽从 153GB/s 提升到最高 170GB/s。原文引用市面上各家性能测试数据，称 M6 比 M5 的 CPU 单核性能提升约 10%、多核约 20%，GPU 提升约 20% 到 30%，NPU 约 40% 到 50%。作者实测播客渲染由 M5 的超过 15 分钟缩短到 M6 的 10 分钟，本地运行 Gemma 4 12B 时 token 速度为每秒 19 左右，M5 为每秒 16 左右。",
+   "why": "关注 AI 发展的读者可从中看到本地大模型与统一内存、内存带宽、NPU 之间的关系，以及作者对「把钱花在大内存上」的实用判断。",
+   "tags": [
+    "MacBook Pro",
+    "M6 芯片",
+    "本地 AI"
+   ],
+   "summary_mode": "llm",
+   "type": "product",
+   "region": "us",
+   "topic": "M6款MacBook Pro上手",
+   "type_label": "产品发布",
+   "region_label": "美国"
+  }
+ ],
+ "featured": [
+  {
+   "id": "cf601dd710d94b1e",
+   "source_id": "solidot",
+   "source_name": "奇客 Solidot",
+   "source_kind": "垂直媒体",
+   "title": "Google 和 OpenAI 的模型对特定口音有偏见",
+   "link": "https://www.solidot.org/story?sid=85804",
+   "published": "2026-11-05T17:00:58+08:00",
+   "image_url": null,
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "summary": "原文标题称，Google 和 OpenAI 的模型对特定口音存在偏见。原文正文只有版权声明、ICP 备案号和举报联系方式，没有给出研究来源、测试方法或具体结论，这些内容原文未说明。",
+   "why": "话题属于你关注的 AI 发展方向，但这条原文实际没有提供任何可用的细节，参考价值有限。",
+   "tags": [
+    "AI 偏见",
+    "语音",
+    "原文信息不足"
+   ],
+   "summary_mode": "llm",
+   "type": "research",
+   "region": "us",
+   "topic": "模型对特定口音存偏见",
+   "type_label": "研究进展",
+   "region_label": "美国"
+  },
+  {
+   "id": "1b27a029fa54b15d",
+   "source_id": "un_news_zh",
+   "source_name": "联合国新闻·中文",
+   "source_kind": "公共媒体",
+   "title": "联合国阿卜耶伊安全部队继续发挥稳定作用 无人机袭击凸显地区安全风险",
+   "link": "https://news.un.org/feed/view/zh/story/2026/11/1143137",
+   "published": "2026-11-05T20:00:00+08:00",
+   "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/29-05-2026_unisfa1.jpg/image560x340cropped.jpg",
+   "source_count": 1,
+   "pr": 0,
+   "group": "world",
+   "img": "assets/img/1b27a029fa54b15d.jpg",
+   "summary": "联合国负责维和事务的副秘书长拉克鲁瓦和秘书长非洲之角问题特使丛光周四在安理会通报阿卜耶伊局势。他们指出，阿卜耶伊整体安全形势有所改善，但苏丹冲突外溢、武装势力活动和治理问题仍使当地局势面临严峻挑战。联合国阿卜耶伊临时安全部队继续发挥重要稳定作用。",
+   "why": "读者关注国际局势，这条是联合国安理会通报的苏丹周边地区安全动态。",
+   "tags": [
+    "联合国",
+    "阿卜耶伊",
+    "地区安全"
+   ],
+   "summary_mode": "llm",
+   "type": "world",
+   "region": "global",
+   "topic": "阿卜耶伊安全局势通报",
+   "type_label": "国际关系",
+   "region_label": "全球"
+  },
+  {
+   "id": "5fa3032f1c640c80",
+   "source_id": "leiphone",
+   "source_name": "雷锋网",
+   "source_kind": "垂直媒体",
+   "title": "上交大张伟楠教授：AI如何走出屏幕，真正改变物理世界？ | CNCC 2026",
+   "link": "https://www.leiphone.com/category/academic/TRS6Uqs5TY2MaUU4.html",
+   "published": "2026-11-06T15:25:00+08:00",
+   "image_url": "https://static.leiphone.com/uploads/new/images/20261106/6aed7f50788f9.jpg?imageMogr2/quality/90",
+   "source_count": 1,
+   "pr": 0,
+   "group": "know",
+   "img": "assets/img/5fa3032f1c640c80.jpg",
+   "summary": "上海交通大学教授、上海人工智能实验室物理智能中心负责人张伟楠在CNCC 2026首日Tutorial论坛发表题为《物理智能及关键技术概述》的演讲。他梳理了从硬件与系统、数据与仿真，到感知、世界模型、操作与运动控制，再到物理智能体和行业应用的七层技术栈，并称真正困难的部分往往在于层与层的衔接。原文提到，真实交互数据昂贵、环境只能被局部观测、长时程预测误差累积等问题仍制约能力扩展；同场该团队发布专著《Physical AI: Concepts, Techniques, and Challenges》。",
+   "why": "符合读者对AI发展的关注，呈现AI从屏幕走向物理世界的技术层次划分与现存制约。",
+   "tags": [
+    "AI",
+    "物理智能",
+    "机器人"
+   ],
+   "summary_mode": "llm",
+   "type": "tech",
+   "region": "cn",
+   "topic": "张伟楠讲物理智能技术",
+   "type_label": "技术进展",
+   "region_label": "中国"
+  },
+  {
+   "id": "0e0f9c2885178f77",
+   "source_id": "tmtpost",
+   "source_name": "钛媒体",
+   "source_kind": "市场化媒体",
+   "title": "我为什么不太看好苹果国行AI",
+   "link": "https://www.tmtpost.com/8196145.html",
+   "published": "2026-11-06T18:09:34+08:00",
+   "image_url": "https://images.tmtpost.com/uploads/images/2023/tkrss/2y56jutyh3.png",
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "img": "assets/img/0e0f9c2885178f77.jpg",
+   "summary": "苹果国行AI（Apple Intelligence）于11月4日凌晨向中国大陆用户开放开发者Beta测试，预计于12月随着iOS 27.3正式版全面推出。原文称，基座大模型将采用苹果本地模型加阿里千问的方式。作者列出的不看好理由包括：苹果AI难以全面适配国内移动APP生态、iOS第一方应用在国内的使用率不足、本地模型加第三方的模式的效率还需观察。",
+   "why": "这条内容讲的是AI功能在具体生态和市场上如何落实，涉及第三方大模型合作与国内大厂之间的封闭格局，与AI发展这一关注点相关。",
+   "tags": [
+    "苹果AI",
+    "阿里千问",
+    "移动生态"
+   ],
+   "summary_mode": "llm",
+   "type": "product",
+   "region": "cn",
+   "topic": "苹果国行AI开启测试",
+   "type_label": "产品发布",
+   "region_label": "中国"
+  },
+  {
+   "id": "dc46da5243e24ac6",
+   "source_id": "chinanews_world",
+   "source_name": "中国新闻网·国际",
+   "source_kind": "通讯社",
+   "title": "中期选举失利后 特朗普在办公桌上放了一顶帽子(图)",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-06/10727265.shtml",
+   "published": "2026-11-06T15:10:44+08:00",
+   "image_url": null,
+   "source_count": 1,
+   "pr": 0,
+   "group": "world",
+   "summary": "美国2026年中期选举11月3日举行，美国媒体预测民主党夺回国会参议院及众议院控制权。11月5日，特朗普在椭圆形办公室签署行政命令时，办公桌上摆放了一顶印有“否决权”(VETO)字样的红色帽子。特朗普此前接受哥伦比亚广播公司采访时表示，如果民主党赢得国会掌控权，他将在必要时行使否决权。",
+   "why": "涉及美国中期选举后的权力格局变化，属于国际局势类信息。",
+   "tags": [
+    "美国中期选举",
+    "特朗普",
+    "否决权"
+   ],
+   "summary_mode": "llm",
+   "type": "world",
+   "region": "us",
+   "topic": "中期选举后特朗普摆帽子",
+   "type_label": "国际关系",
+   "region_label": "美国"
+  }
+ ],
+ "quick": [
+  {
+   "title": "10 月最值得关注的 17 个产品｜明日产品 WATCHLIST",
+   "title_cn": "",
+   "link": "https://www.ifanr.com/1688060?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source_name": "爱范儿",
+   "source_kind": "垂直媒体",
+   "id": "db550bee731284a7",
+   "type": "industry",
+   "type_label": "行业观察",
+   "region": "global",
+   "region_label": "全球"
+  },
+  {
+   "title": "Claude Code华人一姐，闪电跳槽到OpenAI，大厂为何留不住人才？",
+   "title_cn": "",
+   "link": "https://www.tmtpost.com/8196354.html",
+   "source_name": "钛媒体",
+   "source_kind": "市场化媒体",
+   "id": "6370eab5982fc527",
+   "type": "business",
+   "type_label": "商业资本",
+   "region": "us",
+   "region_label": "美国"
+  },
+  {
+   "title": "外媒聚焦进博会：中国搭建合作共赢平台 激活全球贸易新动能",
+   "title_cn": "",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-06/10727210.shtml",
+   "source_name": "中国新闻网·国际",
+   "source_kind": "通讯社",
+   "id": "66691fcf0bc951e1",
+   "type": "world",
+   "type_label": "国际关系",
+   "region": "cn",
+   "region_label": "中国"
+  },
+  {
+   "title": "Chromebook 统治美国校园，AI 成了没得选的「套餐」",
+   "title_cn": "",
+   "link": "https://www.ifanr.com/1687912?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source_name": "爱范儿",
+   "source_kind": "垂直媒体",
+   "id": "bdd075c2ac013da2",
+   "type": "industry",
+   "type_label": "行业观察",
+   "region": "us",
+   "region_label": "美国"
+  },
+  {
+   "title": "挖走 Claude Code 产品负责人 Cat Wu，OpenAI 直击 Anthropic 上市命门",
+   "title_cn": "",
+   "link": "https://www.leiphone.com/category/yanxishe/iIUJoulGndesZear.html",
+   "source_name": "雷锋网",
+   "source_kind": "垂直媒体",
+   "id": "c7fad76d8ed96e7f",
+   "type": "business",
+   "type_label": "商业资本",
+   "region": "us",
+   "region_label": "美国"
+  },
+  {
+   "title": "国际原子能机构考察团审查俄罗斯核与辐射安全监管框架",
+   "title_cn": "",
+   "link": "https://news.un.org/feed/view/zh/story/2026/11/1143149",
+   "source_name": "联合国新闻·中文",
+   "source_kind": "公共媒体",
+   "id": "854baa371cac7978",
+   "type": "world",
+   "type_label": "国际关系",
+   "region": "global",
+   "region_label": "全球"
+  }
+ ],
+ "challenge": {
+  "question": "日本抗议俄临时接管日企在俄资产",
+  "a": "中新社 东京11月6日电 (记者 朱晨曦)据日本共同社6日报道，针对俄方临时接管日本烟草公司在俄资产一事，日本外务省欧洲局局长中村仁威当天向俄罗斯驻日本大使诺兹德廖夫提出抗议，要求俄方撤销该决定。据日本广播协会报道，日本烟草公司6日表示，正对当前形势及今后可能采取的应对措施进行审慎评估。",
+  "b": "原本脆弱的俄日双边关系 进一步恶化。俄罗斯首次将“不友好国家资产临时管理”机制应用于日资龙头企业。",
+  "diff": "两家来源类型不同（通讯社 / 市场化媒体），原文表述不一致之处需要对照阅读。",
+  "mode": "extractive",
+  "pair": [
+   {
+    "id": "eebcb943b6a3905f",
+    "source_id": "chinanews_world",
+    "source_name": "中国新闻网·国际",
+    "source_kind": "通讯社",
+    "title": "日本抗议俄临时接管日企在俄资产",
+    "link": "https://www.chinanews.com.cn/gj/2026/11-06/10727623.shtml",
+    "published": "2026-11-06T22:30:06+08:00",
+    "image_url": null,
+    "source_count": 1,
+    "pr": 0,
+    "group": "world",
+    "type": "world",
+    "region": "asia",
+    "topic": "日本抗议俄接管日企资产",
+    "type_label": "国际关系",
+    "region_label": "亚太"
+   },
+   {
+    "id": "4d44bdd45c559048",
+    "source_id": "jiemian",
+    "source_name": "界面新闻",
+    "source_kind": "市场化媒体",
+    "title": "四家烟草工厂被临时接管，日本与俄罗斯关系持续恶化",
+    "link": "https://www.jiemian.com/article/15305739.html",
+    "published": "2026-11-07T00:11:22+08:00",
+    "image_url": "https:https://img.jiemian.com/101/original/20261106/179398040518843100_a580x330.jpg",
+    "source_count": 1,
+    "pr": 0,
+    "group": "world",
+    "type": "business",
+    "region": "asia",
+    "topic": "四家烟草工厂被临时接管",
+    "type_label": "商业资本",
+    "region_label": "亚太"
+   }
+  ],
+  "kind": "两个视角"
+ },
+ "counts": {
+  "ai": 7,
+  "world": 6,
+  "know": 3
+ },
+ "report": {
+  "mode": "llm",
+  "overview": "菜鸟发布AI及具身智能产业合作计划，OpenAI发布图像模型Images 2.6并开放ChatGPT、Codex与API。苹果国行AI于11月4日开启开发者Beta测试。美国中期选举后特朗普办公桌摆出“否决权”帽子；日本就俄临时接管日企资产提出抗议。",
+  "signals": [
+   "AI产品与模型更新密集，图像生成与企业供应链服务同步推进",
+   "AI人才在头部公司间流动，Claude Code产品负责人加盟OpenAI",
+   "教育与企业应用侧政策调整增多，AI默认启用规则受关注"
+  ],
+  "groups": [
+   {
+    "key": "ai",
+    "label": "AI 发展",
+    "n": 7
+   },
+   {
+    "key": "world",
+    "label": "国际局势",
+    "n": 6
+   },
+   {
+    "key": "know",
+    "label": "不为人知的知识",
+    "n": 3
+   }
+  ],
+  "types": [
+   {
+    "key": "world",
+    "label": "国际关系",
+    "n": 5
+   },
+   {
+    "key": "business",
+    "label": "商业资本",
+    "n": 4
+   },
+   {
+    "key": "product",
+    "label": "产品发布",
+    "n": 3
+   },
+   {
+    "key": "industry",
+    "label": "行业观察",
+    "n": 2
+   },
+   {
+    "key": "research",
+    "label": "研究进展",
+    "n": 1
+   },
+   {
+    "key": "tech",
+    "label": "技术进展",
+    "n": 1
+   }
+  ],
+  "regions": [
+   {
+    "key": "us",
+    "label": "美国",
+    "n": 7
+   },
+   {
+    "key": "cn",
+    "label": "中国",
+    "n": 4
+   },
+   {
+    "key": "global",
+    "label": "全球",
+    "n": 3
+   },
+   {
+    "key": "asia",
+    "label": "亚太",
+    "n": 2
+   }
+  ],
+  "confirmed": [],
+  "confirmed_n": 0,
+  "source_kinds": [
+   {
+    "kind": "垂直媒体",
+    "n": 7
+   },
+   {
+    "kind": "市场化媒体",
+    "n": 3
+   },
+   {
+    "kind": "通讯社",
+    "n": 3
+   },
+   {
+    "kind": "公共媒体",
+    "n": 2
+   },
+   {
+    "kind": "社区",
+    "n": 1
+   }
+  ],
+  "note": "数字由程序统计；类型/地区标签来自模型或关键词规则；「归纳判断」是编辑视角的概括，不是事实，每条都附原文链接可核对。"
+ },
+ "stats": {
+  "scanned": 394,
+  "selected": 16,
+  "raw": 2886,
+  "clusters": 379,
+  "dedup": 394,
+  "sources_ok": 26,
+  "sources_total": 26,
+  "lookback_hours": 48,
+  "llm_mode": "llm",
+  "model": "deepseek-flash ×12",
+  "llm_calls": 12,
+  "cost": 0.0392,
+  "generated_at": "2026-11-07 05:57",
+  "errors": []
+ },
+ "archives": [
+  {
+   "date": "2026-11-06",
+   "weekday": "周五"
+  },
+  {
+   "date": "2026-11-05",
+   "weekday": "周四"
+  },
+  {
+   "date": "2026-11-04",
+   "weekday": "周三"
+  },
+  {
+   "date": "2026-11-03",
+   "weekday": "周二"
+  },
+  {
+   "date": "2026-11-02",
+   "weekday": "周一"
+  },
+  {
+   "date": "2026-11-01",
+   "weekday": "周日"
+  },
+  {
+   "date": "2026-10-31",
+   "weekday": "周六"
+  },
+  {
+   "date": "2026-10-30",
+   "weekday": "周五"
+  },
+  {
+   "date": "2026-10-29",
+   "weekday": "周四"
+  },
+  {
+   "date": "2026-10-28",
+   "weekday": "周三"
+  },
+  {
+   "date": "2026-10-27",
+   "weekday": "周二"
+  },
+  {
+   "date": "2026-10-26",
+   "weekday": "周一"
+  }
+ ]
+}
