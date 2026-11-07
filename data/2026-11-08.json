@@ -1,0 +1,545 @@
+{
+ "date": "2026-11-08",
+ "date_cn": "11 月 8 日",
+ "weekday": "周日",
+ "issue_no": 14,
+ "one_liner": "今天值得看：当芯片抢着上太空，半导体下一轮增量有了…；菜鸟发布与AI及具身智能产业合作计划",
+ "lede": "扫描 367 条，从 26/26 个可用来源里留下 16 条：国际局势 5 条 · AI 发展 8 条 · 不为人知的知识 3 条。",
+ "cover_image": "assets/img/a21499a6b42e5c78.jpg",
+ "headline": [
+  {
+   "id": "a21499a6b42e5c78",
+   "source_id": "tmtpost",
+   "source_name": "钛媒体",
+   "source_kind": "市场化媒体",
+   "title": "当芯片抢着上太空，半导体下一轮增量有了？",
+   "link": "https://www.tmtpost.com/8197078.html",
+   "published": "2026-11-07T17:33:06+08:00",
+   "image_url": "https://images.tmtpost.com/uploads/images/2023/tkrss/235y4u65jyhtgr3.png",
+   "source_count": 2,
+   "pr": 0,
+   "group": "ai",
+   "img": "assets/img/a21499a6b42e5c78.jpg",
+   "summary": "谷歌宣布自研TPU首次在轨运行AI模型并返回结果，目标是把多颗搭载TPU的卫星连接起来，在轨道上组成计算集群。泰伯智库10月发布的研究预计，全球太空算力市场将从2025年的约29亿美元增至2030年的190亿美元。SpaceX首代Starmind计算卫星将采用经过适配的英伟达Vera Rubin NVL72系统，目标在2027年第四季度发射。",
+   "why": "芯片厂商、云厂商与航天企业同时布局轨道算力，这条呈现了AI算力竞争向太空延伸的最新动向。",
+   "tags": [
+    "太空算力",
+    "AI芯片",
+    "半导体"
+   ],
+   "summary_mode": "llm",
+   "type": "tech",
+   "region": "global",
+   "topic": "谷歌TPU首次在轨跑AI",
+   "type_label": "技术进展",
+   "region_label": "全球"
+  },
+  {
+   "id": "e81565f23b81e569",
+   "source_id": "leiphone",
+   "source_name": "雷锋网",
+   "source_kind": "垂直媒体",
+   "title": "菜鸟发布与AI及具身智能产业合作计划",
+   "link": "https://www.leiphone.com/category/industrynews/DUZcuKBxESiGrXWu.html",
+   "published": "2026-11-06T09:57:00+08:00",
+   "image_url": null,
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "summary": "11月5日，菜鸟在香港智慧港举行AI及具身智能产业合作发布会，宣布向产业伙伴开放全球仓网，打造AI及具身智能物流实景训练集群，并推出“科技出海三日达”服务。会上菜鸟与多家AI及具身智能领域头部企业达成首批合作，近百家产业链企业代表到场。菜鸟国际总裁熊伟表示，具身智能加速进入现实世界后，未来10年相关技术有望逐步成熟，效率提升可能达到10至50倍。",
+   "why": "这条涉及AI与具身智能的产业化落地和物流场景开放，属于读者关注的AI发展议题。",
+   "tags": [
+    "AI",
+    "具身智能",
+    "物流"
+   ],
+   "summary_mode": "llm",
+   "type": "business",
+   "region": "cn",
+   "topic": "菜鸟开放仓网建AI合作",
+   "type_label": "商业资本",
+   "region_label": "中国"
+  },
+  {
+   "id": "92b2a606a1ecb198",
+   "source_id": "jiemian",
+   "source_name": "界面新闻",
+   "source_kind": "市场化媒体",
+   "title": "伊拉克外长警告称中东地区或再陷战火",
+   "link": "https://www.jiemian.com/article/15307199.html",
+   "published": "2026-11-07T21:46:16+08:00",
+   "image_url": "https:https://img.jiemian.com/101/original/20220307/164664253426029700_a580x330.png",
+   "source_count": 1,
+   "pr": 0,
+   "group": "world",
+   "summary": "当地时间11月7日，伊拉克外长侯赛因在接受媒体采访时表示，当前局势表明中东地区或将重新爆发战争。侯赛因称，由于霍尔木兹海峡石油出口停滞，伊拉克已损失约600亿美元。他还表示，美国已正式要求关闭除两个口岸外伊拉克与伊朗的所有边境口岸。",
+   "why": "中东局势与霍尔木兹海峡石油出口直接相关，属于读者关注的国际局势变化。",
+   "tags": [
+    "国际局势",
+    "中东",
+    "伊拉克"
+   ],
+   "summary_mode": "llm",
+   "type": "world",
+   "region": "me",
+   "topic": "伊拉克外长警告中东战火",
+   "type_label": "国际关系",
+   "region_label": "中东"
+  }
+ ],
+ "featured": [
+  {
+   "id": "47ceff1d863d8777",
+   "source_id": "leiphone",
+   "source_name": "雷锋网",
+   "source_kind": "垂直媒体",
+   "title": "百图生科与11家伙伴战略合作，AI生物计算覆盖医药研发及农业育种",
+   "link": "https://www.leiphone.com/category/industrynews/X7HwwQTEXJhiVVzK.html",
+   "published": "2026-11-07T10:40:00+08:00",
+   "image_url": "https://static.leiphone.com/uploads/new/images/20261107/6aee8f188363a.png?imageView2/2/w/740",
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "img": "assets/img/47ceff1d863d8777.jpg",
+   "summary": "2026年11月6日，百图生科主办、港投公司支持的第三届「国际生物计算创新峰会2026」在香港会议展览中心举行，汇聚约300名科研、产业及投资界代表。峰会上，百图生科宣布与大学、科企及投资机构等合共11家伙伴启动合作，覆盖新药研发、中医药研究、农业育种及国际市场拓展。其中与香港大学合作推进「乳腺癌虚拟细胞大模型」项目，与香港浸会大学合作筹建「AI中医药联合实验室」，并与大豆天地农业科技推进「人工智能育种平台」合作。",
+   "why": "这条涉及AI在生命科学和农业育种上的落地合作，属于AI发展方向的进展，不涉及明星八卦。",
+   "tags": [
+    "AI生物计算",
+    "医药研发",
+    "农业育种"
+   ],
+   "summary_mode": "llm",
+   "type": "business",
+   "region": "cn",
+   "topic": "百图生科签约11家伙伴",
+   "type_label": "商业资本",
+   "region_label": "中国"
+  },
+  {
+   "id": "aaf87d06f1741057",
+   "source_id": "chinanews_world",
+   "source_name": "中国新闻网·国际",
+   "source_kind": "通讯社",
+   "title": "日本学者：日政府强化军事能力或加剧地区紧张局势",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-07/10728158.shtml",
+   "published": "2026-11-07T21:10:44+08:00",
+   "image_url": null,
+   "source_count": 1,
+   "pr": 0,
+   "group": "world",
+   "summary": "日本政府计划在今年年内修订“安保三文件”，并推动军事研究与经济产业深度融合。日本爱知工业大学教授中岛哲彦表示，修改“安保三文件”越多，就越只会朝着加剧紧张局势的方向发展。针对日本政府计划重新审视“无核三原则”以及引进核动力潜艇等动向，中岛哲彦认为，相关动向突破专守防卫原则，是对日本和平宪法的背离。",
+   "why": "涉及日本安保政策调整与地区安全，属于读者关注的国际局势议题。",
+   "tags": [
+    "日本安保",
+    "地区局势",
+    "军事扩张"
+   ],
+   "summary_mode": "llm",
+   "type": "world",
+   "region": "asia",
+   "topic": "日本修安保文件引担忧",
+   "type_label": "国际关系",
+   "region_label": "亚太"
+  },
+  {
+   "id": "5fa3032f1c640c80",
+   "source_id": "leiphone",
+   "source_name": "雷锋网",
+   "source_kind": "垂直媒体",
+   "title": "上交大张伟楠教授：AI如何走出屏幕，真正改变物理世界？ | CNCC 2026",
+   "link": "https://www.leiphone.com/category/academic/TRS6Uqs5TY2MaUU4.html",
+   "published": "2026-11-06T15:25:00+08:00",
+   "image_url": "https://static.leiphone.com/uploads/new/images/20261106/6aed7f50788f9.jpg?imageMogr2/quality/90",
+   "source_count": 1,
+   "pr": 0,
+   "group": "know",
+   "img": "assets/img/5fa3032f1c640c80.jpg",
+   "summary": "在上海交通大学教授、上海人工智能实验室物理智能中心负责人张伟楠于 CNCC 2026 Tutorial 论坛发表的《物理智能及关键技术概述》演讲中，他讨论了物理智能的定义、与具身智能的区别及其技术层次。他认为，基础模型、世界模型、强化学习与高吞吐仿真、虚实迁移以及硬件成本下降，正在共同推动物理智能从研究愿景走向可行实践。他同时指出，真实交互数据昂贵、环境只能被局部观测、长时程预测误差累积等问题，仍然制约着能力的扩展。",
+   "why": "这条内容涉及 AI 从数字世界进入物理世界的技术路径与制约条件，属于读者关注的 AI 发展方向。",
+   "tags": [
+    "物理智能",
+    "AI",
+    "机器人"
+   ],
+   "summary_mode": "llm",
+   "type": "research",
+   "region": "cn",
+   "topic": "张伟楠谈物理智能技术",
+   "type_label": "研究进展",
+   "region_label": "中国"
+  },
+  {
+   "id": "71e99d0aef6ef010",
+   "source_id": "sspai",
+   "source_name": "少数派",
+   "source_kind": "社区",
+   "title": "更高能效比，带来新惊喜：M6 款 MacBook Pro 初探",
+   "link": "https://sspai.com/post/118570",
+   "published": "2026-11-06T11:06:53+08:00",
+   "image_url": "https://rssfile.sspai.com/05/11/2026/article/e102dbca-f5af-d314-cf18-d41886c9eea2.jpeg?imageMogr2/auto-orient/ignore-error/1",
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "img": "assets/img/71e99d0aef6ef010.jpg",
+   "summary": "M6 芯片采用新架构，从 M5 的 10 核 CPU、10 核 GPU 变为 12 核 CPU、12 核 GPU，并比 M5 多一个神经网络引擎，内存带宽从 153GB/s 提升到最高 170GB/s。作者实测：用《Reaper》渲染一个半小时以上的播客，M5 用时超过 15 分钟，M6 为 10 分钟。用《LM Studio》运行 Gemma 4 12B 本地模型时，M6 每秒约 19 个 token，M5 约 16 个；M6 内存为 32GB，M5 为 16GB。",
+   "why": "文中关于统一内存、内存带宽与本地大模型运行速度的实测，与读者关注的 AI 发展相关。",
+   "tags": [
+    "AI 硬件",
+    "本地大模型",
+    "MacBook Pro"
+   ],
+   "summary_mode": "llm",
+   "type": "product",
+   "region": "us",
+   "topic": "M6款MacBook Pro初探",
+   "type_label": "产品发布",
+   "region_label": "美国"
+  },
+  {
+   "id": "4fc4fe131810c406",
+   "source_id": "chinanews_world",
+   "source_name": "中国新闻网·国际",
+   "source_kind": "通讯社",
+   "title": "伊朗外长连续致电阿曼、埃及、约旦、沙特等12国外长讨论地区局势",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-07/10728129.shtml",
+   "published": "2026-11-07T20:44:34+08:00",
+   "image_url": null,
+   "source_count": 1,
+   "pr": 0,
+   "group": "world",
+   "summary": "伊朗外长阿拉格齐当地时间7日在社交媒体上表示，过去48小时他与12国外长通电话，讨论地区和国际局势。这12国包括阿曼、埃及、约旦、沙特阿拉伯、卡塔尔、塞浦路斯、土耳其、科威特、阿联酋、突尼斯、伊拉克和巴基斯坦。他在通话中阐述了伊朗的原则立场，强调必须尊重各国国家主权、停止侵略和威胁、避免外部势力进行破坏性干涉，并表示伊朗有权维护自身主权和国家安全，有必要建立不受域外势力干涉的地区安全机制。",
+   "why": "涉及中东多国的密集外交沟通，属于读者关注的国际局势动态。",
+   "tags": [
+    "国际局势",
+    "伊朗外交",
+    "中东"
+   ],
+   "summary_mode": "llm",
+   "type": "world",
+   "region": "me",
+   "topic": "伊朗外长致电12国外长",
+   "type_label": "国际关系",
+   "region_label": "中东"
+  }
+ ],
+ "quick": [
+  {
+   "title": "10 月最值得关注的 17 个产品｜明日产品 WATCHLIST",
+   "title_cn": "",
+   "link": "https://www.ifanr.com/1688060?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source_name": "爱范儿",
+   "source_kind": "垂直媒体",
+   "id": "db550bee731284a7",
+   "type": "product",
+   "type_label": "产品发布",
+   "region": "global",
+   "region_label": "全球"
+  },
+  {
+   "title": "Measuring how AI agents handle everyday wet-lab science",
+   "title_cn": "测量AI代理如何处理日常湿实验室科研工作",
+   "link": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+   "source_name": "OpenAI 官方博客",
+   "source_kind": "厂商官方",
+   "id": "2a55b8077bbda543",
+   "type": "research",
+   "type_label": "研究进展",
+   "region": "us",
+   "region_label": "美国"
+  },
+  {
+   "title": "美中央司令部成立特遣队，阻止伊朗通过陆路运输先进武器",
+   "title_cn": "",
+   "link": "https://www.jiemian.com/article/15307207.html",
+   "source_name": "界面新闻",
+   "source_kind": "市场化媒体",
+   "id": "901c88f82ce42f52",
+   "type": "world",
+   "type_label": "国际关系",
+   "region": "me",
+   "region_label": "中东"
+  },
+  {
+   "title": "ESA Hera 探测器发回 DART 撞击的小行星照片",
+   "title_cn": "",
+   "link": "https://www.solidot.org/story?sid=85825",
+   "source_name": "奇客 Solidot",
+   "source_kind": "垂直媒体",
+   "id": "71ecf7a1cb22b3f3",
+   "type": "research",
+   "type_label": "研究进展",
+   "region": "eu",
+   "region_label": "欧洲"
+  },
+  {
+   "title": "Latvian farmers protest over ‘blood grain’ trade with Russia",
+   "title_cn": "拉脱维亚农民抗议与俄罗斯的“血粮”贸易",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-sv-latvia-farmers-protest-russian-grain-transit?traffic_source=rss",
+   "source_name": "Al Jazeera",
+   "source_kind": "通讯社",
+   "id": "622cf70f0cedc385",
+   "type": "society",
+   "type_label": "社会民生",
+   "region": "eu",
+   "region_label": "欧洲"
+  },
+  {
+   "title": "【世界进行时】2026年11月6日",
+   "title_cn": "",
+   "link": "https://news.un.org/feed/view/zh/story/2026/11/1143156",
+   "source_name": "联合国新闻·中文",
+   "source_kind": "公共媒体",
+   "id": "245d7117e22d77e7",
+   "type": "world",
+   "type_label": "国际关系",
+   "region": "global",
+   "region_label": "全球"
+  }
+ ],
+ "challenge": {
+  "question": "同一枪击案报道的信息详略差异",
+  "a": "详述至少六人死亡、嫌犯疑与极右翼有关、作案时间线及警方交火",
+  "b": "仅描述枪击发生后警方在中央集市广场附近封锁街道",
+  "diff": "B 未提伤亡数字与嫌犯信息，原文未说明",
+  "mode": "llm",
+  "pair": [
+   {
+    "id": "dff4eb9dce886e91",
+    "source_id": "bbc_world",
+    "source_name": "BBC World",
+    "source_kind": "公共媒体",
+    "title": "What we know so far after Polish gunman opens fire in Krakow main square",
+    "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-08T04:23:17+08:00",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6c3/live/95455f00-dac5-11f1-bda8-29fb69dbc026.jpg",
+    "source_count": 1,
+    "pr": 0,
+    "group": "ai",
+    "type": "security",
+    "region": "eu",
+    "topic": "波兰克拉科夫枪击案",
+    "type_label": "安全事件",
+    "region_label": "欧洲"
+   },
+   {
+    "id": "2fdb014e9d8c60a9",
+    "source_id": "nyt_world",
+    "source_name": "NYT World",
+    "source_kind": "市场化媒体",
+    "title": "At Least 6 Dead in Poland After Gunman Opens Fire in Krakow, Police Say",
+    "link": "https://www.nytimes.com/2026/11/07/world/europe/krakow-poland-shooting.html",
+    "published": "2026-11-08T03:21:41+08:00",
+    "image_url": "https://static01.nyt.com/images/2026/11/07/multimedia/07int-poland-shooting-tjqg/07int-poland-shooting-tjqg-mediumSquareAt3X.jpg",
+    "source_count": 1,
+    "pr": 0,
+    "group": "ai",
+    "type": "security",
+    "region": "eu",
+    "topic": "克拉科夫枪击至少6死",
+    "type_label": "安全事件",
+    "region_label": "欧洲"
+   }
+  ],
+  "kind": "两个视角"
+ },
+ "counts": {
+  "ai": 8,
+  "world": 5,
+  "know": 3
+ },
+ "report": {
+  "mode": "llm",
+  "overview": "谷歌TPU首次在轨运行AI模型；菜鸟、百图生科分别发布AI产业合作计划，OpenAI推出实验基准。中东方面，伊拉克与伊朗外长密集外交，美中央司令部成立特遣队。波兰克拉科夫发生枪击致至少六人死亡，ESA发回小行星照片。",
+  "signals": [
+   "中东多国外长密集通话，美方同步成立特遣队，地区紧张持续。",
+   "AI合作与评测集中出现，落地场景延伸至物流、生物计算与太空。",
+   "欧洲同期出现枪击与社会抗议，安全与民生议题交织。"
+  ],
+  "groups": [
+   {
+    "key": "ai",
+    "label": "AI 发展",
+    "n": 8
+   },
+   {
+    "key": "world",
+    "label": "国际局势",
+    "n": 5
+   },
+   {
+    "key": "know",
+    "label": "不为人知的知识",
+    "n": 3
+   }
+  ],
+  "types": [
+   {
+    "key": "world",
+    "label": "国际关系",
+    "n": 5
+   },
+   {
+    "key": "research",
+    "label": "研究进展",
+    "n": 3
+   },
+   {
+    "key": "business",
+    "label": "商业资本",
+    "n": 2
+   },
+   {
+    "key": "product",
+    "label": "产品发布",
+    "n": 2
+   },
+   {
+    "key": "security",
+    "label": "安全事件",
+    "n": 2
+   },
+   {
+    "key": "society",
+    "label": "社会民生",
+    "n": 1
+   },
+   {
+    "key": "tech",
+    "label": "技术进展",
+    "n": 1
+   }
+  ],
+  "regions": [
+   {
+    "key": "eu",
+    "label": "欧洲",
+    "n": 4
+   },
+   {
+    "key": "cn",
+    "label": "中国",
+    "n": 3
+   },
+   {
+    "key": "me",
+    "label": "中东",
+    "n": 3
+   },
+   {
+    "key": "global",
+    "label": "全球",
+    "n": 3
+   },
+   {
+    "key": "us",
+    "label": "美国",
+    "n": 2
+   },
+   {
+    "key": "asia",
+    "label": "亚太",
+    "n": 1
+   }
+  ],
+  "confirmed": [
+   {
+    "title": "当芯片抢着上太空，半导体下一轮增量有了？",
+    "n": 2
+   }
+  ],
+  "confirmed_n": 1,
+  "source_kinds": [
+   {
+    "kind": "垂直媒体",
+    "n": 5
+   },
+   {
+    "kind": "市场化媒体",
+    "n": 4
+   },
+   {
+    "kind": "通讯社",
+    "n": 3
+   },
+   {
+    "kind": "公共媒体",
+    "n": 2
+   },
+   {
+    "kind": "社区",
+    "n": 1
+   },
+   {
+    "kind": "厂商官方",
+    "n": 1
+   }
+  ],
+  "note": "数字由程序统计；类型/地区标签来自模型或关键词规则；「归纳判断」是编辑视角的概括，不是事实，每条都附原文链接可核对。"
+ },
+ "stats": {
+  "scanned": 367,
+  "selected": 16,
+  "raw": 2889,
+  "clusters": 350,
+  "dedup": 364,
+  "sources_ok": 26,
+  "sources_total": 26,
+  "lookback_hours": 48,
+  "llm_mode": "llm",
+  "model": "deepseek-flash ×13",
+  "llm_calls": 13,
+  "cost": 0.0416,
+  "generated_at": "2026-11-08 04:40",
+  "errors": []
+ },
+ "archives": [
+  {
+   "date": "2026-11-07",
+   "weekday": "周六"
+  },
+  {
+   "date": "2026-11-06",
+   "weekday": "周五"
+  },
+  {
+   "date": "2026-11-05",
+   "weekday": "周四"
+  },
+  {
+   "date": "2026-11-04",
+   "weekday": "周三"
+  },
+  {
+   "date": "2026-11-03",
+   "weekday": "周二"
+  },
+  {
+   "date": "2026-11-02",
+   "weekday": "周一"
+  },
+  {
+   "date": "2026-11-01",
+   "weekday": "周日"
+  },
+  {
+   "date": "2026-10-31",
+   "weekday": "周六"
+  },
+  {
+   "date": "2026-10-30",
+   "weekday": "周五"
+  },
+  {
+   "date": "2026-10-29",
+   "weekday": "周四"
+  },
+  {
+   "date": "2026-10-28",
+   "weekday": "周三"
+  },
+  {
+   "date": "2026-10-27",
+   "weekday": "周二"
+  }
+ ]
+}

@@ -1,6 +1,37 @@
 {
- "updated": "2026-11-06 21:57",
+ "updated": "2026-11-07 20:40",
  "issues": [
+  {
+   "date": "2026-11-08",
+   "weekday": "周日",
+   "issue_no": 14,
+   "one_liner": "今天值得看：当芯片抢着上太空，半导体下一轮增量有了…；菜鸟发布与AI及具身智能产业合作计划",
+   "selected": 16,
+   "sources_ok": 26,
+   "groups": {
+    "ai": 8,
+    "world": 5,
+    "know": 3
+   },
+   "types": {
+    "world": 5,
+    "research": 3,
+    "business": 2,
+    "product": 2,
+    "security": 2,
+    "society": 1,
+    "tech": 1
+   },
+   "regions": {
+    "eu": 4,
+    "cn": 3,
+    "me": 3,
+    "global": 3,
+    "us": 2,
+    "asia": 1
+   },
+   "head": "谷歌TPU首次在轨运行AI模型；菜鸟、百图生科分别发布AI产业合作计划，OpenAI推出实验基准。中东方面，伊拉克与伊朗外长密集外交，美中央"
+  },
   {
    "date": "2026-11-07",
    "weekday": "周六",
@@ -396,25 +427,25 @@
   }
  ],
  "aggregate": {
-  "issues": 13,
-  "items": 208,
+  "issues": 14,
+  "items": 224,
   "first": "2026-10-26",
-  "last": "2026-11-07",
+  "last": "2026-11-08",
   "types": [
    {
     "key": "world",
     "label": "国际关系",
-    "n": 56
+    "n": 61
    },
    {
     "key": "product",
     "label": "产品发布",
-    "n": 35
+    "n": 37
    },
    {
     "key": "tech",
     "label": "技术进展",
-    "n": 25
+    "n": 26
    },
    {
     "key": "other",
@@ -424,7 +455,7 @@
    {
     "key": "business",
     "label": "商业资本",
-    "n": 20
+    "n": 22
    },
    {
     "key": "industry",
@@ -434,7 +465,12 @@
    {
     "key": "research",
     "label": "研究进展",
-    "n": 13
+    "n": 16
+   },
+   {
+    "key": "security",
+    "label": "安全事件",
+    "n": 10
    },
    {
     "key": "policy",
@@ -442,46 +478,41 @@
     "n": 8
    },
    {
-    "key": "security",
-    "label": "安全事件",
-    "n": 8
-   },
-   {
     "key": "society",
     "label": "社会民生",
-    "n": 3
+    "n": 4
    }
   ],
   "regions": [
    {
     "key": "cn",
     "label": "中国",
-    "n": 64
+    "n": 67
    },
    {
     "key": "us",
     "label": "美国",
-    "n": 54
+    "n": 56
    },
    {
     "key": "global",
     "label": "全球",
-    "n": 42
+    "n": 45
    },
    {
     "key": "me",
     "label": "中东",
-    "n": 25
+    "n": 28
    },
    {
     "key": "eu",
     "label": "欧洲",
-    "n": 14
+    "n": 18
    },
    {
     "key": "asia",
     "label": "亚太",
-    "n": 9
+    "n": 10
    }
   ]
  }
