@@ -1,0 +1,526 @@
+{
+ "date": "2026-11-09",
+ "date_cn": "11 月 9 日",
+ "weekday": "周一",
+ "issue_no": 15,
+ "one_liner": "今天值得看：俄外交部：欧洲多国军演挑动局势升级 在…；法国外长说欧洲将参加乌克兰危机阿布扎比…",
+ "lede": "扫描 307 条，从 26/26 个可用来源里留下 16 条：国际局势 8 条 · AI 发展 5 条 · 不为人知的知识 3 条。",
+ "cover_image": "",
+ "headline": [
+  {
+   "id": "4d102c87770449d6",
+   "source_id": "chinanews_world",
+   "source_name": "中国新闻网·国际",
+   "source_kind": "通讯社",
+   "title": "俄外交部：欧洲多国军演挑动局势升级 在乌部署外国军事力量不可接受",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-08/10728193.shtml",
+   "published": "2026-11-08T06:35:15+08:00",
+   "image_url": null,
+   "source_count": 1,
+   "pr": 0,
+   "group": "world",
+   "summary": "俄外交部发言人扎哈罗娃7日表示，在乌克兰部署任何外国军事力量都不可接受，并将成为俄方合法打击目标。英国和法国国防部3日发表联合声明，宣布援助乌克兰“志愿联盟”旗下多国部队将于9日至22日举行首次演习，来自11个国家的约2800名军人参加。扎哈罗娃指出，该演习在阿布扎比重启俄美乌三方谈判前夕开始举行。",
+   "why": "属于国际局势动向，涉及俄乌冲突与欧洲多国军演，且与美乌俄谈判时点相关。",
+   "tags": [
+    "国际局势",
+    "俄乌",
+    "军演"
+   ],
+   "summary_mode": "llm",
+   "type": "world",
+   "region": "eu",
+   "topic": "俄外交部：欧洲多国军演挑动局势升级 在乌部署外国军事力量",
+   "type_label": "国际关系",
+   "region_label": "欧洲"
+  },
+  {
+   "id": "3221d067881978ec",
+   "source_id": "jiemian",
+   "source_name": "界面新闻",
+   "source_kind": "市场化媒体",
+   "title": "法国外长说欧洲将参加乌克兰危机阿布扎比会谈",
+   "link": "https://www.jiemian.com/article/15308363.html",
+   "published": "2026-11-08T21:51:29+08:00",
+   "image_url": "https:https://img.jiemian.com/101/original/20220307/164664253426029700_a580x330.png",
+   "source_count": 1,
+   "pr": 0,
+   "group": "world",
+   "summary": "法国外长巴罗11月8日说，欧洲将参加在阿联酋首都阿布扎比举行的美国、俄罗斯和乌克兰三方会谈。巴罗说，法国将派出代表，并传递欧洲声音，但没有透露法国代表的身份。美国总统特使威特科夫2日说，美方将于10日至11日在阿布扎比斡旋乌克兰与俄罗斯之间的工作层级谈判。",
+   "why": "关注国际局势的读者可了解乌克兰危机三方会谈的最新安排及欧洲的参与态度。",
+   "tags": [
+    "乌克兰危机",
+    "国际局势",
+    "阿布扎比会谈"
+   ],
+   "summary_mode": "llm",
+   "type": "world",
+   "region": "eu",
+   "topic": "法国外长说欧洲将参加乌克兰危机阿布扎比会谈",
+   "type_label": "国际关系",
+   "region_label": "欧洲"
+  },
+  {
+   "id": "d14e88b6d1f2251d",
+   "source_id": "verge",
+   "source_name": "The Verge",
+   "source_kind": "垂直媒体",
+   "title": "Apple is racing to make Siri more agentic",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+   "published": "2026-11-09T03:18:19+08:00",
+   "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Siri-AI-Being-invoked-3.jpg?quality=90&strip=all&crop=0,0,100,100",
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "img": "assets/img/d14e88b6d1f2251d.jpg",
+   "summary": "据彭博社的 Mark Gurman 报道，苹果 CEO John Ternus 正施压 AI 负责人 Craig Federighi，要求加快 Siri 的路线图，推出能与 OpenAI 的 Dots 或 Meta 的 Muse 竞争的 AI 智能体。未来数月 Siri 预计有两项重要改进：一是获得对苹果第一方应用的细粒度控制，例如在照片中转正、裁剪图片，以及整理 Safari 标签页，这些功能预计随 iOS 27.3 推出；二是与第三方应用集成，预计稍晚在春季推出，届时 Siri 可经由 Grubhub 下单，或通过 OpenTable 预订晚餐。Gurman 称，苹果最终希望让 Siri 更具自主执行能力，能够持续执行进行中的任务，而不仅是单次操作；他认为苹果最早可能在明年让 Siri 更像一个智能体。",
+   "title_cn": "苹果加速让 Siri 更具自主执行能力",
+   "why": "这是 AI 助手从回答问题走向自主执行任务的进展，符合你对 AI 发展的关注。",
+   "tags": [
+    "AI",
+    "苹果",
+    "Siri"
+   ],
+   "summary_mode": "llm",
+   "type": "tech",
+   "region": "us",
+   "topic": "Apple is racing to make Siri",
+   "type_label": "技术进展",
+   "region_label": "美国"
+  }
+ ],
+ "featured": [
+  {
+   "id": "946e417854867b7e",
+   "source_id": "leiphone",
+   "source_name": "雷锋网",
+   "source_kind": "垂直媒体",
+   "title": "终端侧AI：从单点应用走向智能体体验",
+   "link": "https://www.leiphone.com/category/chips/aOKsujJpdDvRKj5S.html",
+   "published": "2026-11-08T15:54:00+08:00",
+   "image_url": "https://static.leiphone.com/uploads/new/images/20261108/6af02a6b442e6.jpeg?imageView2/2/w/740",
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "img": "assets/img/946e417854867b7e.jpg",
+   "summary": "高通AI产品技术中国区负责人万卫星在2026年11月7日的上海活动上表示，终端侧AI经过3至4年发展正迎来重要变化节点。他指出端侧AI应用目前多偏向单点功能，正在向意图理解、任务编排等智能体体验演进。高通在第九届进博会展示端侧MoE智能体演示，与Infris AI、江波龙、阶跃星辰合作，从模型、推理、存储和芯片平台协同优化。",
+   "why": "涉及AI在终端落地和MoE技术路线，属于读者关注的AI发展方向。",
+   "tags": [
+    "终端侧AI",
+    "MoE",
+    "端云协同"
+   ],
+   "summary_mode": "llm",
+   "type": "tech",
+   "region": "cn",
+   "topic": "终端侧AI：从单点应用走向智能体体验",
+   "type_label": "技术进展",
+   "region_label": "中国"
+  },
+  {
+   "id": "da9fdbcdf44d4c87",
+   "source_id": "jiemian",
+   "source_name": "界面新闻",
+   "source_kind": "市场化媒体",
+   "title": "以色列国防部长称对伊朗任务“尚未完成”",
+   "link": "https://www.jiemian.com/article/15308276.html",
+   "published": "2026-11-08T20:18:58+08:00",
+   "image_url": "https:https://img.jiemian.com/101/original/20220307/164664253426029700_a580x330.png",
+   "source_count": 1,
+   "pr": 0,
+   "group": "world",
+   "summary": "以色列国防部长卡茨11月8日称，以色列“对伊朗的任务尚未完成”，并称伊朗试图“重启获取核武器的进程”。卡茨表示以方将采取“先发制人”的行动，但未提供证据，也未说明具体行动。他还称以军不会从占领的加沙地带、黎巴嫩和叙利亚部分地区撤军。",
+   "why": "涉及以色列与伊朗的公开表态，属国际局势动向，且原文明确说明相关指控未附证据。",
+   "tags": [
+    "以伊局势",
+    "国际",
+    "国防"
+   ],
+   "summary_mode": "llm",
+   "type": "other",
+   "region": "me",
+   "topic": "以色列国防部长称对伊朗任务“尚未完成”",
+   "type_label": "其他",
+   "region_label": "中东"
+  },
+  {
+   "id": "8d61daf38d7fb5ec",
+   "source_id": "sspai",
+   "source_name": "少数派",
+   "source_kind": "社区",
+   "title": "苹果产品那些不够颠覆，却值得被学习的细节",
+   "link": "https://sspai.com/post/118114",
+   "published": "2026-11-08T11:18:54+08:00",
+   "image_url": "https://rssfile.sspai.com/2026/11/01/431f34e869a633a9bc00639e4187fed4.png?imageMogr2/auto-orient/ignore-error/1",
+   "source_count": 1,
+   "pr": 0,
+   "group": "know",
+   "img": "assets/img/8d61daf38d7fb5ec.jpg",
+   "summary": "作者从苹果官网的设计与交互切入，认为被其他品牌学走的做法往往不是发布会的重点。文中举例：Taptic Engine 2014 年出现在 Apple Watch，2015 年进入 iPhone 6s；iOS 7 加入带质量和阻尼的弹簧动画；iPhone X 之后圆角采用曲率连续的超椭圆曲线。",
+   "why": "属于不颠覆但可迁移的产品方法论，讲触感、动画、圆角一致性如何服务于「让虚拟内容显得真实可信」。",
+   "tags": [
+    "产品设计",
+    "交互细节",
+    "方法论"
+   ],
+   "summary_mode": "llm",
+   "type": "product",
+   "region": "us",
+   "topic": "苹果产品那些不够颠覆，却值得被学习的细节",
+   "type_label": "产品发布",
+   "region_label": "美国"
+  },
+  {
+   "id": "47ceff1d863d8777",
+   "source_id": "leiphone",
+   "source_name": "雷锋网",
+   "source_kind": "垂直媒体",
+   "title": "百图生科与11家伙伴战略合作，AI生物计算覆盖医药研发及农业育种",
+   "link": "https://www.leiphone.com/category/industrynews/X7HwwQTEXJhiVVzK.html",
+   "published": "2026-11-07T10:40:00+08:00",
+   "image_url": "https://static.leiphone.com/uploads/new/images/20261107/6aee8f188363a.png?imageView2/2/w/740",
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "img": "assets/img/47ceff1d863d8777.jpg",
+   "summary": "2026年11月6日，百图生科主办、港投公司支持的第三届「国际生物计算创新峰会2026」在香港会议展览中心举行，汇聚约300名科研、产业及投资界代表。峰会上，百图生科InnoHub与11家大学、科企及投资机构启动合作，覆盖新药研发、中医药研究、农业育种及国际市场拓展。其中，百图生科与香港大学推进「乳腺癌虚拟细胞大模型」项目，与香港浸会大学筹建「AI中医药联合实验室」。",
+   "why": "AI在生命科学研发中的落地合作，与读者关注的AI发展相关。",
+   "tags": [
+    "AI生物计算",
+    "医药研发",
+    "香港"
+   ],
+   "summary_mode": "llm",
+   "type": "research",
+   "region": "cn",
+   "topic": "百图生科与11家伙伴战略合作，AI生物计算覆盖医药研发及",
+   "type_label": "研究进展",
+   "region_label": "中国"
+  },
+  {
+   "id": "8a8d520cd0cfda08",
+   "source_id": "aljazeera",
+   "source_name": "Al Jazeera",
+   "source_kind": "通讯社",
+   "title": "Pope Leo XIV delivers homily to thousands in Uruguay",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/pope-leo-xiv-delivers-homily-to-thousands-in-uruguay?traffic_source=rss",
+   "published": "2026-11-09T04:29:47+08:00",
+   "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794169768.jpg?resize=1920%2C1080&quality=80",
+   "source_count": 1,
+   "pr": 0,
+   "group": "world",
+   "img": "assets/img/8a8d520cd0cfda08.jpg",
+   "summary": "教皇利奥十四世在乌拉圭城市佛罗里达的教堂外向数千人讲道。这是他南美之行的第一天，数千人聚集到现场。",
+   "title_cn": "教皇利奥十四世在乌拉圭向数千人讲道",
+   "why": "这条属于国际动态，但原文只描述了讲道场景和行程第一天，未涉及任何政策或表态内容。",
+   "tags": [
+    "国际",
+    "宗教",
+    "南美"
+   ],
+   "summary_mode": "llm",
+   "type": "other",
+   "region": "global",
+   "topic": "Pope Leo XIV delivers homily",
+   "type_label": "其他",
+   "region_label": "全球"
+  }
+ ],
+ "quick": [
+  {
+   "title": "泰国职业安全机构警示气候变化威胁劳动者健康与安全",
+   "title_cn": "",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-08/10728474.shtml",
+   "source_name": "中国新闻网·国际",
+   "source_kind": "通讯社",
+   "id": "5244a98ff1603851",
+   "type": "research",
+   "type_label": "研究进展",
+   "region": "asia",
+   "region_label": "亚太"
+  },
+  {
+   "title": "刘庆峰交出科大讯飞半张AI答卷",
+   "title_cn": "",
+   "link": "https://www.tmtpost.com/8197516.html",
+   "source_name": "钛媒体",
+   "source_kind": "市场化媒体",
+   "id": "33c23e8192ee0817",
+   "type": "tech",
+   "type_label": "技术进展",
+   "region": "cn",
+   "region_label": "中国"
+  },
+  {
+   "title": "胡塞再对沙特目标发动4轮军事打击",
+   "title_cn": "",
+   "link": "https://www.jiemian.com/article/15308378.html",
+   "source_name": "界面新闻",
+   "source_kind": "市场化媒体",
+   "id": "b493ec21e35e6249",
+   "type": "world",
+   "type_label": "国际关系",
+   "region": "me",
+   "region_label": "中东"
+  },
+  {
+   "title": "日本民众呼吁日社会正视侵略历史 加强教育",
+   "title_cn": "",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-08/10728409.shtml",
+   "source_name": "中国新闻网·国际",
+   "source_kind": "通讯社",
+   "id": "c03643b419ce3121",
+   "type": "society",
+   "type_label": "社会民生",
+   "region": "asia",
+   "region_label": "亚太"
+  },
+  {
+   "title": "MiniMax怎样实现AGI ？闫俊杰的办法是抄“后”路",
+   "title_cn": "",
+   "link": "https://www.tmtpost.com/8197537.html",
+   "source_name": "钛媒体",
+   "source_kind": "市场化媒体",
+   "id": "3b72ad590e21d18a",
+   "type": "tech",
+   "type_label": "技术进展",
+   "region": "cn",
+   "region_label": "中国"
+  },
+  {
+   "title": "Al Jazeera tries Baseball5 at Youth Olympics",
+   "title_cn": "半岛电视台在青奥会尝试棒球5",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/al-jazeera-tries-baseball5-at-youth-olympics?traffic_source=rss",
+   "source_name": "Al Jazeera",
+   "source_kind": "通讯社",
+   "id": "619c9f6e9f697f91",
+   "type": "other",
+   "type_label": "其他",
+   "region": "global",
+   "region_label": "全球"
+  }
+ ],
+ "challenge": {
+  "question": "伊朗解除导弹射程限制 美军组特遣部队防伊“跨境运",
+  "a": "伊朗伊斯兰革命卫队发言人7日说，伊朗已解除导弹射程限制，将打击敌人预想不到的地点。并警告称，如果美国再次出现误判，伊朗下一次的打击将更加沉重。",
+  "b": "据伊朗方面11月8日消息，伊朗伊斯兰革命卫队发言人穆赫比当天表示，美国无法通过组建“铁门”特遣部队计划实现其给伊朗施加经济压力的目的。穆赫比说，“铁门”计划“不过是文字游戏”，美国无法通过这一计划实现其给伊朗施加巨大经济压力的目的，伊朗经济不会崩溃。",
+  "diff": "两家来源类型不同（通讯社 / 市场化媒体），原文表述不一致之处需要对照阅读。",
+  "mode": "extractive",
+  "pair": [
+   {
+    "id": "25d6ccbb7569de8e",
+    "source_id": "chinanews_world",
+    "source_name": "中国新闻网·国际",
+    "source_kind": "通讯社",
+    "title": "伊朗解除导弹射程限制 美军组特遣部队防伊“跨境运武”",
+    "link": "https://www.chinanews.com.cn/gj/2026/11-08/10728198.shtml",
+    "published": "2026-11-08T06:49:32+08:00",
+    "image_url": null,
+    "source_count": 1,
+    "pr": 0,
+    "group": "world",
+    "type": "other",
+    "region": "us",
+    "topic": "伊朗解除导弹射程限制 美军组特遣部队防伊“跨境运武”",
+    "type_label": "其他",
+    "region_label": "美国"
+   },
+   {
+    "id": "7bf1884c9d1f70d2",
+    "source_id": "jiemian",
+    "source_name": "界面新闻",
+    "source_kind": "市场化媒体",
+    "title": "伊朗革命卫队：美军特遣部队无法达到施压伊朗目的",
+    "link": "https://www.jiemian.com/article/15308253.html",
+    "published": "2026-11-08T19:13:56+08:00",
+    "image_url": "https:https://img.jiemian.com/101/original/20220307/164664253426029700_a580x330.png",
+    "source_count": 1,
+    "pr": 0,
+    "group": "world",
+    "type": "other",
+    "region": "us",
+    "topic": "伊朗革命卫队：美军特遣部队无法达到施压伊朗目的",
+    "type_label": "其他",
+    "region_label": "美国"
+   }
+  ],
+  "kind": "两个视角"
+ },
+ "counts": {
+  "world": 8,
+  "ai": 5,
+  "know": 3
+ },
+ "report": {
+  "mode": "code",
+  "overview": "本期入选 16 条，扫描 307 条原始条目，26/26 个来源可用。按方向：国际局势 8 条、AI 发展 5 条、不为人知的知识 3 条。按事件类型：其他 5 条、技术进展 4 条、国际关系 3 条等。按地区：中国 4 条、美国 4 条、欧洲 2 条等。本期没有多家媒体同时报道的条目，全部为单一来源。",
+  "signals": [],
+  "groups": [
+   {
+    "key": "world",
+    "label": "国际局势",
+    "n": 8
+   },
+   {
+    "key": "ai",
+    "label": "AI 发展",
+    "n": 5
+   },
+   {
+    "key": "know",
+    "label": "不为人知的知识",
+    "n": 3
+   }
+  ],
+  "types": [
+   {
+    "key": "other",
+    "label": "其他",
+    "n": 5
+   },
+   {
+    "key": "tech",
+    "label": "技术进展",
+    "n": 4
+   },
+   {
+    "key": "world",
+    "label": "国际关系",
+    "n": 3
+   },
+   {
+    "key": "research",
+    "label": "研究进展",
+    "n": 2
+   },
+   {
+    "key": "product",
+    "label": "产品发布",
+    "n": 1
+   },
+   {
+    "key": "society",
+    "label": "社会民生",
+    "n": 1
+   }
+  ],
+  "regions": [
+   {
+    "key": "cn",
+    "label": "中国",
+    "n": 4
+   },
+   {
+    "key": "us",
+    "label": "美国",
+    "n": 4
+   },
+   {
+    "key": "eu",
+    "label": "欧洲",
+    "n": 2
+   },
+   {
+    "key": "me",
+    "label": "中东",
+    "n": 2
+   },
+   {
+    "key": "asia",
+    "label": "亚太",
+    "n": 2
+   },
+   {
+    "key": "global",
+    "label": "全球",
+    "n": 2
+   }
+  ],
+  "confirmed": [],
+  "confirmed_n": 0,
+  "source_kinds": [
+   {
+    "kind": "通讯社",
+    "n": 6
+   },
+   {
+    "kind": "市场化媒体",
+    "n": 6
+   },
+   {
+    "kind": "垂直媒体",
+    "n": 3
+   },
+   {
+    "kind": "社区",
+    "n": 1
+   }
+  ],
+  "note": "数字由程序统计；类型/地区标签来自模型或关键词规则；「归纳判断」是编辑视角的概括，不是事实，每条都附原文链接可核对。"
+ },
+ "stats": {
+  "scanned": 307,
+  "selected": 16,
+  "raw": 2896,
+  "clusters": 294,
+  "dedup": 303,
+  "sources_ok": 26,
+  "sources_total": 26,
+  "lookback_hours": 48,
+  "llm_mode": "llm",
+  "model": "deepseek-flash ×13",
+  "llm_calls": 13,
+  "cost": 0.0419,
+  "generated_at": "2026-11-09 04:57",
+  "errors": []
+ },
+ "archives": [
+  {
+   "date": "2026-11-08",
+   "weekday": "周日"
+  },
+  {
+   "date": "2026-11-07",
+   "weekday": "周六"
+  },
+  {
+   "date": "2026-11-06",
+   "weekday": "周五"
+  },
+  {
+   "date": "2026-11-05",
+   "weekday": "周四"
+  },
+  {
+   "date": "2026-11-04",
+   "weekday": "周三"
+  },
+  {
+   "date": "2026-11-03",
+   "weekday": "周二"
+  },
+  {
+   "date": "2026-11-02",
+   "weekday": "周一"
+  },
+  {
+   "date": "2026-11-01",
+   "weekday": "周日"
+  },
+  {
+   "date": "2026-10-31",
+   "weekday": "周六"
+  },
+  {
+   "date": "2026-10-30",
+   "weekday": "周五"
+  },
+  {
+   "date": "2026-10-29",
+   "weekday": "周四"
+  },
+  {
+   "date": "2026-10-28",
+   "weekday": "周三"
+  }
+ ]
+}
