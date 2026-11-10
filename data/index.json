@@ -1,6 +1,35 @@
 {
- "updated": "2026-11-08 20:57",
+ "updated": "2026-11-10 00:33",
  "issues": [
+  {
+   "date": "2026-11-10",
+   "weekday": "周二",
+   "issue_no": 16,
+   "one_liner": "今天值得看：阿布扎比会谈在即 俄美乌密集释放信号…；乌官员：泽连斯基愿在莫斯科以外任何地点…",
+   "selected": 16,
+   "sources_ok": 26,
+   "groups": {
+    "world": 7,
+    "ai": 7,
+    "know": 2
+   },
+   "types": {
+    "world": 6,
+    "product": 4,
+    "business": 2,
+    "industry": 2,
+    "security": 1,
+    "society": 1
+   },
+   "regions": {
+    "global": 6,
+    "us": 5,
+    "cn": 2,
+    "eu": 2,
+    "me": 1
+   },
+   "head": "俄美乌三方会谈将在阿布扎比举行，俄乌代表团均已抵达，各方密集表态。Anthropic发布Claude Fable 5.2和Mythos 5."
+  },
   {
    "date": "2026-11-09",
    "weekday": "周一",
@@ -457,20 +486,20 @@
   }
  ],
  "aggregate": {
-  "issues": 15,
-  "items": 240,
+  "issues": 16,
+  "items": 256,
   "first": "2026-10-26",
-  "last": "2026-11-09",
+  "last": "2026-11-10",
   "types": [
    {
     "key": "world",
     "label": "国际关系",
-    "n": 64
+    "n": 70
    },
    {
     "key": "product",
     "label": "产品发布",
-    "n": 38
+    "n": 42
    },
    {
     "key": "tech",
@@ -485,7 +514,12 @@
    {
     "key": "business",
     "label": "商业资本",
-    "n": 22
+    "n": 24
+   },
+   {
+    "key": "industry",
+    "label": "行业观察",
+    "n": 19
    },
    {
     "key": "research",
@@ -493,14 +527,9 @@
     "n": 18
    },
    {
-    "key": "industry",
-    "label": "行业观察",
-    "n": 17
-   },
-   {
     "key": "security",
     "label": "安全事件",
-    "n": 10
+    "n": 11
    },
    {
     "key": "policy",
@@ -510,34 +539,34 @@
    {
     "key": "society",
     "label": "社会民生",
-    "n": 5
+    "n": 6
    }
   ],
   "regions": [
    {
     "key": "cn",
     "label": "中国",
-    "n": 71
+    "n": 73
    },
    {
     "key": "us",
     "label": "美国",
-    "n": 60
+    "n": 65
    },
    {
     "key": "global",
     "label": "全球",
-    "n": 47
+    "n": 53
    },
    {
     "key": "me",
     "label": "中东",
-    "n": 30
+    "n": 31
    },
    {
     "key": "eu",
     "label": "欧洲",
-    "n": 20
+    "n": 22
    },
    {
     "key": "asia",

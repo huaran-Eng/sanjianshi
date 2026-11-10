@@ -1,0 +1,529 @@
+{
+ "date": "2026-11-10",
+ "date_cn": "11 月 10 日",
+ "weekday": "周二",
+ "issue_no": 16,
+ "one_liner": "今天值得看：阿布扎比会谈在即 俄美乌密集释放信号…；乌官员：泽连斯基愿在莫斯科以外任何地点…",
+ "lede": "扫描 359 条，从 26/26 个可用来源里留下 16 条：国际局势 7 条 · AI 发展 7 条 · 不为人知的知识 2 条。",
+ "cover_image": "",
+ "headline": [
+  {
+   "id": "e45157ca77066dd0",
+   "source_id": "chinanews_world",
+   "source_name": "中国新闻网·国际",
+   "source_kind": "通讯社",
+   "title": "阿布扎比会谈在即 俄美乌密集释放信号 欧洲是否“入场”待定",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-10/10729172.shtml",
+   "published": "2026-11-10T07:03:31+08:00",
+   "image_url": null,
+   "source_count": 1,
+   "pr": 0,
+   "group": "world",
+   "summary": "俄罗斯、美国、乌克兰三方会谈将于11月10日至11日在阿联酋首都阿布扎比举行，俄乌代表团均已抵达。这是今年2月谈判陷入停滞以来，三方时隔9个月重启面对面磋商，会谈聚焦战后安全安排、局势降级、人道主义行动及实现和平的后续步骤。俄方称安全议题是核心，乌方将人道主义议题作为重点并着力推进战俘交换，美方称将探讨对乌安全保障；欧洲代表能否进入正式谈判室目前仍未确定。",
+   "why": "读者关注国际局势，这条呈现三方会谈各方的公开诉求与欧洲参与问题的分歧，信息来自原文披露。",
+   "tags": [
+    "俄美乌会谈",
+    "阿布扎比",
+    "国际局势"
+   ],
+   "summary_mode": "llm",
+   "type": "world",
+   "region": "global",
+   "topic": "俄美乌将在阿布扎比举行会谈",
+   "type_label": "国际关系",
+   "region_label": "全球"
+  },
+  {
+   "id": "38d4999567bd9b66",
+   "source_id": "jiemian",
+   "source_name": "界面新闻",
+   "source_kind": "市场化媒体",
+   "title": "乌官员：泽连斯基愿在莫斯科以外任何地点见普京",
+   "link": "https://www.jiemian.com/article/15313505.html",
+   "published": "2026-11-10T07:27:07+08:00",
+   "image_url": "https:https://img.jiemian.com/101/original/20220307/164664253426029700_a580x330.png",
+   "source_count": 1,
+   "pr": 0,
+   "group": "world",
+   "summary": "乌克兰常驻联合国代表梅利尼克11月9日说，乌方期待俄美乌三方会谈取得成果，但重大决定仍需乌俄领导人面对面会晤才能作出。他表示，泽连斯基愿在莫斯科以外的任何地方与普京会面，包括12月在佛罗里达、二十国集团峰会期间，甚至南极。梅利尼克还说，俄方正加大对乌克兰的袭击力度，持续摧毁乌基础设施，他呼吁盟友尽快提供防空援助，尤其是“爱国者”拦截弹。",
+   "why": "涉及俄乌战事与领导人级会谈前景，属读者关注的国际局势。",
+   "tags": [
+    "俄乌",
+    "国际局势",
+    "外交"
+   ],
+   "summary_mode": "llm",
+   "type": "world",
+   "region": "global",
+   "topic": "泽连斯基愿在莫斯科外见普京",
+   "type_label": "国际关系",
+   "region_label": "全球"
+  },
+  {
+   "id": "39aa6c5bc23fd9c7",
+   "source_id": "ifanr",
+   "source_name": "爱范儿",
+   "source_kind": "垂直媒体",
+   "title": "刚刚，Claude Fable 5.2 登顶世界第一，一夜斩杀 Opus 5.5",
+   "link": "https://www.ifanr.com/1688605?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "published": "2026-11-10T06:54:06+08:00",
+   "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/9-2.jpg",
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "img": "assets/img/39aa6c5bc23fd9c7.jpg",
+   "summary": "1000 个 AI Agent，30 小时完成费马大定理的形式化证明，连续工作 8 天，从零造出一套能在笔记本电脑上运行的操作系统。就在刚刚，Anthropic 正式发布 Claude Fable 5.2 和 Mythos 5.2 两款新模型。除了上述成果，新模型还解决了两个黑洞物理难题，生成速度最高提升 30%，API 价格降低 20%。",
+   "why": "属于你关注的「AI 发展」。",
+   "tags": [],
+   "summary_mode": "extractive",
+   "type": "product",
+   "region": "us",
+   "topic": "Claude新模型登顶榜单",
+   "type_label": "产品发布",
+   "region_label": "美国"
+  }
+ ],
+ "featured": [
+  {
+   "id": "b8cc20adcb22d8ec",
+   "source_id": "jiemian",
+   "source_name": "界面新闻",
+   "source_kind": "市场化媒体",
+   "title": "Anthropic发布Claude Fable 5.2和Mythos 5.2模型，编程与科学研究能力提升",
+   "link": "https://www.jiemian.com/article/15313498.html",
+   "published": "2026-11-10T07:22:11+08:00",
+   "image_url": "https:https://img.jiemian.com/101/original/20220307/164664251748738900_a580x330.png",
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "summary": "当地时间11月9日，Anthropic发布Claude Fable 5.2和Claude Mythos 5.2模型，称新模型在编程、推理和视觉理解等方面有所提升，输出速度较上一代最高提高30%。价格降至每百万输入Token 8美元、每百万输出Token 40美元。Anthropic称新模型在测试中完成了复杂软件迁移、设计电子设备，并在30小时内完成费马大定理的形式化证明。",
+   "why": "这条直接对应读者对AI发展的关注：新模型的能力、定价与开放范围都有原文明确交代。",
+   "tags": [
+    "AI模型",
+    "Anthropic",
+    "编程"
+   ],
+   "summary_mode": "llm",
+   "type": "product",
+   "region": "us",
+   "topic": "Anthropic发布两款新模型",
+   "type_label": "产品发布",
+   "region_label": "美国"
+  },
+  {
+   "id": "b26a151880be7623",
+   "source_id": "jiemian",
+   "source_name": "界面新闻",
+   "source_kind": "市场化媒体",
+   "title": "特朗普称似乎没必要再打伊朗",
+   "link": "https://www.jiemian.com/article/15313443.html",
+   "published": "2026-11-10T07:09:41+08:00",
+   "image_url": "https:https://img.jiemian.com/101/original/20220307/164664253426029700_a580x330.png",
+   "source_count": 1,
+   "pr": 0,
+   "group": "world",
+   "summary": "当地时间11月9日下午，美国总统特朗普与UFC总裁达纳·怀特出现在白宫记者会，特朗普表示美国目前似乎没有必要对伊朗采取军事行动。他说\"在现阶段……采取军事行动似乎并非十分必要\"，但称已严阵以待，情况变化时随时可以行动。特朗普还称伊朗在军事上\"实际上已经完蛋了\"，霍尔木兹海峡已对伊朗关闭，并重申伊朗绝不能拥有核武器。",
+   "why": "涉及美国对伊朗的军事动向与霍尔木兹海峡状态，属于国际局势类信息。",
+   "tags": [
+    "国际局势",
+    "美国",
+    "伊朗"
+   ],
+   "summary_mode": "llm",
+   "type": "world",
+   "region": "us",
+   "topic": "特朗普称无需对伊朗动武",
+   "type_label": "国际关系",
+   "region_label": "美国"
+  },
+  {
+   "id": "ddda11d2f61b36a7",
+   "source_id": "chinanews_world",
+   "source_name": "中国新闻网·国际",
+   "source_kind": "通讯社",
+   "title": "土耳其一钢铁厂爆炸已致17死 亲历者：一度以为发生地震",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-10/10729186.shtml",
+   "published": "2026-11-10T08:05:44+08:00",
+   "image_url": null,
+   "source_count": 1,
+   "pr": 0,
+   "group": "know",
+   "summary": "土耳其西部伊兹密尔省一家钢铁厂当地时间9日发生爆炸，已致17人死亡、12人受伤。爆炸引发火灾，现场冒出浓烟，有亲历者称震动强烈，一度误以为发生地震。土耳其总统埃尔多安表示已对爆炸展开调查，将查明事故原因、经过及责任人。",
+   "why": "国际突发事故，涉及伤亡人数更新与官方调查进展。",
+   "tags": [
+    "土耳其",
+    "爆炸事故",
+    "国际"
+   ],
+   "summary_mode": "llm",
+   "type": "security",
+   "region": "me",
+   "topic": "土耳其钢铁厂爆炸致17死",
+   "type_label": "安全事件",
+   "region_label": "中东"
+  },
+  {
+   "id": "31b4e9406e51c3b9",
+   "source_id": "leiphone",
+   "source_name": "雷锋网",
+   "source_kind": "垂直媒体",
+   "title": "第八届世界浙商大会举行AI专题活动支付宝分享AI办事实践",
+   "link": "https://www.leiphone.com/category/industrynews/41xBwd2JagAdaaxT.html",
+   "published": "2026-11-09T11:43:00+08:00",
+   "image_url": "https://static.leiphone.com/uploads/new/images/20261109/6af14165ba942.jpg?imageMogr2/quality/90",
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "img": "assets/img/31b4e9406e51c3b9.jpg",
+   "summary": "11月6日，第八届世界浙商大会在杭州开幕，由浙江省委、省政府主办，省委统战部、省工商联、浙商总会承办。11月7日举行的“浙商创新创业AI进化论——企业数智变革实践与向新破局”专题活动由浙江大学、浙江数字经济百人会主办，设主旨演讲、成果发布和圆桌对话。支付宝数字民生事业部总经理李毅强在圆桌对话中介绍，AI办事助手“晓政”通过多轮对话理解用户需求，目前支持的办事事项已超过一万项，涵盖社保、公积金等领域。",
+   "why": "这条讲了 AI 助手在政务民生服务中的具体落地方式，包括多轮对话识别需求、规划办理步骤，对关注 AI 发展的读者有参考价值。",
+   "tags": [
+    "AI应用",
+    "政务服务",
+    "浙商大会"
+   ],
+   "summary_mode": "llm",
+   "type": "business",
+   "region": "cn",
+   "topic": "浙商大会设AI专题活动",
+   "type_label": "商业资本",
+   "region_label": "中国"
+  },
+  {
+   "id": "069160e5040b746e",
+   "source_id": "chinanews_world",
+   "source_name": "中国新闻网·国际",
+   "source_kind": "通讯社",
+   "title": "俄常驻联合国代表称不接受“冻结”乌克兰冲突",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-10/10729163.shtml",
+   "published": "2026-11-10T05:49:09+08:00",
+   "image_url": null,
+   "source_count": 1,
+   "pr": 0,
+   "group": "world",
+   "summary": "俄罗斯常驻联合国代表涅边贾在安理会乌克兰问题会议上表示，俄方不接受“冻结”乌克兰冲突，称这种方案会使俄罗斯面临的现有安全威胁继续存在，并为新一轮冲突升级创造条件。他还说，乌方及其“西方庇护者”企图以“能源、粮食、空中和海上停火”替代全面解决，意在为乌方争取喘息之机。俄美乌三方会谈将于10日至11日在阿布扎比举行。",
+   "why": "涉及乌克兰冲突的谈判立场与即将重启的三方面对面磋商，属国际局势重要动向。",
+   "tags": [
+    "乌克兰冲突",
+    "联合国",
+    "俄美乌会谈"
+   ],
+   "summary_mode": "llm",
+   "type": "world",
+   "region": "global",
+   "topic": "俄方不接受冻结冲突",
+   "type_label": "国际关系",
+   "region_label": "全球"
+  }
+ ],
+ "quick": [
+  {
+   "title": "苹果产品那些不够颠覆，却值得被学习的细节",
+   "title_cn": "",
+   "link": "https://sspai.com/post/118114",
+   "source_name": "少数派",
+   "source_kind": "社区",
+   "id": "8d61daf38d7fb5ec",
+   "type": "industry",
+   "type_label": "行业观察",
+   "region": "us",
+   "region_label": "美国"
+  },
+  {
+   "title": "高盛限制交易员和银行家使用第三方 AI 智能体",
+   "title_cn": "",
+   "link": "https://www.solidot.org/story?sid=85838",
+   "source_name": "奇客 Solidot",
+   "source_kind": "垂直媒体",
+   "id": "76f982441cc444d0",
+   "type": "business",
+   "type_label": "商业资本",
+   "region": "us",
+   "region_label": "美国"
+  },
+  {
+   "title": "联合国：乌克兰平民伤亡持续增加 冬季人道主义风险加剧",
+   "title_cn": "",
+   "link": "https://news.un.org/feed/view/zh/story/2026/11/1143163",
+   "source_name": "联合国新闻·中文",
+   "source_kind": "公共媒体",
+   "id": "614cf1a31091b968",
+   "type": "society",
+   "type_label": "社会民生",
+   "region": "eu",
+   "region_label": "欧洲"
+  },
+  {
+   "title": "腾讯混元跻身最强开源模型！一手实测Hy4：搭配WorkBuddy，多模态Agent交付力拉满",
+   "title_cn": "",
+   "link": "https://www.qbitai.com/2026/11/507843.html",
+   "source_name": "量子位",
+   "source_kind": "垂直媒体",
+   "id": "01998d04b0331d65",
+   "type": "product",
+   "type_label": "产品发布",
+   "region": "cn",
+   "region_label": "中国"
+  },
+  {
+   "title": "当 AI 在加速狂奔，什么反而应该“慢”下来？",
+   "title_cn": "",
+   "link": "https://www.leiphone.com/category/industrynews/zGBfQTDDCpSCfYIK.html",
+   "source_name": "雷锋网",
+   "source_kind": "垂直媒体",
+   "id": "a8dfae7c26ad0e8e",
+   "type": "industry",
+   "type_label": "行业观察",
+   "region": "global",
+   "region_label": "全球"
+  },
+  {
+   "title": "llm-anthropic 0.31",
+   "title_cn": "llm-anthropic 0.31",
+   "link": "https://simonwillison.net/2026/Nov/9/llm-anthropic/",
+   "source_name": "Simon Willison",
+   "source_kind": "个人",
+   "id": "66fb08a7c72b0ee6",
+   "type": "product",
+   "type_label": "产品发布",
+   "region": "global",
+   "region_label": "全球"
+  }
+ ],
+ "challenge": {
+  "question": "各方代表团由谁率领",
+  "a": "详列乌、俄代表团成员名单，未使用「率领」表述",
+  "b": "点明美、乌、俄三方团长，并称俄团已抵达阿布扎比",
+  "diff": "B称美方「带队」、乌方由乌梅罗夫率领，A原文未说明",
+  "mode": "llm",
+  "pair": [
+   {
+    "id": "ead8bfc5ae00cd1f",
+    "source_id": "jiemian",
+    "source_name": "界面新闻",
+    "source_kind": "市场化媒体",
+    "title": "乌克兰谈判代表团抵达阿布扎比参加俄美乌三方会谈",
+    "link": "https://www.jiemian.com/article/15313422.html",
+    "published": "2026-11-10T07:07:11+08:00",
+    "image_url": "https:https://img.jiemian.com/101/original/20220307/164664253426029700_a580x330.png",
+    "source_count": 1,
+    "pr": 0,
+    "group": "world",
+    "type": "world",
+    "region": "eu",
+    "topic": "乌谈判团抵达阿布扎比",
+    "type_label": "国际关系",
+    "region_label": "欧洲"
+   },
+   {
+    "id": "904c55111730521a",
+    "source_id": "chinanews_world",
+    "source_name": "中国新闻网·国际",
+    "source_kind": "通讯社",
+    "title": "俄美乌三方会谈在即 外媒：俄乌代表团均抵达阿布扎比",
+    "link": "https://www.chinanews.com.cn/gj/2026/11-10/10729173.shtml",
+    "published": "2026-11-10T07:14:46+08:00",
+    "image_url": null,
+    "source_count": 1,
+    "pr": 0,
+    "group": "world",
+    "type": "world",
+    "region": "global",
+    "topic": "俄乌代表团均抵达阿布扎比",
+    "type_label": "国际关系",
+    "region_label": "全球"
+   }
+  ],
+  "kind": "两个视角"
+ },
+ "counts": {
+  "world": 7,
+  "ai": 7,
+  "know": 2
+ },
+ "report": {
+  "mode": "llm",
+  "overview": "俄美乌三方会谈将在阿布扎比举行，俄乌代表团均已抵达，各方密集表态。Anthropic发布Claude Fable 5.2和Mythos 5.2两款模型。土耳其伊兹密尔省一家钢铁厂爆炸已致17人死亡、12人受伤。",
+  "signals": [
+   "乌克兰议题本期集中出现6条，涉及谈判、表态与人道局势。",
+   "Anthropic两款新模型同日发布，多条条目围绕其展开。",
+   "三方会谈时隔9个月重启面对面磋商，欧洲是否入场待定。"
+  ],
+  "groups": [
+   {
+    "key": "world",
+    "label": "国际局势",
+    "n": 7
+   },
+   {
+    "key": "ai",
+    "label": "AI 发展",
+    "n": 7
+   },
+   {
+    "key": "know",
+    "label": "不为人知的知识",
+    "n": 2
+   }
+  ],
+  "types": [
+   {
+    "key": "world",
+    "label": "国际关系",
+    "n": 6
+   },
+   {
+    "key": "product",
+    "label": "产品发布",
+    "n": 4
+   },
+   {
+    "key": "business",
+    "label": "商业资本",
+    "n": 2
+   },
+   {
+    "key": "industry",
+    "label": "行业观察",
+    "n": 2
+   },
+   {
+    "key": "security",
+    "label": "安全事件",
+    "n": 1
+   },
+   {
+    "key": "society",
+    "label": "社会民生",
+    "n": 1
+   }
+  ],
+  "regions": [
+   {
+    "key": "global",
+    "label": "全球",
+    "n": 6
+   },
+   {
+    "key": "us",
+    "label": "美国",
+    "n": 5
+   },
+   {
+    "key": "cn",
+    "label": "中国",
+    "n": 2
+   },
+   {
+    "key": "eu",
+    "label": "欧洲",
+    "n": 2
+   },
+   {
+    "key": "me",
+    "label": "中东",
+    "n": 1
+   }
+  ],
+  "confirmed": [
+   {
+    "title": "当 AI 在加速狂奔，什么反而应该“慢”下来？",
+    "n": 2
+   }
+  ],
+  "confirmed_n": 1,
+  "source_kinds": [
+   {
+    "kind": "垂直媒体",
+    "n": 5
+   },
+   {
+    "kind": "通讯社",
+    "n": 4
+   },
+   {
+    "kind": "市场化媒体",
+    "n": 4
+   },
+   {
+    "kind": "社区",
+    "n": 1
+   },
+   {
+    "kind": "公共媒体",
+    "n": 1
+   },
+   {
+    "kind": "个人",
+    "n": 1
+   }
+  ],
+  "note": "数字由程序统计；类型/地区标签来自模型或关键词规则；「归纳判断」是编辑视角的概括，不是事实，每条都附原文链接可核对。"
+ },
+ "stats": {
+  "scanned": 359,
+  "selected": 16,
+  "raw": 2899,
+  "clusters": 340,
+  "dedup": 353,
+  "sources_ok": 26,
+  "sources_total": 26,
+  "lookback_hours": 48,
+  "llm_mode": "llm",
+  "model": "deepseek-flash ×13",
+  "llm_calls": 13,
+  "cost": 0.0394,
+  "generated_at": "2026-11-10 08:33",
+  "errors": []
+ },
+ "archives": [
+  {
+   "date": "2026-11-09",
+   "weekday": "周一"
+  },
+  {
+   "date": "2026-11-08",
+   "weekday": "周日"
+  },
+  {
+   "date": "2026-11-07",
+   "weekday": "周六"
+  },
+  {
+   "date": "2026-11-06",
+   "weekday": "周五"
+  },
+  {
+   "date": "2026-11-05",
+   "weekday": "周四"
+  },
+  {
+   "date": "2026-11-04",
+   "weekday": "周三"
+  },
+  {
+   "date": "2026-11-03",
+   "weekday": "周二"
+  },
+  {
+   "date": "2026-11-02",
+   "weekday": "周一"
+  },
+  {
+   "date": "2026-11-01",
+   "weekday": "周日"
+  },
+  {
+   "date": "2026-10-31",
+   "weekday": "周六"
+  },
+  {
+   "date": "2026-10-30",
+   "weekday": "周五"
+  },
+  {
+   "date": "2026-10-29",
+   "weekday": "周四"
+  }
+ ]
+}
