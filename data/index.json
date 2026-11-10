@@ -1,6 +1,37 @@
 {
- "updated": "2026-11-10 00:33",
+ "updated": "2026-11-10 22:09",
  "issues": [
+  {
+   "date": "2026-11-11",
+   "weekday": "周三",
+   "issue_no": 17,
+   "one_liner": "今天值得看：俄外长说俄乌局势不明情况下不会再次停火；吉姆·乔丹当选美国下一届国会众议院共和…",
+   "selected": 16,
+   "sources_ok": 26,
+   "groups": {
+    "world": 8,
+    "ai": 6,
+    "know": 2
+   },
+   "types": {
+    "world": 5,
+    "product": 4,
+    "policy": 2,
+    "business": 1,
+    "research": 1,
+    "security": 1,
+    "society": 1,
+    "industry": 1
+   },
+   "regions": {
+    "cn": 4,
+    "us": 3,
+    "eu": 3,
+    "me": 3,
+    "global": 3
+   },
+   "head": "本期俄乌议题集中：俄外长称局势不明不会再次停火，俄美乌三方在阿布扎比结束首日会谈，联合国通报乌平民伤亡增加、冬季人道风险加剧。AI方面，Cl"
+  },
   {
    "date": "2026-11-10",
    "weekday": "周二",
@@ -486,20 +517,20 @@
   }
  ],
  "aggregate": {
-  "issues": 16,
-  "items": 256,
+  "issues": 17,
+  "items": 272,
   "first": "2026-10-26",
-  "last": "2026-11-10",
+  "last": "2026-11-11",
   "types": [
    {
     "key": "world",
     "label": "国际关系",
-    "n": 70
+    "n": 75
    },
    {
     "key": "product",
     "label": "产品发布",
-    "n": 42
+    "n": 46
    },
    {
     "key": "tech",
@@ -514,59 +545,59 @@
    {
     "key": "business",
     "label": "商业资本",
-    "n": 24
+    "n": 25
    },
    {
     "key": "industry",
     "label": "行业观察",
-    "n": 19
+    "n": 20
    },
    {
     "key": "research",
     "label": "研究进展",
-    "n": 18
+    "n": 19
    },
    {
     "key": "security",
     "label": "安全事件",
-    "n": 11
+    "n": 12
    },
    {
     "key": "policy",
     "label": "政策监管",
-    "n": 8
+    "n": 10
    },
    {
     "key": "society",
     "label": "社会民生",
-    "n": 6
+    "n": 7
    }
   ],
   "regions": [
    {
     "key": "cn",
     "label": "中国",
-    "n": 73
+    "n": 77
    },
    {
     "key": "us",
     "label": "美国",
-    "n": 65
+    "n": 68
    },
    {
     "key": "global",
     "label": "全球",
-    "n": 53
+    "n": 56
    },
    {
     "key": "me",
     "label": "中东",
-    "n": 31
+    "n": 34
    },
    {
     "key": "eu",
     "label": "欧洲",
-    "n": 22
+    "n": 25
    },
    {
     "key": "asia",

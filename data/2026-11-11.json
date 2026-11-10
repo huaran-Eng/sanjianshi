@@ -1,0 +1,526 @@
+{
+ "date": "2026-11-11",
+ "date_cn": "11 月 11 日",
+ "weekday": "周三",
+ "issue_no": 17,
+ "one_liner": "今天值得看：俄外长说俄乌局势不明情况下不会再次停火；吉姆·乔丹当选美国下一届国会众议院共和…",
+ "lede": "扫描 407 条，从 26/26 个可用来源里留下 16 条：国际局势 8 条 · AI 发展 6 条 · 不为人知的知识 2 条。",
+ "cover_image": "",
+ "headline": [
+  {
+   "id": "92bfb22a4884d025",
+   "source_id": "jiemian",
+   "source_name": "界面新闻",
+   "source_kind": "市场化媒体",
+   "title": "俄外长说俄乌局势不明情况下不会再次停火",
+   "link": "https://www.jiemian.com/article/15318049.html",
+   "published": "2026-11-10T23:29:48+08:00",
+   "image_url": "https:https://img.jiemian.com/101/original/20220307/164664253426029700_a580x330.png",
+   "source_count": 1,
+   "pr": 0,
+   "group": "world",
+   "summary": "俄罗斯外交部长拉夫罗夫11月10日在莫斯科表示，在俄乌局势不明的情况下，俄方不会同意再次停火。他指责欧洲方面试图利用停火为援助乌克兰争取时间。俄罗斯外交部副部长格鲁什科当天表示，西方国家整体上希望俄乌冲突延宕，而不是为和平解决乌克兰危机创造条件。",
+   "why": "这条消息涉及俄乌冲突停火谈判的最新表态，属于你关注的国际局势。",
+   "tags": [
+    "俄乌局势",
+    "停火",
+    "国际"
+   ],
+   "summary_mode": "llm",
+   "type": "world",
+   "region": "global",
+   "topic": "俄外长称不会再次停火",
+   "type_label": "国际关系",
+   "region_label": "全球"
+  },
+  {
+   "id": "94821506643f7077",
+   "source_id": "chinanews_world",
+   "source_name": "中国新闻网·国际",
+   "source_kind": "通讯社",
+   "title": "吉姆·乔丹当选美国下一届国会众议院共和党领袖",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-11/10729878.shtml",
+   "published": "2026-11-11T06:03:46+08:00",
+   "image_url": null,
+   "source_count": 1,
+   "pr": 0,
+   "group": "world",
+   "summary": "美国国会众议院共和党人于当地时间11月10日举行党内投票，以106票对73票选举俄亥俄州共和党籍众议员吉姆·乔丹担任下一届国会众议院共和党领袖，击败现任众议院多数党领袖史蒂夫·斯卡利斯。这是乔丹第三次竞选国会共和党领导职务。共和党在上周中期选举中遭遇重大失利后，现任众议院议长迈克·约翰逊决定不再竞选领导职务。",
+   "why": "这条新闻显示美国众议院共和党内部领导层更替，以及中期选举失利后的党内变动，属于该读者关注的国际局势。",
+   "tags": [
+    "美国政治",
+    "众议院",
+    "中期选举"
+   ],
+   "summary_mode": "llm",
+   "type": "policy",
+   "region": "us",
+   "topic": "乔丹当选众院共和党领袖",
+   "type_label": "政策监管",
+   "region_label": "美国"
+  },
+  {
+   "id": "1c0750d9fa64ffcb",
+   "source_id": "leiphone",
+   "source_name": "雷锋网",
+   "source_kind": "垂直媒体",
+   "title": "Fable 5.2 “撞车”蚂蚁灵波触觉模型，CEO 朱兴：两类模型协同将加速具身产业成熟",
+   "link": "https://www.leiphone.com/category/industrynews/Qhv28gnFkgFPCbXV.html",
+   "published": "2026-11-10T14:49:00+08:00",
+   "image_url": "https://static.leiphone.com/uploads/new/images/20261110/6af2be7964e02.png?imageMogr2/quality/90",
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "img": "assets/img/1c0750d9fa64ffcb.jpg",
+   "summary": "11 月 10 日，Claude Fable 5.2 发布同日，蚂蚁灵波科技开源触觉基础模型 LingBot-Touch。一款面向数字世界的通用大模型，一款面向物理操作闭环的具身基础模型，同一天走进公众视野。这两条技术路线的关系，正是当下具身智能行业讨论的焦点。",
+   "why": "属于你关注的「AI 发展」。",
+   "tags": [],
+   "summary_mode": "extractive",
+   "type": "product",
+   "region": "cn",
+   "topic": "蚂蚁灵波开源触觉模型",
+   "type_label": "产品发布",
+   "region_label": "中国"
+  }
+ ],
+ "featured": [
+  {
+   "id": "39aa6c5bc23fd9c7",
+   "source_id": "ifanr",
+   "source_name": "爱范儿",
+   "source_kind": "垂直媒体",
+   "title": "刚刚，Claude Fable 5.2 登顶世界第一，一夜斩杀 Opus 5.5",
+   "link": "https://www.ifanr.com/1688605?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "published": "2026-11-10T06:54:06+08:00",
+   "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/9-2.jpg",
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "img": "assets/img/39aa6c5bc23fd9c7.jpg",
+   "summary": "Anthropic 发布 Claude Fable 5.2 和 Mythos 5.2 两款新模型，称其重点提升了编程、推理、视觉理解以及科学研究等能力。在 Artificial Analysis 的 Intelligence Index v5 榜单上，Fable 5.2 以 65 分登顶，并在 9 项测试中的 5 项取得第一。Anthropic 还展示了由 1000 个 Fable 5.2 Agent 组成团队、用 30 小时完成费马大定理形式化证明的案例，以及模型连续工作 8 天从零开发出一套可在笔记本电脑上运行的操作系统原型。",
+   "why": "这条消息直接涉及 AI 前沿模型的能力边界与评测排名，契合读者对 AI 发展的关注。",
+   "tags": [
+    "AI 模型",
+    "Claude",
+    "基准测试"
+   ],
+   "summary_mode": "llm",
+   "type": "product",
+   "region": "us",
+   "topic": "Claude新模型登顶榜单",
+   "type_label": "产品发布",
+   "region_label": "美国"
+  },
+  {
+   "id": "4197998c1a9bd675",
+   "source_id": "jiemian",
+   "source_name": "界面新闻",
+   "source_kind": "市场化媒体",
+   "title": "卡塔尔称斡旋仍在继续，美伊对外交解决危机释放积极信号",
+   "link": "https://www.jiemian.com/article/15318061.html",
+   "published": "2026-11-10T23:52:28+08:00",
+   "image_url": "https:https://img.jiemian.com/101/original/20220307/164664253426029700_a580x330.png",
+   "source_count": 1,
+   "pr": 0,
+   "group": "world",
+   "summary": "卡塔尔外交部官员11月10日表示，卡塔尔在美国和伊朗之间的斡旋仍在继续，双方均对外交解决危机释放积极信号，但目前还无法判断是否已接近达成协议。卡塔尔首相兼外交大臣9日在华盛顿同美国总统特朗普、副总统万斯举行会谈，讨论地区局势及推动美伊谈判取得进展的途径。卡塔尔方面警告，随着冬季临近，霍尔木兹海峡持续关闭将加剧能源危机。",
+   "why": "涉及美伊局势与霍尔木兹海峡航运，属于国际局势范畴，且直接影响能源供应。",
+   "tags": [
+    "国际局势",
+    "美伊谈判",
+    "能源"
+   ],
+   "summary_mode": "llm",
+   "type": "world",
+   "region": "me",
+   "topic": "卡塔尔斡旋美伊释放信号",
+   "type_label": "国际关系",
+   "region_label": "中东"
+  },
+  {
+   "id": "525f9ff33c69baf2",
+   "source_id": "chinanews_world",
+   "source_name": "中国新闻网·国际",
+   "source_kind": "通讯社",
+   "title": "英国央行副行长警示通胀有持续风险 释放进一步加息信号",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-11/10729870.shtml",
+   "published": "2026-11-11T05:59:52+08:00",
+   "image_url": null,
+   "source_count": 1,
+   "pr": 0,
+   "group": "know",
+   "summary": "英国央行负责货币政策的副行长克莱尔·隆巴代利11月10日在一场央行会议上表示，英国通胀持续风险正在显现，若无通胀降温的明确证据，短期内大概率需要再度加息。她表示，近期将举行的货币政策会议都存在加息可能性，每次会议都将根据最新数据动态评估。她称英国劳动力市场活力偏弱，企业招聘与人员流转节奏同步放缓，18至24岁青年群体失业率走高。",
+   "why": "涉及英国央行加息路径与通胀走势，属国际宏观经济动向，可供关注国际局势的读者参考。",
+   "tags": [
+    "英国央行",
+    "通胀",
+    "加息"
+   ],
+   "summary_mode": "llm",
+   "type": "policy",
+   "region": "eu",
+   "topic": "英央行副行长释放加息信号",
+   "type_label": "政策监管",
+   "region_label": "欧洲"
+  },
+  {
+   "id": "76f982441cc444d0",
+   "source_id": "solidot",
+   "source_name": "奇客 Solidot",
+   "source_kind": "垂直媒体",
+   "title": "高盛限制交易员和银行家使用第三方 AI 智能体",
+   "link": "https://www.solidot.org/story?sid=85838",
+   "published": "2026-11-09T19:04:21+08:00",
+   "image_url": null,
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "summary": "高盛限制其交易员和银行家使用第三方 AI 智能体。原文正文未说明这一限制的具体范围、原因或生效时间。原文正文只有版权声明和网站备案信息，没有提供其他内容。",
+   "why": "这条消息涉及金融机构对 AI 智能体的使用限制，属于 AI 发展相关的动态；但原文信息量很少，读者可留意后续报道。",
+   "tags": [
+    "AI智能体",
+    "金融机构",
+    "AI治理"
+   ],
+   "summary_mode": "llm",
+   "type": "business",
+   "region": "us",
+   "topic": "高盛限制用第三方AI智能体",
+   "type_label": "商业资本",
+   "region_label": "美国"
+  },
+  {
+   "id": "891a2def477ec6d8",
+   "source_id": "chinanews_world",
+   "source_name": "中国新闻网·国际",
+   "source_kind": "通讯社",
+   "title": "英国警方：一美军士兵因涉嫌从事与俄相关间谍活动在英被捕",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-11/10729877.shtml",
+   "published": "2026-11-11T06:02:34+08:00",
+   "image_url": null,
+   "source_count": 1,
+   "pr": 0,
+   "group": "world",
+   "summary": "英国反恐警察11月10日表示，一名41岁的美国陆军士兵因涉嫌从事与俄罗斯有关的间谍活动，在英格兰格洛斯特附近被捕。该男子涉嫌协助外国情报机构、获取或泄露受保护信息，目前被拘押在伦敦一处警察局。警方称调查由英美执法部门合作开展，正在搜查格洛斯特郡两处地点，尚未公布嫌疑人身份，俄罗斯方面尚未回应。",
+   "why": "涉及美英俄三方的间谍案，属于国际局势动态。",
+   "tags": [
+    "国际",
+    "间谍案",
+    "英美俄"
+   ],
+   "summary_mode": "llm",
+   "type": "security",
+   "region": "eu",
+   "topic": "美军士兵涉间谍在英被捕",
+   "type_label": "安全事件",
+   "region_label": "欧洲"
+  }
+ ],
+ "quick": [
+  {
+   "title": "灵光接入什么值得买，AI助理开始帮用户“盯好价”",
+   "title_cn": "",
+   "link": "https://www.leiphone.com/category/industrynews/Z3dOHYCNYfPNwijf.html",
+   "source_name": "雷锋网",
+   "source_kind": "垂直媒体",
+   "id": "10179185ea0098e0",
+   "type": "product",
+   "type_label": "产品发布",
+   "region": "cn",
+   "region_label": "中国"
+  },
+  {
+   "title": "实测 MiniMax H3 Image：GPT 的效果加上 MJ 的审美，居然被它开源了",
+   "title_cn": "",
+   "link": "https://www.ifanr.com/1688790?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source_name": "爱范儿",
+   "source_kind": "垂直媒体",
+   "id": "bbc34e7e3f775e6f",
+   "type": "product",
+   "type_label": "产品发布",
+   "region": "cn",
+   "region_label": "中国"
+  },
+  {
+   "title": "联合国：乌克兰平民伤亡持续增加 冬季人道主义风险加剧",
+   "title_cn": "",
+   "link": "https://news.un.org/feed/view/zh/story/2026/11/1143163",
+   "source_name": "联合国新闻·中文",
+   "source_kind": "公共媒体",
+   "id": "614cf1a31091b968",
+   "type": "society",
+   "type_label": "社会民生",
+   "region": "eu",
+   "region_label": "欧洲"
+  },
+  {
+   "title": "行业最大规模具身模型挑战赛迎来决赛：15支战队将展开48小时真机角逐",
+   "title_cn": "",
+   "link": "https://www.leiphone.com/category/industrynews/5ejIhKWAtmfZvdqx.html",
+   "source_name": "雷锋网",
+   "source_kind": "垂直媒体",
+   "id": "f25ab3e05366aa9c",
+   "type": "industry",
+   "type_label": "行业观察",
+   "region": "cn",
+   "region_label": "中国"
+  },
+  {
+   "title": "联合国：南苏丹选举筹备加快推进 但政治共识日益脆弱",
+   "title_cn": "",
+   "link": "https://news.un.org/feed/view/zh/story/2026/11/1143169",
+   "source_name": "联合国新闻·中文",
+   "source_kind": "公共媒体",
+   "id": "02959616531422c8",
+   "type": "world",
+   "type_label": "国际关系",
+   "region": "global",
+   "region_label": "全球"
+  },
+  {
+   "title": "生成式 AI 过度美化现实",
+   "title_cn": "",
+   "link": "https://www.solidot.org/story?sid=85847",
+   "source_name": "奇客 Solidot",
+   "source_kind": "垂直媒体",
+   "id": "6a0285202686dd49",
+   "type": "research",
+   "type_label": "研究进展",
+   "region": "global",
+   "region_label": "全球"
+  }
+ ],
+ "challenge": {
+  "question": "会谈报道侧重有何不同",
+  "a": "A详述会谈时长、闭门形式、三方代表团名单及各方表态，聚焦谈判进程本身。",
+  "b": "B只报海合会秘书长布达维表态，欢迎会谈并赞赏阿联酋作用和美国努力。",
+  "diff": "A报会谈进程与三方阵容，B报海合会方面表态，对象与内容不同。",
+  "mode": "llm",
+  "pair": [
+   {
+    "id": "d678aa7c3ffb9551",
+    "source_id": "chinanews_world",
+    "source_name": "中国新闻网·国际",
+    "source_kind": "通讯社",
+    "title": "俄美乌三方结束阿布扎比首日会谈",
+    "link": "https://www.chinanews.com.cn/gj/2026/11-11/10729867.shtml",
+    "published": "2026-11-11T05:54:38+08:00",
+    "image_url": null,
+    "source_count": 1,
+    "pr": 0,
+    "group": "world",
+    "type": "world",
+    "region": "me",
+    "topic": "俄美乌阿布扎比首日会谈",
+    "type_label": "国际关系",
+    "region_label": "中东"
+   },
+   {
+    "id": "408e09eeb0e56a38",
+    "source_id": "jiemian",
+    "source_name": "界面新闻",
+    "source_kind": "市场化媒体",
+    "title": "海合会秘书长欢迎新一轮俄美乌三方会谈在阿布扎比举行",
+    "link": "https://www.jiemian.com/article/15317945.html",
+    "published": "2026-11-10T22:29:51+08:00",
+    "image_url": "https:https://img.jiemian.com/101/original/20220307/164664253426029700_a580x330.png",
+    "source_count": 1,
+    "pr": 0,
+    "group": "world",
+    "type": "world",
+    "region": "me",
+    "topic": "海合会欢迎俄美乌会谈",
+    "type_label": "国际关系",
+    "region_label": "中东"
+   }
+  ],
+  "kind": "两个视角"
+ },
+ "counts": {
+  "world": 8,
+  "ai": 6,
+  "know": 2
+ },
+ "report": {
+  "mode": "llm",
+  "overview": "本期俄乌议题集中：俄外长称局势不明不会再次停火，俄美乌三方在阿布扎比结束首日会谈，联合国通报乌平民伤亡增加、冬季人道风险加剧。AI方面，Claude Fable 5.2发布登顶，蚂蚁灵波开源触觉模型，MiniMax开源图像模型。",
+  "signals": [
+   "本期俄乌相关条目达四条，涵盖停火表态、三方会谈与联合国人道通报。",
+   "同日出现Claude新模型发布与蚂蚁灵波触觉模型开源两条模型进展。",
+   "具身智能相关条目出现两条，涉及触觉模型开源与挑战赛决赛。"
+  ],
+  "groups": [
+   {
+    "key": "world",
+    "label": "国际局势",
+    "n": 8
+   },
+   {
+    "key": "ai",
+    "label": "AI 发展",
+    "n": 6
+   },
+   {
+    "key": "know",
+    "label": "不为人知的知识",
+    "n": 2
+   }
+  ],
+  "types": [
+   {
+    "key": "world",
+    "label": "国际关系",
+    "n": 5
+   },
+   {
+    "key": "product",
+    "label": "产品发布",
+    "n": 4
+   },
+   {
+    "key": "policy",
+    "label": "政策监管",
+    "n": 2
+   },
+   {
+    "key": "business",
+    "label": "商业资本",
+    "n": 1
+   },
+   {
+    "key": "research",
+    "label": "研究进展",
+    "n": 1
+   },
+   {
+    "key": "security",
+    "label": "安全事件",
+    "n": 1
+   },
+   {
+    "key": "society",
+    "label": "社会民生",
+    "n": 1
+   },
+   {
+    "key": "industry",
+    "label": "行业观察",
+    "n": 1
+   }
+  ],
+  "regions": [
+   {
+    "key": "cn",
+    "label": "中国",
+    "n": 4
+   },
+   {
+    "key": "us",
+    "label": "美国",
+    "n": 3
+   },
+   {
+    "key": "eu",
+    "label": "欧洲",
+    "n": 3
+   },
+   {
+    "key": "me",
+    "label": "中东",
+    "n": 3
+   },
+   {
+    "key": "global",
+    "label": "全球",
+    "n": 3
+   }
+  ],
+  "confirmed": [],
+  "confirmed_n": 0,
+  "source_kinds": [
+   {
+    "kind": "垂直媒体",
+    "n": 7
+   },
+   {
+    "kind": "通讯社",
+    "n": 4
+   },
+   {
+    "kind": "市场化媒体",
+    "n": 3
+   },
+   {
+    "kind": "公共媒体",
+    "n": 2
+   }
+  ],
+  "note": "数字由程序统计；类型/地区标签来自模型或关键词规则；「归纳判断」是编辑视角的概括，不是事实，每条都附原文链接可核对。"
+ },
+ "stats": {
+  "scanned": 407,
+  "selected": 16,
+  "raw": 2912,
+  "clusters": 390,
+  "dedup": 401,
+  "sources_ok": 26,
+  "sources_total": 26,
+  "lookback_hours": 48,
+  "llm_mode": "llm",
+  "model": "deepseek-flash ×12",
+  "llm_calls": 12,
+  "cost": 0.0378,
+  "generated_at": "2026-11-11 06:09",
+  "errors": []
+ },
+ "archives": [
+  {
+   "date": "2026-11-10",
+   "weekday": "周二"
+  },
+  {
+   "date": "2026-11-09",
+   "weekday": "周一"
+  },
+  {
+   "date": "2026-11-08",
+   "weekday": "周日"
+  },
+  {
+   "date": "2026-11-07",
+   "weekday": "周六"
+  },
+  {
+   "date": "2026-11-06",
+   "weekday": "周五"
+  },
+  {
+   "date": "2026-11-05",
+   "weekday": "周四"
+  },
+  {
+   "date": "2026-11-04",
+   "weekday": "周三"
+  },
+  {
+   "date": "2026-11-03",
+   "weekday": "周二"
+  },
+  {
+   "date": "2026-11-02",
+   "weekday": "周一"
+  },
+  {
+   "date": "2026-11-01",
+   "weekday": "周日"
+  },
+  {
+   "date": "2026-10-31",
+   "weekday": "周六"
+  },
+  {
+   "date": "2026-10-30",
+   "weekday": "周五"
+  }
+ ]
+}
