@@ -1,0 +1,513 @@
+{
+ "date": "2026-11-12",
+ "date_cn": "11 月 12 日",
+ "weekday": "周四",
+ "issue_no": 18,
+ "one_liner": "Gemini 4 Carbon 正式上线但并非所有人可用，俄乌在阿布扎比会谈后达成换俘协议。",
+ "lede": "扫描 406 条，从 26/26 个可用来源里留下 16 条：国际局势 5 条 · AI 发展 6 条 · 不为人知的知识 3 条。",
+ "cover_image": "assets/img/0600775db4f28d18.jpg",
+ "headline": [
+  {
+   "id": "0600775db4f28d18",
+   "source_id": "ifanr",
+   "source_name": "爱范儿",
+   "source_kind": "垂直媒体",
+   "title": "今天起，Gemini 4 Carbon 正式上线，但不是所有人都用得上",
+   "link": "https://www.ifanr.com/1688883?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "published": "2026-11-11T08:26:39+08:00",
+   "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1794356647524-12.jpg",
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "img": "assets/img/0600775db4f28d18.jpg",
+   "summary": "Google DeepMind 宣布，最新旗舰模型 Gemini 4 Carbon 正式面向开发者、企业、科研人员及普通消费者提供服务。原文称，Carbon 在 CursorBench 4.0、Perplexity WANDR 和 Zapier AutomationBench 三项基准测试中均排名第一。价格方面，Carbon 的 API 优惠价格与 Argon 相同，每百万输入 Token 2 美元、每百万输出 Token 10 美元，12 月 1 日起分别调整至 4 美元和 20 美元。",
+   "why": "这条消息直接对应你关注的 AI 发展：新旗舰模型上线、基准表现与定价变化都在原文中给出。",
+   "tags": [
+    "AI",
+    "Gemini",
+    "模型发布"
+   ],
+   "summary_mode": "llm",
+   "type": "product",
+   "region": "global",
+   "topic": "Gemini 4 Carbon 正式上线",
+   "type_label": "产品发布",
+   "region_label": "全球"
+  },
+  {
+   "id": "b3f7cc33c0e48187",
+   "source_id": "chinanews_world",
+   "source_name": "中国新闻网·国际",
+   "source_kind": "通讯社",
+   "title": "阿布扎比会谈结束 俄乌宣告达成换俘协议 普京今日会见美特使",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-12/10730578.shtml",
+   "published": "2026-11-12T06:53:58+08:00",
+   "image_url": null,
+   "source_count": 1,
+   "pr": 0,
+   "group": "world",
+   "summary": "为期两天的俄美乌三方会谈在阿布扎比结束，各方就大规模交换被俘人员达成协议，但在结束冲突、领土争议、乌克兰安全保障及欧洲未来安全架构等问题上仍存重大分歧。俄方称俄乌双方各有超过1000人被纳入交换名单，乌方称正在协调换俘具体细节。库什纳与威特科夫计划12日前往莫斯科会见普京，随后赴都柏林向泽连斯基通报会谈情况。",
+   "why": "这条新闻涉及俄乌冲突的谈判进展与美俄乌三方互动，属于读者关注的国际局势。",
+   "tags": [
+    "俄乌会谈",
+    "换俘协议",
+    "国际局势"
+   ],
+   "summary_mode": "llm",
+   "type": "world",
+   "region": "me",
+   "topic": "俄美乌会谈达成换俘协议",
+   "type_label": "国际关系",
+   "region_label": "中东"
+  },
+  {
+   "id": "b64249ec49e9600b",
+   "source_id": "tmtpost",
+   "source_name": "钛媒体",
+   "source_kind": "市场化媒体",
+   "title": "中国AI，越来越烧钱",
+   "link": "https://www.tmtpost.com/8201106.html",
+   "published": "2026-11-11T14:55:42+08:00",
+   "image_url": "https://images.tmtpost.com/uploads/images/wx/2026/11/20261111142254692264.jpg",
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "img": "assets/img/b64249ec49e9600b.jpg",
+   "summary": "荣鼎集团报告估算，阿里、腾讯、百度等13家企业2026年AI基础设施资本开支将达9320亿元，同比增长103%。2026年上半年，阿里、腾讯和百度合计资本开支2080亿元，同期合计自由现金流为负160亿元。2026年部分模型厂商提高API价格，但智谱和MiniMax的整体毛利率分别从2025年的约41%和25%降至2026年上半年的约26%和18%。",
+   "why": "关注AI发展的读者可以看到中国大厂AI投入与现金流、模型商业化盈利之间的具体数字关系。",
+   "tags": [
+    "AI资本开支",
+    "云计算",
+    "大模型商业化"
+   ],
+   "summary_mode": "llm",
+   "type": "business",
+   "region": "cn",
+   "topic": "中国AI资本开支大增",
+   "type_label": "商业资本",
+   "region_label": "中国"
+  }
+ ],
+ "featured": [
+  {
+   "id": "1c0750d9fa64ffcb",
+   "source_id": "leiphone",
+   "source_name": "雷锋网",
+   "source_kind": "垂直媒体",
+   "title": "Fable 5.2 “撞车”蚂蚁灵波触觉模型，CEO 朱兴：两类模型协同将加速具身产业成熟",
+   "link": "https://www.leiphone.com/category/industrynews/Qhv28gnFkgFPCbXV.html",
+   "published": "2026-11-10T14:49:00+08:00",
+   "image_url": "https://static.leiphone.com/uploads/new/images/20261110/6af2be7964e02.png?imageMogr2/quality/90",
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "img": "assets/img/1c0750d9fa64ffcb.jpg",
+   "summary": "11 月 10 日，Claude Fable 5.2 发布同日，蚂蚁灵波科技开源触觉基础模型 LingBot-Touch。该模型基于近 5000 小时真实触觉数据预训练，覆盖磁触觉、视触觉和压阻式三类传感原理。在涉及两款灵巧手的 26 项真机测试中，接入该模型后，四种动作模型的平均任务成功率较无触觉时提高约 14 至 26 个百分点。",
+   "why": "同时涉及国际 AI 大模型进展与具身智能的落地细节，给出了具体测试数据，符合读者对 AI 发展的关注。",
+   "tags": [
+    "AI 大模型",
+    "具身智能",
+    "触觉模型"
+   ],
+   "summary_mode": "llm",
+   "type": "product",
+   "region": "cn",
+   "topic": "蚂蚁灵波开源触觉模型",
+   "type_label": "产品发布",
+   "region_label": "中国"
+  },
+  {
+   "id": "ec2c4cf1dd35413c",
+   "source_id": "chinanews_world",
+   "source_name": "中国新闻网·国际",
+   "source_kind": "通讯社",
+   "title": "俄外交部：将持续致力于揭露日本军国主义罪行",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-12/10730575.shtml",
+   "published": "2026-11-12T06:38:17+08:00",
+   "image_url": null,
+   "source_count": 1,
+   "pr": 0,
+   "group": "world",
+   "summary": "俄罗斯外交部发言人扎哈罗娃11日表示，日本政府应当深刻汲取历史教训，放弃当前加速推进的「再军事化」政策。她表示，东京审判对日本军国主义二战时期犯下的罪行进行了认定、记录和全面的法律评判，其判决至今仍是战后国际秩序的法律基石。扎哈罗娃称，俄外交部正持续致力于揭露日本军国主义的罪行，并依托俄联邦总检察院及其他政府机构提供的信息开展工作。",
+   "why": "涉及日本「再军事化」与东京审判现实意义，属国际局势动向。",
+   "tags": [
+    "国际局势",
+    "俄日关系",
+    "东京审判"
+   ],
+   "summary_mode": "llm",
+   "type": "world",
+   "region": "global",
+   "topic": "俄外交部批评日本再军事化",
+   "type_label": "国际关系",
+   "region_label": "全球"
+  },
+  {
+   "id": "10179185ea0098e0",
+   "source_id": "leiphone",
+   "source_name": "雷锋网",
+   "source_kind": "垂直媒体",
+   "title": "灵光接入什么值得买，AI助理开始帮用户“盯好价”",
+   "link": "https://www.leiphone.com/category/industrynews/Z3dOHYCNYfPNwijf.html",
+   "published": "2026-11-10T16:41:00+08:00",
+   "image_url": "https://static.leiphone.com/uploads/new/images/20261110/6af2d8c45b7a6.jpg?imageMogr2/quality/90",
+   "source_count": 1,
+   "pr": 0,
+   "group": "know",
+   "img": "assets/img/10179185ea0098e0.jpg",
+   "summary": "蚂蚁集团旗下个人AI助理灵光接入消费内容平台「什么值得买」，将商品信息和消费决策支持等服务纳入灵光。此前灵光已接入支付宝、钉钉、飞书等40个连接器服务。接入后，灵光可帮用户对比商品优劣并持续监控价格，在合适时间推送提醒。",
+   "why": "属于AI发展类信息，呈现个人AI助理从问答走向持续事务跟进的产品方向。",
+   "tags": [
+    "AI助理",
+    "消费决策",
+    "蚂蚁集团"
+   ],
+   "summary_mode": "llm",
+   "type": "product",
+   "region": "cn",
+   "topic": "灵光接入什么值得买",
+   "type_label": "产品发布",
+   "region_label": "中国"
+  },
+  {
+   "id": "39aa6c5bc23fd9c7",
+   "source_id": "ifanr",
+   "source_name": "爱范儿",
+   "source_kind": "垂直媒体",
+   "title": "刚刚，Claude Fable 5.2 登顶世界第一，一夜斩杀 Opus 5.5",
+   "link": "https://www.ifanr.com/1688605?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "published": "2026-11-10T06:54:06+08:00",
+   "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/9-2.jpg",
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "img": "assets/img/39aa6c5bc23fd9c7.jpg",
+   "summary": "1000 个 AI Agent，30 小时完成费马大定理的形式化证明，连续工作 8 天，从零造出一套能在笔记本电脑上运行的操作系统。就在刚刚，Anthropic 正式发布 Claude Fable 5.2 和 Mythos 5.2 两款新模型。除了上述成果，新模型还解决了两个黑洞物理难题，生成速度最高提升 30%，API 价格降低 20%。",
+   "why": "属于你关注的「AI 发展」。",
+   "tags": [],
+   "summary_mode": "extractive",
+   "type": "product",
+   "region": "us",
+   "topic": "Claude Fable 5.2 发布",
+   "type_label": "产品发布",
+   "region_label": "美国"
+  },
+  {
+   "id": "5d729aa82fcda418",
+   "source_id": "chinanews_world",
+   "source_name": "中国新闻网·国际",
+   "source_kind": "通讯社",
+   "title": "俄罗斯驻美国大使达尔奇耶夫去世，终年66岁",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-12/10730576.shtml",
+   "published": "2026-11-12T06:39:25+08:00",
+   "image_url": null,
+   "source_count": 1,
+   "pr": 0,
+   "group": "world",
+   "summary": "据俄罗斯媒体援引俄罗斯外交部消息，俄罗斯驻美国大使亚历山大·达尔奇耶夫于11月11日去世，终年66岁。俄罗斯外交部在声明中称，达尔奇耶夫是一位杰出的外交官和美国问题专家，长期从事俄罗斯外交政策重要领域的工作。达尔奇耶夫出生于1960年，自1992年起在俄罗斯外交部工作，曾在俄罗斯驻美国大使馆担任参赞、公使衔参赞，也曾担任俄罗斯驻加拿大大使；2025年，俄罗斯总统普京任命他为俄罗斯驻美国大使。",
+   "why": "这条消息涉及俄美外交，读者关注国际局势。",
+   "tags": [
+    "国际",
+    "俄美关系",
+    "外交"
+   ],
+   "summary_mode": "llm",
+   "type": "world",
+   "region": "global",
+   "topic": "俄驻美大使去世",
+   "type_label": "国际关系",
+   "region_label": "全球"
+  }
+ ],
+ "quick": [
+  {
+   "title": "Agent自演进驶入“双轨时代”！openJiuwen首发TTSE经验学习框架",
+   "title_cn": "",
+   "link": "https://www.qbitai.com/2026/11/508998.html",
+   "source_name": "量子位",
+   "source_kind": "垂直媒体",
+   "id": "5555dcbd88716a0f",
+   "type": "tech",
+   "type_label": "技术进展",
+   "region": "cn",
+   "region_label": "中国"
+  },
+  {
+   "title": "英伟达机器人开源撞上Fable 5.2发布！Jim Fan：不是寒冬是夏天",
+   "title_cn": "",
+   "link": "https://www.qbitai.com/2026/11/509032.html",
+   "source_name": "量子位",
+   "source_kind": "垂直媒体",
+   "id": "9316068bab1ead53",
+   "type": "tech",
+   "type_label": "技术进展",
+   "region": "us",
+   "region_label": "美国"
+  },
+  {
+   "title": "AI交易热情重燃，纳斯达克100指数收涨超2%并在盘中收复中期选举以来全部跌幅",
+   "title_cn": "",
+   "link": "https://www.jiemian.com/article/15323185.html",
+   "source_name": "界面新闻",
+   "source_kind": "市场化媒体",
+   "id": "8a76de8369161f2a",
+   "type": "business",
+   "type_label": "商业资本",
+   "region": "us",
+   "region_label": "美国"
+  },
+  {
+   "title": "AI 生成的代码并不可靠",
+   "title_cn": "",
+   "link": "https://www.solidot.org/story?sid=85857",
+   "source_name": "奇客 Solidot",
+   "source_kind": "垂直媒体",
+   "id": "6a77c8c5fde751df",
+   "type": "industry",
+   "type_label": "行业观察",
+   "region": "global",
+   "region_label": "全球"
+  },
+  {
+   "title": "实测 MiniMax H3 Image：GPT 的效果加上 MJ 的审美，居然被它开源了",
+   "title_cn": "",
+   "link": "https://www.ifanr.com/1688790?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source_name": "爱范儿",
+   "source_kind": "垂直媒体",
+   "id": "bbc34e7e3f775e6f",
+   "type": "product",
+   "type_label": "产品发布",
+   "region": "cn",
+   "region_label": "中国"
+  },
+  {
+   "title": "沪铝夜盘收涨1.1%",
+   "title_cn": "",
+   "link": "https://www.jiemian.com/article/15323152.html",
+   "source_name": "界面新闻",
+   "source_kind": "市场化媒体",
+   "id": "e8a1a8921b69241c",
+   "type": "business",
+   "type_label": "商业资本",
+   "region": "cn",
+   "region_label": "中国"
+  }
+ ],
+ "challenge": {
+  "question": "Gemini Decisions API",
+  "a": "Gemini Decisions API ( via ) Google join Jev and OpenAI in the decision model category with \"Gemini Decision 1\". This new model API is almost identical to Jev: it supports the same three types of questions (yes/no, choic",
+  "b": "Gemini Decisions API: Fast, calibrated multimodal decisions Nov 11, 2026 | x.com Facebook LinkedIn Mail Copy link Introducing the Gemini Decisions API, powered by our new Gemini Decision 1 model. Evaluate up to 1,000 yes",
+  "diff": "两家来源类型不同（个人 / 社区），原文表述不一致之处需要对照阅读。",
+  "mode": "extractive",
+  "pair": [
+   {
+    "id": "230c964ba2b28a68",
+    "source_id": "simonw",
+    "source_name": "Simon Willison",
+    "source_kind": "个人",
+    "title": "Gemini Decisions API",
+    "link": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
+    "published": "2026-11-12T06:03:25+08:00",
+    "image_url": null,
+    "type": "product",
+    "region": "us",
+    "topic": "Gemini Decisions API",
+    "type_label": "产品发布",
+    "region_label": "美国"
+   },
+   {
+    "id": "42c0a82709f13540",
+    "source_id": "hn_front",
+    "source_name": "Hacker News 首页",
+    "source_kind": "社区",
+    "title": "Gemini Decisions API",
+    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+    "published": "2026-11-12T02:32:42+08:00",
+    "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini__decisions__blog-header_2784x1566.width-1300.png",
+    "type": "product",
+    "region": "us",
+    "topic": "Gemini Decisions API",
+    "type_label": "产品发布",
+    "region_label": "美国"
+   }
+  ],
+  "kind": "同一事件"
+ },
+ "counts": {
+  "ai": 6,
+  "world": 5,
+  "know": 3,
+  "other": 2
+ },
+ "report": {
+  "mode": "llm",
+  "overview": "本期多款模型发布：Gemini 4 Carbon上线、Claude Fable 5.2发布、MiniMax H3 Image开源、蚂蚁灵波开源触觉模型。俄美乌阿布扎比会谈达成换俘协议，俄驻美大使去世。荣鼎报告估算13家企业2026年AI资本开支9320亿元，纳斯达克100指数收涨超2%。",
+  "signals": [
+   "模型发布密集，同日出现Claude与蚂蚁灵波两类模型",
+   "俄乌仅就换俘达成协议，其余议题仍有重大分歧",
+   "国内AI资本开支高增，同期合计自由现金流为负"
+  ],
+  "groups": [
+   {
+    "key": "ai",
+    "label": "AI 发展",
+    "n": 6
+   },
+   {
+    "key": "world",
+    "label": "国际局势",
+    "n": 5
+   },
+   {
+    "key": "know",
+    "label": "不为人知的知识",
+    "n": 3
+   }
+  ],
+  "types": [
+   {
+    "key": "product",
+    "label": "产品发布",
+    "n": 7
+   },
+   {
+    "key": "business",
+    "label": "商业资本",
+    "n": 3
+   },
+   {
+    "key": "world",
+    "label": "国际关系",
+    "n": 3
+   },
+   {
+    "key": "tech",
+    "label": "技术进展",
+    "n": 2
+   },
+   {
+    "key": "industry",
+    "label": "行业观察",
+    "n": 1
+   }
+  ],
+  "regions": [
+   {
+    "key": "cn",
+    "label": "中国",
+    "n": 6
+   },
+   {
+    "key": "us",
+    "label": "美国",
+    "n": 5
+   },
+   {
+    "key": "global",
+    "label": "全球",
+    "n": 4
+   },
+   {
+    "key": "me",
+    "label": "中东",
+    "n": 1
+   }
+  ],
+  "confirmed": [
+   {
+    "title": "Gemini Decisions API",
+    "n": 2
+   }
+  ],
+  "confirmed_n": 1,
+  "source_kinds": [
+   {
+    "kind": "垂直媒体",
+    "n": 8
+   },
+   {
+    "kind": "通讯社",
+    "n": 3
+   },
+   {
+    "kind": "市场化媒体",
+    "n": 3
+   },
+   {
+    "kind": "个人",
+    "n": 1
+   },
+   {
+    "kind": "社区",
+    "n": 1
+   }
+  ],
+  "note": "数字由程序统计；类型/地区标签来自模型或关键词规则；「归纳判断」是编辑视角的概括，不是事实，每条都附原文链接可核对。"
+ },
+ "stats": {
+  "scanned": 406,
+  "selected": 16,
+  "raw": 2910,
+  "clusters": 382,
+  "dedup": 402,
+  "sources_ok": 26,
+  "sources_total": 26,
+  "lookback_hours": 48,
+  "llm_mode": "llm",
+  "model": "deepseek-flash ×12",
+  "llm_calls": 12,
+  "cost": 0.0402,
+  "generated_at": "2026-11-12 07:17",
+  "errors": []
+ },
+ "archives": [
+  {
+   "date": "2026-11-11",
+   "weekday": "周三"
+  },
+  {
+   "date": "2026-11-10",
+   "weekday": "周二"
+  },
+  {
+   "date": "2026-11-09",
+   "weekday": "周一"
+  },
+  {
+   "date": "2026-11-08",
+   "weekday": "周日"
+  },
+  {
+   "date": "2026-11-07",
+   "weekday": "周六"
+  },
+  {
+   "date": "2026-11-06",
+   "weekday": "周五"
+  },
+  {
+   "date": "2026-11-05",
+   "weekday": "周四"
+  },
+  {
+   "date": "2026-11-04",
+   "weekday": "周三"
+  },
+  {
+   "date": "2026-11-03",
+   "weekday": "周二"
+  },
+  {
+   "date": "2026-11-02",
+   "weekday": "周一"
+  },
+  {
+   "date": "2026-11-01",
+   "weekday": "周日"
+  },
+  {
+   "date": "2026-10-31",
+   "weekday": "周六"
+  }
+ ]
+}

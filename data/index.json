@@ -1,6 +1,34 @@
 {
- "updated": "2026-11-10 22:09",
+ "updated": "2026-11-11 23:17",
  "issues": [
+  {
+   "date": "2026-11-12",
+   "weekday": "周四",
+   "issue_no": 18,
+   "one_liner": "Gemini 4 Carbon 正式上线但并非所有人可用，俄乌在阿布扎比会谈后达成换俘协议。",
+   "selected": 16,
+   "sources_ok": 26,
+   "groups": {
+    "ai": 6,
+    "world": 5,
+    "know": 3,
+    "other": 2
+   },
+   "types": {
+    "product": 7,
+    "business": 3,
+    "world": 3,
+    "tech": 2,
+    "industry": 1
+   },
+   "regions": {
+    "cn": 6,
+    "us": 5,
+    "global": 4,
+    "me": 1
+   },
+   "head": "本期多款模型发布：Gemini 4 Carbon上线、Claude Fable 5.2发布、MiniMax H3 Image开源、蚂蚁灵波开"
+  },
   {
    "date": "2026-11-11",
    "weekday": "周三",
@@ -517,25 +545,30 @@
   }
  ],
  "aggregate": {
-  "issues": 17,
-  "items": 272,
+  "issues": 18,
+  "items": 288,
   "first": "2026-10-26",
-  "last": "2026-11-11",
+  "last": "2026-11-12",
   "types": [
    {
     "key": "world",
     "label": "国际关系",
-    "n": 75
+    "n": 78
    },
    {
     "key": "product",
     "label": "产品发布",
-    "n": 46
+    "n": 53
    },
    {
     "key": "tech",
     "label": "技术进展",
-    "n": 30
+    "n": 32
+   },
+   {
+    "key": "business",
+    "label": "商业资本",
+    "n": 28
    },
    {
     "key": "other",
@@ -543,14 +576,9 @@
     "n": 28
    },
    {
-    "key": "business",
-    "label": "商业资本",
-    "n": 25
-   },
-   {
     "key": "industry",
     "label": "行业观察",
-    "n": 20
+    "n": 21
    },
    {
     "key": "research",
@@ -577,22 +605,22 @@
    {
     "key": "cn",
     "label": "中国",
-    "n": 77
+    "n": 83
    },
    {
     "key": "us",
     "label": "美国",
-    "n": 68
+    "n": 73
    },
    {
     "key": "global",
     "label": "全球",
-    "n": 56
+    "n": 60
    },
    {
     "key": "me",
     "label": "中东",
-    "n": 34
+    "n": 35
    },
    {
     "key": "eu",
