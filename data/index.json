@@ -1,6 +1,37 @@
 {
- "updated": "2026-11-11 23:17",
+ "updated": "2026-11-12 22:35",
  "issues": [
+  {
+   "date": "2026-11-13",
+   "weekday": "周五",
+   "issue_no": 19,
+   "one_liner": "今天值得看：今天起，Gemini 4 Carbon…；两城双子星，正在完成中国AI产业闭环。",
+   "selected": 16,
+   "sources_ok": 26,
+   "groups": {
+    "ai": 7,
+    "world": 4,
+    "know": 3,
+    "other": 2
+   },
+   "types": {
+    "product": 7,
+    "world": 3,
+    "research": 2,
+    "business": 1,
+    "security": 1,
+    "society": 1,
+    "industry": 1
+   },
+   "regions": {
+    "cn": 5,
+    "us": 4,
+    "global": 4,
+    "me": 2,
+    "eu": 1
+   },
+   "head": "谷歌上线Gemini 4 Carbon，百度发布文心5.5 Flash Preview，豆包工作接入Kimi、DeepSeek等第三方模型，"
+  },
   {
    "date": "2026-11-12",
    "weekday": "周四",
@@ -545,20 +576,20 @@
   }
  ],
  "aggregate": {
-  "issues": 18,
-  "items": 288,
+  "issues": 19,
+  "items": 304,
   "first": "2026-10-26",
-  "last": "2026-11-12",
+  "last": "2026-11-13",
   "types": [
    {
     "key": "world",
     "label": "国际关系",
-    "n": 78
+    "n": 81
    },
    {
     "key": "product",
     "label": "产品发布",
-    "n": 53
+    "n": 60
    },
    {
     "key": "tech",
@@ -568,7 +599,7 @@
    {
     "key": "business",
     "label": "商业资本",
-    "n": 28
+    "n": 29
    },
    {
     "key": "other",
@@ -578,17 +609,17 @@
    {
     "key": "industry",
     "label": "行业观察",
-    "n": 21
+    "n": 22
    },
    {
     "key": "research",
     "label": "研究进展",
-    "n": 19
+    "n": 21
    },
    {
     "key": "security",
     "label": "安全事件",
-    "n": 12
+    "n": 13
    },
    {
     "key": "policy",
@@ -598,34 +629,34 @@
    {
     "key": "society",
     "label": "社会民生",
-    "n": 7
+    "n": 8
    }
   ],
   "regions": [
    {
     "key": "cn",
     "label": "中国",
-    "n": 83
+    "n": 88
    },
    {
     "key": "us",
     "label": "美国",
-    "n": 73
+    "n": 77
    },
    {
     "key": "global",
     "label": "全球",
-    "n": 60
+    "n": 64
    },
    {
     "key": "me",
     "label": "中东",
-    "n": 35
+    "n": 37
    },
    {
     "key": "eu",
     "label": "欧洲",
-    "n": 25
+    "n": 26
    },
    {
     "key": "asia",
