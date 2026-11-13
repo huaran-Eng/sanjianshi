@@ -1,0 +1,523 @@
+{
+ "date": "2026-11-14",
+ "date_cn": "11 月 14 日",
+ "weekday": "周六",
+ "issue_no": 20,
+ "one_liner": "今天值得看：英伟达博客发声：她不一样，她懂显卡 (…；刚刚，Gemini 4 新模型叒来了…",
+ "lede": "扫描 390 条，从 26/26 个可用来源里留下 16 条：国际局势 4 条 · AI 发展 7 条 · 不为人知的知识 3 条。",
+ "cover_image": "assets/img/8c7909de1d6cbc12.jpg",
+ "headline": [
+  {
+   "id": "8c7909de1d6cbc12",
+   "source_id": "leiphone",
+   "source_name": "雷锋网",
+   "source_kind": "垂直媒体",
+   "title": "英伟达博客发声：她不一样，她懂显卡 ( bushi )，她懂端到端！",
+   "link": "https://www.leiphone.com/category/ai/1jG5k34DSlHSSJE9.html",
+   "published": "2026-11-13T15:49:00+08:00",
+   "image_url": "https://static.leiphone.com/uploads/new/images/20261113/6af6c04e33699.jpg?imageMogr2/quality/90",
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "img": "assets/img/8c7909de1d6cbc12.jpg",
+   "summary": "英伟达11月10日发布端到端自动驾驶模型Alpamayo 2 Edge，VLM骨干约2.45B、动作专家约0.2B，运行在车规级芯片DRIVE AGX Thor上。模型引入Adaptive Reasoning与特殊标记<NOMINAL>，在常规驾驶状态结束显式推理文本生成，遇到复杂交通交互时再生成完整的因果链推理。原文称端到端输出闭环表现提升48.9%。",
+   "why": "关注AI发展的读者可了解英伟达在车载端到端模型上的技术设计，包括推理开销控制与因果链标注方法。",
+   "tags": [
+    "自动驾驶",
+    "英伟达",
+    "端到端模型"
+   ],
+   "summary_mode": "llm",
+   "type": "product",
+   "region": "us",
+   "topic": "英伟达发布自动驾驶大模型",
+   "type_label": "产品发布",
+   "region_label": "美国"
+  },
+  {
+   "id": "8ada2b4c2278164d",
+   "source_id": "ifanr",
+   "source_name": "爱范儿",
+   "source_kind": "垂直媒体",
+   "title": "刚刚，Gemini 4 新模型叒来了，终于人人可用",
+   "link": "https://www.ifanr.com/1689267?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "published": "2026-11-13T07:11:11+08:00",
+   "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1794524212067-21.jpg",
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "img": "assets/img/8ada2b4c2278164d.jpg",
+   "summary": "谷歌发布新模型 Gemini 4 Hydrogen，主打更快的响应速度和更低的使用成本，并接入 Gemini App、Google Search 等平台，免费用户也可体验。据 Artificial Analysis 评测，Hydrogen 在默认 High 档位得 51 分，超过 Gemini 4 Argon 的 50 分，开启 xhigh 档位后升至 54 分。其 API 定价为每百万输入 Token 1.5 美元、每百万输出 Token 7.5 美元。",
+   "why": "AI 大模型迭代与降价直接影响开发者和日常使用者，属于读者关注的 AI 发展议题。",
+   "tags": [
+    "Gemini",
+    "AI 模型",
+    "定价"
+   ],
+   "summary_mode": "llm",
+   "type": "product",
+   "region": "us",
+   "topic": "谷歌发布Gemini 4新模型",
+   "type_label": "产品发布",
+   "region_label": "美国"
+  },
+  {
+   "id": "8b8affce7cd0b0ca",
+   "source_id": "tmtpost",
+   "source_name": "钛媒体",
+   "source_kind": "市场化媒体",
+   "title": "Anthropic想给算力债“找下家”",
+   "link": "https://www.tmtpost.com/8203967.html",
+   "published": "2026-11-13T17:56:33+08:00",
+   "image_url": "https://images.tmtpost.com/uploads/images/2023/tkrss/42353.png",
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "img": "assets/img/8b8affce7cd0b0ca.jpg",
+   "summary": "美东时间11月10日，Anthropic启动IPO路演，计划发行8.25亿股A类普通股，发行价区间70至78美元，预计11月19日登陆纳斯达克；按区间上限计算，IPO本身最高募资约644亿美元，七家基石投资者已承诺以私募方式认购260亿美元。招股书显示，5180亿美元的长期基础设施服务协议中约80%不可取消，2026年上半年算力与基础设施支出89.45亿美元，约占同期营收162.86亿美元的55%。在Anthropic筹备上市期间，信贷市场收紧了对AI算力相关债务的定价，Anthropic自身次级债票息抬升至10%。",
+   "why": "这条讲的是AI公司用“照付不议”合同锁定算力支出、再把这笔刚性账单转给公开市场投资者，属于AI发展背后的资金结构问题，不是明星八卦。",
+   "tags": [
+    "Anthropic",
+    "AI算力",
+    "IPO"
+   ],
+   "summary_mode": "llm",
+   "type": "business",
+   "region": "us",
+   "topic": "Anthropic启动IPO路演",
+   "type_label": "商业资本",
+   "region_label": "美国"
+  }
+ ],
+ "featured": [
+  {
+   "id": "1a20db59a57525b5",
+   "source_id": "tmtpost",
+   "source_name": "钛媒体",
+   "source_kind": "市场化媒体",
+   "title": "谷歌一次发布两颗TPU，英伟达的“通用”招牌开始松动",
+   "link": "https://www.tmtpost.com/8201775.html",
+   "published": "2026-11-13T15:45:31+08:00",
+   "image_url": "https://images.tmtpost.com/uploads/images/2023/tkrss/23t4q3y5w6whtrf3.png",
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "img": "assets/img/1a20db59a57525b5.jpg",
+   "summary": "谷歌发布TPU 8tx和TPU 8i Max两款AI专用芯片，前者主打芯片层面加密，面向政府机构和受监管行业，后者把两颗芯片封在同一个封装里，主打超长上下文。谷歌芯片业务负责人Amin Vahdat表示，TPU产品节奏从过去约两年一款变为2026年推出四款针对不同需求优化的产品。彭博行业研究分析师Mandeep Singh给出的数字是，TPU成本比英伟达GPU低约30%，但谷歌TPU业务的利润率不如英伟达。",
+   "why": "关注AI发展的读者可从中了解谷歌TPU的产品分层、客户名单变化，以及它与英伟达在成本、利润率和CUDA生态上的差距。",
+   "tags": [
+    "AI芯片",
+    "谷歌TPU",
+    "英伟达"
+   ],
+   "summary_mode": "llm",
+   "type": "product",
+   "region": "us",
+   "topic": "谷歌发布两款TPU芯片",
+   "type_label": "产品发布",
+   "region_label": "美国"
+  },
+  {
+   "id": "35bd84d330a873d7",
+   "source_id": "jiemian",
+   "source_name": "界面新闻",
+   "source_kind": "市场化媒体",
+   "title": "俄外交部：俄美会晤未讨论欧洲参与乌克兰问题谈判事宜",
+   "link": "https://www.jiemian.com/article/15332544.html",
+   "published": "2026-11-14T00:00:48+08:00",
+   "image_url": "https:https://img.jiemian.com/101/original/20220307/164664253426029700_a580x330.png",
+   "source_count": 1,
+   "pr": 0,
+   "group": "world",
+   "summary": "俄罗斯外交部发言人扎哈罗娃11月13日表示，俄方在与美国特使威特科夫及特朗普女婿库什纳的会晤中，未讨论欧洲方面参与乌克兰问题谈判的事宜。当地时间12日，库什纳表示，俄罗斯和乌克兰同意扩大下一轮谈判范围，将欧洲国家纳入其中。",
+   "why": "读者关注国际局势，这条呈现俄美乌谈判参与方范围上的说法差异。",
+   "tags": [
+    "俄美会晤",
+    "乌克兰谈判",
+    "国际局势"
+   ],
+   "summary_mode": "llm",
+   "type": "world",
+   "region": "global",
+   "topic": "俄称俄美会晤未谈欧洲",
+   "type_label": "国际关系",
+   "region_label": "全球"
+  },
+  {
+   "id": "343c51bca5607c07",
+   "source_id": "sspai",
+   "source_name": "少数派",
+   "source_kind": "社区",
+   "title": "研究生如何用 AI 辅助完成一篇综述：我的科研写作工具与实践经验",
+   "link": "https://sspai.com/post/118153",
+   "published": "2026-11-13T15:00:00+08:00",
+   "image_url": "https://rssfile.sspai.com/2026/11/01/ca6a13cafa18713a90a7a237dffd5ed0.jpg?imageMogr2/auto-orient/format/webp/ignore-error/1",
+   "source_count": 1,
+   "pr": 0,
+   "group": "know",
+   "img": "assets/img/343c51bca5607c07.jpg",
+   "summary": "作者以自己参与的一篇综述为例，介绍在确定选题、检索文献、整理证据、撰写正文、绘制机理图和投稿前格式检查等环节使用 AI、Zotero、Keynote 和 WorkBuddy 的做法。该综述已被《食品科学》录用并网络首发，作者为第一作者。文中说明，这些工具主要用于理清各写作环节的思路和方向，并不适合直接套用到其他领域，仍需人工判断与核验。",
+   "why": "读者关注 AI 发展与方法论，这篇是 AI 在科研写作流程中的具体实践记录，含操作环节与人工核验提醒。",
+   "tags": [
+    "AI 写作",
+    "科研方法",
+    "工具实践"
+   ],
+   "summary_mode": "llm",
+   "type": "other",
+   "region": "cn",
+   "topic": "研究生用AI写综述经验",
+   "type_label": "其他",
+   "region_label": "中国"
+  },
+  {
+   "id": "448d8fbdadf4425c",
+   "source_id": "ifanr",
+   "source_name": "爱范儿",
+   "source_kind": "垂直媒体",
+   "title": "AI 时代，公司的「新厂房」长什么样？",
+   "link": "https://www.ifanr.com/1689182?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "published": "2026-11-13T14:34:19+08:00",
+   "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1794541950807-1.jpg",
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "img": "assets/img/448d8fbdadf4425c.jpg",
+   "summary": "李彦宏在百度世界大会上提出，AI的下一幕是智能组织，企业只更换AI电机而没有重新设计流程，是AI未产生预期经济效益的原因。他提出三个原则：打破岗位边界、沉淀隐性知识、设计流程闭环。原文提到2025年全球企业在AI上投入超过2500亿美元，真正跑出业务变革的公司只有25%。",
+   "why": "这条关注AI如何改变企业组织方式，属于AI发展趋势，也提供了可迁移的组织方法论，符合读者对AI和不常见方法论的关注。",
+   "tags": [
+    "AI组织",
+    "李彦宏",
+    "企业转型"
+   ],
+   "summary_mode": "llm",
+   "type": "industry",
+   "region": "cn",
+   "topic": "李彦宏提智能组织三原则",
+   "type_label": "行业观察",
+   "region_label": "中国"
+  },
+  {
+   "id": "739247a6ae58141c",
+   "source_id": "chinanews_world",
+   "source_name": "中国新闻网·国际",
+   "source_kind": "通讯社",
+   "title": "俄罗斯称尚未同意让欧洲参与乌克兰问题谈判",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-13/10731784.shtml",
+   "published": "2026-11-13T21:17:03+08:00",
+   "image_url": null,
+   "source_count": 1,
+   "pr": 0,
+   "group": "world",
+   "summary": "俄罗斯总统新闻秘书佩斯科夫在13日举行的例行记者会上称，俄方尚未同意让欧洲参与乌克兰问题谈判。此前乌克兰总统泽连斯基在都柏林与美国总统特使威特科夫和特朗普的女婿库什纳会谈后发表声明称，欧洲将派代表直接参与下一轮乌美俄三方会谈，并将拥有发言权。",
+   "why": "涉及乌克兰问题谈判的参与方安排，读者关注国际局势。",
+   "tags": [
+    "国际局势",
+    "乌克兰",
+    "俄罗斯"
+   ],
+   "summary_mode": "llm",
+   "type": "world",
+   "region": "global",
+   "topic": "俄方称未同意欧洲参会",
+   "type_label": "国际关系",
+   "region_label": "全球"
+  }
+ ],
+ "quick": [
+  {
+   "title": "土耳其专家点赞中国地热资源利用：为生态保护与经济发展协同推进提供思路｜新闻会客厅",
+   "title_cn": "",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-13/10731573.shtml",
+   "source_name": "中国新闻网·国际",
+   "source_kind": "通讯社",
+   "id": "8126261f45618c4c",
+   "type": "world",
+   "type_label": "国际关系",
+   "region": "global",
+   "region_label": "全球"
+  },
+  {
+   "title": "中金公司与蚂蚁集团达成战略合作 共探AI赋能财富管理",
+   "title_cn": "",
+   "link": "https://www.leiphone.com/category/industrynews/U7WtbV9kyb90UuZ0.html",
+   "source_name": "雷锋网",
+   "source_kind": "垂直媒体",
+   "id": "526715eaf5074938",
+   "type": "business",
+   "type_label": "商业资本",
+   "region": "cn",
+   "region_label": "中国"
+  },
+  {
+   "title": "Here’s the latest.",
+   "title_cn": "以下是最新消息",
+   "link": "https://www.nytimes.com/live/2026/11/13/us/ground-stop-nationwide-flights-faa/nationwide-ground-stop-flights-faa",
+   "source_name": "NYT World",
+   "source_kind": "市场化媒体",
+   "id": "1de610aba22dcfe9",
+   "type": "security",
+   "type_label": "安全事件",
+   "region": "us",
+   "region_label": "美国"
+  },
+  {
+   "title": "余承东公布华为问界新合作模式！新 M8 同步上市，起售价 37.98 万元",
+   "title_cn": "",
+   "link": "https://www.ifanr.com/1689432?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source_name": "爱范儿",
+   "source_kind": "垂直媒体",
+   "id": "cd2a18610aa9348f",
+   "type": "product",
+   "type_label": "产品发布",
+   "region": "cn",
+   "region_label": "中国"
+  },
+  {
+   "title": "SpaceX AI据悉在Grok Imagine视频团队裁员60人",
+   "title_cn": "",
+   "link": "https://www.jiemian.com/article/15332481.html",
+   "source_name": "界面新闻",
+   "source_kind": "市场化媒体",
+   "id": "9ab0f32a3ab48f9e",
+   "type": "business",
+   "type_label": "商业资本",
+   "region": "us",
+   "region_label": "美国"
+  },
+  {
+   "title": "【子午播报】2026年11月13日",
+   "title_cn": "",
+   "link": "https://news.un.org/feed/view/zh/story/2026/11/1143191",
+   "source_name": "联合国新闻·中文",
+   "source_kind": "公共媒体",
+   "id": "e09fa4238d39587d",
+   "type": "other",
+   "type_label": "其他",
+   "region": "global",
+   "region_label": "全球"
+  }
+ ],
+ "challenge": {
+  "question": "同一会议报道取舍有何不同",
+  "a": "详列使馆临时代办致辞、河南江西两省推介及八家企业名称",
+  "b": "仅举飞利浦等三家企业，未提致辞与省级推介，署记者电头",
+  "diff": "A写使馆致辞与两省推介，B无；B表述为「欧中」",
+  "mode": "llm",
+  "pair": [
+   {
+    "id": "30072182077a59ef",
+    "source_id": "jiemian",
+    "source_name": "界面新闻",
+    "source_kind": "市场化媒体",
+    "title": "“投资中国”比利时、荷兰、卢森堡企业圆桌会在布鲁塞尔举行",
+    "link": "https://www.jiemian.com/article/15332326.html",
+    "published": "2026-11-13T20:58:06+08:00",
+    "image_url": "https:https://img.jiemian.com/101/original/20220307/164664251748738900_a580x330.png",
+    "type": "business",
+    "region": "eu",
+    "topic": "投资中国比荷卢圆桌会",
+    "type_label": "商业资本",
+    "region_label": "欧洲"
+   },
+   {
+    "id": "7cce6c441e811373",
+    "source_id": "chinanews_world",
+    "source_name": "中国新闻网·国际",
+    "source_kind": "通讯社",
+    "title": "“投资中国”比荷卢企业圆桌会在布鲁塞尔举行",
+    "link": "https://www.chinanews.com.cn/gj/2026/11-13/10731866.shtml",
+    "published": "2026-11-13T23:18:52+08:00",
+    "image_url": null,
+    "type": "business",
+    "region": "eu",
+    "topic": "投资中国比荷卢圆桌会",
+    "type_label": "商业资本",
+    "region_label": "欧洲"
+   }
+  ],
+  "kind": "同一事件"
+ },
+ "counts": {
+  "ai": 7,
+  "world": 4,
+  "know": 3,
+  "other": 2
+ },
+ "report": {
+  "mode": "llm",
+  "overview": "本期AI动态密集：英伟达发布自动驾驶模型Alpamayo 2 Edge，谷歌发布Gemini 4 Hydrogen及两款TPU芯片，Anthropic启动IPO路演。国内问界新M8上市、中金与蚂蚁签约合作；国际上俄美欧就乌克兰谈判参与问题各有表态，美国FAA停飞全国航班。",
+  "signals": [
+   "大模型与芯片密集发布，谷歌同日推出新模型与两款TPU。",
+   "AI资本动作活跃，Anthropic启动IPO、SpaceX AI团队裁员。",
+   "车企与金融业落地AI，华为发新车、中金联手蚂蚁。"
+  ],
+  "groups": [
+   {
+    "key": "ai",
+    "label": "AI 发展",
+    "n": 7
+   },
+   {
+    "key": "world",
+    "label": "国际局势",
+    "n": 4
+   },
+   {
+    "key": "know",
+    "label": "不为人知的知识",
+    "n": 3
+   }
+  ],
+  "types": [
+   {
+    "key": "business",
+    "label": "商业资本",
+    "n": 5
+   },
+   {
+    "key": "product",
+    "label": "产品发布",
+    "n": 4
+   },
+   {
+    "key": "world",
+    "label": "国际关系",
+    "n": 3
+   },
+   {
+    "key": "other",
+    "label": "其他",
+    "n": 2
+   },
+   {
+    "key": "security",
+    "label": "安全事件",
+    "n": 1
+   },
+   {
+    "key": "industry",
+    "label": "行业观察",
+    "n": 1
+   }
+  ],
+  "regions": [
+   {
+    "key": "us",
+    "label": "美国",
+    "n": 6
+   },
+   {
+    "key": "cn",
+    "label": "中国",
+    "n": 4
+   },
+   {
+    "key": "global",
+    "label": "全球",
+    "n": 4
+   },
+   {
+    "key": "eu",
+    "label": "欧洲",
+    "n": 2
+   }
+  ],
+  "confirmed": [
+   {
+    "title": "“投资中国”比利时、荷兰、卢森堡企业圆桌会在布鲁塞尔举行",
+    "n": 2
+   }
+  ],
+  "confirmed_n": 1,
+  "source_kinds": [
+   {
+    "kind": "市场化媒体",
+    "n": 6
+   },
+   {
+    "kind": "垂直媒体",
+    "n": 5
+   },
+   {
+    "kind": "通讯社",
+    "n": 3
+   },
+   {
+    "kind": "社区",
+    "n": 1
+   },
+   {
+    "kind": "公共媒体",
+    "n": 1
+   }
+  ],
+  "note": "数字由程序统计；类型/地区标签来自模型或关键词规则；「归纳判断」是编辑视角的概括，不是事实，每条都附原文链接可核对。"
+ },
+ "stats": {
+  "scanned": 390,
+  "selected": 16,
+  "raw": 2920,
+  "clusters": 376,
+  "dedup": 389,
+  "sources_ok": 26,
+  "sources_total": 26,
+  "lookback_hours": 48,
+  "llm_mode": "llm",
+  "model": "deepseek-flash ×13",
+  "llm_calls": 13,
+  "cost": 0.0439,
+  "generated_at": "2026-11-14 06:23",
+  "errors": []
+ },
+ "archives": [
+  {
+   "date": "2026-11-13",
+   "weekday": "周五"
+  },
+  {
+   "date": "2026-11-12",
+   "weekday": "周四"
+  },
+  {
+   "date": "2026-11-11",
+   "weekday": "周三"
+  },
+  {
+   "date": "2026-11-10",
+   "weekday": "周二"
+  },
+  {
+   "date": "2026-11-09",
+   "weekday": "周一"
+  },
+  {
+   "date": "2026-11-08",
+   "weekday": "周日"
+  },
+  {
+   "date": "2026-11-07",
+   "weekday": "周六"
+  },
+  {
+   "date": "2026-11-06",
+   "weekday": "周五"
+  },
+  {
+   "date": "2026-11-05",
+   "weekday": "周四"
+  },
+  {
+   "date": "2026-11-04",
+   "weekday": "周三"
+  },
+  {
+   "date": "2026-11-03",
+   "weekday": "周二"
+  },
+  {
+   "date": "2026-11-02",
+   "weekday": "周一"
+  }
+ ]
+}

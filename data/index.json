@@ -1,6 +1,35 @@
 {
- "updated": "2026-11-12 22:35",
+ "updated": "2026-11-13 22:23",
  "issues": [
+  {
+   "date": "2026-11-14",
+   "weekday": "周六",
+   "issue_no": 20,
+   "one_liner": "今天值得看：英伟达博客发声：她不一样，她懂显卡 (…；刚刚，Gemini 4 新模型叒来了…",
+   "selected": 16,
+   "sources_ok": 26,
+   "groups": {
+    "ai": 7,
+    "world": 4,
+    "know": 3,
+    "other": 2
+   },
+   "types": {
+    "business": 5,
+    "product": 4,
+    "world": 3,
+    "other": 2,
+    "security": 1,
+    "industry": 1
+   },
+   "regions": {
+    "us": 6,
+    "cn": 4,
+    "global": 4,
+    "eu": 2
+   },
+   "head": "本期AI动态密集：英伟达发布自动驾驶模型Alpamayo 2 Edge，谷歌发布Gemini 4 Hydrogen及两款TPU芯片，Anth"
+  },
   {
    "date": "2026-11-13",
    "weekday": "周五",
@@ -576,20 +605,25 @@
   }
  ],
  "aggregate": {
-  "issues": 19,
-  "items": 304,
+  "issues": 20,
+  "items": 320,
   "first": "2026-10-26",
-  "last": "2026-11-13",
+  "last": "2026-11-14",
   "types": [
    {
     "key": "world",
     "label": "国际关系",
-    "n": 81
+    "n": 84
    },
    {
     "key": "product",
     "label": "产品发布",
-    "n": 60
+    "n": 64
+   },
+   {
+    "key": "business",
+    "label": "商业资本",
+    "n": 34
    },
    {
     "key": "tech",
@@ -597,19 +631,14 @@
     "n": 32
    },
    {
-    "key": "business",
-    "label": "商业资本",
-    "n": 29
-   },
-   {
     "key": "other",
     "label": "其他",
-    "n": 28
+    "n": 30
    },
    {
     "key": "industry",
     "label": "行业观察",
-    "n": 22
+    "n": 23
    },
    {
     "key": "research",
@@ -619,7 +648,7 @@
    {
     "key": "security",
     "label": "安全事件",
-    "n": 13
+    "n": 14
    },
    {
     "key": "policy",
@@ -636,17 +665,17 @@
    {
     "key": "cn",
     "label": "中国",
-    "n": 88
+    "n": 92
    },
    {
     "key": "us",
     "label": "美国",
-    "n": 77
+    "n": 83
    },
    {
     "key": "global",
     "label": "全球",
-    "n": 64
+    "n": 68
    },
    {
     "key": "me",
@@ -656,7 +685,7 @@
    {
     "key": "eu",
     "label": "欧洲",
-    "n": 26
+    "n": 28
    },
    {
     "key": "asia",
