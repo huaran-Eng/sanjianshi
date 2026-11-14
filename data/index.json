@@ -1,6 +1,38 @@
 {
- "updated": "2026-11-13 22:23",
+ "updated": "2026-11-14 21:06",
  "issues": [
+  {
+   "date": "2026-11-15",
+   "weekday": "周日",
+   "issue_no": 21,
+   "one_liner": "联合国称海湾局势持续紧张，对国际和平与安全构成严重风险",
+   "selected": 16,
+   "sources_ok": 26,
+   "groups": {
+    "ai": 6,
+    "world": 7,
+    "know": 3
+   },
+   "types": {
+    "world": 4,
+    "society": 3,
+    "business": 2,
+    "product": 2,
+    "other": 2,
+    "research": 1,
+    "industry": 1,
+    "tech": 1
+   },
+   "regions": {
+    "cn": 5,
+    "us": 3,
+    "me": 3,
+    "asia": 2,
+    "global": 2,
+    "eu": 1
+   },
+   "head": "本期AI动态密集：谷歌发布Gemini 4 Hydrogen，英伟达推出端到端自动驾驶模型Alpamayo 2 Edge，百度词元所发布首日"
+  },
   {
    "date": "2026-11-14",
    "weekday": "周六",
@@ -605,45 +637,45 @@
   }
  ],
  "aggregate": {
-  "issues": 20,
-  "items": 320,
+  "issues": 21,
+  "items": 336,
   "first": "2026-10-26",
-  "last": "2026-11-14",
+  "last": "2026-11-15",
   "types": [
    {
     "key": "world",
     "label": "国际关系",
-    "n": 84
+    "n": 88
    },
    {
     "key": "product",
     "label": "产品发布",
-    "n": 64
+    "n": 66
    },
    {
     "key": "business",
     "label": "商业资本",
-    "n": 34
+    "n": 36
    },
    {
     "key": "tech",
     "label": "技术进展",
-    "n": 32
+    "n": 33
    },
    {
     "key": "other",
     "label": "其他",
-    "n": 30
+    "n": 32
    },
    {
     "key": "industry",
     "label": "行业观察",
-    "n": 23
+    "n": 24
    },
    {
     "key": "research",
     "label": "研究进展",
-    "n": 21
+    "n": 22
    },
    {
     "key": "security",
@@ -651,46 +683,46 @@
     "n": 14
    },
    {
+    "key": "society",
+    "label": "社会民生",
+    "n": 11
+   },
+   {
     "key": "policy",
     "label": "政策监管",
     "n": 10
-   },
-   {
-    "key": "society",
-    "label": "社会民生",
-    "n": 8
    }
   ],
   "regions": [
    {
     "key": "cn",
     "label": "中国",
-    "n": 92
+    "n": 97
    },
    {
     "key": "us",
     "label": "美国",
-    "n": 83
+    "n": 86
    },
    {
     "key": "global",
     "label": "全球",
-    "n": 68
+    "n": 70
    },
    {
     "key": "me",
     "label": "中东",
-    "n": 37
+    "n": 40
    },
    {
     "key": "eu",
     "label": "欧洲",
-    "n": 28
+    "n": 29
    },
    {
     "key": "asia",
     "label": "亚太",
-    "n": 12
+    "n": 14
    }
   ]
  }

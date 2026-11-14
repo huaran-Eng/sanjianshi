@@ -1,0 +1,543 @@
+{
+ "date": "2026-11-15",
+ "date_cn": "11 月 15 日",
+ "weekday": "周日",
+ "issue_no": 21,
+ "one_liner": "联合国称海湾局势持续紧张，对国际和平与安全构成严重风险",
+ "lede": "扫描 348 条，从 26/26 个可用来源里留下 16 条：国际局势 7 条 · AI 发展 6 条 · 不为人知的知识 3 条。",
+ "cover_image": "assets/img/8c7909de1d6cbc12.jpg",
+ "headline": [
+  {
+   "id": "8c7909de1d6cbc12",
+   "source_id": "leiphone",
+   "source_name": "雷锋网",
+   "source_kind": "垂直媒体",
+   "title": "英伟达博客发声：她不一样，她懂显卡 ( bushi )，她懂端到端！",
+   "link": "https://www.leiphone.com/category/ai/1jG5k34DSlHSSJE9.html",
+   "published": "2026-11-13T15:49:00+08:00",
+   "image_url": "https://static.leiphone.com/uploads/new/images/20261113/6af6c04e33699.jpg?imageMogr2/quality/90",
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "img": "assets/img/8c7909de1d6cbc12.jpg",
+   "summary": "英伟达11月10日发布端到端自动驾驶模型 Alpamayo 2 Edge，VLM 骨干约 2.45B、动作专家约 0.2B，跑在车规级芯片 DRIVE AGX Thor 上。该模型被要求生成 Chain-of-Causation 因果链推理，并引入 Adaptive Reasoning 与特殊标记 <NOMINAL>，在常规驾驶状态下减少推理 Token。原文称其端到端输出闭环表现提升 48.9%，训练使用了约 115,000 小时多摄像头驾驶视频和 370 万条 CoC 推理标注。",
+   "why": "这条直接对应你关注的 AI 发展方向，讲的是车载端到端模型如何在算力受限下控制推理开销，属于技术方案而非产品宣传。",
+   "tags": [
+    "英伟达",
+    "自动驾驶",
+    "端到端模型"
+   ],
+   "summary_mode": "llm",
+   "type": "product",
+   "region": "us",
+   "topic": "英伟达发布自动驾驶模型",
+   "type_label": "产品发布",
+   "region_label": "美国"
+  },
+  {
+   "id": "8ada2b4c2278164d",
+   "source_id": "ifanr",
+   "source_name": "爱范儿",
+   "source_kind": "垂直媒体",
+   "title": "刚刚，Gemini 4 新模型叒来了，终于人人可用",
+   "link": "https://www.ifanr.com/1689267?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "published": "2026-11-13T07:11:11+08:00",
+   "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1794524212067-21.jpg",
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "img": "assets/img/8ada2b4c2278164d.jpg",
+   "summary": "谷歌发布新模型 Gemini 4 Hydrogen，主打更快的响应速度、更低的使用成本和更高的 AI Agent 执行能力。据 Artificial Analysis 评测，该模型在默认 High 档位得 51 分，超过 Gemini 4 Argon 的 50 分，开启 xhigh 档位后升至 54 分。其 API 定价为每百万输入 Token 1.5 美元、每百万输出 Token 7.5 美元，并接入 Gemini App、Google Search、Google AI Studio、Antigravity 等平台，免费用户也可体验。",
+   "why": "这条消息与读者关注的 AI 发展直接相关，给出了新模型的评测分数、定价和上线渠道等具体信息。",
+   "tags": [
+    "AI",
+    "谷歌",
+    "模型发布"
+   ],
+   "summary_mode": "llm",
+   "type": "product",
+   "region": "us",
+   "topic": "谷歌发布Gemini 4新模型",
+   "type_label": "产品发布",
+   "region_label": "美国"
+  },
+  {
+   "id": "cf23de79da58b08a",
+   "source_id": "un_news_zh",
+   "source_name": "联合国新闻·中文",
+   "source_kind": "公共媒体",
+   "title": "联合国：海湾局势持续紧张对国际和平与安全构成严重风险",
+   "link": "https://news.un.org/feed/view/zh/story/2026/11/1143197",
+   "published": "2026-11-13T20:00:00+08:00",
+   "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/03-01-2024_UN_SC_ASG.jpg/image560x340cropped.jpg",
+   "source_count": 1,
+   "pr": 0,
+   "group": "world",
+   "img": "assets/img/cf23de79da58b08a.jpg",
+   "summary": "联合国负责政治事务的助理秘书长希阿里周五在安理会通报中东局势时表示，霍尔木兹海峡和曼德海峡及其周边地区局势持续紧张。他表示，这一局势对国际和平与安全、地区稳定和全球经济构成严重风险。他呼吁各方立即停止袭击民用船舶，恢复航行自由，通过外交途径寻求和平解决方案。",
+   "why": "属于读者关注的国际局势议题，涉及联合国安理会对海湾航运安全的公开表态。",
+   "tags": [
+    "国际局势",
+    "联合国",
+    "海湾航运"
+   ],
+   "summary_mode": "llm",
+   "type": "world",
+   "region": "me",
+   "topic": "联合国警告海湾局势紧张",
+   "type_label": "国际关系",
+   "region_label": "中东"
+  }
+ ],
+ "featured": [
+  {
+   "id": "448d8fbdadf4425c",
+   "source_id": "ifanr",
+   "source_name": "爱范儿",
+   "source_kind": "垂直媒体",
+   "title": "AI 时代，公司的「新厂房」长什么样？",
+   "link": "https://www.ifanr.com/1689182?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "published": "2026-11-13T14:34:19+08:00",
+   "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1794541950807-1.jpg",
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "img": "assets/img/448d8fbdadf4425c.jpg",
+   "summary": "李彦宏在百度世界大会上表示，AI 没有产生预期的经济效益，是因为企业只更换了电机，却还没有重新设计工厂。他时隔十年再次作出预判：AI 的下一幕是智能组织。他提出三个原则：打破岗位边界，释放组织活力；沉淀隐性知识，构建组织智能；设计流程闭环，推动组织进化。",
+   "why": "这条讲的是 AI 如何改变企业组织方式，属于 AI 发展趋势的内容，与读者关注的方向相关。",
+   "tags": [
+    "AI",
+    "组织管理",
+    "百度"
+   ],
+   "summary_mode": "llm",
+   "type": "industry",
+   "region": "cn",
+   "topic": "李彦宏谈AI与智能组织",
+   "type_label": "行业观察",
+   "region_label": "中国"
+  },
+  {
+   "id": "5f85fb1d95c827a3",
+   "source_id": "jiemian",
+   "source_name": "界面新闻",
+   "source_kind": "市场化媒体",
+   "title": "17国强烈谴责以色列空袭加沙医院",
+   "link": "https://www.jiemian.com/article/15333676.html",
+   "published": "2026-11-14T20:48:08+08:00",
+   "image_url": "https:https://img.jiemian.com/101/original/20220307/164664253426029700_a580x330.png",
+   "source_count": 1,
+   "pr": 0,
+   "group": "world",
+   "summary": "巴基斯坦外交部11月14日发布声明称，17国外长以最强烈措辞谴责以色列对加沙地带汗尤尼斯纳赛尔医疗中心发动的空袭。声明称此次袭击造成患者和医护人员伤亡，违反国际人道主义法关于医疗设施和医护人员应受特殊保护的规定。各国外长还谴责以色列持续袭击巴勒斯坦平民，包括打击收容流离失所者的帐篷及其他避难场所，并称这些袭击破坏了停火协议以及恢复加沙安全与稳定的努力。",
+   "why": "涉及国际局势与停火协议走向，符合读者对国际动态的关注。",
+   "tags": [
+    "国际局势",
+    "加沙",
+    "停火协议"
+   ],
+   "summary_mode": "llm",
+   "type": "world",
+   "region": "me",
+   "topic": "17国谴责以军空袭医院",
+   "type_label": "国际关系",
+   "region_label": "中东"
+  },
+  {
+   "id": "343c51bca5607c07",
+   "source_id": "sspai",
+   "source_name": "少数派",
+   "source_kind": "社区",
+   "title": "研究生如何用 AI 辅助完成一篇综述：我的科研写作工具与实践经验",
+   "link": "https://sspai.com/post/118153",
+   "published": "2026-11-13T15:00:00+08:00",
+   "image_url": "https://rssfile.sspai.com/2026/11/01/ca6a13cafa18713a90a7a237dffd5ed0.jpg?imageMogr2/auto-orient/ignore-error/1",
+   "source_count": 1,
+   "pr": 0,
+   "group": "know",
+   "img": "assets/img/343c51bca5607c07.jpg",
+   "summary": "一位食品领域研究生以自己已被《食品科学》录用的综述为例，介绍用 Gemini 选题、Zotero 管理文献、Qwen 梳理章节、ChatGPT 获取构图参考、Keynote 作图、WorkBuddy 检查格式的写作流程。作者强调选题要高度聚焦，文献应按经典、代表性、前沿、争议四类分级管理。文中还给出向 AI 提问的提示词模板，并要求 AI 不得编造论文、作者、期刊或实验数值。",
+   "why": "这位读者关注 AI 发展，本文提供了一套可复用的 AI 辅助科研写作方法与提示词模板，属于实用的方法论。",
+   "tags": [
+    "AI工具",
+    "科研写作",
+    "方法论"
+   ],
+   "summary_mode": "llm",
+   "type": "society",
+   "region": "cn",
+   "topic": "研究生用AI写综述经验",
+   "type_label": "社会民生",
+   "region_label": "中国"
+  },
+  {
+   "id": "526715eaf5074938",
+   "source_id": "leiphone",
+   "source_name": "雷锋网",
+   "source_kind": "垂直媒体",
+   "title": "中金公司与蚂蚁集团达成战略合作 共探AI赋能财富管理",
+   "link": "https://www.leiphone.com/category/industrynews/U7WtbV9kyb90UuZ0.html",
+   "published": "2026-11-13T17:05:00+08:00",
+   "image_url": "https://static.leiphone.com/uploads/new/images/20261113/6af6d2c96633c.jpg?imageMogr2/quality/90",
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "img": "assets/img/526715eaf5074938.jpg",
+   "summary": "11月13日，中金公司与蚂蚁集团签署战略合作协议。双方将围绕金融大模型技术创新、AI赋能财富管理、客户全生命周期服务等领域开展合作。根据协议，双方重点围绕AI赋能财富管理人机协同、全域客户价值全周期经营体系建设、智能技术和模型合作三个方向开展合作。",
+   "why": "这条属于AI在金融行业的落地动向，涉及大模型与智能体在投研、财富管理中的实际应用方向，适合关注AI发展的读者。",
+   "tags": [
+    "AI+金融",
+    "财富管理",
+    "战略合作"
+   ],
+   "summary_mode": "llm",
+   "type": "business",
+   "region": "cn",
+   "topic": "中金与蚂蚁达成AI合作",
+   "type_label": "商业资本",
+   "region_label": "中国"
+  },
+  {
+   "id": "54772c0c97070ffe",
+   "source_id": "chinanews_world",
+   "source_name": "中国新闻网·国际",
+   "source_kind": "通讯社",
+   "title": "科斯塔：欧洲五国及欧盟机构将参与下一轮乌克兰问题谈判",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-14/10731873.shtml",
+   "published": "2026-11-14T06:32:49+08:00",
+   "image_url": null,
+   "source_count": 1,
+   "pr": 0,
+   "group": "world",
+   "summary": "当地时间11月13日，欧盟领导人非正式会议在爱尔兰首都都柏林举行。欧洲理事会主席科斯塔在会后表示，欧盟各成员国领导人当天一致同意，德国、法国、意大利、波兰、英国和欧盟各机构将代表欧洲参与乌克兰问题谈判。欧盟委员会主席冯德莱恩表示，欧洲参与谈判既是为了支持乌克兰，也是为了维护欧洲自身利益，并称乌克兰需要获得可靠且具有法律约束力的安全保障，同时应制定战后重建和经济发展方案。",
+   "why": "属于你关注的国际局势，涉及欧洲主要国家与欧盟机构参与乌克兰问题谈判的安排。",
+   "tags": [
+    "国际局势",
+    "乌克兰",
+    "欧盟"
+   ],
+   "summary_mode": "llm",
+   "type": "world",
+   "region": "eu",
+   "topic": "欧洲多国参与乌克兰谈判",
+   "type_label": "国际关系",
+   "region_label": "欧洲"
+  }
+ ],
+ "quick": [
+  {
+   "title": "怀旧手记｜索尼 CLIE：千禧年的高端 Palm OS PDA",
+   "title_cn": "",
+   "link": "https://sspai.com/post/118276",
+   "source_name": "少数派",
+   "source_kind": "社区",
+   "id": "216c68ddc038d9f1",
+   "type": "other",
+   "type_label": "其他",
+   "region": "asia",
+   "region_label": "亚太"
+  },
+  {
+   "title": "「史上最严」湿实验预测基准发布！推理拉满、算力翻5倍也白搭",
+   "title_cn": "",
+   "link": "https://www.qbitai.com/2026/11/510232.html",
+   "source_name": "量子位",
+   "source_kind": "垂直媒体",
+   "id": "fc5f912e23ed93fa",
+   "type": "research",
+   "type_label": "研究进展",
+   "region": "global",
+   "region_label": "全球"
+  },
+  {
+   "title": "【世界进行时】2026年11月13日",
+   "title_cn": "",
+   "link": "https://news.un.org/feed/view/zh/story/2026/11/1143201",
+   "source_name": "联合国新闻·中文",
+   "source_kind": "公共媒体",
+   "id": "d493841dce82bfc1",
+   "type": "world",
+   "type_label": "国际关系",
+   "region": "global",
+   "region_label": "全球"
+  },
+  {
+   "title": "首位外籍航天员将进入中国空间站！来自巴基斯坦，先学会了说中文",
+   "title_cn": "",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-14/10732034.shtml",
+   "source_name": "中国新闻网·国际",
+   "source_kind": "通讯社",
+   "id": "0a8a62471b47d2d6",
+   "type": "tech",
+   "type_label": "技术进展",
+   "region": "cn",
+   "region_label": "中国"
+  },
+  {
+   "title": "百度词元所发布首日：供应商暴增超100家，客户新增超1000家",
+   "title_cn": "",
+   "link": "https://www.leiphone.com/category/industrynews/cqPXhF38rM4VcVa7.html",
+   "source_name": "雷锋网",
+   "source_kind": "垂直媒体",
+   "id": "7ee1e0e02e229947",
+   "type": "business",
+   "type_label": "商业资本",
+   "region": "cn",
+   "region_label": "中国"
+  },
+  {
+   "title": "美国精英阶层并非学术分歧，而是政治博弈与利益选择",
+   "title_cn": "",
+   "link": "https://www.tmtpost.com/8205430.html",
+   "source_name": "钛媒体",
+   "source_kind": "市场化媒体",
+   "id": "8aba6b1d13ef2f96",
+   "type": "other",
+   "type_label": "其他",
+   "region": "us",
+   "region_label": "美国"
+  }
+ ],
+ "challenge": {
+  "question": "两段报道是否同一事件？",
+  "a": "德里及印度北部雾霾，联合国环境规划署称空气污染是影响公众健康和经济发展的危机。",
+  "b": "也门塔伊兹省被围困，粮食计划署等警告食物短缺、疾病传播，援助无法触达60多万人。",
+  "diff": "原文未说明；两段分别讲印度雾霾与也门人道危机，并非同一事件。",
+  "mode": "llm",
+  "pair": [
+   {
+    "id": "7287a3847818d265",
+    "source_id": "un_news_zh",
+    "source_name": "联合国新闻·中文",
+    "source_kind": "公共媒体",
+    "title": "联合国环境署：空气污染不仅是环境问题，更是健康与经济危机",
+    "link": "https://news.un.org/feed/view/zh/story/2026/11/1143198",
+    "published": "2026-11-13T20:00:00+08:00",
+    "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/13-11-26_UN_India_Delhi_Smog-3.jpg/image560x340cropped.jpg",
+    "source_count": 1,
+    "pr": 0,
+    "group": "world",
+    "type": "society",
+    "region": "asia",
+    "topic": "环境署谈空气污染危机",
+    "type_label": "社会民生",
+    "region_label": "亚太"
+   },
+   {
+    "id": "30fccd7e87cefd4d",
+    "source_id": "chinanews_world",
+    "source_name": "中国新闻网·国际",
+    "source_kind": "通讯社",
+    "title": "联合国警告：也门塔伊兹省面临人道主义危机",
+    "link": "https://www.chinanews.com.cn/gj/2026/11-14/10732148.shtml",
+    "published": "2026-11-14T20:32:37+08:00",
+    "image_url": null,
+    "source_count": 1,
+    "pr": 0,
+    "group": "world",
+    "type": "society",
+    "region": "me",
+    "topic": "也门塔伊兹人道危机",
+    "type_label": "社会民生",
+    "region_label": "中东"
+   }
+  ],
+  "kind": "两个视角"
+ },
+ "counts": {
+  "ai": 6,
+  "world": 7,
+  "know": 3
+ },
+ "report": {
+  "mode": "llm",
+  "overview": "本期AI动态密集：谷歌发布Gemini 4 Hydrogen，英伟达推出端到端自动驾驶模型Alpamayo 2 Edge，百度词元所发布首日新增超100家供应商、超1000家客户接入。联合国就海湾局势、也门人道危机、空气污染等发声；欧洲五国及欧盟机构将参与下一轮乌克兰问题谈判。",
+  "signals": [
+   "谷歌、英伟达、百度集中发布模型与新平台，AI产品与生态同步推进。",
+   "联合国系统多条发声，聚焦中东局势、人道危机与环境健康。",
+   "国际谈判与航天合作条目并存，欧洲、中东为主要涉及地区。"
+  ],
+  "groups": [
+   {
+    "key": "world",
+    "label": "国际局势",
+    "n": 7
+   },
+   {
+    "key": "ai",
+    "label": "AI 发展",
+    "n": 6
+   },
+   {
+    "key": "know",
+    "label": "不为人知的知识",
+    "n": 3
+   }
+  ],
+  "types": [
+   {
+    "key": "world",
+    "label": "国际关系",
+    "n": 4
+   },
+   {
+    "key": "society",
+    "label": "社会民生",
+    "n": 3
+   },
+   {
+    "key": "business",
+    "label": "商业资本",
+    "n": 2
+   },
+   {
+    "key": "product",
+    "label": "产品发布",
+    "n": 2
+   },
+   {
+    "key": "other",
+    "label": "其他",
+    "n": 2
+   },
+   {
+    "key": "research",
+    "label": "研究进展",
+    "n": 1
+   },
+   {
+    "key": "industry",
+    "label": "行业观察",
+    "n": 1
+   },
+   {
+    "key": "tech",
+    "label": "技术进展",
+    "n": 1
+   }
+  ],
+  "regions": [
+   {
+    "key": "cn",
+    "label": "中国",
+    "n": 5
+   },
+   {
+    "key": "us",
+    "label": "美国",
+    "n": 3
+   },
+   {
+    "key": "me",
+    "label": "中东",
+    "n": 3
+   },
+   {
+    "key": "asia",
+    "label": "亚太",
+    "n": 2
+   },
+   {
+    "key": "global",
+    "label": "全球",
+    "n": 2
+   },
+   {
+    "key": "eu",
+    "label": "欧洲",
+    "n": 1
+   }
+  ],
+  "confirmed": [],
+  "confirmed_n": 0,
+  "source_kinds": [
+   {
+    "kind": "垂直媒体",
+    "n": 6
+   },
+   {
+    "kind": "公共媒体",
+    "n": 3
+   },
+   {
+    "kind": "通讯社",
+    "n": 3
+   },
+   {
+    "kind": "市场化媒体",
+    "n": 2
+   },
+   {
+    "kind": "社区",
+    "n": 2
+   }
+  ],
+  "note": "数字由程序统计；类型/地区标签来自模型或关键词规则；「归纳判断」是编辑视角的概括，不是事实，每条都附原文链接可核对。"
+ },
+ "stats": {
+  "scanned": 348,
+  "selected": 16,
+  "raw": 2920,
+  "clusters": 332,
+  "dedup": 345,
+  "sources_ok": 26,
+  "sources_total": 26,
+  "lookback_hours": 48,
+  "llm_mode": "llm",
+  "model": "deepseek-flash ×12",
+  "llm_calls": 12,
+  "cost": 0.0411,
+  "generated_at": "2026-11-15 05:06",
+  "errors": []
+ },
+ "archives": [
+  {
+   "date": "2026-11-14",
+   "weekday": "周六"
+  },
+  {
+   "date": "2026-11-13",
+   "weekday": "周五"
+  },
+  {
+   "date": "2026-11-12",
+   "weekday": "周四"
+  },
+  {
+   "date": "2026-11-11",
+   "weekday": "周三"
+  },
+  {
+   "date": "2026-11-10",
+   "weekday": "周二"
+  },
+  {
+   "date": "2026-11-09",
+   "weekday": "周一"
+  },
+  {
+   "date": "2026-11-08",
+   "weekday": "周日"
+  },
+  {
+   "date": "2026-11-07",
+   "weekday": "周六"
+  },
+  {
+   "date": "2026-11-06",
+   "weekday": "周五"
+  },
+  {
+   "date": "2026-11-05",
+   "weekday": "周四"
+  },
+  {
+   "date": "2026-11-04",
+   "weekday": "周三"
+  },
+  {
+   "date": "2026-11-03",
+   "weekday": "周二"
+  }
+ ]
+}
