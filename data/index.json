@@ -1,6 +1,37 @@
 {
- "updated": "2026-11-14 21:06",
+ "updated": "2026-11-15 21:29",
  "issues": [
+  {
+   "date": "2026-11-16",
+   "weekday": "周一",
+   "issue_no": 22,
+   "one_liner": "今天值得看：算力狂飙而净利率跌破5%：为什么工业A…；开源盘古模型openPangu-2.1…",
+   "selected": 16,
+   "sources_ok": 26,
+   "groups": {
+    "ai": 10,
+    "world": 4,
+    "know": 2
+   },
+   "types": {
+    "tech": 6,
+    "other": 4,
+    "policy": 1,
+    "business": 1,
+    "product": 1,
+    "research": 1,
+    "world": 1,
+    "industry": 1
+   },
+   "regions": {
+    "global": 6,
+    "cn": 4,
+    "eu": 3,
+    "me": 2,
+    "us": 1
+   },
+   "head": "本期入选 16 条，扫描 280 条原始条目，26/26 个来源可用。按方向：国际局势 4 条、AI 发展 10 条、不为人知的知识 2 条"
+  },
   {
    "date": "2026-11-15",
    "weekday": "周日",
@@ -637,45 +668,45 @@
   }
  ],
  "aggregate": {
-  "issues": 21,
-  "items": 336,
+  "issues": 22,
+  "items": 352,
   "first": "2026-10-26",
-  "last": "2026-11-15",
+  "last": "2026-11-16",
   "types": [
    {
     "key": "world",
     "label": "国际关系",
-    "n": 88
+    "n": 89
    },
    {
     "key": "product",
     "label": "产品发布",
-    "n": 66
-   },
-   {
-    "key": "business",
-    "label": "商业资本",
-    "n": 36
+    "n": 67
    },
    {
     "key": "tech",
     "label": "技术进展",
-    "n": 33
+    "n": 39
+   },
+   {
+    "key": "business",
+    "label": "商业资本",
+    "n": 37
    },
    {
     "key": "other",
     "label": "其他",
-    "n": 32
+    "n": 36
    },
    {
     "key": "industry",
     "label": "行业观察",
-    "n": 24
+    "n": 25
    },
    {
     "key": "research",
     "label": "研究进展",
-    "n": 22
+    "n": 23
    },
    {
     "key": "security",
@@ -683,41 +714,41 @@
     "n": 14
    },
    {
-    "key": "society",
-    "label": "社会民生",
+    "key": "policy",
+    "label": "政策监管",
     "n": 11
    },
    {
-    "key": "policy",
-    "label": "政策监管",
-    "n": 10
+    "key": "society",
+    "label": "社会民生",
+    "n": 11
    }
   ],
   "regions": [
    {
     "key": "cn",
     "label": "中国",
-    "n": 97
+    "n": 101
    },
    {
     "key": "us",
     "label": "美国",
-    "n": 86
+    "n": 87
    },
    {
     "key": "global",
     "label": "全球",
-    "n": 70
+    "n": 76
    },
    {
     "key": "me",
     "label": "中东",
-    "n": 40
+    "n": 42
    },
    {
     "key": "eu",
     "label": "欧洲",
-    "n": 29
+    "n": 32
    },
    {
     "key": "asia",

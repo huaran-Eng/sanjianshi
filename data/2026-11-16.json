@@ -1,0 +1,526 @@
+{
+ "date": "2026-11-16",
+ "date_cn": "11 月 16 日",
+ "weekday": "周一",
+ "issue_no": 22,
+ "one_liner": "今天值得看：算力狂飙而净利率跌破5%：为什么工业A…；开源盘古模型openPangu-2.1…",
+ "lede": "扫描 280 条，从 26/26 个可用来源里留下 16 条：国际局势 4 条 · AI 发展 10 条 · 不为人知的知识 2 条。",
+ "cover_image": "assets/img/c8e2de59f6f69029.jpg",
+ "headline": [
+  {
+   "id": "c8e2de59f6f69029",
+   "source_id": "tmtpost",
+   "source_name": "钛媒体",
+   "source_kind": "市场化媒体",
+   "title": "算力狂飙而净利率跌破5%：为什么工业AI算不出实体企业的真利润？",
+   "link": "https://www.tmtpost.com/8205381.html",
+   "published": "2026-11-15T10:30:45+08:00",
+   "image_url": "https://images.tmtpost.com/uploads/images/2023/tkrss/235y46jytg3.png",
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "img": "assets/img/c8e2de59f6f69029.jpg",
+   "summary": "文章指出，实体制造企业营收增长、软件与数字化投入连年增加，但净利率普遍跌到4%—5%，投入资本回报率（ROIC）掉进3%—6%区间。作者认为，问题在于管理学与传统运筹学四十年来默认销售、财务、车间、采购四个目标之间是「零和博弈」，而它们实际是「KPI同源耦合」。文章称，单点AI优化会引发跨部门「矢量对消」，局部收益在合并利润表上相互抵消，净有效做功趋近于零。",
+   "why": "读者关注AI发展，这篇从制造业利润表角度讨论工业AI的价值评估方式，属于AI落地层面的观点文章。",
+   "tags": [
+    "工业AI",
+    "制造业",
+    "ROIC"
+   ],
+   "summary_mode": "llm",
+   "type": "tech",
+   "region": "global",
+   "topic": "算力狂飙而净利率跌破5%：为什么工业AI算不出实体企业的",
+   "type_label": "技术进展",
+   "region_label": "全球"
+  },
+  {
+   "id": "866e65d8bb3ee430",
+   "source_id": "jiemian",
+   "source_name": "界面新闻",
+   "source_kind": "市场化媒体",
+   "title": "开源盘古模型openPangu-2.1-Pro正式上线华为云",
+   "link": "https://www.jiemian.com/article/15334494.html",
+   "published": "2026-11-15T22:15:41+08:00",
+   "image_url": "https:https://img.jiemian.com/101/original/20220307/164664251748738900_a580x330.png",
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "summary": "据华为云消息，11月15日华为云MaaS模型即服务平台正式上线开源盘古模型openPangu-2.1-Pro。该模型围绕Agent开发、AI编码和推理优化三大方向进行能力升级，并在深度研究、鸿蒙系统操控、鸿蒙APP开发、昇腾算子生成及推理链路优化等场景实现增强。",
+   "why": "这条新闻讲的是国产开源大模型上线和它的能力升级方向，属于读者关注的AI发展话题。",
+   "tags": [
+    "AI模型",
+    "华为云",
+    "开源"
+   ],
+   "summary_mode": "llm",
+   "type": "tech",
+   "region": "cn",
+   "topic": "开源盘古模型openPangu-2.1-Pro正式上线华",
+   "type_label": "技术进展",
+   "region_label": "中国"
+  },
+  {
+   "id": "823d70298de91317",
+   "source_id": "aljazeera",
+   "source_name": "Al Jazeera",
+   "source_kind": "通讯社",
+   "title": "Palestinians reclaim Gaza’s shores with a swim for hope",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/palestinians-reclaim-gazas-shores-with-a-swim-for-hope?traffic_source=rss",
+   "published": "2026-11-16T04:50:15+08:00",
+   "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794775692.jpg?resize=1920%2C1080&quality=80",
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "img": "assets/img/823d70298de91317.jpg",
+   "summary": "加沙游泳联合会三年多来首次举办比赛，200多名巴勒斯坦人参加。在近乎每日的以色列袭击中，游泳者下海比赛，家属在岸边欢呼，获得短暂的喘息。",
+   "title_cn": "巴勒斯坦人以游泳重拾加沙海岸的希望",
+   "why": "这条属于国际局势中加沙日常处境的一个具体侧面，篇幅短、信息明确，适合快速了解当地现状。",
+   "tags": [
+    "加沙",
+    "体育",
+    "国际局势"
+   ],
+   "summary_mode": "llm",
+   "type": "tech",
+   "region": "me",
+   "topic": "Palestinians reclaim Gaza’s ",
+   "type_label": "技术进展",
+   "region_label": "中东"
+  }
+ ],
+ "featured": [
+  {
+   "id": "ff4af038ec6485a6",
+   "source_id": "tmtpost",
+   "source_name": "钛媒体",
+   "source_kind": "市场化媒体",
+   "title": "黄仁勋离职风波冷思考：中国AI自主化与海外依赖张力之辩",
+   "link": "https://www.tmtpost.com/8205600.html",
+   "published": "2026-11-15T10:50:20+08:00",
+   "image_url": "https://images.tmtpost.com/uploads/images/wx/2026/11/20261115031455664954.jpg",
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "img": "assets/img/ff4af038ec6485a6.jpg",
+   "summary": "钛媒体文章指出，黄仁勋离职风波不只涉及芯片转运和出口管制的调查，也反映出中国AI产业在国产算力从「可用」走向「好用」的过程中，短期竞争需求与长期自主化目标之间存在时间差。文章提到，美国出口管制主要针对先进芯片的物理流向；中国企业则可能通过网络远程调用海外数据中心的算力，而现行规则对这一模式尚未形成明确完整的监管机制。IDC报告显示，2026年上半年英伟达在中国数据中心AI芯片市场的份额降至34%，出货量约67.8万颗，华为份额达到28%。",
+   "why": "文章涉及中美芯片出口管制、国产算力替代与AI企业算力获取路径，属于读者关注的国际局势与AI发展交叉议题。",
+   "tags": [
+    "AI算力",
+    "出口管制",
+    "国产芯片"
+   ],
+   "summary_mode": "llm",
+   "type": "industry",
+   "region": "cn",
+   "topic": "黄仁勋离职风波冷思考：中国AI自主化与海外依赖张力之辩",
+   "type_label": "行业观察",
+   "region_label": "中国"
+  },
+  {
+   "id": "66bf82db4694a64a",
+   "source_id": "jiemian",
+   "source_name": "界面新闻",
+   "source_kind": "市场化媒体",
+   "title": "联合国等五机构就苏丹无人机袭击发表联合声明",
+   "link": "https://www.jiemian.com/article/15334456.html",
+   "published": "2026-11-15T21:20:27+08:00",
+   "image_url": "https:https://img.jiemian.com/101/original/20220307/164664253426029700_a580x330.png",
+   "source_count": 1,
+   "pr": 0,
+   "group": "world",
+   "summary": "联合国、非洲联盟、阿拉伯国家联盟、欧盟和东非政府间发展组织（伊加特）11月15日发表联合声明，强烈谴责苏丹境内持续升级的无人机袭击，呼吁冲突各方立即停止敌对行动、保护平民安全。声明称，袭击波及喀土穆州、青尼罗州、加达里夫州、杰济拉州、森纳尔、红海州以及科尔多凡和达尔富尔地区，造成大量平民伤亡，发电站、医疗机构等重要民用基础设施遭到破坏。声明重申苏丹武装冲突不存在军事解决方案，呼吁终止助长局势升级的外部支持，并追究违法者责任。",
+   "why": "涉及联合国等多方机构对苏丹冲突的联合表态，属于国际局势动向。",
+   "tags": [
+    "国际局势",
+    "苏丹冲突",
+    "联合国"
+   ],
+   "summary_mode": "llm",
+   "type": "world",
+   "region": "eu",
+   "topic": "联合国等五机构就苏丹无人机袭击发表联合声明",
+   "type_label": "国际关系",
+   "region_label": "欧洲"
+  },
+  {
+   "id": "216c68ddc038d9f1",
+   "source_id": "sspai",
+   "source_name": "少数派",
+   "source_kind": "社区",
+   "title": "怀旧手记｜索尼 CLIE：千禧年的高端 Palm OS PDA",
+   "link": "https://sspai.com/post/118276",
+   "published": "2026-11-14T15:40:21+08:00",
+   "image_url": "https://rssfile.sspai.com/2026/11/03/95e35ca962ed6d104679434785b27597.jpg?imageMogr2/auto-orient/ignore-error/1",
+   "source_count": 1,
+   "pr": 0,
+   "group": "know",
+   "img": "assets/img/216c68ddc038d9f1.jpg",
+   "summary": "怀旧手记｜索尼 CLIE：千禧年的高端 Palm OS PDA",
+   "why": "属于你关注的「不为人知的知识」。",
+   "tags": [],
+   "summary_mode": "extractive",
+   "type": "other",
+   "region": "global",
+   "topic": "怀旧手记｜索尼 CLIE：千禧年的高端 Palm OS ",
+   "type_label": "其他",
+   "region_label": "全球"
+  },
+  {
+   "id": "7b7b2f19dfbdd4e4",
+   "source_id": "tmtpost",
+   "source_name": "钛媒体",
+   "source_kind": "市场化媒体",
+   "title": "国产芯片融资潮，来势凶猛",
+   "link": "https://www.tmtpost.com/8205694.html",
+   "published": "2026-11-15T14:48:19+08:00",
+   "image_url": "https://images.tmtpost.com/uploads/images/2023/tkrss/2t43y546hjyhtg3.png",
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "img": "assets/img/7b7b2f19dfbdd4e4.jpg",
+   "summary": "10月31日至11月6日，国内集成电路领域披露融资约111亿元，占当周全部已披露融资金额的一半以上；投中研究院统计显示，今年三季度半导体领域VC/PE投资规模约1092亿元，同比增长91%。多家企业把新产品或新工艺的量产节点定在2027年前后，也有刚完成大额融资的企业要到2028年才计划推出首款芯片。",
+   "why": "这条讲芯片一级市场资金流向与量产时间表，属于AI算力和硬科技发展范畴，与读者对AI发展的关注相关，且不含明星八卦。",
+   "tags": [
+    "国产芯片",
+    "融资",
+    "算力"
+   ],
+   "summary_mode": "llm",
+   "type": "business",
+   "region": "cn",
+   "topic": "国产芯片融资潮，来势凶猛",
+   "type_label": "商业资本",
+   "region_label": "中国"
+  },
+  {
+   "id": "58518187a614e735",
+   "source_id": "jiemian",
+   "source_name": "界面新闻",
+   "source_kind": "市场化媒体",
+   "title": "伊朗称法国指其网攻制冷系统没依据",
+   "link": "https://www.jiemian.com/article/15334338.html",
+   "published": "2026-11-15T18:57:57+08:00",
+   "image_url": "https:https://img.jiemian.com/101/original/20220307/164664253426029700_a580x330.png",
+   "source_count": 1,
+   "pr": 0,
+   "group": "world",
+   "summary": "法国外交部11月9日发表声明，认定10月11日针对法国数百家超市制冷系统的网络攻击由隶属于伊朗伊斯兰革命卫队电子与网络中心的人员实施。伊朗外交部发言人巴加埃11月15日表示，针对伊朗的指控完全没有任何依据，并要求法国政府停止指控，称这一行为构成国际不法行为。",
+   "why": "涉及国家间的网络攻击指控与外交争端，属于国际局势议题。",
+   "tags": [
+    "国际局势",
+    "网络安全",
+    "伊朗法国"
+   ],
+   "summary_mode": "llm",
+   "type": "policy",
+   "region": "eu",
+   "topic": "伊朗称法国指其网攻制冷系统没依据",
+   "type_label": "政策监管",
+   "region_label": "欧洲"
+  }
+ ],
+ "quick": [
+  {
+   "title": "法国周末示威活动中超过400人被拘捕",
+   "title_cn": "",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-16/10732530.shtml",
+   "source_name": "中国新闻网·国际",
+   "source_kind": "通讯社",
+   "id": "41b36ae29683f03a",
+   "type": "other",
+   "type_label": "其他",
+   "region": "eu",
+   "region_label": "欧洲"
+  },
+  {
+   "title": "「史上最严」湿实验预测基准发布！推理拉满、算力翻5倍也白搭",
+   "title_cn": "",
+   "link": "https://www.qbitai.com/2026/11/510232.html",
+   "source_name": "量子位",
+   "source_kind": "垂直媒体",
+   "id": "fc5f912e23ed93fa",
+   "type": "research",
+   "type_label": "研究进展",
+   "region": "us",
+   "region_label": "美国"
+  },
+  {
+   "title": "伊朗通报4艘油轮触雷起火 联合国通报134起商船袭击事件",
+   "title_cn": "",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-14/10732056.shtml",
+   "source_name": "中国新闻网·国际",
+   "source_kind": "通讯社",
+   "id": "ed094cefee24ffa2",
+   "type": "other",
+   "type_label": "其他",
+   "region": "me",
+   "region_label": "中东"
+  },
+  {
+   "title": "百度词元所发布首日：供应商暴增超100家，客户新增超1000家",
+   "title_cn": "",
+   "link": "https://www.leiphone.com/category/industrynews/cqPXhF38rM4VcVa7.html",
+   "source_name": "雷锋网",
+   "source_kind": "垂直媒体",
+   "id": "7ee1e0e02e229947",
+   "type": "product",
+   "type_label": "产品发布",
+   "region": "cn",
+   "region_label": "中国"
+  },
+  {
+   "title": "Too Many Chips in One Basket?",
+   "title_cn": "芯片是否过于集中在一处？",
+   "link": "https://www.nytimes.com/2026/11/15/world/nvidia-jensen-huang-ai-chips.html",
+   "source_name": "NYT World",
+   "source_kind": "市场化媒体",
+   "id": "fcd7bbe7f456469f",
+   "type": "other",
+   "type_label": "其他",
+   "region": "global",
+   "region_label": "全球"
+  },
+  {
+   "title": "Who can force Israel to implement Gaza ceasefire deal?",
+   "title_cn": "谁能迫使以色列执行加沙停火协议？",
+   "link": "https://www.aljazeera.com/video/inside-story/2026/11/15/who-can-force-israel-to-implement-gaza-ceasefire-deal?traffic_source=rss",
+   "source_name": "Al Jazeera",
+   "source_kind": "通讯社",
+   "id": "37c899fd53f28b11",
+   "type": "tech",
+   "type_label": "技术进展",
+   "region": "global",
+   "region_label": "全球"
+  }
+ ],
+ "challenge": {
+  "question": "Vulcan rocket fails, des",
+  "a": "Science News Tech Vulcan rocket fails, destroying 40 Amazon Leo satellites ULA said an ‘anomaly’ led to its Vulcan vehicle failing to deliver its payload to orbit. ULA said an ‘anomaly’ led to its Vulcan vehicle failing ",
+  "b": "Click for next article Copy link Facebook X Reddit Pinterest Flipboard Email Share this article 1 Join the conversation Follow us Add us as a preferred source on Google Newsletter Subscribe to our newsletter United Launc",
+  "diff": "两家来源类型不同（垂直媒体 / 社区），原文表述不一致之处需要对照阅读。",
+  "mode": "extractive",
+  "pair": [
+   {
+    "id": "ad0271e10494e5a7",
+    "source_id": "verge",
+    "source_name": "The Verge",
+    "source_kind": "垂直媒体",
+    "title": "Vulcan rocket fails, destroying 40 Amazon Leo satellites",
+    "link": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
+    "published": "2026-11-16T05:05:02+08:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2304790934.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_count": 1,
+    "pr": 0,
+    "group": "ai",
+    "type": "tech",
+    "region": "global",
+    "topic": "Vulcan rocket fails, destroy",
+    "type_label": "技术进展",
+    "region_label": "全球"
+   },
+   {
+    "id": "04e9076c1c249955",
+    "source_id": "hn_front",
+    "source_name": "Hacker News 首页",
+    "source_kind": "社区",
+    "title": "Vulcan rocket fails during return-to-flight launch, 40 Amazon satellites lost",
+    "link": "https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch",
+    "published": "2026-11-16T04:37:28+08:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/XL5t5tMQrJym2bu9ujg5Um-2560-80.jpg",
+    "source_count": 1,
+    "pr": 0,
+    "group": "ai",
+    "type": "tech",
+    "region": "global",
+    "topic": "Vulcan rocket fails during r",
+    "type_label": "技术进展",
+    "region_label": "全球"
+   }
+  ],
+  "kind": "两个视角"
+ },
+ "counts": {
+  "ai": 10,
+  "world": 4,
+  "know": 2
+ },
+ "report": {
+  "mode": "code",
+  "overview": "本期入选 16 条，扫描 280 条原始条目，26/26 个来源可用。按方向：国际局势 4 条、AI 发展 10 条、不为人知的知识 2 条。按事件类型：技术进展 6 条、其他 4 条、政策监管 1 条等。按地区：全球 6 条、中国 4 条、欧洲 3 条等。本期没有多家媒体同时报道的条目，全部为单一来源。",
+  "signals": [],
+  "groups": [
+   {
+    "key": "ai",
+    "label": "AI 发展",
+    "n": 10
+   },
+   {
+    "key": "world",
+    "label": "国际局势",
+    "n": 4
+   },
+   {
+    "key": "know",
+    "label": "不为人知的知识",
+    "n": 2
+   }
+  ],
+  "types": [
+   {
+    "key": "tech",
+    "label": "技术进展",
+    "n": 6
+   },
+   {
+    "key": "other",
+    "label": "其他",
+    "n": 4
+   },
+   {
+    "key": "policy",
+    "label": "政策监管",
+    "n": 1
+   },
+   {
+    "key": "business",
+    "label": "商业资本",
+    "n": 1
+   },
+   {
+    "key": "product",
+    "label": "产品发布",
+    "n": 1
+   },
+   {
+    "key": "research",
+    "label": "研究进展",
+    "n": 1
+   },
+   {
+    "key": "world",
+    "label": "国际关系",
+    "n": 1
+   },
+   {
+    "key": "industry",
+    "label": "行业观察",
+    "n": 1
+   }
+  ],
+  "regions": [
+   {
+    "key": "global",
+    "label": "全球",
+    "n": 6
+   },
+   {
+    "key": "cn",
+    "label": "中国",
+    "n": 4
+   },
+   {
+    "key": "eu",
+    "label": "欧洲",
+    "n": 3
+   },
+   {
+    "key": "me",
+    "label": "中东",
+    "n": 2
+   },
+   {
+    "key": "us",
+    "label": "美国",
+    "n": 1
+   }
+  ],
+  "confirmed": [],
+  "confirmed_n": 0,
+  "source_kinds": [
+   {
+    "kind": "市场化媒体",
+    "n": 7
+   },
+   {
+    "kind": "通讯社",
+    "n": 4
+   },
+   {
+    "kind": "垂直媒体",
+    "n": 3
+   },
+   {
+    "kind": "社区",
+    "n": 2
+   }
+  ],
+  "note": "数字由程序统计；类型/地区标签来自模型或关键词规则；「归纳判断」是编辑视角的概括，不是事实，每条都附原文链接可核对。"
+ },
+ "stats": {
+  "scanned": 280,
+  "selected": 16,
+  "raw": 2913,
+  "clusters": 264,
+  "dedup": 274,
+  "sources_ok": 26,
+  "sources_total": 26,
+  "lookback_hours": 48,
+  "llm_mode": "llm",
+  "model": "deepseek-flash ×13",
+  "llm_calls": 13,
+  "cost": 0.0426,
+  "generated_at": "2026-11-16 05:29",
+  "errors": []
+ },
+ "archives": [
+  {
+   "date": "2026-11-15",
+   "weekday": "周日"
+  },
+  {
+   "date": "2026-11-14",
+   "weekday": "周六"
+  },
+  {
+   "date": "2026-11-13",
+   "weekday": "周五"
+  },
+  {
+   "date": "2026-11-12",
+   "weekday": "周四"
+  },
+  {
+   "date": "2026-11-11",
+   "weekday": "周三"
+  },
+  {
+   "date": "2026-11-10",
+   "weekday": "周二"
+  },
+  {
+   "date": "2026-11-09",
+   "weekday": "周一"
+  },
+  {
+   "date": "2026-11-08",
+   "weekday": "周日"
+  },
+  {
+   "date": "2026-11-07",
+   "weekday": "周六"
+  },
+  {
+   "date": "2026-11-06",
+   "weekday": "周五"
+  },
+  {
+   "date": "2026-11-05",
+   "weekday": "周四"
+  },
+  {
+   "date": "2026-11-04",
+   "weekday": "周三"
+  }
+ ]
+}
