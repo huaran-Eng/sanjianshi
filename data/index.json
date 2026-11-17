@@ -1,6 +1,38 @@
 {
- "updated": "2026-11-15 21:29",
+ "updated": "2026-11-17 00:39",
  "issues": [
+  {
+   "date": "2026-11-17",
+   "weekday": "周二",
+   "issue_no": 23,
+   "one_liner": "泽连斯基称欧洲谈判团队首次全阵容与乌美磋商",
+   "selected": 16,
+   "sources_ok": 26,
+   "groups": {
+    "world": 7,
+    "ai": 6,
+    "know": 3
+   },
+   "types": {
+    "product": 5,
+    "world": 3,
+    "business": 2,
+    "security": 2,
+    "policy": 1,
+    "society": 1,
+    "industry": 1,
+    "other": 1
+   },
+   "regions": {
+    "cn": 6,
+    "me": 3,
+    "us": 2,
+    "eu": 2,
+    "asia": 2,
+    "global": 1
+   },
+   "head": "国内华为云、阿里、腾讯、豆包等集中发布模型与产品；美法官撤销国土安全部限制国际学生停留期限新规，联合国通报叙利亚局势；霍尔木兹海峡以东24小"
+  },
   {
    "date": "2026-11-16",
    "weekday": "周一",
@@ -668,20 +700,25 @@
   }
  ],
  "aggregate": {
-  "issues": 22,
-  "items": 352,
+  "issues": 23,
+  "items": 368,
   "first": "2026-10-26",
-  "last": "2026-11-16",
+  "last": "2026-11-17",
   "types": [
    {
     "key": "world",
     "label": "国际关系",
-    "n": 89
+    "n": 92
    },
    {
     "key": "product",
     "label": "产品发布",
-    "n": 67
+    "n": 72
+   },
+   {
+    "key": "business",
+    "label": "商业资本",
+    "n": 39
    },
    {
     "key": "tech",
@@ -689,19 +726,14 @@
     "n": 39
    },
    {
-    "key": "business",
-    "label": "商业资本",
-    "n": 37
-   },
-   {
     "key": "other",
     "label": "其他",
-    "n": 36
+    "n": 37
    },
    {
     "key": "industry",
     "label": "行业观察",
-    "n": 25
+    "n": 26
    },
    {
     "key": "research",
@@ -711,49 +743,49 @@
    {
     "key": "security",
     "label": "安全事件",
-    "n": 14
+    "n": 16
    },
    {
     "key": "policy",
     "label": "政策监管",
-    "n": 11
+    "n": 12
    },
    {
     "key": "society",
     "label": "社会民生",
-    "n": 11
+    "n": 12
    }
   ],
   "regions": [
    {
     "key": "cn",
     "label": "中国",
-    "n": 101
+    "n": 107
    },
    {
     "key": "us",
     "label": "美国",
-    "n": 87
+    "n": 89
    },
    {
     "key": "global",
     "label": "全球",
-    "n": 76
+    "n": 77
    },
    {
     "key": "me",
     "label": "中东",
-    "n": 42
+    "n": 45
    },
    {
     "key": "eu",
     "label": "欧洲",
-    "n": 32
+    "n": 34
    },
    {
     "key": "asia",
     "label": "亚太",
-    "n": 14
+    "n": 16
    }
   ]
  }

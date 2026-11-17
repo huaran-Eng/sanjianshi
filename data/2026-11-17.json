@@ -1,0 +1,538 @@
+{
+ "date": "2026-11-17",
+ "date_cn": "11 月 17 日",
+ "weekday": "周二",
+ "issue_no": 23,
+ "one_liner": "泽连斯基称欧洲谈判团队首次全阵容与乌美磋商",
+ "lede": "扫描 357 条，从 26/26 个可用来源里留下 16 条：国际局势 7 条 · AI 发展 6 条 · 不为人知的知识 3 条。",
+ "cover_image": "",
+ "headline": [
+  {
+   "id": "120ae32f23f392c1",
+   "source_id": "jiemian",
+   "source_name": "界面新闻",
+   "source_kind": "市场化媒体",
+   "title": "泽连斯基：欧洲谈判团队首次“全阵容”与乌美磋商",
+   "link": "https://www.jiemian.com/article/15339009.html",
+   "published": "2026-11-17T07:10:51+08:00",
+   "image_url": "https:https://img.jiemian.com/101/original/20220307/164664253426029700_a580x330.png",
+   "source_count": 1,
+   "pr": 0,
+   "group": "world",
+   "summary": "乌克兰总统泽连斯基11月16日晚在社交媒体发文称，欧洲谈判团队首次以“完整阵容”与乌克兰和美国谈判团队举行工作层面磋商，讨论未来与俄罗斯举行谈判的相关事宜。泽连斯基称，美国总统特使威特科夫和特朗普的女婿库什纳参加了当天的线上磋商。欧洲方面派出所有后续将参与对俄谈判的代表，包括法国、德国、英国、意大利和波兰以及欧盟机构代表，此外还有一名北约代表参加。",
+   "why": "涉及乌克兰问题谈判的参与方构成出现变化，属于国际局势动向。",
+   "tags": [
+    "国际局势",
+    "乌克兰",
+    "谈判"
+   ],
+   "summary_mode": "llm",
+   "type": "world",
+   "region": "eu",
+   "topic": "乌欧美磋商谈判团队",
+   "type_label": "国际关系",
+   "region_label": "欧洲"
+  },
+  {
+   "id": "da5c12ecc85ce590",
+   "source_id": "tmtpost",
+   "source_name": "钛媒体",
+   "source_kind": "市场化媒体",
+   "title": "华为云发布CloudRobo具身世界模型的同时也打出了三张底牌",
+   "link": "https://www.tmtpost.com/8206773.html",
+   "published": "2026-11-16T18:36:51+08:00",
+   "image_url": "https://images.tmtpost.com/uploads/images/2026/11/2e5f956db291191a44ca56d2cadeb0af_1794825416.png",
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "img": "assets/img/da5c12ecc85ce590.jpg",
+   "summary": "华为云11月16日发布并开源昇腾原生的具身世界模型CloudRobo-WM1.2，该模型在RoboTwin 2.0、Libero Pro 2.0两项评测中均列第一。训练框架工程代码与WAM昇腾算力代码库面向核心合作伙伴定向开放。华为云同时表示，已有80%的中国具身智能企业选择昇腾云。",
+   "why": "关注AI发展的读者可以看到国产算力训练世界模型的一次公开验证，以及具身智能当前在视觉、数据与算力上的具体瓶颈。",
+   "tags": [
+    "华为云",
+    "具身智能",
+    "开源模型"
+   ],
+   "summary_mode": "llm",
+   "type": "product",
+   "region": "cn",
+   "topic": "华为云开源具身世界模型",
+   "type_label": "产品发布",
+   "region_label": "中国"
+  },
+  {
+   "id": "6b2c63b5fd1cc42a",
+   "source_id": "leiphone",
+   "source_name": "雷锋网",
+   "source_kind": "垂直媒体",
+   "title": "阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景",
+   "link": "https://www.leiphone.com/category/industrynews/TRw4D5Bw5HsTmC1G.html",
+   "published": "2026-11-16T11:33:00+08:00",
+   "image_url": "https://static.leiphone.com/uploads/new/images/20261116/6afa7935460b9.png?imageView2/2/w/740",
+   "source_count": 2,
+   "pr": 0,
+   "group": "ai",
+   "img": "assets/img/6b2c63b5fd1cc42a.jpg",
+   "summary": "11月16日，阿里巴巴发布新一代基座大模型Qwen4-Max，总参数2.4T，具备原生视觉能力，支持百万上下文。在CodeArena全球盲测榜单中，Qwen4-Max前端编程位列全球第6；在Agents' Last Exam评测中取得46.7分。Qwen4-Max已上线千问AI平台提供API服务，缓存命中每百万Tokens低至0.5元，完成单任务平均费用较上代降低约六成；Qwen4系列中小尺寸模型将陆续开源。",
+   "why": "读者关注AI发展，这条涉及新一代大模型的能力评测数据、定价与开源计划，属于AI领域的重要产品动态。",
+   "tags": [
+    "AI大模型",
+    "阿里Qwen4",
+    "智能体"
+   ],
+   "summary_mode": "llm",
+   "type": "product",
+   "region": "cn",
+   "topic": "阿里发布Qwen4大模型",
+   "type_label": "产品发布",
+   "region_label": "中国"
+  }
+ ],
+ "featured": [
+  {
+   "id": "4244a9d34d4139ce",
+   "source_id": "leiphone",
+   "source_name": "雷锋网",
+   "source_kind": "垂直媒体",
+   "title": "智算接棒：物理AI的下一个风口，在于计算基础设施",
+   "link": "https://www.leiphone.com/category/chips/yYPDwzuTBbcMSCSx.html",
+   "published": "2026-11-16T16:04:00+08:00",
+   "image_url": "https://static.leiphone.com/uploads/new/images/20261116/6afab83fa5c69.png?imageView2/2/w/740",
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "img": "assets/img/4244a9d34d4139ce.jpg",
+   "summary": "物理AI的热度正从机器人本体向产业链上下游扩散，产业界的关注点从机器人能完成什么动作转向如何让它越做越准。英伟达提出“三台计算机”概念，用训练、仿真验证与本体执行三套计算打通一条链路，其最新一季财报显示数据中心业务收入同比增长117%。宇树科技王兴兴表示，机器人本体受空间、电池和散热限制，适合放在云端的计算任务应尽可能上云；智元机器人今年的训练集群将接近万卡规模，算力主要通过租赁获取。",
+   "why": "从算力与仿真基础设施的角度解释物理AI的产业变化，属于AI发展的重要方向，且不含明星八卦。",
+   "tags": [
+    "物理AI",
+    "算力基础设施",
+    "机器人"
+   ],
+   "summary_mode": "llm",
+   "type": "industry",
+   "region": "global",
+   "topic": "物理AI与智算基础设施",
+   "type_label": "行业观察",
+   "region_label": "全球"
+  },
+  {
+   "id": "08c6fbbb6d45c3d5",
+   "source_id": "jiemian",
+   "source_name": "界面新闻",
+   "source_kind": "市场化媒体",
+   "title": "欧足联：法国足协主席迪亚洛将参选国际足联主席",
+   "link": "https://www.jiemian.com/article/15338997.html",
+   "published": "2026-11-17T07:08:39+08:00",
+   "image_url": "https:https://img.jiemian.com/101/original/20220307/164664253426029700_a580x330.png",
+   "source_count": 1,
+   "pr": 0,
+   "group": "world",
+   "summary": "欧足联执行委员会11月16日决定，支持法国足协主席菲利普·迪亚洛参选国际足联主席，与寻求连任的因凡蒂诺竞争。迪亚洛的参选资格预计于11月17日获法国足协执行委员会正式批准，候选人提名截止时间为11月18日午夜。国际足联主席选举将于2027年3月18日在摩洛哥首都拉巴特举行。",
+   "why": "国际足联主席出现竞争性选举，涉及世界第一运动的管理权更替；原文还提到因凡蒂诺商业公司计划遭反对后放弃，可作为观察国际体育治理的案例。",
+   "tags": [
+    "国际足联",
+    "欧足联",
+    "体育治理"
+   ],
+   "summary_mode": "llm",
+   "type": "other",
+   "region": "eu",
+   "topic": "欧足联支持国际足联主席人选",
+   "type_label": "其他",
+   "region_label": "欧洲"
+  },
+  {
+   "id": "aed1c783af5ed9cc",
+   "source_id": "chinanews_world",
+   "source_name": "中国新闻网·国际",
+   "source_kind": "通讯社",
+   "title": "柬埔寨千年古迹西梅奔寺重新向游客开放",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-17/10733172.shtml",
+   "published": "2026-11-17T07:37:41+08:00",
+   "image_url": null,
+   "source_count": 1,
+   "pr": 0,
+   "group": "know",
+   "summary": "柬埔寨国王西哈莫尼与法国总统马克龙于当地时间16日共同为西梅奔古寺修复工程竣工剪彩。这座位于暹粒省、始建于11世纪中叶的古寺，经柬法两国14年联合修复后重新向国内外游客开放，项目总投资1200万美元。马克龙于本月14日至16日对柬埔寨进行国事访问，并出席在金边举行的第20届法语国家组织峰会。",
+   "why": "涉及法国总统访柬与柬法文化合作，属于国际局势动态。",
+   "tags": [
+    "柬埔寨",
+    "文化遗产",
+    "法柬关系"
+   ],
+   "summary_mode": "llm",
+   "type": "society",
+   "region": "asia",
+   "topic": "柬古寺修复后重新开放",
+   "type_label": "社会民生",
+   "region_label": "亚太"
+  },
+  {
+   "id": "6d451a924c0f68e9",
+   "source_id": "ifanr",
+   "source_name": "爱范儿",
+   "source_kind": "垂直媒体",
+   "title": "实测腾讯 Hy4 flash：花两毛钱，就能让 AI 从零做个 3D 交互网页",
+   "link": "https://www.ifanr.com/1689653?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "published": "2026-11-16T17:53:01+08:00",
+   "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/exec-7d220a33-0856-4f59-a997-afaa52f2e7d5.jpg",
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "img": "assets/img/6d451a924c0f68e9.jpg",
+   "summary": "11 月初，腾讯 Hy4 发布，新模型在大模型竞技场上一跃升至开源第一。排在 Hy4 前面的三个模型分别是 GPT-6 Sol（Max）、Claude Opus 5（Max）和 Fable 5（High），附近还有 GPT-6.1 Terra、GPT-5.6 Sol 等一众强劲的闭源模型。我们此前在 WorkBuddy 内体验过 Hy4 的 Agent 长程任务和日常办公能力。",
+   "why": "属于你关注的「AI 发展」。",
+   "tags": [],
+   "summary_mode": "extractive",
+   "type": "product",
+   "region": "cn",
+   "topic": "腾讯Hy4 flash实测",
+   "type_label": "产品发布",
+   "region_label": "中国"
+  },
+  {
+   "id": "46429f3635689267",
+   "source_id": "chinanews_world",
+   "source_name": "中国新闻网·国际",
+   "source_kind": "通讯社",
+   "title": "美法官撤销国土安全部限制国际学生等停留期限新规",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-17/10733174.shtml",
+   "published": "2026-11-17T07:39:05+08:00",
+   "image_url": null,
+   "source_count": 1,
+   "pr": 0,
+   "group": "world",
+   "summary": "美国马萨诸塞州联邦地区法院法官塞勒于11月16日作出裁决，认定国土安全部7月公布的限制国际学生、交流访问者和外国媒体代表在美停留期限的新规违反《行政程序法》，决定予以撤销。裁决书称该规定决策过程武断、缺乏合理考量，构成滥用自由裁量权。塞勒早前曾下令在全美阻止该新规生效，此次作出最终裁决正式撤销。",
+   "why": "涉及美国移民与留学政策变动，属于国际局势中影响面较广的制度性消息。",
+   "tags": [
+    "美国",
+    "签证政策",
+    "国际学生"
+   ],
+   "summary_mode": "llm",
+   "type": "policy",
+   "region": "us",
+   "topic": "美法官撤销停留期限新规",
+   "type_label": "政策监管",
+   "region_label": "美国"
+  }
+ ],
+ "quick": [
+  {
+   "title": "豆包工作独家上线“工作台”功能，首批覆盖金融、医疗、教育等21个专业场景",
+   "title_cn": "",
+   "link": "https://www.leiphone.com/category/industrynews/hnSL5YwUtQjerTRK.html",
+   "source_name": "雷锋网",
+   "source_kind": "垂直媒体",
+   "id": "2396f6494f73be9c",
+   "type": "product",
+   "type_label": "产品发布",
+   "region": "cn",
+   "region_label": "中国"
+  },
+  {
+   "title": "OpenAI奥尔特曼称对英伟达风波“感同身受”：我也被解雇过，相信AI行业能挺过冲击",
+   "title_cn": "",
+   "link": "https://www.jiemian.com/article/15339092.html",
+   "source_name": "界面新闻",
+   "source_kind": "市场化媒体",
+   "id": "1a3f624c081ff1b6",
+   "type": "business",
+   "type_label": "商业资本",
+   "region": "us",
+   "region_label": "美国"
+  },
+  {
+   "title": "联合国：叙利亚政治过渡、经济复苏和安全局势仍面临多重挑战",
+   "title_cn": "",
+   "link": "https://news.un.org/feed/view/zh/story/2026/11/1143208",
+   "source_name": "联合国新闻·中文",
+   "source_kind": "公共媒体",
+   "id": "0f0a0069072196bd",
+   "type": "world",
+   "type_label": "国际关系",
+   "region": "me",
+   "region_label": "中东"
+  },
+  {
+   "title": "77岁“婚纱女王”退居幕后，Vera Wang陷入退款风波",
+   "title_cn": "",
+   "link": "https://www.tmtpost.com/8207100.html",
+   "source_name": "钛媒体",
+   "source_kind": "市场化媒体",
+   "id": "462a85a6a0bdfc1a",
+   "type": "business",
+   "type_label": "商业资本",
+   "region": "cn",
+   "region_label": "中国"
+  },
+  {
+   "title": "提速2.48倍且画质不掉线，AI视频“降本增效”有了新解法",
+   "title_cn": "",
+   "link": "https://www.qbitai.com/2026/11/510369.html",
+   "source_name": "量子位",
+   "source_kind": "垂直媒体",
+   "id": "776fe3c9a9f9ed52",
+   "type": "product",
+   "type_label": "产品发布",
+   "region": "cn",
+   "region_label": "中国"
+  },
+  {
+   "title": "东盟-联合国峰会：古特雷斯呼吁坚定不移地发挥合作的力量",
+   "title_cn": "",
+   "link": "https://news.un.org/feed/view/zh/story/2026/11/1143205",
+   "source_name": "联合国新闻·中文",
+   "source_kind": "公共媒体",
+   "id": "5ba8ba00c261455c",
+   "type": "world",
+   "type_label": "国际关系",
+   "region": "asia",
+   "region_label": "亚太"
+  }
+ ],
+ "challenge": {
+  "question": "伊朗：24小时内第四艘油轮在霍尔木兹海峡以东触雷",
+  "a": "伊朗：24小时内第四艘油轮在霍尔木兹海峡以东触雷起火-中新网 即时 时政 财经 同心 东西问 国际 社会 理论·评论 中国侨网 大湾区 文娱 体育 教育 法治 健康 生活 铸牢中华民族共同体意识 宗教 一带一路 中国—东盟商贸资讯平台 中国新闻周刊 国是直通车 创意 直播 视频 图片 专栏 各地 安徽 | 北京 | 重庆 | 福建 | 甘肃 | 贵州 | 广东 | 广西 | 海南 | 河北 | 河南 | 湖北 | 湖南 | 黑龙江 | ",
+  "b": "伊朗称一油轮在霍尔木兹海峡触雷起火，已是24小时内第四艘|界面新闻 · 快讯 天下快讯 伊朗称一油轮在霍尔木兹海峡触雷起火，已是24小时内第四艘 原创新闻 界面快报 · 来源：界面新闻 当地时间11月16日晚，伊朗军队海军宣布，一艘油轮在霍尔木兹海峡以东的限制区域内航行时，在关闭导航系统的情况下触雷起火并严重受损。这是过去24小时内，在霍尔木兹海峡以东海域受损的第四艘油轮。",
+  "diff": "两家来源类型不同（通讯社 / 市场化媒体），原文表述不一致之处需要对照阅读。",
+  "mode": "extractive",
+  "pair": [
+   {
+    "id": "cda7242e58455909",
+    "source_id": "chinanews_world",
+    "source_name": "中国新闻网·国际",
+    "source_kind": "通讯社",
+    "title": "伊朗：24小时内第四艘油轮在霍尔木兹海峡以东触雷起火",
+    "link": "https://www.chinanews.com.cn/gj/2026/11-17/10733179.shtml",
+    "published": "2026-11-17T07:39:13+08:00",
+    "image_url": null,
+    "source_count": 1,
+    "pr": 0,
+    "group": "world",
+    "type": "security",
+    "region": "me",
+    "topic": "霍尔木兹油轮触雷起火",
+    "type_label": "安全事件",
+    "region_label": "中东"
+   },
+   {
+    "id": "7dc52adbefc87b01",
+    "source_id": "jiemian",
+    "source_name": "界面新闻",
+    "source_kind": "市场化媒体",
+    "title": "伊朗称一油轮在霍尔木兹海峡触雷起火，已是24小时内第四艘",
+    "link": "https://www.jiemian.com/article/15338984.html",
+    "published": "2026-11-17T07:07:34+08:00",
+    "image_url": "https:https://img.jiemian.com/101/original/20220307/164664253426029700_a580x330.png",
+    "source_count": 1,
+    "pr": 0,
+    "group": "world",
+    "type": "security",
+    "region": "me",
+    "topic": "伊朗称第四艘油轮受损",
+    "type_label": "安全事件",
+    "region_label": "中东"
+   }
+  ],
+  "kind": "两个视角"
+ },
+ "counts": {
+  "world": 7,
+  "ai": 6,
+  "know": 3
+ },
+ "report": {
+  "mode": "llm",
+  "overview": "国内华为云、阿里、腾讯、豆包等集中发布模型与产品；美法官撤销国土安全部限制国际学生停留期限新规，联合国通报叙利亚局势；霍尔木兹海峡以东24小时内第四艘油轮触雷起火。",
+  "signals": [
+   "华为云、阿里、腾讯、豆包同期发布模型与AI产品，国内大模型更新密集。",
+   "霍尔木兹海峡以东24小时内四艘油轮触雷起火，海上通行安全问题集中出现。",
+   "联合国在安理会与东盟峰会连续发声，叙利亚与地区合作议题同步推进。"
+  ],
+  "groups": [
+   {
+    "key": "world",
+    "label": "国际局势",
+    "n": 7
+   },
+   {
+    "key": "ai",
+    "label": "AI 发展",
+    "n": 6
+   },
+   {
+    "key": "know",
+    "label": "不为人知的知识",
+    "n": 3
+   }
+  ],
+  "types": [
+   {
+    "key": "product",
+    "label": "产品发布",
+    "n": 5
+   },
+   {
+    "key": "world",
+    "label": "国际关系",
+    "n": 3
+   },
+   {
+    "key": "business",
+    "label": "商业资本",
+    "n": 2
+   },
+   {
+    "key": "security",
+    "label": "安全事件",
+    "n": 2
+   },
+   {
+    "key": "policy",
+    "label": "政策监管",
+    "n": 1
+   },
+   {
+    "key": "society",
+    "label": "社会民生",
+    "n": 1
+   },
+   {
+    "key": "industry",
+    "label": "行业观察",
+    "n": 1
+   },
+   {
+    "key": "other",
+    "label": "其他",
+    "n": 1
+   }
+  ],
+  "regions": [
+   {
+    "key": "cn",
+    "label": "中国",
+    "n": 6
+   },
+   {
+    "key": "me",
+    "label": "中东",
+    "n": 3
+   },
+   {
+    "key": "us",
+    "label": "美国",
+    "n": 2
+   },
+   {
+    "key": "eu",
+    "label": "欧洲",
+    "n": 2
+   },
+   {
+    "key": "asia",
+    "label": "亚太",
+    "n": 2
+   },
+   {
+    "key": "global",
+    "label": "全球",
+    "n": 1
+   }
+  ],
+  "confirmed": [
+   {
+    "title": "阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景",
+    "n": 2
+   }
+  ],
+  "confirmed_n": 1,
+  "source_kinds": [
+   {
+    "kind": "市场化媒体",
+    "n": 6
+   },
+   {
+    "kind": "垂直媒体",
+    "n": 5
+   },
+   {
+    "kind": "通讯社",
+    "n": 3
+   },
+   {
+    "kind": "公共媒体",
+    "n": 2
+   }
+  ],
+  "note": "数字由程序统计；类型/地区标签来自模型或关键词规则；「归纳判断」是编辑视角的概括，不是事实，每条都附原文链接可核对。"
+ },
+ "stats": {
+  "scanned": 357,
+  "selected": 16,
+  "raw": 2930,
+  "clusters": 337,
+  "dedup": 353,
+  "sources_ok": 26,
+  "sources_total": 26,
+  "lookback_hours": 48,
+  "llm_mode": "llm",
+  "model": "deepseek-flash ×12",
+  "llm_calls": 12,
+  "cost": 0.0393,
+  "generated_at": "2026-11-17 08:39",
+  "errors": []
+ },
+ "archives": [
+  {
+   "date": "2026-11-16",
+   "weekday": "周一"
+  },
+  {
+   "date": "2026-11-15",
+   "weekday": "周日"
+  },
+  {
+   "date": "2026-11-14",
+   "weekday": "周六"
+  },
+  {
+   "date": "2026-11-13",
+   "weekday": "周五"
+  },
+  {
+   "date": "2026-11-12",
+   "weekday": "周四"
+  },
+  {
+   "date": "2026-11-11",
+   "weekday": "周三"
+  },
+  {
+   "date": "2026-11-10",
+   "weekday": "周二"
+  },
+  {
+   "date": "2026-11-09",
+   "weekday": "周一"
+  },
+  {
+   "date": "2026-11-08",
+   "weekday": "周日"
+  },
+  {
+   "date": "2026-11-07",
+   "weekday": "周六"
+  },
+  {
+   "date": "2026-11-06",
+   "weekday": "周五"
+  },
+  {
+   "date": "2026-11-05",
+   "weekday": "周四"
+  }
+ ]
+}
