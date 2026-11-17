@@ -1,6 +1,34 @@
 {
- "updated": "2026-11-17 00:39",
+ "updated": "2026-11-17 23:44",
  "issues": [
+  {
+   "date": "2026-11-18",
+   "weekday": "周三",
+   "issue_no": 24,
+   "one_liner": "英国制裁8家参与以色列定居点建设的公司，欧洲与乌美会谈，俄方指责欧洲无意推动和平。",
+   "selected": 16,
+   "sources_ok": 25,
+   "groups": {
+    "world": 6,
+    "ai": 7,
+    "know": 1,
+    "other": 2
+   },
+   "types": {
+    "tech": 7,
+    "world": 4,
+    "other": 4,
+    "business": 1
+   },
+   "regions": {
+    "us": 5,
+    "global": 4,
+    "cn": 3,
+    "eu": 2,
+    "me": 2
+   },
+   "head": "本期入选 16 条，扫描 389 条原始条目，25/26 个来源可用。按方向：国际局势 6 条、AI 发展 7 条、不为人知的知识 1 条。"
+  },
   {
    "date": "2026-11-17",
    "weekday": "周二",
@@ -700,15 +728,15 @@
   }
  ],
  "aggregate": {
-  "issues": 23,
-  "items": 368,
+  "issues": 24,
+  "items": 384,
   "first": "2026-10-26",
-  "last": "2026-11-17",
+  "last": "2026-11-18",
   "types": [
    {
     "key": "world",
     "label": "国际关系",
-    "n": 92
+    "n": 96
    },
    {
     "key": "product",
@@ -716,19 +744,19 @@
     "n": 72
    },
    {
-    "key": "business",
-    "label": "商业资本",
-    "n": 39
-   },
-   {
     "key": "tech",
     "label": "技术进展",
-    "n": 39
+    "n": 46
    },
    {
     "key": "other",
     "label": "其他",
-    "n": 37
+    "n": 41
+   },
+   {
+    "key": "business",
+    "label": "商业资本",
+    "n": 40
    },
    {
     "key": "industry",
@@ -760,27 +788,27 @@
    {
     "key": "cn",
     "label": "中国",
-    "n": 107
+    "n": 110
    },
    {
     "key": "us",
     "label": "美国",
-    "n": 89
+    "n": 94
    },
    {
     "key": "global",
     "label": "全球",
-    "n": 77
+    "n": 81
    },
    {
     "key": "me",
     "label": "中东",
-    "n": 45
+    "n": 47
    },
    {
     "key": "eu",
     "label": "欧洲",
-    "n": 34
+    "n": 36
    },
    {
     "key": "asia",

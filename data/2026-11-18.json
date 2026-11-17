@@ -1,0 +1,515 @@
+{
+ "date": "2026-11-18",
+ "date_cn": "11 月 18 日",
+ "weekday": "周三",
+ "issue_no": 24,
+ "one_liner": "英国制裁8家参与以色列定居点建设的公司，欧洲与乌美会谈，俄方指责欧洲无意推动和平。",
+ "lede": "扫描 389 条，从 25/26 个可用来源里留下 16 条：国际局势 6 条 · AI 发展 7 条 · 不为人知的知识 1 条。",
+ "cover_image": "",
+ "headline": [
+  {
+   "id": "6c55219eba3c1743",
+   "source_id": "jiemian",
+   "source_name": "界面新闻",
+   "source_kind": "市场化媒体",
+   "title": "英国制裁8家参与以色列定居点建设的公司",
+   "link": "https://www.jiemian.com/article/15343750.html",
+   "published": "2026-11-18T07:02:21+08:00",
+   "image_url": "https:https://img.jiemian.com/101/original/20220307/164664251748738900_a580x330.png",
+   "source_count": 1,
+   "pr": 0,
+   "group": "world",
+   "summary": "英国外交部11月17日宣布，制裁8家参与扩建约旦河西岸以色列定居点的建筑和房地产开发公司，以及一个阻止援助物资进入加沙的活动组织。英国外交部表示，定居点建设公然违反国际法，“两国方案”仍是确保巴以长期和平与安全的唯一途径。英国外交大臣米利班德表示，英国在以色列“E1区”定居点项目上的立场是不竞标、不建设、不从破坏“两国方案”中获利。",
+   "why": "涉及国际局势与英国对以色列定居点项目的具体制裁动作，事实清晰、无八卦。",
+   "tags": [
+    "国际局势",
+    "英国制裁",
+    "巴以"
+   ],
+   "summary_mode": "llm",
+   "type": "world",
+   "region": "me",
+   "topic": "英国制裁8家参与以色列定居点建设的公司",
+   "type_label": "国际关系",
+   "region_label": "中东"
+  },
+  {
+   "id": "0c5a11f8f169a45c",
+   "source_id": "chinanews_world",
+   "source_name": "中国新闻网·国际",
+   "source_kind": "通讯社",
+   "title": "欧洲“完整阵容”与乌美会谈 俄方指责欧洲无意推动和平解决冲突",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-17/10733246.shtml",
+   "published": "2026-11-17T11:19:19+08:00",
+   "image_url": null,
+   "source_count": 1,
+   "pr": 0,
+   "group": "world",
+   "summary": "乌克兰总统泽连斯基16日表示，英国、法国、德国、意大利和波兰以及欧盟机构和北约代表首次与乌克兰和美国谈判代表举行全体会谈，讨论与俄谈判问题。俄总统助理乌沙科夫同日表示，俄方尚未同意欧洲代表参加下一轮乌克兰问题和谈。欧盟16日指责俄罗斯试图拖延结束冲突的谈判，并宣布对近50家俄罗斯银行和金融机构实施制裁。",
+   "why": "涉及俄乌和谈各方最新动作与制裁进展，契合你对国际局势的关注。",
+   "tags": [
+    "俄乌和谈",
+    "欧洲",
+    "制裁"
+   ],
+   "summary_mode": "llm",
+   "type": "world",
+   "region": "eu",
+   "topic": "欧洲“完整阵容”与乌美会谈 俄方指责欧洲无意推动和平解决",
+   "type_label": "国际关系",
+   "region_label": "欧洲"
+  },
+  {
+   "id": "4244a9d34d4139ce",
+   "source_id": "leiphone",
+   "source_name": "雷锋网",
+   "source_kind": "垂直媒体",
+   "title": "智算接棒：物理AI的下一个风口，在于计算基础设施",
+   "link": "https://www.leiphone.com/category/chips/yYPDwzuTBbcMSCSx.html",
+   "published": "2026-11-16T16:04:00+08:00",
+   "image_url": "https://static.leiphone.com/uploads/new/images/20261116/6afab83fa5c69.png?imageView2/2/w/740",
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "img": "assets/img/4244a9d34d4139ce.jpg",
+   "summary": "物理AI的热度正从机器人本体向产业链上下游扩散，产业界关注点从“机器人能完成什么动作”转向“如何让它越做越准”。英伟达提出“三台计算机”概念，最新一季财报显示其数据中心业务收入同比增长117%。宇树科技创始人王兴兴谈到，机器人本体受空间、电池和散热限制，可部署算力有限，适合放在云端的计算任务应尽可能上云。",
+   "why": "文章梳理物理AI背后的算力供给方式变化，涉及云端弹性算力、异构调度等基础设施逻辑，对应读者对AI发展的关注。",
+   "tags": [
+    "物理AI",
+    "算力基础设施",
+    "机器人"
+   ],
+   "summary_mode": "llm",
+   "type": "tech",
+   "region": "us",
+   "topic": "智算接棒：物理AI的下一个风口，在于计算基础设施",
+   "type_label": "技术进展",
+   "region_label": "美国"
+  }
+ ],
+ "featured": [
+  {
+   "id": "6d451a924c0f68e9",
+   "source_id": "ifanr",
+   "source_name": "爱范儿",
+   "source_kind": "垂直媒体",
+   "title": "实测腾讯 Hy4 flash：花两毛钱，就能让 AI 从零做个 3D 交互网页",
+   "link": "https://www.ifanr.com/1689653?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "published": "2026-11-16T17:53:01+08:00",
+   "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/exec-7d220a33-0856-4f59-a997-afaa52f2e7d5.jpg",
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "img": "assets/img/6d451a924c0f68e9.jpg",
+   "summary": "11 月初，腾讯 Hy4 发布，新模型在大模型竞技场上一跃升至开源第一。排在 Hy4 前面的三个模型分别是 GPT-6 Sol（Max）、Claude Opus 5（Max）和 Fable 5（High），附近还有 GPT-6.1 Terra、GPT-5.6 Sol 等一众强劲的闭源模型。我们此前在 WorkBuddy 内体验过 Hy4 的 Agent 长程任务和日常办公能力。",
+   "why": "属于你关注的「AI 发展」。",
+   "tags": [],
+   "summary_mode": "extractive",
+   "type": "tech",
+   "region": "cn",
+   "topic": "实测腾讯 Hy4 flash：花两毛钱，就能让 AI 从",
+   "type_label": "技术进展",
+   "region_label": "中国"
+  },
+  {
+   "id": "2ea6ad5b6f23aefd",
+   "source_id": "jiemian",
+   "source_name": "界面新闻",
+   "source_kind": "市场化媒体",
+   "title": "德国和芬兰总统表示欧洲必须参与乌克兰危机谈判",
+   "link": "https://www.jiemian.com/article/15343768.html",
+   "published": "2026-11-18T07:04:44+08:00",
+   "image_url": "https:https://img.jiemian.com/101/original/20220307/164664253426029700_a580x330.png",
+   "source_count": 1,
+   "pr": 0,
+   "group": "world",
+   "summary": "德国总统施泰因迈尔与芬兰总统斯图布11月17日表示，涉及乌克兰未来的谈判关乎安全保障，不能没有欧洲参与。施泰因迈尔称，此前在阿布扎比举行的会谈推动了谈判进程，预计未来数周还将举行进一步会谈。斯图布表示，19日将在柏林举行的“志愿联盟”会议对各方进一步协调行动十分重要。",
+   "why": "读者关注国际局势，这条涉及乌克兰危机谈判中欧洲的参与立场与后续会谈安排。",
+   "tags": [
+    "乌克兰危机",
+    "欧洲",
+    "谈判"
+   ],
+   "summary_mode": "llm",
+   "type": "world",
+   "region": "eu",
+   "topic": "德国和芬兰总统表示欧洲必须参与乌克兰危机谈判",
+   "type_label": "国际关系",
+   "region_label": "欧洲"
+  },
+  {
+   "id": "4d06953666f0895f",
+   "source_id": "chinanews_world",
+   "source_name": "中国新闻网·国际",
+   "source_kind": "通讯社",
+   "title": "外媒：沙特联军袭击也门多地，已致17人死亡、39人受伤",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-18/10733825.shtml",
+   "published": "2026-11-18T07:09:36+08:00",
+   "image_url": null,
+   "source_count": 1,
+   "pr": 0,
+   "group": "know",
+   "summary": "据阿拉伯媒体当地时间17日消息，过去24小时内，沙特阿拉伯主导的多国联军对也门萨那、荷台达等地发动空袭，累计造成17人死亡、39人受伤。",
+   "why": "属于国际局势类内容，提供了也门空袭的伤亡数字与地点，信息来自通讯社转述。",
+   "tags": [
+    "国际局势",
+    "也门",
+    "空袭"
+   ],
+   "summary_mode": "llm",
+   "type": "other",
+   "region": "me",
+   "topic": "外媒：沙特联军袭击也门多地，已致17人死亡、39人受伤",
+   "type_label": "其他",
+   "region_label": "中东"
+  },
+  {
+   "id": "945a46a713e25ebc",
+   "source_id": "jiemian",
+   "source_name": "界面新闻",
+   "source_kind": "市场化媒体",
+   "title": "英伟达披露最高1180亿美元担保敞口，其中1050亿美元涉及OpenAI数据中心项目",
+   "link": "https://www.jiemian.com/article/15343865.html",
+   "published": "2026-11-18T07:38:26+08:00",
+   "image_url": "https:https://img.jiemian.com/101/original/20220307/164664251748738900_a580x330.png",
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "summary": "英伟达在11月17日披露，公司对合作伙伴的担保风险敞口最高达1180亿美元。其中，为与OpenAI相关的数据中心建设提供的信用支持最高为1050亿美元。原文指出，这属于最高潜在担保敞口，并非已发生的支出或确定债务；相关担保将随项目分阶段建设逐步生效；截至10月25日，公司尚未因这些担保支付任何款项。",
+   "why": "涉及AI算力基础设施的关键参与者英伟达与其最大客户之一OpenAI之间的资金安排，虽然这些只是潜在敞口，但属于AI发展议题中的重要信息。",
+   "tags": [
+    "英伟达",
+    "OpenAI",
+    "数据中心"
+   ],
+   "summary_mode": "llm",
+   "type": "business",
+   "region": "us",
+   "topic": "英伟达披露最高1180亿美元担保敞口，其中1050亿美元",
+   "type_label": "商业资本",
+   "region_label": "美国"
+  },
+  {
+   "id": "bc2c4554ca981de9",
+   "source_id": "chinanews_world",
+   "source_name": "中国新闻网·国际",
+   "source_kind": "通讯社",
+   "title": "美官员称对伊朗格什姆岛实施“自卫”打击",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-18/10733822.shtml",
+   "published": "2026-11-18T06:13:45+08:00",
+   "image_url": null,
+   "source_count": 1,
+   "pr": 0,
+   "group": "world",
+   "summary": "美国军方官员17日说，美军当天对伊朗格什姆岛一处导弹发射场实施精确打击，以回应伊朗伊斯兰革命卫队针对美国人员和资产的“侵略行径”。美方称此次打击发生前几个小时，伊朗针对美军位于巴林的一处雷达站发动袭击，美军中央司令部否认雷达系统被击中，并称多架无人机均被拦截。伊朗伊斯兰共和国通讯社当天早些时候报道说，美军袭击格什姆岛部分地点，但当地居民区、商业和基础设施未受损。",
+   "why": "涉及美国与伊朗的直接军事摩擦，是理解当前中东局势的关键进展。",
+   "tags": [
+    "美伊局势",
+    "军事打击",
+    "中东"
+   ],
+   "summary_mode": "llm",
+   "type": "other",
+   "region": "us",
+   "topic": "美官员称对伊朗格什姆岛实施“自卫”打击",
+   "type_label": "其他",
+   "region_label": "美国"
+  }
+ ],
+ "quick": [
+  {
+   "title": "独家丨腾讯优图实验室研究总监孙星离职",
+   "title_cn": "",
+   "link": "https://www.leiphone.com/category/CorporateServices/ndF7IsEHBffZkbzy.html",
+   "source_name": "雷锋网",
+   "source_kind": "垂直媒体",
+   "id": "ff455f97ee514090",
+   "type": "tech",
+   "type_label": "技术进展",
+   "region": "cn",
+   "region_label": "中国"
+  },
+  {
+   "title": "联合国强调欧洲卢旺达遣返中心计划须遵守国际法",
+   "title_cn": "",
+   "link": "https://news.un.org/feed/view/zh/story/2026/11/1143212",
+   "source_name": "联合国新闻·中文",
+   "source_kind": "公共媒体",
+   "id": "c49e6d0c262d0365",
+   "type": "other",
+   "type_label": "其他",
+   "region": "global",
+   "region_label": "全球"
+  },
+  {
+   "title": "平均年龄25岁，00后小伙带队拿下首届蚂蚁灵波具身大模型挑战赛最高分",
+   "title_cn": "",
+   "link": "https://www.leiphone.com/category/industrynews/LTOeijdeWR08fZGP.html",
+   "source_name": "雷锋网",
+   "source_kind": "垂直媒体",
+   "id": "d148764d670264e5",
+   "type": "tech",
+   "type_label": "技术进展",
+   "region": "cn",
+   "region_label": "中国"
+  },
+  {
+   "title": "联合国气候变化大会: 气候谈判面临政治考验，人工智能相关举措加速推进",
+   "title_cn": "",
+   "link": "https://news.un.org/feed/view/zh/story/2026/11/1143209",
+   "source_name": "联合国新闻·中文",
+   "source_kind": "公共媒体",
+   "id": "13c5e4a8d63d2ba4",
+   "type": "world",
+   "type_label": "国际关系",
+   "region": "global",
+   "region_label": "全球"
+  },
+  {
+   "title": "美国超大规模数据中心的用电量与部分州的总用电量相当",
+   "title_cn": "",
+   "link": "https://www.solidot.org/story?sid=85907",
+   "source_name": "奇客 Solidot",
+   "source_kind": "垂直媒体",
+   "id": "137f7c897a7174f6",
+   "type": "tech",
+   "type_label": "技术进展",
+   "region": "us",
+   "region_label": "美国"
+  },
+  {
+   "title": "External sandboxes for coding agents",
+   "title_cn": "用于编码代理的外部沙盒",
+   "link": "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/",
+   "source_name": "Simon Willison",
+   "source_kind": "个人",
+   "id": "79adcdc25349af97",
+   "type": "tech",
+   "type_label": "技术进展",
+   "region": "global",
+   "region_label": "全球"
+  }
+ ],
+ "challenge": {
+  "question": "两家对成本与性能的表述差异",
+  "a": "强调专业输出、编程、电脑使用和更低成本，覆盖 ChatGPT Work、Codex 与 API",
+  "b": "强调具体定价、API 模型名、自家工具支持与基准测试表现",
+  "diff": "A 只说更低成本，B 列出具体价格与缓存折扣",
+  "mode": "llm",
+  "pair": [
+   {
+    "id": "21dc0e9d2c07047f",
+    "source_id": "openai_blog",
+    "source_name": "OpenAI 官方博客",
+    "source_kind": "厂商官方",
+    "title": "Introducing GPT-6.2 Astra and Sol",
+    "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+    "published": "2026-11-18T01:45:00+08:00",
+    "image_url": null,
+    "type": "other",
+    "region": "global",
+    "topic": "Introducing GPT-6.2 Astra an",
+    "type_label": "其他",
+    "region_label": "全球"
+   },
+   {
+    "id": "abad34c47af2eb46",
+    "source_id": "simonw",
+    "source_name": "Simon Willison",
+    "source_kind": "个人",
+    "title": "GPT‑6.2 Astra and GPT‑6.2 Sol",
+    "link": "https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/",
+    "published": "2026-11-18T06:38:52+08:00",
+    "image_url": "https://static.simonwillison.net/static/2026/astra-6-2-max.webp",
+    "type": "tech",
+    "region": "us",
+    "topic": "GPT‑6.2 Astra and GPT‑6.2 So",
+    "type_label": "技术进展",
+    "region_label": "美国"
+   }
+  ],
+  "kind": "同一事件"
+ },
+ "counts": {
+  "world": 6,
+  "ai": 7,
+  "know": 1,
+  "other": 2
+ },
+ "report": {
+  "mode": "code",
+  "overview": "本期入选 16 条，扫描 389 条原始条目，25/26 个来源可用。按方向：国际局势 6 条、AI 发展 7 条、不为人知的知识 1 条。按事件类型：技术进展 7 条、国际关系 4 条、其他 4 条等。按地区：美国 5 条、全球 4 条、中国 3 条等。本期没有多家媒体同时报道的条目，全部为单一来源。",
+  "signals": [],
+  "groups": [
+   {
+    "key": "ai",
+    "label": "AI 发展",
+    "n": 7
+   },
+   {
+    "key": "world",
+    "label": "国际局势",
+    "n": 6
+   },
+   {
+    "key": "know",
+    "label": "不为人知的知识",
+    "n": 1
+   }
+  ],
+  "types": [
+   {
+    "key": "tech",
+    "label": "技术进展",
+    "n": 7
+   },
+   {
+    "key": "world",
+    "label": "国际关系",
+    "n": 4
+   },
+   {
+    "key": "other",
+    "label": "其他",
+    "n": 4
+   },
+   {
+    "key": "business",
+    "label": "商业资本",
+    "n": 1
+   }
+  ],
+  "regions": [
+   {
+    "key": "us",
+    "label": "美国",
+    "n": 5
+   },
+   {
+    "key": "global",
+    "label": "全球",
+    "n": 4
+   },
+   {
+    "key": "cn",
+    "label": "中国",
+    "n": 3
+   },
+   {
+    "key": "eu",
+    "label": "欧洲",
+    "n": 2
+   },
+   {
+    "key": "me",
+    "label": "中东",
+    "n": 2
+   }
+  ],
+  "confirmed": [
+   {
+    "title": "Introducing GPT-6.2 Astra and Sol",
+    "n": 2
+   }
+  ],
+  "confirmed_n": 1,
+  "source_kinds": [
+   {
+    "kind": "垂直媒体",
+    "n": 5
+   },
+   {
+    "kind": "市场化媒体",
+    "n": 3
+   },
+   {
+    "kind": "通讯社",
+    "n": 3
+   },
+   {
+    "kind": "公共媒体",
+    "n": 2
+   },
+   {
+    "kind": "个人",
+    "n": 2
+   },
+   {
+    "kind": "厂商官方",
+    "n": 1
+   }
+  ],
+  "note": "数字由程序统计；类型/地区标签来自模型或关键词规则；「归纳判断」是编辑视角的概括，不是事实，每条都附原文链接可核对。"
+ },
+ "stats": {
+  "scanned": 389,
+  "selected": 16,
+  "raw": 2928,
+  "clusters": 364,
+  "dedup": 385,
+  "sources_ok": 25,
+  "sources_total": 26,
+  "lookback_hours": 48,
+  "llm_mode": "llm",
+  "model": "deepseek-flash ×13",
+  "llm_calls": 13,
+  "cost": 0.0397,
+  "generated_at": "2026-11-18 07:44",
+  "errors": [
+   {
+    "name": "钛媒体",
+    "error": "HTTP 503"
+   }
+  ]
+ },
+ "archives": [
+  {
+   "date": "2026-11-17",
+   "weekday": "周二"
+  },
+  {
+   "date": "2026-11-16",
+   "weekday": "周一"
+  },
+  {
+   "date": "2026-11-15",
+   "weekday": "周日"
+  },
+  {
+   "date": "2026-11-14",
+   "weekday": "周六"
+  },
+  {
+   "date": "2026-11-13",
+   "weekday": "周五"
+  },
+  {
+   "date": "2026-11-12",
+   "weekday": "周四"
+  },
+  {
+   "date": "2026-11-11",
+   "weekday": "周三"
+  },
+  {
+   "date": "2026-11-10",
+   "weekday": "周二"
+  },
+  {
+   "date": "2026-11-09",
+   "weekday": "周一"
+  },
+  {
+   "date": "2026-11-08",
+   "weekday": "周日"
+  },
+  {
+   "date": "2026-11-07",
+   "weekday": "周六"
+  },
+  {
+   "date": "2026-11-06",
+   "weekday": "周五"
+  }
+ ]
+}
