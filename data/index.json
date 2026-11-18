@@ -1,6 +1,35 @@
 {
- "updated": "2026-11-17 23:44",
+ "updated": "2026-11-18 23:16",
  "issues": [
+  {
+   "date": "2026-11-19",
+   "weekday": "周四",
+   "issue_no": 25,
+   "one_liner": "今天值得看：哈马斯称以军在加沙中部军事行动违反停火…；原子能机构：伊朗核查工作陷入停滞 乌克…",
+   "selected": 16,
+   "sources_ok": 26,
+   "groups": {
+    "world": 6,
+    "ai": 6,
+    "know": 2,
+    "other": 2
+   },
+   "types": {
+    "world": 7,
+    "tech": 4,
+    "research": 2,
+    "business": 1,
+    "industry": 1,
+    "other": 1
+   },
+   "regions": {
+    "us": 5,
+    "me": 4,
+    "global": 4,
+    "cn": 3
+   },
+   "head": "本期入选 16 条，扫描 409 条原始条目，26/26 个来源可用。按方向：国际局势 6 条、AI 发展 6 条、不为人知的知识 2 条。"
+  },
   {
    "date": "2026-11-18",
    "weekday": "周三",
@@ -728,15 +757,15 @@
   }
  ],
  "aggregate": {
-  "issues": 24,
-  "items": 384,
+  "issues": 25,
+  "items": 400,
   "first": "2026-10-26",
-  "last": "2026-11-18",
+  "last": "2026-11-19",
   "types": [
    {
     "key": "world",
     "label": "国际关系",
-    "n": 96
+    "n": 103
    },
    {
     "key": "product",
@@ -746,27 +775,27 @@
    {
     "key": "tech",
     "label": "技术进展",
-    "n": 46
+    "n": 50
    },
    {
     "key": "other",
     "label": "其他",
-    "n": 41
+    "n": 42
    },
    {
     "key": "business",
     "label": "商业资本",
-    "n": 40
+    "n": 41
    },
    {
     "key": "industry",
     "label": "行业观察",
-    "n": 26
+    "n": 27
    },
    {
     "key": "research",
     "label": "研究进展",
-    "n": 23
+    "n": 25
    },
    {
     "key": "security",
@@ -788,22 +817,22 @@
    {
     "key": "cn",
     "label": "中国",
-    "n": 110
+    "n": 113
    },
    {
     "key": "us",
     "label": "美国",
-    "n": 94
+    "n": 99
    },
    {
     "key": "global",
     "label": "全球",
-    "n": 81
+    "n": 85
    },
    {
     "key": "me",
     "label": "中东",
-    "n": 47
+    "n": 51
    },
    {
     "key": "eu",

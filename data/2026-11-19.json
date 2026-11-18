@@ -1,0 +1,511 @@
+{
+ "date": "2026-11-19",
+ "date_cn": "11 月 19 日",
+ "weekday": "周四",
+ "issue_no": 25,
+ "one_liner": "今天值得看：哈马斯称以军在加沙中部军事行动违反停火…；原子能机构：伊朗核查工作陷入停滞 乌克…",
+ "lede": "扫描 409 条，从 26/26 个可用来源里留下 16 条：国际局势 6 条 · AI 发展 6 条 · 不为人知的知识 2 条。",
+ "cover_image": "",
+ "headline": [
+  {
+   "id": "106510a2992065b3",
+   "source_id": "jiemian",
+   "source_name": "界面新闻",
+   "source_kind": "市场化媒体",
+   "title": "哈马斯称以军在加沙中部军事行动违反停火协议",
+   "link": "https://www.jiemian.com/article/15348453.html",
+   "published": "2026-11-19T07:02:37+08:00",
+   "image_url": "https:https://img.jiemian.com/101/original/20220307/164664253426029700_a580x330.png",
+   "source_count": 1,
+   "pr": 0,
+   "group": "world",
+   "summary": "哈马斯11月18日发表声明，谴责以色列军队当天在加沙地带中部展开军事行动，称此举严重违反加沙停火协议。声明说，以军车辆越过停火协议划定的“黄线”向西推进，并强迫努赛赖特难民营东北区域的巴勒斯坦人离开住所。哈马斯表示，以色列和美国应对此次军事行动及其后果承担责任，并呼吁停火协议担保国履行职责，制止以方违反停火协议的行为。",
+   "why": "关注国际局势的读者可了解加沙停火协议当前的分歧与各方表态。",
+   "tags": [
+    "加沙",
+    "停火协议",
+    "哈马斯"
+   ],
+   "summary_mode": "llm",
+   "type": "world",
+   "region": "me",
+   "topic": "哈马斯称以军在加沙中部军事行动违反停火协议",
+   "type_label": "国际关系",
+   "region_label": "中东"
+  },
+  {
+   "id": "c2f564b2378d77e1",
+   "source_id": "un_news_zh",
+   "source_name": "联合国新闻·中文",
+   "source_kind": "公共媒体",
+   "title": "原子能机构：伊朗核查工作陷入停滞 乌克兰核设施安全风险持续加剧",
+   "link": "https://news.un.org/feed/view/zh/story/2026/11/1143220",
+   "published": "2026-11-18T20:00:00+08:00",
+   "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/30-01-2026-IAEA-Grossi.jpg/image560x340cropped.jpg",
+   "source_count": 1,
+   "pr": 0,
+   "group": "world",
+   "img": "assets/img/c2f564b2378d77e1.jpg",
+   "summary": "国际原子能机构总干事格罗西周三在维也纳向理事会介绍机构工作情况时表示，伊朗核查监督工作因无法获取相关信息和进入核设施而陷入停滞。格罗西表示，乌克兰军事冲突持续威胁核设施安全，朝鲜核计划也在进一步推进。他还表示，全球核电发展势头增强，原子能机构将继续推动核能和平利用和核技术国际合作。",
+   "why": "涉及伊朗、乌克兰、朝鲜三处核问题的核查与安全现状，属于国际局势与核治理的重要动向。",
+   "tags": [
+    "国际原子能机构",
+    "伊朗核查",
+    "乌克兰核设施"
+   ],
+   "summary_mode": "llm",
+   "type": "world",
+   "region": "global",
+   "topic": "原子能机构：伊朗核查工作陷入停滞 乌克兰核设施安全风险持",
+   "type_label": "国际关系",
+   "region_label": "全球"
+  },
+  {
+   "id": "ff455f97ee514090",
+   "source_id": "leiphone",
+   "source_name": "雷锋网",
+   "source_kind": "垂直媒体",
+   "title": "独家丨腾讯优图实验室研究总监孙星离职",
+   "link": "https://www.leiphone.com/category/CorporateServices/ndF7IsEHBffZkbzy.html",
+   "published": "2026-11-17T16:28:00+08:00",
+   "image_url": null,
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "summary": "雷峰网独家消息称，腾讯优图实验室研究总监、专家研究员孙星已离职。孙星本科毕业于南京理工大学，博士毕业于香港大学工程学院，2016年加入腾讯优图实验室。他早期从事医疗影像 AI，参与肺癌识别和糖尿病视网膜病变筛查研究；进入大模型阶段后转向多模态大模型、Agent 与 RAG，主导或参与 Video-MME、VITA、Youtu-VL、Youtu-Agent、Youtu-GraphRAG 等项目。",
+   "why": "这涉及 AI 多模态与 Agent 方向核心研究人员的变动；对关注 AI 发展的读者有参考价值。原文未说明离职原因和后续去向。",
+   "tags": [
+    "腾讯优图",
+    "AI人才",
+    "多模态大模型"
+   ],
+   "summary_mode": "llm",
+   "type": "tech",
+   "region": "cn",
+   "topic": "独家丨腾讯优图实验室研究总监孙星离职",
+   "type_label": "技术进展",
+   "region_label": "中国"
+  }
+ ],
+ "featured": [
+  {
+   "id": "b85e73df1211a97e",
+   "source_id": "jiemian",
+   "source_name": "界面新闻",
+   "source_kind": "市场化媒体",
+   "title": "地平线发布LoFT原生视频几何基础模型",
+   "link": "https://www.jiemian.com/article/15348462.html",
+   "published": "2026-11-19T07:02:45+08:00",
+   "image_url": "https:https://img.jiemian.com/101/original/20220307/164664251748738900_a580x330.png",
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "summary": "11月18日，地平线机器人实验室发布原生视频几何基础模型LoFT。据介绍，该模型能够从RGB视频中联合预测相机位姿、内参及逐帧深度，恢复场景三维结构。原文称其可为机器人空间感知、环境理解与具身学习提供几何基础。",
+   "why": "属于AI与机器人基础模型方向的进展，契合读者对AI发展的关注。",
+   "tags": [
+    "AI模型",
+    "机器人",
+    "地平线"
+   ],
+   "summary_mode": "llm",
+   "type": "research",
+   "region": "global",
+   "topic": "地平线发布LoFT原生视频几何基础模型",
+   "type_label": "研究进展",
+   "region_label": "全球"
+  },
+  {
+   "id": "b9233bd89e65b1c2",
+   "source_id": "chinanews_world",
+   "source_name": "中国新闻网·国际",
+   "source_kind": "通讯社",
+   "title": "以军发表声明：在加沙地带打死两名哈马斯指挥官",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-19/10734440.shtml",
+   "published": "2026-11-19T07:07:33+08:00",
+   "image_url": null,
+   "source_count": 1,
+   "pr": 0,
+   "group": "world",
+   "summary": "以色列国防军和辛贝特18日发表联合声明称，17日在加沙地带的两起打击中打死两名哈马斯指挥官。以方称，在汗尤尼斯的打击中打死哈马斯汗尤尼斯旅指挥官阿什拉夫·塔巴西，在贾巴利亚地区的另一次打击中打死哈马斯西贾巴利亚营指挥官萨贝尔·纳卜汉。以色列军方称，这两人参与策划针对以色列的袭击，并致力于重建哈马斯军事能力，系统性地违反了停火协议。",
+   "why": "涉及加沙停火协议下的军事行动与国际局势进展。",
+   "tags": [
+    "国际局势",
+    "加沙",
+    "以军声明"
+   ],
+   "summary_mode": "llm",
+   "type": "world",
+   "region": "me",
+   "topic": "以军发表声明：在加沙地带打死两名哈马斯指挥官",
+   "type_label": "国际关系",
+   "region_label": "中东"
+  },
+  {
+   "id": "ccf75f1238a23291",
+   "source_id": "jiemian",
+   "source_name": "界面新闻",
+   "source_kind": "市场化媒体",
+   "title": "离岸人民币兑美元较周二纽约尾盘跌21个基点",
+   "link": "https://www.jiemian.com/article/15348425.html",
+   "published": "2026-11-19T06:49:41+08:00",
+   "image_url": "https:https://img.jiemian.com/101/original/20220307/164664251748738900_a580x330.png",
+   "source_count": 1,
+   "pr": 0,
+   "group": "know",
+   "summary": "北京时间11月19日05:59纽约尾盘，离岸人民币兑美元报6.6693元，较周二纽约尾盘跌21个基点。日内整体交投于6.6646至6.6703元区间。原文注明本文为转载内容。",
+   "why": "这条属于汇率市场快讯，与读者关注的三类话题不直接相关，如需了解人民币汇率即时变动可看一眼。",
+   "tags": [
+    "离岸人民币",
+    "汇率",
+    "金融快讯"
+   ],
+   "summary_mode": "llm",
+   "type": "other",
+   "region": "cn",
+   "topic": "离岸人民币兑美元较周二纽约尾盘跌21个基点",
+   "type_label": "其他",
+   "region_label": "中国"
+  },
+  {
+   "id": "dcfd8d72e4a7861b",
+   "source_id": "ifanr",
+   "source_name": "爱范儿",
+   "source_kind": "垂直媒体",
+   "title": "深度实测 GPT-6.2：强是真强，难用也是真难用",
+   "link": "https://www.ifanr.com/1690130?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "published": "2026-11-18T18:01:23+08:00",
+   "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/cover-1119.jpg",
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "img": "assets/img/dcfd8d72e4a7861b.jpg",
+   "summary": "OpenAI 发布旗舰模型 GPT-6.2 Astra 和主打性价比的 GPT-6.2 Sol。官方公布的成绩显示，Astra 在专业 Agent 任务上反超 Claude Fable 5.2，完成同等任务的综合成本只有后者的 5%。上线不到 12 小时，X 上出现大量差评，开发者 Theo 称其为「OpenAI 史上最糟糕的模型」，AI 创业者 Matt Shumer 评价其「基本无法使用」，争议集中在回答过度简洁、写作水平倒退、长程 Agent 任务容易提前停止、遇到问题不主动报告。",
+   "why": "这条讲的是头部 AI 模型发布后的真实口碑分化，涉及能力与可用性的落差，适合关注 AI 发展的读者。",
+   "tags": [
+    "AI模型",
+    "GPT-6.2",
+    "实测"
+   ],
+   "summary_mode": "llm",
+   "type": "tech",
+   "region": "us",
+   "topic": "深度实测 GPT-6.2：强是真强，难用也是真难用",
+   "type_label": "技术进展",
+   "region_label": "美国"
+  },
+  {
+   "id": "afaf925fee4a6ded",
+   "source_id": "chinanews_world",
+   "source_name": "中国新闻网·国际",
+   "source_kind": "通讯社",
+   "title": "美国民主党提名杰弗里斯为众议院议长",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-19/10734439.shtml",
+   "published": "2026-11-19T06:51:22+08:00",
+   "image_url": null,
+   "source_count": 1,
+   "pr": 0,
+   "group": "world",
+   "summary": "当地时间18日，美国众议院民主党党团闭门投票，提名现任众议院民主党领袖杰弗里斯为下届众议院议长，他在党内投票中未遇竞争对手。他仍需在明年1月新一届众议院全体会议投票中获得过半数支持，才能正式出任议长。民主党在11月3日中期选举中夺回国会参众两院控制权，新一届国会任期将于2027年1月3日开始。",
+   "why": "这条涉及美国国会控制权变化和众议院议长人选，属于国际局势中值得关注的政治变动。",
+   "tags": [
+    "美国政治",
+    "众议院",
+    "国际局势"
+   ],
+   "summary_mode": "llm",
+   "type": "world",
+   "region": "us",
+   "topic": "美国民主党提名杰弗里斯为众议院议长",
+   "type_label": "国际关系",
+   "region_label": "美国"
+  }
+ ],
+ "quick": [
+  {
+   "title": "对话“中国主板教父”吴福禄",
+   "title_cn": "",
+   "link": "https://www.leiphone.com/category/industrynews/YCL7IapyaOICHlBN.html",
+   "source_name": "雷锋网",
+   "source_kind": "垂直媒体",
+   "id": "ba0219e7593fda85",
+   "type": "industry",
+   "type_label": "行业观察",
+   "region": "cn",
+   "region_label": "中国"
+  },
+  {
+   "title": "GPT-6.2 Astra 刚发布即遭大量差评，实测后我觉得它有点冤",
+   "title_cn": "",
+   "link": "https://www.ifanr.com/1690103?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source_name": "爱范儿",
+   "source_kind": "垂直媒体",
+   "id": "66116ae2c0e8d9a2",
+   "type": "tech",
+   "type_label": "技术进展",
+   "region": "us",
+   "region_label": "美国"
+  },
+  {
+   "title": "苏丹：联合国报告详述无人机袭击激增对平民造成的致命影响",
+   "title_cn": "",
+   "link": "https://news.un.org/feed/view/zh/story/2026/11/1143216",
+   "source_name": "联合国新闻·中文",
+   "source_kind": "公共媒体",
+   "id": "b315a78fb6988bbe",
+   "type": "world",
+   "type_label": "国际关系",
+   "region": "global",
+   "region_label": "全球"
+  },
+  {
+   "title": "清华徐梦迪：预训练做再好都不够，机器人需要在部署中学习 | CoRL 2026",
+   "title_cn": "",
+   "link": "https://www.leiphone.com/category/private/S1vnQSfDZDVC7TWb.html",
+   "source_name": "雷锋网",
+   "source_kind": "垂直媒体",
+   "id": "06246a616e2958bc",
+   "type": "tech",
+   "type_label": "技术进展",
+   "region": "us",
+   "region_label": "美国"
+  },
+  {
+   "title": "COP31：海洋保护进入谈判议程，落实承诺仍需资金支持",
+   "title_cn": "",
+   "link": "https://news.un.org/feed/view/zh/story/2026/11/1143218",
+   "source_name": "联合国新闻·中文",
+   "source_kind": "公共媒体",
+   "id": "d00e31549b82aaf4",
+   "type": "research",
+   "type_label": "研究进展",
+   "region": "global",
+   "region_label": "全球"
+  },
+  {
+   "title": "诺奖得主做AI制药，20个月狂揽550亿",
+   "title_cn": "",
+   "link": "https://www.tmtpost.com/8209976.html",
+   "source_name": "钛媒体",
+   "source_kind": "市场化媒体",
+   "id": "3d2c4e67f58a160b",
+   "type": "business",
+   "type_label": "商业资本",
+   "region": "us",
+   "region_label": "美国"
+  }
+ ],
+ "challenge": {
+  "question": "报道差异在哪？",
+  "a": "以军称按停火协议行动，拆除威胁地道，行动前警告平民并封路",
+  "b": "以军说法相同，另附黄线说明及哈马斯谴责违约、驱离居民",
+  "diff": "B补充哈马斯反驳与黄线背景，A未提",
+  "mode": "llm",
+  "pair": [
+   {
+    "id": "e4aa8be5adcd599d",
+    "source_id": "jiemian",
+    "source_name": "界面新闻",
+    "source_kind": "市场化媒体",
+    "title": "以军称在加沙地带“黄线”以西开展地道拆除行动",
+    "link": "https://www.jiemian.com/article/15348483.html",
+    "published": "2026-11-19T07:03:38+08:00",
+    "image_url": "https:https://img.jiemian.com/101/original/20220307/164664253426029700_a580x330.png",
+    "type": "world",
+    "region": "me",
+    "topic": "以军称在加沙地带“黄线”以西开展地道拆除行动",
+    "type_label": "国际关系",
+    "region_label": "中东"
+   },
+   {
+    "id": "b094700be28b5d75",
+    "source_id": "chinanews_world",
+    "source_name": "中国新闻网·国际",
+    "source_kind": "通讯社",
+    "title": "以军称在加沙地带“黄线”以西开展地道拆除行动",
+    "link": "https://www.chinanews.com.cn/gj/2026/11-19/10734436.shtml",
+    "published": "2026-11-19T06:05:13+08:00",
+    "image_url": null,
+    "type": "world",
+    "region": "me",
+    "topic": "以军称在加沙地带“黄线”以西开展地道拆除行动",
+    "type_label": "国际关系",
+    "region_label": "中东"
+   }
+  ],
+  "kind": "同一事件"
+ },
+ "counts": {
+  "world": 6,
+  "ai": 6,
+  "know": 2,
+  "other": 2
+ },
+ "report": {
+  "mode": "code",
+  "overview": "本期入选 16 条，扫描 409 条原始条目，26/26 个来源可用。按方向：国际局势 6 条、AI 发展 6 条、不为人知的知识 2 条。按事件类型：国际关系 7 条、技术进展 4 条、研究进展 2 条等。按地区：美国 5 条、中东 4 条、全球 4 条等。本期没有多家媒体同时报道的条目，全部为单一来源。",
+  "signals": [],
+  "groups": [
+   {
+    "key": "world",
+    "label": "国际局势",
+    "n": 6
+   },
+   {
+    "key": "ai",
+    "label": "AI 发展",
+    "n": 6
+   },
+   {
+    "key": "know",
+    "label": "不为人知的知识",
+    "n": 2
+   }
+  ],
+  "types": [
+   {
+    "key": "world",
+    "label": "国际关系",
+    "n": 7
+   },
+   {
+    "key": "tech",
+    "label": "技术进展",
+    "n": 4
+   },
+   {
+    "key": "research",
+    "label": "研究进展",
+    "n": 2
+   },
+   {
+    "key": "business",
+    "label": "商业资本",
+    "n": 1
+   },
+   {
+    "key": "industry",
+    "label": "行业观察",
+    "n": 1
+   },
+   {
+    "key": "other",
+    "label": "其他",
+    "n": 1
+   }
+  ],
+  "regions": [
+   {
+    "key": "us",
+    "label": "美国",
+    "n": 5
+   },
+   {
+    "key": "me",
+    "label": "中东",
+    "n": 4
+   },
+   {
+    "key": "global",
+    "label": "全球",
+    "n": 4
+   },
+   {
+    "key": "cn",
+    "label": "中国",
+    "n": 3
+   }
+  ],
+  "confirmed": [
+   {
+    "title": "以军称在加沙地带“黄线”以西开展地道拆除行动",
+    "n": 2
+   }
+  ],
+  "confirmed_n": 1,
+  "source_kinds": [
+   {
+    "kind": "市场化媒体",
+    "n": 5
+   },
+   {
+    "kind": "垂直媒体",
+    "n": 5
+   },
+   {
+    "kind": "公共媒体",
+    "n": 3
+   },
+   {
+    "kind": "通讯社",
+    "n": 3
+   }
+  ],
+  "note": "数字由程序统计；类型/地区标签来自模型或关键词规则；「归纳判断」是编辑视角的概括，不是事实，每条都附原文链接可核对。"
+ },
+ "stats": {
+  "scanned": 409,
+  "selected": 16,
+  "raw": 2959,
+  "clusters": 389,
+  "dedup": 406,
+  "sources_ok": 26,
+  "sources_total": 26,
+  "lookback_hours": 48,
+  "llm_mode": "llm",
+  "model": "deepseek-flash ×12",
+  "llm_calls": 12,
+  "cost": 0.0358,
+  "generated_at": "2026-11-19 07:16",
+  "errors": []
+ },
+ "archives": [
+  {
+   "date": "2026-11-18",
+   "weekday": "周三"
+  },
+  {
+   "date": "2026-11-17",
+   "weekday": "周二"
+  },
+  {
+   "date": "2026-11-16",
+   "weekday": "周一"
+  },
+  {
+   "date": "2026-11-15",
+   "weekday": "周日"
+  },
+  {
+   "date": "2026-11-14",
+   "weekday": "周六"
+  },
+  {
+   "date": "2026-11-13",
+   "weekday": "周五"
+  },
+  {
+   "date": "2026-11-12",
+   "weekday": "周四"
+  },
+  {
+   "date": "2026-11-11",
+   "weekday": "周三"
+  },
+  {
+   "date": "2026-11-10",
+   "weekday": "周二"
+  },
+  {
+   "date": "2026-11-09",
+   "weekday": "周一"
+  },
+  {
+   "date": "2026-11-08",
+   "weekday": "周日"
+  },
+  {
+   "date": "2026-11-07",
+   "weekday": "周六"
+  }
+ ]
+}
