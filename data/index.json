@@ -1,6 +1,34 @@
 {
- "updated": "2026-11-18 23:16",
+ "updated": "2026-11-19 23:24",
  "issues": [
+  {
+   "date": "2026-11-20",
+   "weekday": "周五",
+   "issue_no": 26,
+   "one_liner": "黄仁勋可能下台，开放权重模型或受削弱；伊朗核查停滞；谷歌发布新模型。",
+   "selected": 16,
+   "sources_ok": 26,
+   "groups": {
+    "ai": 8,
+    "world": 5,
+    "know": 1,
+    "other": 2
+   },
+   "types": {
+    "tech": 5,
+    "world": 4,
+    "policy": 3,
+    "business": 3,
+    "other": 1
+   },
+   "regions": {
+    "us": 9,
+    "global": 5,
+    "eu": 1,
+    "me": 1
+   },
+   "head": "本期入选 16 条，扫描 412 条原始条目，26/26 个来源可用。按方向：国际局势 5 条、AI 发展 8 条、不为人知的知识 1 条。"
+  },
   {
    "date": "2026-11-19",
    "weekday": "周四",
@@ -757,15 +785,15 @@
   }
  ],
  "aggregate": {
-  "issues": 25,
-  "items": 400,
+  "issues": 26,
+  "items": 416,
   "first": "2026-10-26",
-  "last": "2026-11-19",
+  "last": "2026-11-20",
   "types": [
    {
     "key": "world",
     "label": "国际关系",
-    "n": 103
+    "n": 107
    },
    {
     "key": "product",
@@ -775,17 +803,17 @@
    {
     "key": "tech",
     "label": "技术进展",
-    "n": 50
-   },
-   {
-    "key": "other",
-    "label": "其他",
-    "n": 42
+    "n": 55
    },
    {
     "key": "business",
     "label": "商业资本",
-    "n": 41
+    "n": 44
+   },
+   {
+    "key": "other",
+    "label": "其他",
+    "n": 43
    },
    {
     "key": "industry",
@@ -805,7 +833,7 @@
    {
     "key": "policy",
     "label": "政策监管",
-    "n": 12
+    "n": 15
    },
    {
     "key": "society",
@@ -822,22 +850,22 @@
    {
     "key": "us",
     "label": "美国",
-    "n": 99
+    "n": 108
    },
    {
     "key": "global",
     "label": "全球",
-    "n": 85
+    "n": 90
    },
    {
     "key": "me",
     "label": "中东",
-    "n": 51
+    "n": 52
    },
    {
     "key": "eu",
     "label": "欧洲",
-    "n": 36
+    "n": 37
    },
    {
     "key": "asia",

@@ -1,0 +1,508 @@
+{
+ "date": "2026-11-20",
+ "date_cn": "11 月 20 日",
+ "weekday": "周五",
+ "issue_no": 26,
+ "one_liner": "黄仁勋可能下台，开放权重模型或受削弱；伊朗核查停滞；谷歌发布新模型。",
+ "lede": "扫描 412 条，从 26/26 个可用来源里留下 16 条：国际局势 5 条 · AI 发展 8 条 · 不为人知的知识 1 条。",
+ "cover_image": "",
+ "headline": [
+  {
+   "id": "58bb8017b58eac8e",
+   "source_id": "solidot",
+   "source_name": "奇客 Solidot",
+   "source_kind": "垂直媒体",
+   "title": "黄仁勋的下台可能削弱开放权重模型让闭源模型受益",
+   "link": "https://www.solidot.org/story?sid=85932",
+   "published": "2026-11-19T17:09:08+08:00",
+   "image_url": null,
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "summary": "原文标题提到，黄仁勋下台可能削弱开放权重模型，让闭源模型受益。原文正文只有版权声明、ICP 备案号和举报联系方式，没有提供与标题相关的具体事实。原文未说明这一说法的依据、原因或后果。",
+   "why": "话题涉及 AI 开放权重模型与闭源模型的格局，属于读者关注的 AI 发展领域，但原文没有正文，只能作为线索参考。",
+   "tags": [
+    "AI",
+    "开放权重模型",
+    "黄仁勋"
+   ],
+   "summary_mode": "llm",
+   "type": "policy",
+   "region": "global",
+   "topic": "黄仁勋的下台可能削弱开放权重模型让闭源模型受益",
+   "type_label": "政策监管",
+   "region_label": "全球"
+  },
+  {
+   "id": "c2f564b2378d77e1",
+   "source_id": "un_news_zh",
+   "source_name": "联合国新闻·中文",
+   "source_kind": "公共媒体",
+   "title": "原子能机构：伊朗核查工作陷入停滞 乌克兰核设施安全风险持续加剧",
+   "link": "https://news.un.org/feed/view/zh/story/2026/11/1143220",
+   "published": "2026-11-18T20:00:00+08:00",
+   "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/30-01-2026-IAEA-Grossi.jpg/image560x340cropped.jpg",
+   "source_count": 1,
+   "pr": 0,
+   "group": "world",
+   "img": "assets/img/c2f564b2378d77e1.jpg",
+   "summary": "国际原子能机构总干事格罗西周三在维也纳向理事会表示，伊朗核查监督工作因无法获取相关信息和进入核设施而停滞。格罗西表示，乌克兰军事冲突持续威胁核设施安全，朝鲜核计划也在进一步推进。他还表示，全球核电发展势头增强，原子能机构将继续推动核能和平利用和核技术国际合作。",
+   "why": "涉及伊朗、乌克兰、朝鲜三处核领域动向，属于国际局势与核安全议题。",
+   "tags": [
+    "国际原子能机构",
+    "伊朗核查",
+    "核安全"
+   ],
+   "summary_mode": "llm",
+   "type": "world",
+   "region": "global",
+   "topic": "原子能机构：伊朗核查工作陷入停滞 乌克兰核设施安全风险持",
+   "type_label": "国际关系",
+   "region_label": "全球"
+  },
+  {
+   "id": "c11f28bae007d47f",
+   "source_id": "leiphone",
+   "source_name": "雷锋网",
+   "source_kind": "垂直媒体",
+   "title": "Google 杀入 Jev 核心赛道：Gemini Decision 1 五项基准领先两项落后",
+   "link": "https://www.leiphone.com/category/ai/wctgzdX4CN2RVxCm.html",
+   "published": "2026-11-19T17:08:00+08:00",
+   "image_url": "https://static.leiphone.com/uploads/new/images/20261119/6afebc66439ac.jpg?imageMogr2/quality/90",
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "img": "assets/img/c11f28bae007d47f.jpg",
+   "summary": "谷歌发布 Gemini Decision 1，可处理至多 1000 项独立判断，并支持文本、图像、音频、视频和 PDF 混合输入。在 7 项双方均有报告的共享基准中，该模型赢下 5 项；Jev 在 When2Call 工具调用和 Mind2Web 多模态上仍保持优势。Gemini Decision 1 每 100 万输入 Token 收费 0.10 美元，是 Jev 的约 2.38 倍。",
+   "why": "这条新闻涉及 AI 模型动态；决策模型这一新品类获得谷歌押注，且文中说明了该模型的输出设计与计费结构。",
+   "tags": [
+    "AI",
+    "谷歌",
+    "决策模型"
+   ],
+   "summary_mode": "llm",
+   "type": "tech",
+   "region": "us",
+   "topic": "Google 杀入 Jev 核心赛道：Gemini De",
+   "type_label": "技术进展",
+   "region_label": "美国"
+  }
+ ],
+ "featured": [
+  {
+   "id": "88b0eea44a3d991d",
+   "source_id": "ifanr",
+   "source_name": "爱范儿",
+   "source_kind": "垂直媒体",
+   "title": "刚刚，Anthropic 敲钟上市！史上最大IPO却让硅谷吵翻了",
+   "link": "https://www.ifanr.com/1690375?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "published": "2026-11-19T22:58:57+08:00",
+   "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/PixPin_2026-11-19_22-32-06-scaled.jpg",
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "img": "assets/img/88b0eea44a3d991d.jpg",
+   "summary": "刚刚，Anthropic 正式登陆纳斯达克，以「ANT」为股票代码挂牌交易，创下全球史上最大规模 IPO 纪录。这家 Claude 背后的 AI 巨头，最终以每股 83 美元的价格发行 9.8 亿股，公开发行规模达到 813.4 亿美元，超过马斯克旗下 SpaceX 今年 6 月创下的约 750 亿美元纪录。除了公开发行，英伟达、微软、谷歌、台积电、AMD、博通和美光七家科技巨头，还约定以发行价额外认购 260 亿美元的 N 类股。",
+   "why": "属于你关注的「AI 发展」。",
+   "tags": [],
+   "summary_mode": "extractive",
+   "type": "business",
+   "region": "us",
+   "topic": "刚刚，Anthropic 敲钟上市！史上最大IPO却让硅",
+   "type_label": "商业资本",
+   "region_label": "美国"
+  },
+  {
+   "id": "7263b14a5930b58d",
+   "source_id": "jiemian",
+   "source_name": "界面新闻",
+   "source_kind": "市场化媒体",
+   "title": "格鲁吉亚与俄罗斯外交代表举行会晤，强调继续对话",
+   "link": "https://www.jiemian.com/article/15352658.html",
+   "published": "2026-11-20T07:10:34+08:00",
+   "image_url": "https:https://img.jiemian.com/101/original/20220307/164664253426029700_a580x330.png",
+   "source_count": 1,
+   "pr": 0,
+   "group": "world",
+   "summary": "格鲁吉亚政府11月19日通报，格鲁吉亚总理对俄关系特别代表祖拉巴什维利当天在白俄罗斯首都明斯克与俄罗斯副外长加卢津举行会晤。双方表示，有必要继续开展对话以取得切实成果，并就经贸、文化和人文领域面临的挑战交换意见并达成若干协议。双方还讨论了地区安全形势，强调日内瓦国际会谈是解决俄格之间悬而未决问题的主要平台，并感谢白俄罗斯方面协助组织本次会晤。",
+   "why": "这条消息涉及俄格关系的实际外交进展，关注国际局势的读者可从中了解双方当前的对话渠道和议题范围。",
+   "tags": [
+    "俄格关系",
+    "外交会晤",
+    "日内瓦会谈"
+   ],
+   "summary_mode": "llm",
+   "type": "world",
+   "region": "global",
+   "topic": "格鲁吉亚与俄罗斯外交代表举行会晤，强调继续对话",
+   "type_label": "国际关系",
+   "region_label": "全球"
+  },
+  {
+   "id": "a8933b1d57ea0893",
+   "source_id": "solidot",
+   "source_name": "奇客 Solidot",
+   "source_kind": "垂直媒体",
+   "title": "欧盟委员会如何向逾 4 万工作人员部署 Matrix",
+   "link": "https://www.solidot.org/story?sid=85936",
+   "published": "2026-11-19T23:19:01+08:00",
+   "image_url": null,
+   "source_count": 1,
+   "pr": 0,
+   "group": "know",
+   "summary": "奇客 Solidot 发布了一篇题为《欧盟委员会如何向逾 4 万工作人员部署 Matrix》的文章。文章正文只列出网站版权、备案号和举报联系方式，原文未说明部署方式、时间或原因。",
+   "why": "这条内容涉及欧盟机构与开源通信工具的部署；因读者关注国际局势与技术发展，所以列给他参考，但原文正文没有实质信息。",
+   "tags": [
+    "欧盟",
+    "Matrix",
+    "开源通信"
+   ],
+   "summary_mode": "llm",
+   "type": "policy",
+   "region": "eu",
+   "topic": "欧盟委员会如何向逾 4 万工作人员部署 Matrix",
+   "type_label": "政策监管",
+   "region_label": "欧洲"
+  },
+  {
+   "id": "dcfd8d72e4a7861b",
+   "source_id": "ifanr",
+   "source_name": "爱范儿",
+   "source_kind": "垂直媒体",
+   "title": "深度实测 GPT-6.2：强是真强，难用也是真难用",
+   "link": "https://www.ifanr.com/1690130?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "published": "2026-11-18T18:01:23+08:00",
+   "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/cover-1119.jpg",
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "img": "assets/img/dcfd8d72e4a7861b.jpg",
+   "summary": "OpenAI 发布新一代旗舰模型 GPT-6.2 Astra，以及主打性价比的 GPT-6.2 Sol；官方称 Astra 在专业 Agent 任务上反超 Claude Fable 5.2，完成同等任务的综合成本只有后者的 5%。模型上线不到 12 小时，X 上出现大量差评：开发者 Theo 称其为「OpenAI 史上最糟糕的模型」，AI 创业者 Matt Shumer 称其「基本无法使用」；这些争议集中在这几个方面：回答过度简洁、写作水平倒退、长程 Agent 任务容易提前停止，以及遇到问题不主动向用户报告。即便是批评最激烈的用户也承认，Astra 在 3D 建模、空间推理和成本效率上有明显优势，部分能力领先于目前所有竞品。",
+   "why": "这条消息涉及国际 AI 公司的新模型发布和真实用户反馈，正面性能与负面体验并存，适合关注 AI 发展的读者了解近期进展。",
+   "tags": [
+    "AI",
+    "GPT-6.2",
+    "模型评测"
+   ],
+   "summary_mode": "llm",
+   "type": "tech",
+   "region": "us",
+   "topic": "深度实测 GPT-6.2：强是真强，难用也是真难用",
+   "type_label": "技术进展",
+   "region_label": "美国"
+  },
+  {
+   "id": "22a23ea7a136ae1d",
+   "source_id": "chinanews_world",
+   "source_name": "中国新闻网·国际",
+   "source_kind": "通讯社",
+   "title": "普京：克里米亚大桥遭袭后 不再讨论海上停火",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-20/10734987.shtml",
+   "published": "2026-11-20T06:05:38+08:00",
+   "image_url": null,
+   "source_count": 1,
+   "pr": 0,
+   "group": "world",
+   "summary": "俄罗斯总统普京表示，克里米亚大桥遭袭后，俄方不会就海上停火或停止攻击能源设施与有关方面谈判。普京称，克里米亚大桥是民用设施，俄方从未通过该桥运输军事装备、弹药及石油制品。他表示俄方将作出回应，力度将比乌方对克里米亚大桥的攻击更大。",
+   "why": "涉及俄乌冲突停火谈判前景，属读者关注的国际局势。",
+   "tags": [
+    "俄乌",
+    "克里米亚大桥",
+    "停火谈判"
+   ],
+   "summary_mode": "llm",
+   "type": "world",
+   "region": "global",
+   "topic": "普京：克里米亚大桥遭袭后 不再讨论海上停火",
+   "type_label": "国际关系",
+   "region_label": "全球"
+  }
+ ],
+ "quick": [
+  {
+   "title": "从英伟达到苹果、微软：同样拥抱AI，为什么企业的财富命运截然不同？",
+   "title_cn": "",
+   "link": "https://www.tmtpost.com/8211622.html",
+   "source_name": "钛媒体",
+   "source_kind": "市场化媒体",
+   "id": "29a97674a38750d8",
+   "type": "tech",
+   "type_label": "技术进展",
+   "region": "us",
+   "region_label": "美国"
+  },
+  {
+   "title": "【钛晨报】《中俄美元首和平宣言》发布；31家出资主体现身，DeepSeek第二轮融资落地；比亚迪发布折叠方向盘，长鑫科技拟25亿至50亿元回购股份",
+   "title_cn": "",
+   "link": "https://www.tmtpost.com/8211593.html",
+   "source_name": "钛媒体",
+   "source_kind": "市场化媒体",
+   "id": "ee0fa192d6f49de4",
+   "type": "business",
+   "type_label": "商业资本",
+   "region": "global",
+   "region_label": "全球"
+  },
+  {
+   "title": "英伟达接近以逾5亿美元收购扩散式AI初创公司Inception",
+   "title_cn": "",
+   "link": "https://www.jiemian.com/article/15352653.html",
+   "source_name": "界面新闻",
+   "source_kind": "市场化媒体",
+   "id": "9270b4ffbb276547",
+   "type": "business",
+   "type_label": "商业资本",
+   "region": "us",
+   "region_label": "美国"
+  },
+  {
+   "title": "以军在加沙中部发动地面行动 哈马斯谴责以色列违反停火协议",
+   "title_cn": "",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-19/10734468.shtml",
+   "source_name": "中国新闻网·国际",
+   "source_kind": "通讯社",
+   "id": "90b4d8109f457f06",
+   "type": "world",
+   "type_label": "国际关系",
+   "region": "me",
+   "region_label": "中东"
+  },
+  {
+   "title": "微软官方 agent-framework 软件包被黑客劫持安装恶意程序",
+   "title_cn": "",
+   "link": "https://www.solidot.org/story?sid=85931",
+   "source_name": "奇客 Solidot",
+   "source_kind": "垂直媒体",
+   "id": "e82ed31aa7e39428",
+   "type": "tech",
+   "type_label": "技术进展",
+   "region": "us",
+   "region_label": "美国"
+  },
+  {
+   "title": "Research acceleration: The jagged frontier",
+   "title_cn": "研究加速：参差不齐的前沿",
+   "link": "https://openai.com/index/research-acceleration-jagged-frontier",
+   "source_name": "OpenAI 官方博客",
+   "source_kind": "厂商官方",
+   "id": "59389fc5431f3a7b",
+   "type": "tech",
+   "type_label": "技术进展",
+   "region": "us",
+   "region_label": "美国"
+  }
+ ],
+ "challenge": {
+  "question": "美媒：特朗普称不会在新年前“仓促”决定对伊行动",
+  "a": "中新网 11月20日电 据美国阿克西奥斯新闻网站报道，美国总统特朗普19日表示，在新年到来之前，他不会就伊朗问题的下一步行动“仓促”作出决定。“我不会仓促做出任何(关于伊朗的)决定。",
+  "b": "美国总统特朗普11月19日表示，在新年到来之前，他不会就伊朗问题的下一步行动“仓促”作出决定。特朗普当天接受采访时说，他不会就伊朗问题“仓促”作出任何决定，“我们要看看新年之后局势如何发展”。",
+  "diff": "两家来源类型不同（通讯社 / 市场化媒体），原文表述不一致之处需要对照阅读。",
+  "mode": "extractive",
+  "pair": [
+   {
+    "id": "efe4bcfd057ecdd1",
+    "source_id": "chinanews_world",
+    "source_name": "中国新闻网·国际",
+    "source_kind": "通讯社",
+    "title": "美媒：特朗普称不会在新年前“仓促”决定对伊行动",
+    "link": "https://www.chinanews.com.cn/gj/2026/11-20/10734989.shtml",
+    "published": "2026-11-20T06:45:16+08:00",
+    "image_url": null,
+    "type": "other",
+    "region": "us",
+    "topic": "美媒：特朗普称不会在新年前“仓促”决定对伊行动",
+    "type_label": "其他",
+    "region_label": "美国"
+   },
+   {
+    "id": "4cb19cfdfc00a391",
+    "source_id": "jiemian",
+    "source_name": "界面新闻",
+    "source_kind": "市场化媒体",
+    "title": "特朗普表示不会在新年前“仓促”决定对伊朗行动",
+    "link": "https://www.jiemian.com/article/15352645.html",
+    "published": "2026-11-20T07:08:46+08:00",
+    "image_url": "https:https://img.jiemian.com/101/original/20220307/164664253426029700_a580x330.png",
+    "type": "policy",
+    "region": "us",
+    "topic": "特朗普表示不会在新年前“仓促”决定对伊朗行动",
+    "type_label": "政策监管",
+    "region_label": "美国"
+   }
+  ],
+  "kind": "同一事件"
+ },
+ "counts": {
+  "ai": 8,
+  "world": 5,
+  "know": 1,
+  "other": 2
+ },
+ "report": {
+  "mode": "code",
+  "overview": "本期入选 16 条，扫描 412 条原始条目，26/26 个来源可用。按方向：国际局势 5 条、AI 发展 8 条、不为人知的知识 1 条。按事件类型：技术进展 5 条、国际关系 4 条、政策监管 3 条等。按地区：美国 9 条、全球 5 条、欧洲 1 条等。本期没有多家媒体同时报道的条目，全部为单一来源。",
+  "signals": [],
+  "groups": [
+   {
+    "key": "ai",
+    "label": "AI 发展",
+    "n": 8
+   },
+   {
+    "key": "world",
+    "label": "国际局势",
+    "n": 5
+   },
+   {
+    "key": "know",
+    "label": "不为人知的知识",
+    "n": 1
+   }
+  ],
+  "types": [
+   {
+    "key": "tech",
+    "label": "技术进展",
+    "n": 5
+   },
+   {
+    "key": "world",
+    "label": "国际关系",
+    "n": 4
+   },
+   {
+    "key": "policy",
+    "label": "政策监管",
+    "n": 3
+   },
+   {
+    "key": "business",
+    "label": "商业资本",
+    "n": 3
+   },
+   {
+    "key": "other",
+    "label": "其他",
+    "n": 1
+   }
+  ],
+  "regions": [
+   {
+    "key": "us",
+    "label": "美国",
+    "n": 9
+   },
+   {
+    "key": "global",
+    "label": "全球",
+    "n": 5
+   },
+   {
+    "key": "eu",
+    "label": "欧洲",
+    "n": 1
+   },
+   {
+    "key": "me",
+    "label": "中东",
+    "n": 1
+   }
+  ],
+  "confirmed": [
+   {
+    "title": "美媒：特朗普称不会在新年前“仓促”决定对伊行动",
+    "n": 2
+   }
+  ],
+  "confirmed_n": 1,
+  "source_kinds": [
+   {
+    "kind": "垂直媒体",
+    "n": 6
+   },
+   {
+    "kind": "市场化媒体",
+    "n": 5
+   },
+   {
+    "kind": "通讯社",
+    "n": 3
+   },
+   {
+    "kind": "公共媒体",
+    "n": 1
+   },
+   {
+    "kind": "厂商官方",
+    "n": 1
+   }
+  ],
+  "note": "数字由程序统计；类型/地区标签来自模型或关键词规则；「归纳判断」是编辑视角的概括，不是事实，每条都附原文链接可核对。"
+ },
+ "stats": {
+  "scanned": 412,
+  "selected": 16,
+  "raw": 2964,
+  "clusters": 388,
+  "dedup": 405,
+  "sources_ok": 26,
+  "sources_total": 26,
+  "lookback_hours": 48,
+  "llm_mode": "llm",
+  "model": "deepseek-flash ×13",
+  "llm_calls": 13,
+  "cost": 0.0412,
+  "generated_at": "2026-11-20 07:24",
+  "errors": []
+ },
+ "archives": [
+  {
+   "date": "2026-11-19",
+   "weekday": "周四"
+  },
+  {
+   "date": "2026-11-18",
+   "weekday": "周三"
+  },
+  {
+   "date": "2026-11-17",
+   "weekday": "周二"
+  },
+  {
+   "date": "2026-11-16",
+   "weekday": "周一"
+  },
+  {
+   "date": "2026-11-15",
+   "weekday": "周日"
+  },
+  {
+   "date": "2026-11-14",
+   "weekday": "周六"
+  },
+  {
+   "date": "2026-11-13",
+   "weekday": "周五"
+  },
+  {
+   "date": "2026-11-12",
+   "weekday": "周四"
+  },
+  {
+   "date": "2026-11-11",
+   "weekday": "周三"
+  },
+  {
+   "date": "2026-11-10",
+   "weekday": "周二"
+  },
+  {
+   "date": "2026-11-09",
+   "weekday": "周一"
+  },
+  {
+   "date": "2026-11-08",
+   "weekday": "周日"
+  }
+ ]
+}
