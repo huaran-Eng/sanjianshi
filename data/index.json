@@ -1,6 +1,37 @@
 {
- "updated": "2026-11-19 23:24",
+ "updated": "2026-11-20 22:58",
  "issues": [
+  {
+   "date": "2026-11-21",
+   "weekday": "周六",
+   "issue_no": 27,
+   "one_liner": "今天值得看：黄仁勋的下台可能削弱开放权重模型让闭源…；特朗普：中俄美元首会晤“史无前例”“意…",
+   "selected": 16,
+   "sources_ok": 26,
+   "groups": {
+    "ai": 6,
+    "world": 5,
+    "know": 3,
+    "other": 2
+   },
+   "types": {
+    "product": 4,
+    "business": 3,
+    "world": 3,
+    "industry": 2,
+    "research": 1,
+    "society": 1,
+    "tech": 1,
+    "other": 1
+   },
+   "regions": {
+    "global": 6,
+    "us": 5,
+    "cn": 4,
+    "eu": 1
+   },
+   "head": "本期条目涉及Anthropic在纳斯达克上市及英伟达等七家认购股票、中俄美元首三方会晤、安理会秘书长遴选第九轮投票、粮农组织《粮食展望》报告"
+  },
   {
    "date": "2026-11-20",
    "weekday": "周五",
@@ -785,45 +816,45 @@
   }
  ],
  "aggregate": {
-  "issues": 26,
-  "items": 416,
+  "issues": 27,
+  "items": 432,
   "first": "2026-10-26",
-  "last": "2026-11-20",
+  "last": "2026-11-21",
   "types": [
    {
     "key": "world",
     "label": "国际关系",
-    "n": 107
+    "n": 110
    },
    {
     "key": "product",
     "label": "产品发布",
-    "n": 72
+    "n": 76
    },
    {
     "key": "tech",
     "label": "技术进展",
-    "n": 55
+    "n": 56
    },
    {
     "key": "business",
     "label": "商业资本",
-    "n": 44
+    "n": 47
    },
    {
     "key": "other",
     "label": "其他",
-    "n": 43
+    "n": 44
    },
    {
     "key": "industry",
     "label": "行业观察",
-    "n": 27
+    "n": 29
    },
    {
     "key": "research",
     "label": "研究进展",
-    "n": 25
+    "n": 26
    },
    {
     "key": "security",
@@ -838,24 +869,24 @@
    {
     "key": "society",
     "label": "社会民生",
-    "n": 12
+    "n": 13
    }
   ],
   "regions": [
    {
     "key": "cn",
     "label": "中国",
-    "n": 113
+    "n": 117
    },
    {
     "key": "us",
     "label": "美国",
-    "n": 108
+    "n": 113
    },
    {
     "key": "global",
     "label": "全球",
-    "n": 90
+    "n": 96
    },
    {
     "key": "me",
@@ -865,7 +896,7 @@
    {
     "key": "eu",
     "label": "欧洲",
-    "n": 37
+    "n": 38
    },
    {
     "key": "asia",

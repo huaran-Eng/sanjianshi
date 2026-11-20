@@ -1,0 +1,530 @@
+{
+ "date": "2026-11-21",
+ "date_cn": "11 月 21 日",
+ "weekday": "周六",
+ "issue_no": 27,
+ "one_liner": "今天值得看：黄仁勋的下台可能削弱开放权重模型让闭源…；特朗普：中俄美元首会晤“史无前例”“意…",
+ "lede": "扫描 406 条，从 26/26 个可用来源里留下 16 条：国际局势 5 条 · AI 发展 6 条 · 不为人知的知识 3 条。",
+ "cover_image": "",
+ "headline": [
+  {
+   "id": "58bb8017b58eac8e",
+   "source_id": "solidot",
+   "source_name": "奇客 Solidot",
+   "source_kind": "垂直媒体",
+   "title": "黄仁勋的下台可能削弱开放权重模型让闭源模型受益",
+   "link": "https://www.solidot.org/story?sid=85932",
+   "published": "2026-11-19T17:09:08+08:00",
+   "image_url": null,
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "summary": "原文标题为《黄仁勋的下台可能削弱开放权重模型让闭源模型受益》。正文只包含版权声明、ICP 备案号以及举报电话、邮箱等站点信息，没有给出与标题相关的具体内容。原文未说明这一判断的依据、时间或影响。",
+   "why": "这条属于你关注的 AI 领域，但原文正文没有实质信息，暂时无法据此了解具体情况。",
+   "tags": [
+    "AI",
+    "模型生态",
+    "内容缺失"
+   ],
+   "summary_mode": "llm",
+   "type": "industry",
+   "region": "global",
+   "topic": "开放权重与闭源模型竞争",
+   "type_label": "行业观察",
+   "region_label": "全球"
+  },
+  {
+   "id": "5e3aeeedc19714ce",
+   "source_id": "chinanews_world",
+   "source_name": "中国新闻网·国际",
+   "source_kind": "通讯社",
+   "title": "特朗普：中俄美元首会晤“史无前例”“意义重大”",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-21/10735606.shtml",
+   "published": "2026-11-21T06:06:28+08:00",
+   "image_url": null,
+   "source_count": 1,
+   "pr": 0,
+   "group": "world",
+   "summary": "美国总统特朗普11月20日在白宫新闻发布会上说，日前在深圳举行的亚太经合组织领导人非正式会议是一场非常成功的经济会议，中俄美三国领导人举行了首次三方会晤，这是“多年来最具重大意义的国际峰会之一”。特朗普称，此次会晤“史无前例”“意义非常重大”，会晤气氛“极其热烈”，三方成果是“一份史无前例的三方和平宣言”，并已就“绝不能让核冲突发生”达成共识。中俄美三国元首11月19日在深圳举行会晤，围绕维护世界和平、促进大国关系战略稳定进行讨论，会后发表《中俄美元首和平宣言》。",
+   "why": "中美俄三方首次元首会晤并发表和平宣言，并提到核冲突共识，属于国际局势中的重要动向。",
+   "tags": [
+    "国际局势",
+    "中俄美",
+    "元首会晤"
+   ],
+   "summary_mode": "llm",
+   "type": "world",
+   "region": "global",
+   "topic": "中俄美元首三方会晤",
+   "type_label": "国际关系",
+   "region_label": "全球"
+  },
+  {
+   "id": "88b0eea44a3d991d",
+   "source_id": "ifanr",
+   "source_name": "爱范儿",
+   "source_kind": "垂直媒体",
+   "title": "刚刚，Anthropic 敲钟上市！史上最大IPO却让硅谷吵翻了",
+   "link": "https://www.ifanr.com/1690375?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "published": "2026-11-19T22:58:57+08:00",
+   "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/PixPin_2026-11-19_22-32-06-scaled.jpg",
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "img": "assets/img/88b0eea44a3d991d.jpg",
+   "summary": "Anthropic 以「ANT」为代码在纳斯达克上市，每股 83 美元发行 9.8 亿股，公开发行规模 813.4 亿美元，超过 SpaceX 今年 6 月约 750 亿美元的纪录。同日，近百位 AI 研究者、创始人和科学家联署《厌恶 Anthropic 声明》，称其并非安全的 AI 公司。招股书披露 9009 亿美元算力与基础设施采购及租赁承诺，其中 4516 亿美元将在 2030 年底前支出。",
+   "why": "读者关注 AI 发展，这条呈现头部 AI 公司上市、监管争议与算力投入的关键事实。",
+   "tags": [
+    "Anthropic",
+    "IPO",
+    "AI 治理"
+   ],
+   "summary_mode": "llm",
+   "type": "business",
+   "region": "us",
+   "topic": "Anthropic纳斯达克上市",
+   "type_label": "商业资本",
+   "region_label": "美国"
+  }
+ ],
+ "featured": [
+  {
+   "id": "6b5ec58560ff7ee4",
+   "source_id": "solidot",
+   "source_name": "奇客 Solidot",
+   "source_kind": "垂直媒体",
+   "title": "阿里巴巴警告未来两年算力紧缺",
+   "link": "https://www.solidot.org/story?sid=85947",
+   "published": "2026-11-20T20:48:17+08:00",
+   "image_url": null,
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "summary": "奇客 Solidot 于 2026 年 11 月 20 日发布标题为《阿里巴巴警告未来两年算力紧缺》的内容。原文正文只有版权声明与备案信息，未说明算力紧缺的原因、范围或影响。",
+   "why": "主题属于读者关注的 AI 发展领域，但原文未提供任何实质信息，阅读价值有限。",
+   "tags": [
+    "算力",
+    "阿里巴巴",
+    "AI"
+   ],
+   "summary_mode": "llm",
+   "type": "industry",
+   "region": "cn",
+   "topic": "阿里预警算力紧缺",
+   "type_label": "行业观察",
+   "region_label": "中国"
+  },
+  {
+   "id": "041d9f78dab6f7f9",
+   "source_id": "chinanews_world",
+   "source_name": "中国新闻网·国际",
+   "source_kind": "通讯社",
+   "title": "安理会举行联合国秘书长遴选第九轮意向性投票",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-21/10735607.shtml",
+   "published": "2026-11-21T06:07:58+08:00",
+   "image_url": null,
+   "source_count": 1,
+   "pr": 0,
+   "group": "world",
+   "summary": "联合国安理会20日就下一任联合国秘书长遴选举行第九轮意向性投票。安理会当月轮值主席表示，投票结果将通过候选人推举国通知各候选人。意向性投票闭门进行，结果不作官方记录、不对外公布，候选人须获至少9票鼓励且5个常任理事国均不劝阻方可获安理会推荐。",
+   "why": "涉及联合国最高职位人选更替的程序进展，属国际治理动态。",
+   "tags": [
+    "联合国",
+    "安理会",
+    "秘书长遴选"
+   ],
+   "summary_mode": "llm",
+   "type": "world",
+   "region": "global",
+   "topic": "联合国秘书长遴选投票",
+   "type_label": "国际关系",
+   "region_label": "全球"
+  },
+  {
+   "id": "24cecd2f71d0d4cf",
+   "source_id": "solidot",
+   "source_name": "奇客 Solidot",
+   "source_kind": "垂直媒体",
+   "title": "Anthropic 的数论学家声称证明黎曼猜想",
+   "link": "https://www.solidot.org/story?sid=85949",
+   "published": "2026-11-20T23:14:05+08:00",
+   "image_url": null,
+   "source_count": 1,
+   "pr": 0,
+   "group": "know",
+   "summary": "奇客 Solidot 于 2026 年 11 月 20 日发布了一条标题为《Anthropic 的数论学家声称证明黎曼猜想》的内容。原文正文只有网站版权信息和备案信息，没有给出该声称的具体内容、证明过程或相关回应。",
+   "why": "标题涉及 AI 公司与数学难题，但原文没有提供任何可核实的细节，只能当作待核实的线索。",
+   "tags": [
+    "黎曼猜想",
+    "Anthropic",
+    "未证实"
+   ],
+   "summary_mode": "llm",
+   "type": "research",
+   "region": "us",
+   "topic": "声称证明黎曼猜想",
+   "type_label": "研究进展",
+   "region_label": "美国"
+  },
+  {
+   "id": "9aa742ceb7c003f8",
+   "source_id": "tmtpost",
+   "source_name": "钛媒体",
+   "source_kind": "市场化媒体",
+   "title": "Anthropic正式登陆纳斯达克：敲钟那天，账已经在另一张纸上？",
+   "link": "https://www.tmtpost.com/8212716.html",
+   "published": "2026-11-20T17:22:47+08:00",
+   "image_url": "https://images.tmtpost.com/uploads/images/2026/11/7016d3bc1c8370fa663e5b22892098c2_1795166570.jpg",
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "img": "assets/img/9aa742ceb7c003f8.jpg",
+   "summary": "文 | ST商业研究社 11月19日，Anthropic在纳斯达克挂牌，9.8亿股，每股83美元。我翻到招股书封面那段才发现，英伟达与微软和谷歌等七家另掏260亿美元买它的股票。卖铲子的人，成了股东。",
+   "why": "属于你关注的「AI 发展、不为人知的知识」。",
+   "tags": [],
+   "summary_mode": "extractive",
+   "type": "business",
+   "region": "us",
+   "topic": "Anthropic上市与股东认购",
+   "type_label": "商业资本",
+   "region_label": "美国"
+  },
+  {
+   "id": "744276ea5bdfb49d",
+   "source_id": "un_news_zh",
+   "source_name": "联合国新闻·中文",
+   "source_kind": "公共媒体",
+   "title": "粮农组织：全球粮食供应总体充裕 但市场风险和粮食安全挑战加剧",
+   "link": "https://news.un.org/feed/view/zh/story/2026/11/1143227",
+   "published": "2026-11-19T20:00:00+08:00",
+   "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/11-05-2026-FAO-Rwanda.jpg/image560x340cropped.jpg",
+   "source_count": 1,
+   "pr": 0,
+   "group": "world",
+   "img": "assets/img/744276ea5bdfb49d.jpg",
+   "summary": "粮农组织发布最新一期《粮食展望》报告，指出全球农产品供应总体充裕，特别是小麦和粗粮，但大米、食糖和植物油的供需平衡趋于紧张。报告称天气变化、物流中断和政策不确定性正增加全球粮食市场风险。同日，粮农组织总干事屈冬玉呼吁加强国际合作，将粮食安全纳入预防和解决冲突的外交努力。",
+   "why": "属于国际局势议题，讲的是全球粮食供应与市场风险，与读者关注方向相关。",
+   "tags": [
+    "粮食安全",
+    "国际组织",
+    "市场风险"
+   ],
+   "summary_mode": "llm",
+   "type": "society",
+   "region": "global",
+   "topic": "全球粮食供应与市场风险",
+   "type_label": "社会民生",
+   "region_label": "全球"
+  }
+ ],
+ "quick": [
+  {
+   "title": "浮屏：截图即可「上岛」，还能帮你记录生活",
+   "title_cn": "",
+   "link": "https://sspai.com/post/118879",
+   "source_name": "少数派",
+   "source_kind": "社区",
+   "id": "eabd36ac4799911d",
+   "type": "product",
+   "type_label": "产品发布",
+   "region": "cn",
+   "region_label": "中国"
+  },
+  {
+   "title": "50天推出4款模型，谷歌想当“造物主”了？",
+   "title_cn": "",
+   "link": "https://www.tmtpost.com/8212777.html",
+   "source_name": "钛媒体",
+   "source_kind": "市场化媒体",
+   "id": "9fba8319143f2d4c",
+   "type": "product",
+   "type_label": "产品发布",
+   "region": "us",
+   "region_label": "美国"
+  },
+  {
+   "title": "美官员披露：美国已为伊朗战事花费超480亿美元",
+   "title_cn": "",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-20/10735436.shtml",
+   "source_name": "中国新闻网·国际",
+   "source_kind": "通讯社",
+   "id": "14711254449790d4",
+   "type": "world",
+   "type_label": "国际关系",
+   "region": "us",
+   "region_label": "美国"
+  },
+  {
+   "title": "徒步旅行指南 | 玉龙虎跳峡与天堂雨崩",
+   "title_cn": "",
+   "link": "https://sspai.com/post/119039",
+   "source_name": "少数派",
+   "source_kind": "社区",
+   "id": "1193eb27b3b16431",
+   "type": "other",
+   "type_label": "其他",
+   "region": "cn",
+   "region_label": "中国"
+  },
+  {
+   "title": "昇腾算力训出了双榜SOTA的具身世界模型，华为云这次想把整套底座开放出来",
+   "title_cn": "",
+   "link": "https://www.qbitai.com/2026/11/511610.html",
+   "source_name": "量子位",
+   "source_kind": "垂直媒体",
+   "id": "9a80d117ac4a5b10",
+   "type": "tech",
+   "type_label": "技术进展",
+   "region": "cn",
+   "region_label": "中国"
+  },
+  {
+   "title": "欧洲三大股指集体下挫，德国DAX指数收跌超2%",
+   "title_cn": "",
+   "link": "https://www.jiemian.com/article/15357206.html",
+   "source_name": "界面新闻",
+   "source_kind": "市场化媒体",
+   "id": "adeed71dcb53de7a",
+   "type": "business",
+   "type_label": "商业资本",
+   "region": "eu",
+   "region_label": "欧洲"
+  }
+ ],
+ "challenge": {
+  "question": "两家报道分歧在哪",
+  "a": "强调延期两月因AI报告漏洞潮，称值得等待，重点介绍作者最爱的复制等待新特性及维基百科用法",
+  "b": "发布官方说明，列发布日期与REPACK、pg_plan_advice等新特性及逻辑复制改进",
+  "diff": "A讲延期原因与单一特性体验，B列功能清单，原因原文未说明",
+  "mode": "llm",
+  "pair": [
+   {
+    "id": "18fd350aa1af2c0c",
+    "source_id": "simonw",
+    "source_name": "Simon Willison",
+    "source_kind": "个人",
+    "title": "PostgreSQL 19 Released",
+    "link": "https://simonwillison.net/2026/Nov/19/postgresql-19/",
+    "published": "2026-11-20T04:43:57+08:00",
+    "image_url": null,
+    "type": "product",
+    "region": "global",
+    "topic": "PostgreSQL 19发布",
+    "type_label": "产品发布",
+    "region_label": "全球"
+   },
+   {
+    "id": "9c815e18dd9ffa3e",
+    "source_id": "hn_best",
+    "source_name": "Hacker News 精选",
+    "source_kind": "社区",
+    "title": "PostgreSQL 19",
+    "link": "https://www.postgresql.org/docs/release/19.0/",
+    "published": "2026-11-20T11:45:45+08:00",
+    "image_url": null,
+    "type": "product",
+    "region": "global",
+    "topic": "PostgreSQL 19发布",
+    "type_label": "产品发布",
+    "region_label": "全球"
+   }
+  ],
+  "kind": "同一事件"
+ },
+ "counts": {
+  "ai": 6,
+  "world": 5,
+  "know": 3,
+  "other": 2
+ },
+ "report": {
+  "mode": "llm",
+  "overview": "本期条目涉及Anthropic在纳斯达克上市及英伟达等七家认购股票、中俄美元首三方会晤、安理会秘书长遴选第九轮投票、粮农组织《粮食展望》报告、美国对伊朗战事花费超480亿美元，以及欧洲三大股指下挫与PostgreSQL 19发布。",
+  "signals": [
+   "Anthropic上市在两篇条目中出现，涉及发行规模与七家认购方。",
+   "多条奇客Solidot条目正文仅含版权备案信息，未给出标题相关内容。",
+   "本期国际议题集中于元首会晤、联合国遴选与粮农组织报告。"
+  ],
+  "groups": [
+   {
+    "key": "ai",
+    "label": "AI 发展",
+    "n": 6
+   },
+   {
+    "key": "world",
+    "label": "国际局势",
+    "n": 5
+   },
+   {
+    "key": "know",
+    "label": "不为人知的知识",
+    "n": 3
+   }
+  ],
+  "types": [
+   {
+    "key": "product",
+    "label": "产品发布",
+    "n": 4
+   },
+   {
+    "key": "business",
+    "label": "商业资本",
+    "n": 3
+   },
+   {
+    "key": "world",
+    "label": "国际关系",
+    "n": 3
+   },
+   {
+    "key": "industry",
+    "label": "行业观察",
+    "n": 2
+   },
+   {
+    "key": "research",
+    "label": "研究进展",
+    "n": 1
+   },
+   {
+    "key": "society",
+    "label": "社会民生",
+    "n": 1
+   },
+   {
+    "key": "tech",
+    "label": "技术进展",
+    "n": 1
+   },
+   {
+    "key": "other",
+    "label": "其他",
+    "n": 1
+   }
+  ],
+  "regions": [
+   {
+    "key": "global",
+    "label": "全球",
+    "n": 6
+   },
+   {
+    "key": "us",
+    "label": "美国",
+    "n": 5
+   },
+   {
+    "key": "cn",
+    "label": "中国",
+    "n": 4
+   },
+   {
+    "key": "eu",
+    "label": "欧洲",
+    "n": 1
+   }
+  ],
+  "confirmed": [
+   {
+    "title": "PostgreSQL 19 Released",
+    "n": 2
+   }
+  ],
+  "confirmed_n": 1,
+  "source_kinds": [
+   {
+    "kind": "垂直媒体",
+    "n": 5
+   },
+   {
+    "kind": "通讯社",
+    "n": 3
+   },
+   {
+    "kind": "市场化媒体",
+    "n": 3
+   },
+   {
+    "kind": "社区",
+    "n": 3
+   },
+   {
+    "kind": "公共媒体",
+    "n": 1
+   },
+   {
+    "kind": "个人",
+    "n": 1
+   }
+  ],
+  "note": "数字由程序统计；类型/地区标签来自模型或关键词规则；「归纳判断」是编辑视角的概括，不是事实，每条都附原文链接可核对。"
+ },
+ "stats": {
+  "scanned": 406,
+  "selected": 16,
+  "raw": 2963,
+  "clusters": 385,
+  "dedup": 404,
+  "sources_ok": 26,
+  "sources_total": 26,
+  "lookback_hours": 48,
+  "llm_mode": "llm",
+  "model": "deepseek-flash ×12",
+  "llm_calls": 12,
+  "cost": 0.0395,
+  "generated_at": "2026-11-21 06:58",
+  "errors": []
+ },
+ "archives": [
+  {
+   "date": "2026-11-20",
+   "weekday": "周五"
+  },
+  {
+   "date": "2026-11-19",
+   "weekday": "周四"
+  },
+  {
+   "date": "2026-11-18",
+   "weekday": "周三"
+  },
+  {
+   "date": "2026-11-17",
+   "weekday": "周二"
+  },
+  {
+   "date": "2026-11-16",
+   "weekday": "周一"
+  },
+  {
+   "date": "2026-11-15",
+   "weekday": "周日"
+  },
+  {
+   "date": "2026-11-14",
+   "weekday": "周六"
+  },
+  {
+   "date": "2026-11-13",
+   "weekday": "周五"
+  },
+  {
+   "date": "2026-11-12",
+   "weekday": "周四"
+  },
+  {
+   "date": "2026-11-11",
+   "weekday": "周三"
+  },
+  {
+   "date": "2026-11-10",
+   "weekday": "周二"
+  },
+  {
+   "date": "2026-11-09",
+   "weekday": "周一"
+  }
+ ]
+}
