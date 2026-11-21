@@ -1,6 +1,35 @@
 {
- "updated": "2026-11-20 22:58",
+ "updated": "2026-11-21 22:01",
  "issues": [
+  {
+   "date": "2026-11-22",
+   "weekday": "周日",
+   "issue_no": 28,
+   "one_liner": "阿里巴巴警告未来两年算力紧缺，阿里云称已开始从AI业务获利。",
+   "selected": 16,
+   "sources_ok": 26,
+   "groups": {
+    "ai": 6,
+    "world": 5,
+    "know": 3,
+    "other": 2
+   },
+   "types": {
+    "product": 5,
+    "world": 5,
+    "business": 2,
+    "research": 2,
+    "policy": 1,
+    "industry": 1
+   },
+   "regions": {
+    "cn": 6,
+    "global": 6,
+    "us": 3,
+    "eu": 1
+   },
+   "head": "阿里云本季度AI云与算力服务收入609.73亿元、同比增长53%，同期公司警告未来两年算力紧缺；华为云发布昇腾原生具身世界模型，Kling "
+  },
   {
    "date": "2026-11-21",
    "weekday": "周六",
@@ -816,20 +845,20 @@
   }
  ],
  "aggregate": {
-  "issues": 27,
-  "items": 432,
+  "issues": 28,
+  "items": 448,
   "first": "2026-10-26",
-  "last": "2026-11-21",
+  "last": "2026-11-22",
   "types": [
    {
     "key": "world",
     "label": "国际关系",
-    "n": 110
+    "n": 115
    },
    {
     "key": "product",
     "label": "产品发布",
-    "n": 76
+    "n": 81
    },
    {
     "key": "tech",
@@ -839,7 +868,7 @@
    {
     "key": "business",
     "label": "商业资本",
-    "n": 47
+    "n": 49
    },
    {
     "key": "other",
@@ -849,22 +878,22 @@
    {
     "key": "industry",
     "label": "行业观察",
-    "n": 29
+    "n": 30
    },
    {
     "key": "research",
     "label": "研究进展",
-    "n": 26
+    "n": 28
+   },
+   {
+    "key": "policy",
+    "label": "政策监管",
+    "n": 16
    },
    {
     "key": "security",
     "label": "安全事件",
     "n": 16
-   },
-   {
-    "key": "policy",
-    "label": "政策监管",
-    "n": 15
    },
    {
     "key": "society",
@@ -876,17 +905,17 @@
    {
     "key": "cn",
     "label": "中国",
-    "n": 117
+    "n": 123
    },
    {
     "key": "us",
     "label": "美国",
-    "n": 113
+    "n": 116
    },
    {
     "key": "global",
     "label": "全球",
-    "n": 96
+    "n": 102
    },
    {
     "key": "me",
@@ -896,7 +925,7 @@
    {
     "key": "eu",
     "label": "欧洲",
-    "n": 38
+    "n": 39
    },
    {
     "key": "asia",

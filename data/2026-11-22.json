@@ -1,0 +1,524 @@
+{
+ "date": "2026-11-22",
+ "date_cn": "11 月 22 日",
+ "weekday": "周日",
+ "issue_no": 28,
+ "one_liner": "阿里巴巴警告未来两年算力紧缺，阿里云称已开始从AI业务获利。",
+ "lede": "扫描 369 条，从 26/26 个可用来源里留下 16 条：国际局势 5 条 · AI 发展 6 条 · 不为人知的知识 3 条。",
+ "cover_image": "assets/img/ebf6ab8e1a2367d0.jpg",
+ "headline": [
+  {
+   "id": "ebf6ab8e1a2367d0",
+   "source_id": "tmtpost",
+   "source_name": "钛媒体",
+   "source_kind": "市场化媒体",
+   "title": "阿里云，开始赚AI的钱了",
+   "link": "https://www.tmtpost.com/8213152.html",
+   "published": "2026-11-21T12:44:45+08:00",
+   "image_url": "https://images.tmtpost.com/uploads/images/2026/11/20/8ad69f3a4ca18dfca523b5b0f92d9f5d_1795176473.jpeg",
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "img": "assets/img/ebf6ab8e1a2367d0.jpg",
+   "summary": "阿里云本季度AI云与算力服务收入609.73亿元，同比增长53%，经调整EBITA达88.38亿元，同比增长121%。AI相关产品收入已连续13个季度实现三位数同比增长。同期阿里集团自由现金流净流出344.72亿元，公司解释主要原因是云基础设施支出增加。",
+   "why": "读者关注AI发展，这条呈现了中国AI云厂商从技术投入转向收入与利润的阶段，并附有具体财务数字。",
+   "tags": [
+    "AI云",
+    "阿里云",
+    "财报"
+   ],
+   "summary_mode": "llm",
+   "type": "business",
+   "region": "cn",
+   "topic": "阿里云AI收入增长",
+   "type_label": "商业资本",
+   "region_label": "中国"
+  },
+  {
+   "id": "6b5ec58560ff7ee4",
+   "source_id": "solidot",
+   "source_name": "奇客 Solidot",
+   "source_kind": "垂直媒体",
+   "title": "阿里巴巴警告未来两年算力紧缺",
+   "link": "https://www.solidot.org/story?sid=85947",
+   "published": "2026-11-20T20:48:17+08:00",
+   "image_url": null,
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "summary": "原文标题称，阿里巴巴警告未来两年算力紧缺。原文正文未包含该报道的具体内容，只有网站版权声明与备案信息。",
+   "why": "算力供给与读者关注的 AI 发展相关，但原文正文没有给出任何细节，因此只能当作一条待核实的标题线索。",
+   "tags": [
+    "AI算力",
+    "阿里巴巴",
+    "信息不完整"
+   ],
+   "summary_mode": "llm",
+   "type": "business",
+   "region": "cn",
+   "topic": "阿里预警算力紧缺",
+   "type_label": "商业资本",
+   "region_label": "中国"
+  },
+  {
+   "id": "c8c26847802d362a",
+   "source_id": "jiemian",
+   "source_name": "界面新闻",
+   "source_kind": "市场化媒体",
+   "title": "泽连斯基称乌欧美俄四方会谈时间取决于美方协调",
+   "link": "https://www.jiemian.com/article/15358367.html",
+   "published": "2026-11-21T19:58:57+08:00",
+   "image_url": "https:https://img.jiemian.com/101/original/20220307/164664253426029700_a580x330.png",
+   "source_count": 1,
+   "pr": 0,
+   "group": "world",
+   "summary": "乌克兰总统泽连斯基11月21日在会晤英国国防大臣斯特里廷时表示，下一轮乌克兰、美国、欧洲、俄罗斯四方会谈的举办时间与形式，取决于美方和各方就会议议程协调一致的进度。他表示，美方会尽力推动会谈尽快举行，但预计俄方可能采取行动拖延会议。泽连斯基还称，人员交换依然重要，乌方主张按「全部交换全部」原则推进，但谈判必须聚焦结束战争这一核心目标。",
+   "why": "涉及乌克兰、美国、欧洲、俄罗斯四方会谈的筹备进展，是观察国际局势走向的一条信息。",
+   "tags": [
+    "国际局势",
+    "俄乌",
+    "四方会谈"
+   ],
+   "summary_mode": "llm",
+   "type": "world",
+   "region": "eu",
+   "topic": "乌欧美俄四方会谈安排",
+   "type_label": "国际关系",
+   "region_label": "欧洲"
+  }
+ ],
+ "featured": [
+  {
+   "id": "c155b72a902093b5",
+   "source_id": "tmtpost",
+   "source_name": "钛媒体",
+   "source_kind": "市场化媒体",
+   "title": "清析智研王欢：大模型学完了人类知识，下一步去哪儿？",
+   "link": "https://www.tmtpost.com/8213250.html",
+   "published": "2026-11-21T12:44:41+08:00",
+   "image_url": "https://images.tmtpost.com/uploads/images/2023/tkrss/ty5465ejyt3.png",
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "img": "assets/img/c155b72a902093b5.jpg",
+   "summary": "清析智研联合创始人、首席科学家王欢在Y-Talk直播对话中表示，大模型目前的能力主要来自数字或虚拟空间，即已掌握人类已有的知识，对人类尚未总结、尚未发现的领域还有很长的路要走。他提出，AI for Science的下一次突破在于把模型逐步接入科研仪器、实验与产线设备，推动科学仪器向AI原生设备演进，形成模型、AI原生仪器、AI原生实验室与产线协同运行的物理闭环。他认为，这一方向的稀缺资产是持续产生新数据的能力。",
+   "why": "这条内容来自AI科研领域从业者对AI4S突破方向的判断，涉及大模型之后的发展路径，与读者对AI发展的关注相关。",
+   "tags": [
+    "AI4S",
+    "大模型",
+    "科学仪器"
+   ],
+   "summary_mode": "llm",
+   "type": "research",
+   "region": "cn",
+   "topic": "AI for Science下一步方向",
+   "type_label": "研究进展",
+   "region_label": "中国"
+  },
+  {
+   "id": "ca1fac25c4b87d25",
+   "source_id": "chinanews_world",
+   "source_name": "中国新闻网·国际",
+   "source_kind": "通讯社",
+   "title": "特朗普：中俄美元首会晤具有重大历史意义",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-21/10735613.shtml",
+   "published": "2026-11-21T10:04:27+08:00",
+   "image_url": null,
+   "source_count": 1,
+   "pr": 0,
+   "group": "world",
+   "summary": "美国总统特朗普在白宫表示，美中俄三国领导人日前在中国深圳举行的首次三方会晤是一场具有重大历史意义的国际峰会。特朗普称，这场峰会达成的成果是一份史无前例的三方和平宣言，三方正式达成共识，绝不能让核冲突发生。中俄美三国元首19日在深圳会晤，围绕维护世界和平、促进大国关系战略稳定主题深入讨论，会后发表《中俄美元首和平宣言》。",
+   "why": "涉及中美俄三方首次元首会晤及和平宣言，属于国际局势的重要动向。",
+   "tags": [
+    "国际局势",
+    "中美俄",
+    "元首会晤"
+   ],
+   "summary_mode": "llm",
+   "type": "world",
+   "region": "global",
+   "topic": "中俄美元首深圳会晤",
+   "type_label": "国际关系",
+   "region_label": "全球"
+  },
+  {
+   "id": "24cecd2f71d0d4cf",
+   "source_id": "solidot",
+   "source_name": "奇客 Solidot",
+   "source_kind": "垂直媒体",
+   "title": "Anthropic 的数论学家声称证明黎曼猜想",
+   "link": "https://www.solidot.org/story?sid=85949",
+   "published": "2026-11-20T23:14:05+08:00",
+   "image_url": null,
+   "source_count": 1,
+   "pr": 0,
+   "group": "know",
+   "summary": "奇客 Solidot 发布了一篇标题为《Anthropic 的数论学家声称证明黎曼猜想》的文章，发布时间为 2026-11-20 23:14。原文正文只有版权与备案信息，未说明该声称的具体内容、证明过程或相关回应。",
+   "why": "标题涉及 AI 机构与数学难题，属于读者关注的 AI 方向，但原文未提供任何可核实的细节。",
+   "tags": [
+    "AI",
+    "数学",
+    "待核实"
+   ],
+   "summary_mode": "llm",
+   "type": "research",
+   "region": "us",
+   "topic": "声称证明黎曼猜想",
+   "type_label": "研究进展",
+   "region_label": "美国"
+  },
+  {
+   "id": "9a80d117ac4a5b10",
+   "source_id": "qbitai",
+   "source_name": "量子位",
+   "source_kind": "垂直媒体",
+   "title": "昇腾算力训出了双榜SOTA的具身世界模型，华为云这次想把整套底座开放出来",
+   "link": "https://www.qbitai.com/2026/11/511610.html",
+   "published": "2026-11-20T16:04:58+08:00",
+   "image_url": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "img": "assets/img/9a80d117ac4a5b10.jpg",
+   "summary": "华为云于11月16日发布昇腾原生具身世界模型CloudRobo-WM1.2。该模型在RoboTwin 2.0和LIBERO-Pro 2.0两项评测中的平均成功率分别为88.98%和81.73%，均排第一。华为云计划在11月30日开放该模型权重、推理代码和后训练代码。",
+   "why": "属于读者关注的AI发展领域：国产算力上训练出的具身世界模型取得榜单成绩，且计划开放权重与后训练代码。",
+   "tags": [
+    "AI",
+    "具身智能",
+    "华为云"
+   ],
+   "summary_mode": "llm",
+   "type": "product",
+   "region": "cn",
+   "topic": "昇腾具身世界模型发布",
+   "type_label": "产品发布",
+   "region_label": "中国"
+  },
+  {
+   "id": "5e3aeeedc19714ce",
+   "source_id": "chinanews_world",
+   "source_name": "中国新闻网·国际",
+   "source_kind": "通讯社",
+   "title": "特朗普：中俄美元首会晤“史无前例”“意义重大”",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-21/10735606.shtml",
+   "published": "2026-11-21T06:06:28+08:00",
+   "image_url": null,
+   "source_count": 1,
+   "pr": 0,
+   "group": "world",
+   "summary": "美国总统特朗普11月20日在白宫新闻发布会上表示，日前在中国深圳举行的亚太经合组织领导人非正式会议是一场非常成功的经济会议，美国、中国和俄罗斯三国领导人还举行了首次三方会晤。特朗普称，中俄美元首会晤“史无前例”“意义非常重大”，会晤成果是“一份史无前例的三方和平宣言”，三国已正式达成共识，“绝不能让核冲突发生”。中俄美三国元首19日在深圳举行会晤，会后三方发表《中俄美元首和平宣言》。",
+   "why": "涉及中美俄三方首次元首会晤及核冲突相关表述，属于国际局势中的重要动向。",
+   "tags": [
+    "国际局势",
+    "中俄美",
+    "元首会晤"
+   ],
+   "summary_mode": "llm",
+   "type": "world",
+   "region": "global",
+   "topic": "特朗普评中俄美元首会晤",
+   "type_label": "国际关系",
+   "region_label": "全球"
+  }
+ ],
+ "quick": [
+  {
+   "title": "特朗普批美联储利率太高，美联储主席陷两难",
+   "title_cn": "",
+   "link": "https://www.jiemian.com/article/15358305.html",
+   "source_name": "界面新闻",
+   "source_kind": "市场化媒体",
+   "id": "e4557e9cb04afd33",
+   "type": "policy",
+   "type_label": "政策监管",
+   "region": "us",
+   "region_label": "美国"
+  },
+  {
+   "title": "当 Kling Image 4.0 自己出设计方案，生图的门槛又变了！",
+   "title_cn": "",
+   "link": "https://www.leiphone.com/category/yanxishe/zjw3hyGGqzhBaPj7.html",
+   "source_name": "雷锋网",
+   "source_kind": "垂直媒体",
+   "id": "97b5410bb2f58b6d",
+   "type": "product",
+   "type_label": "产品发布",
+   "region": "cn",
+   "region_label": "中国"
+  },
+  {
+   "title": "【前方视野】1.5摄氏度临界点逼近：中国如何回答气候变化时代的转型之问",
+   "title_cn": "",
+   "link": "https://news.un.org/feed/view/zh/story/2026/11/1143242",
+   "source_name": "联合国新闻·中文",
+   "source_kind": "公共媒体",
+   "id": "2c2aad1cee2a8a5c",
+   "type": "world",
+   "type_label": "国际关系",
+   "region": "global",
+   "region_label": "全球"
+  },
+  {
+   "title": "浮屏：截图即可「上岛」，还能帮你记录生活",
+   "title_cn": "",
+   "link": "https://sspai.com/post/118879",
+   "source_name": "少数派",
+   "source_kind": "社区",
+   "id": "eabd36ac4799911d",
+   "type": "product",
+   "type_label": "产品发布",
+   "region": "cn",
+   "region_label": "中国"
+  },
+  {
+   "title": "给 Gemini 道歉，请自觉排队",
+   "title_cn": "",
+   "link": "https://www.ifanr.com/1690572?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source_name": "爱范儿",
+   "source_kind": "垂直媒体",
+   "id": "1c6f62dc4f4a2c69",
+   "type": "industry",
+   "type_label": "行业观察",
+   "region": "us",
+   "region_label": "美国"
+  },
+  {
+   "title": "COP31原定闭幕日到来，多国要求明确摆脱化石燃料并加强资金支持",
+   "title_cn": "",
+   "link": "https://news.un.org/feed/view/zh/story/2026/11/1143235",
+   "source_name": "联合国新闻·中文",
+   "source_kind": "公共媒体",
+   "id": "567ef7ab64135c9e",
+   "type": "world",
+   "type_label": "国际关系",
+   "region": "global",
+   "region_label": "全球"
+  }
+ ],
+ "challenge": {
+  "question": "PostgreSQL 19 Released",
+  "a": "PostgreSQL 19 Released ( via ) Most years PostgreSQL ships a new release in September, but this year's release came two months later thanks mainly to the flurry of issues that the PostgreSQL team needed to address as par",
+  "b": "PostgreSQL: Release Notes November 19, 2026: PostgreSQL 19 Released!Quick Links Documentation Manuals Archive Release Notes Books Tutorials & Other Resources FAQ Wiki Release Notes PostgreSQL 19.0 E.1. Release 19 Prev Up",
+  "diff": "两家来源类型不同（个人 / 社区），原文表述不一致之处需要对照阅读。",
+  "mode": "extractive",
+  "pair": [
+   {
+    "id": "18fd350aa1af2c0c",
+    "source_id": "simonw",
+    "source_name": "Simon Willison",
+    "source_kind": "个人",
+    "title": "PostgreSQL 19 Released",
+    "link": "https://simonwillison.net/2026/Nov/19/postgresql-19/",
+    "published": "2026-11-20T04:43:57+08:00",
+    "image_url": null,
+    "type": "product",
+    "region": "global",
+    "topic": "PostgreSQL 19发布",
+    "type_label": "产品发布",
+    "region_label": "全球"
+   },
+   {
+    "id": "9c815e18dd9ffa3e",
+    "source_id": "hn_best",
+    "source_name": "Hacker News 精选",
+    "source_kind": "社区",
+    "title": "PostgreSQL 19",
+    "link": "https://www.postgresql.org/docs/release/19.0/",
+    "published": "2026-11-20T11:45:45+08:00",
+    "image_url": null,
+    "type": "product",
+    "region": "global",
+    "topic": "PostgreSQL 19文档",
+    "type_label": "产品发布",
+    "region_label": "全球"
+   }
+  ],
+  "kind": "同一事件"
+ },
+ "counts": {
+  "ai": 6,
+  "world": 5,
+  "know": 3,
+  "other": 2
+ },
+ "report": {
+  "mode": "llm",
+  "overview": "阿里云本季度AI云与算力服务收入609.73亿元、同比增长53%，同期公司警告未来两年算力紧缺；华为云发布昇腾原生具身世界模型，Kling Image 4.0升级生图能力。国际上，中俄美元首在深圳举行首次三方会晤，泽连斯基谈及乌欧美俄四方会谈时间，COP31原定闭幕日多国要求修改协议草案。此外特朗普批评美联储利率过高，PostgreSQL 19发布。",
+  "signals": [
+   "云厂商AI收入高增长与算力紧缺预警同期出现。",
+   "多条条目正文仅有版权信息，缺少具体内容。",
+   "国际议程集中于元首会晤与气候谈判，均未给出结果。"
+  ],
+  "groups": [
+   {
+    "key": "ai",
+    "label": "AI 发展",
+    "n": 6
+   },
+   {
+    "key": "world",
+    "label": "国际局势",
+    "n": 5
+   },
+   {
+    "key": "know",
+    "label": "不为人知的知识",
+    "n": 3
+   }
+  ],
+  "types": [
+   {
+    "key": "product",
+    "label": "产品发布",
+    "n": 5
+   },
+   {
+    "key": "world",
+    "label": "国际关系",
+    "n": 5
+   },
+   {
+    "key": "business",
+    "label": "商业资本",
+    "n": 2
+   },
+   {
+    "key": "research",
+    "label": "研究进展",
+    "n": 2
+   },
+   {
+    "key": "policy",
+    "label": "政策监管",
+    "n": 1
+   },
+   {
+    "key": "industry",
+    "label": "行业观察",
+    "n": 1
+   }
+  ],
+  "regions": [
+   {
+    "key": "cn",
+    "label": "中国",
+    "n": 6
+   },
+   {
+    "key": "global",
+    "label": "全球",
+    "n": 6
+   },
+   {
+    "key": "us",
+    "label": "美国",
+    "n": 3
+   },
+   {
+    "key": "eu",
+    "label": "欧洲",
+    "n": 1
+   }
+  ],
+  "confirmed": [
+   {
+    "title": "PostgreSQL 19 Released",
+    "n": 2
+   }
+  ],
+  "confirmed_n": 1,
+  "source_kinds": [
+   {
+    "kind": "垂直媒体",
+    "n": 5
+   },
+   {
+    "kind": "市场化媒体",
+    "n": 4
+   },
+   {
+    "kind": "通讯社",
+    "n": 2
+   },
+   {
+    "kind": "公共媒体",
+    "n": 2
+   },
+   {
+    "kind": "社区",
+    "n": 2
+   },
+   {
+    "kind": "个人",
+    "n": 1
+   }
+  ],
+  "note": "数字由程序统计；类型/地区标签来自模型或关键词规则；「归纳判断」是编辑视角的概括，不是事实，每条都附原文链接可核对。"
+ },
+ "stats": {
+  "scanned": 369,
+  "selected": 16,
+  "raw": 2961,
+  "clusters": 348,
+  "dedup": 360,
+  "sources_ok": 26,
+  "sources_total": 26,
+  "lookback_hours": 48,
+  "llm_mode": "llm",
+  "model": "deepseek-flash ×12",
+  "llm_calls": 12,
+  "cost": 0.0391,
+  "generated_at": "2026-11-22 06:01",
+  "errors": []
+ },
+ "archives": [
+  {
+   "date": "2026-11-21",
+   "weekday": "周六"
+  },
+  {
+   "date": "2026-11-20",
+   "weekday": "周五"
+  },
+  {
+   "date": "2026-11-19",
+   "weekday": "周四"
+  },
+  {
+   "date": "2026-11-18",
+   "weekday": "周三"
+  },
+  {
+   "date": "2026-11-17",
+   "weekday": "周二"
+  },
+  {
+   "date": "2026-11-16",
+   "weekday": "周一"
+  },
+  {
+   "date": "2026-11-15",
+   "weekday": "周日"
+  },
+  {
+   "date": "2026-11-14",
+   "weekday": "周六"
+  },
+  {
+   "date": "2026-11-13",
+   "weekday": "周五"
+  },
+  {
+   "date": "2026-11-12",
+   "weekday": "周四"
+  },
+  {
+   "date": "2026-11-11",
+   "weekday": "周三"
+  },
+  {
+   "date": "2026-11-10",
+   "weekday": "周二"
+  }
+ ]
+}
