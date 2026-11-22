@@ -1,0 +1,532 @@
+{
+ "date": "2026-11-23",
+ "date_cn": "11 月 23 日",
+ "weekday": "周一",
+ "issue_no": 29,
+ "one_liner": "今天值得看：特朗普表态：英伟达Blackwell芯…；Claude 的黎曼猜想证明获 Lea…",
+ "lede": "扫描 311 条，从 26/26 个可用来源里留下 16 条：国际局势 5 条 · AI 发展 8 条 · 不为人知的知识 1 条。",
+ "cover_image": "assets/img/9fdc0874420533f0.jpg",
+ "headline": [
+  {
+   "id": "9fdc0874420533f0",
+   "source_id": "leiphone",
+   "source_name": "雷锋网",
+   "source_kind": "垂直媒体",
+   "title": "特朗普表态：英伟达Blackwell芯片可对华销售，但有个条件；OpenAI被曝入局智能手机赛道；DeepSeek第二轮千亿融资落地，31家出资方入局",
+   "link": "https://www.leiphone.com/category/zaobao/qb1uol6hKvK6pRgF.html",
+   "published": "2026-11-22T18:15:00+08:00",
+   "image_url": "https://static.leiphone.com/uploads/new/images/20261120/6aff98111afaa.png?imageMogr2/quality/90",
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "img": "assets/img/9fdc0874420533f0.jpg",
+   "summary": "特朗普在APEC会议期间表示，只有当Blackwell不再属于市场最先进芯片之后，美国才有可能批准该芯片对华出口。这意味着当前Blackwell系列对华出口禁令维持不变。报道未给出明确解禁时间节点和配套许可规则。",
+   "why": "涉及中美芯片管制的具体表态，直接关系AI算力供给与国际局势。",
+   "tags": [
+    "芯片管制",
+    "英伟达",
+    "中美关系"
+   ],
+   "summary_mode": "llm",
+   "type": "policy",
+   "region": "us",
+   "topic": "美对华芯片出口表态",
+   "type_label": "政策监管",
+   "region_label": "美国"
+  },
+  {
+   "id": "70d3eebb4b6d4f1d",
+   "source_id": "ifanr",
+   "source_name": "爱范儿",
+   "source_kind": "垂直媒体",
+   "title": "Claude 的黎曼猜想证明获 Lean 官方认证，马斯克直呼惊人成就",
+   "link": "https://www.ifanr.com/1690820?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "published": "2026-11-22T09:35:14+08:00",
+   "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1795311159024-2.jpg",
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "img": "assets/img/70d3eebb4b6d4f1d.jpg",
+   "summary": "困扰人类数学界 167 年的黎曼猜想，迎来最新进展。就在刚刚，Lean 和 Mathlib 社区发布联合声明，宣布正式认证 Anthropic 数学家 Levent Alpöge 提交的黎曼猜想形式化证明，并表示对其正确性具有充分信心。从数学家本人宣布成果，到形式化证明社区公开认证，整个过程仅仅过去一天。",
+   "why": "属于你关注的「AI 发展」。",
+   "tags": [],
+   "summary_mode": "extractive",
+   "type": "research",
+   "region": "global",
+   "topic": "AI数学证明获认证",
+   "type_label": "研究进展",
+   "region_label": "全球"
+  },
+  {
+   "id": "c796e1455cfbfb85",
+   "source_id": "solidot",
+   "source_name": "奇客 Solidot",
+   "source_kind": "垂直媒体",
+   "title": "人类数学家匆忙发布广义黎曼猜想的证明手稿",
+   "link": "https://www.solidot.org/story?sid=85952",
+   "published": "2026-11-21T19:09:59+08:00",
+   "image_url": null,
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "summary": "奇客 Solidot 在 2026 年 11 月 21 日 19:09 发布了一条标题为《人类数学家匆忙发布广义黎曼猜想的证明手稿》的内容。该内容的正文只有网站版权声明、ICP 备案号和举报联系方式，没有说明证明者是谁、手稿写了什么，也没有说明发布经过。",
+   "why": "这是基础数学领域一条可能很重要的进展线索，但原文除标题外没有提供任何细节，读者需要另行查证。",
+   "tags": [
+    "数学",
+    "黎曼猜想",
+    "科研"
+   ],
+   "summary_mode": "llm",
+   "type": "research",
+   "region": "global",
+   "topic": "广义黎曼猜想手稿",
+   "type_label": "研究进展",
+   "region_label": "全球"
+  }
+ ],
+ "featured": [
+  {
+   "id": "97b5410bb2f58b6d",
+   "source_id": "leiphone",
+   "source_name": "雷锋网",
+   "source_kind": "垂直媒体",
+   "title": "当 Kling Image 4.0 自己出设计方案，生图的门槛又变了！",
+   "link": "https://www.leiphone.com/category/yanxishe/zjw3hyGGqzhBaPj7.html",
+   "published": "2026-11-21T10:59:00+08:00",
+   "image_url": "https://static.leiphone.com/uploads/new/images/20261121/6b01088df1c07.png?imageMogr2/quality/90",
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "img": "assets/img/97b5410bb2f58b6d.jpg",
+   "summary": "可灵于2026年11月21日推出 Kling Image 4.0，官方介绍其原生分辨率提升至8K，单张图片最多支持2000字，一次最多生成10张连贯图片。新模型采用理解与生成统一的自回归架构，尝试在同一上下文中处理图像理解与生成。文章提到，今年3月微软研究院发布 BizGenEval 商业视觉生成评测，用400条提示词和8000道检查题测试主流模型，发现模型在精确布局、多个对象之间的属性对应等方面仍存在明显短板。",
+   "why": "读者关注 AI 发展，这条涉及图像生成模型的新能力与现有短板。",
+   "tags": [
+    "AI 生图",
+    "可灵",
+    "模型评测"
+   ],
+   "summary_mode": "llm",
+   "type": "product",
+   "region": "cn",
+   "topic": "可灵图像模型升级",
+   "type_label": "产品发布",
+   "region_label": "中国"
+  },
+  {
+   "id": "323d1f4460492add",
+   "source_id": "chinanews_world",
+   "source_name": "中国新闻网·国际",
+   "source_kind": "通讯社",
+   "title": "特朗普点赞中俄美元首会晤气氛“热烈”，是“多年来最具重大意义”的国际会晤之一",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-22/10736151.shtml",
+   "published": "2026-11-22T19:12:46+08:00",
+   "image_url": null,
+   "source_count": 1,
+   "pr": 0,
+   "group": "world",
+   "summary": "特朗普在白宫发布会上称，深圳亚太经合组织领导人非正式会议是一场非常成功的经济会议，中俄美三国领导人首次举行三方会晤，是多年来最具重大意义的国际会晤之一。特朗普称会晤成果是史无前例的三方和平宣言，三国已达成共识，绝不能让核冲突发生。会后三方发表《中俄美元首和平宣言》，其中重申核战争打不赢也打不得，三国将就减少核风险、防止核扩散进行对话。",
+   "why": "涉及中美俄三方会晤及核风险表述，属国际局势重要动向。",
+   "tags": [
+    "国际局势",
+    "中俄美",
+    "核风险"
+   ],
+   "summary_mode": "llm",
+   "type": "world",
+   "region": "global",
+   "topic": "中俄美元首三方会晤",
+   "type_label": "国际关系",
+   "region_label": "全球"
+  },
+  {
+   "id": "5023d49d244ebb2d",
+   "source_id": "solidot",
+   "source_name": "奇客 Solidot",
+   "source_kind": "垂直媒体",
+   "title": "为勒索软件受害者提供解密服务的公司只是付钱给勒索软件组织",
+   "link": "https://www.solidot.org/story?sid=85950",
+   "published": "2026-11-21T18:11:05+08:00",
+   "image_url": null,
+   "source_count": 1,
+   "pr": 0,
+   "group": "know",
+   "summary": "原文标题称，为勒索软件受害者提供解密服务的公司只是付钱给勒索软件组织。原文正文只有版权声明、ICP 备案号和举报联系方式，未提供该报道的任何具体事实、涉事公司名称或数字。",
+   "why": "话题属于网络安全，与读者关注的知识类内容接近；但原文没有正文内容，无法据此了解细节，只能当作一条待核实的线索。",
+   "tags": [
+    "网络安全",
+    "勒索软件",
+    "原文信息不足"
+   ],
+   "summary_mode": "llm",
+   "type": "security",
+   "region": "global",
+   "topic": "勒索解密服务内幕",
+   "type_label": "安全事件",
+   "region_label": "全球"
+  },
+  {
+   "id": "6f32b35d4875c94a",
+   "source_id": "ifanr",
+   "source_name": "爱范儿",
+   "source_kind": "垂直媒体",
+   "title": "刚刚，曝黎曼猜想被证明，Claude 立大功",
+   "link": "https://www.ifanr.com/1690750?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "published": "2026-11-21T09:29:09+08:00",
+   "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1795215046470-1.jpg",
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "img": "assets/img/6f32b35d4875c94a.jpg",
+   "summary": "Anthropic 数学家 Levent Alpöge 在个人网站发布声明，称与 Claude 合作找到了黎曼猜想的证明，并进一步声称证明了广义黎曼猜想。他没有发布完整数学论文，而是公开了一套用 Lean 形式化证明语言编写的代码，分为 14 个压缩文件供下载验证。原文同时指出，公开代码不等于证明已获确认，外部数学家仍需检查文件能否完整构建、是否依赖未经证明的假设，以及代码中的定理是否真正对应黎曼猜想。",
+   "why": "这条讲的是 AI 参与高难度数学推理的具体案例，属于读者关注的 AI 发展议题。",
+   "tags": [
+    "AI",
+    "数学",
+    "黎曼猜想"
+   ],
+   "summary_mode": "llm",
+   "type": "research",
+   "region": "global",
+   "topic": "Claude称证明黎曼猜想",
+   "type_label": "研究进展",
+   "region_label": "全球"
+  },
+  {
+   "id": "50b41575079b1dbb",
+   "source_id": "chinanews_world",
+   "source_name": "中国新闻网·国际",
+   "source_kind": "通讯社",
+   "title": "伊朗革命卫队称袭击美军在巴林两处基地防空雷达",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-22/10735934.shtml",
+   "published": "2026-11-22T06:10:13+08:00",
+   "image_url": null,
+   "source_count": 1,
+   "pr": 0,
+   "group": "world",
+   "summary": "据伊朗伊斯兰共和国通讯社21日报道，伊朗伊斯兰革命卫队当天发表声明称，其航空航天部队使用导弹和无人机袭击了美国在巴林里法和阿瓦利两处军事基地的防空雷达，击中两部美军“爱国者”防空系统雷达。声明称，此次行动旨在回应美军持续侵犯伊朗领空的行为，并称当天早些时候美军MQ-1和MQ-9侦察攻击无人机侵犯伊朗领空。声明警告说，任何侵犯伊朗领空的行为都将遭到严厉回应。",
+   "why": "涉及美国与伊朗的军事摩擦，属于国际局势动态。",
+   "tags": [
+    "国际局势",
+    "美伊关系",
+    "军事"
+   ],
+   "summary_mode": "llm",
+   "type": "world",
+   "region": "me",
+   "topic": "伊朗称袭击美军雷达",
+   "type_label": "国际关系",
+   "region_label": "中东"
+  }
+ ],
+ "quick": [
+  {
+   "title": "从快手独立，可灵要回答的问题变了",
+   "title_cn": "",
+   "link": "https://www.tmtpost.com/8213670.html",
+   "source_name": "钛媒体",
+   "source_kind": "市场化媒体",
+   "id": "ee2990a4218cc60c",
+   "type": "business",
+   "type_label": "商业资本",
+   "region": "cn",
+   "region_label": "中国"
+  },
+  {
+   "title": "中国和印度，在非洲瓷砖市场的第二次交锋",
+   "title_cn": "",
+   "link": "https://www.tmtpost.com/8213860.html",
+   "source_name": "钛媒体",
+   "source_kind": "市场化媒体",
+   "id": "4cd2a3b42769dcf8",
+   "type": "industry",
+   "type_label": "行业观察",
+   "region": "global",
+   "region_label": "全球"
+  },
+  {
+   "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+   "title_cn": "OpenAI首席科学家对限制AI发展有看法",
+   "link": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+   "source_name": "TechCrunch",
+   "source_kind": "垂直媒体",
+   "id": "af543868869ebc3f",
+   "type": "research",
+   "type_label": "研究进展",
+   "region": "us",
+   "region_label": "美国"
+  },
+  {
+   "title": "泽连斯基催促美方批准移交“爱国者”拦截弹",
+   "title_cn": "",
+   "link": "https://www.jiemian.com/article/15359429.html",
+   "source_name": "界面新闻",
+   "source_kind": "市场化媒体",
+   "id": "f72d7262eea4583b",
+   "type": "world",
+   "type_label": "国际关系",
+   "region": "eu",
+   "region_label": "欧洲"
+  },
+  {
+   "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+   "title_cn": "Inkling、Qwen与Unsloth本地AI入门指南",
+   "link": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+   "source_name": "Hacker News 首页",
+   "source_kind": "社区",
+   "id": "38ad2b02dd998467",
+   "type": "tech",
+   "type_label": "技术进展",
+   "region": "global",
+   "region_label": "全球"
+  },
+  {
+   "title": "乌称基辅州一住宅楼遭袭，已致2死4伤",
+   "title_cn": "",
+   "link": "https://www.jiemian.com/article/15359393.html",
+   "source_name": "界面新闻",
+   "source_kind": "市场化媒体",
+   "id": "47573aebdf29bc75",
+   "type": "world",
+   "type_label": "国际关系",
+   "region": "eu",
+   "region_label": "欧洲"
+  }
+ ],
+ "challenge": {
+  "question": "两篇报道正文有无实质分歧",
+  "a": "A 标注来源为 Hacker News 首页/社区，正文与 B 一致，无独立表述",
+  "b": "B 标注来源为 OpenAI 官方博客，正文与 A 完全一致，无额外内容",
+  "diff": "正文完全相同，差别仅在来源类型标注",
+  "mode": "llm",
+  "pair": [
+   {
+    "id": "5f4c6e12f0fe8888",
+    "source_id": "hn_front",
+    "source_name": "Hacker News 首页",
+    "source_kind": "社区",
+    "title": "Perplexity and Intelligence",
+    "link": "https://openai.com/index/perplexity-and-intelligence/",
+    "published": "2026-11-23T01:06:27+08:00",
+    "image_url": "https://images.ctfassets.net/kftzwdyauwt9/6rIIhCRSKrhIfe385Onmcz/aca2d190553c62fd5d49efb5d5ce1eb6/perplexity-and-intelligence-social.png?w=1600&h=900&fit=fill",
+    "type": "research",
+    "region": "us",
+    "topic": "困惑度与智能讨论",
+    "type_label": "研究进展",
+    "region_label": "美国"
+   },
+   {
+    "id": "5717c1e86fbec917",
+    "source_id": "openai_blog",
+    "source_name": "OpenAI 官方博客",
+    "source_kind": "厂商官方",
+    "title": "Perplexity and Intelligence",
+    "link": "https://openai.com/index/perplexity-and-intelligence",
+    "published": "2026-11-22T08:00:00+08:00",
+    "image_url": "https://images.ctfassets.net/kftzwdyauwt9/6rIIhCRSKrhIfe385Onmcz/aca2d190553c62fd5d49efb5d5ce1eb6/perplexity-and-intelligence-social.png?w=1600&h=900&fit=fill",
+    "type": "research",
+    "region": "us",
+    "topic": "困惑度衡量AI进展",
+    "type_label": "研究进展",
+    "region_label": "美国"
+   }
+  ],
+  "kind": "同一事件"
+ },
+ "counts": {
+  "ai": 8,
+  "world": 5,
+  "know": 1,
+  "other": 2
+ },
+ "report": {
+  "mode": "llm",
+  "overview": "本期含AI参与黎曼猜想证明的多条进展，可灵发布图像模型4.0并完成约198亿元融资交割。国际方面有特朗普谈Blackwell对华出口条件、中俄美元首三方会晤，以及伊朗称袭击美军巴林雷达、乌克兰遭空袭。",
+  "signals": [
+   "黎曼猜想相关条目集中出现，多条称由AI参与完成证明",
+   "芯片出口表态与三方会晤同期出现，政策与外交并列",
+   "中东、乌克兰军事冲突类条目占据国际板块多条"
+  ],
+  "groups": [
+   {
+    "key": "ai",
+    "label": "AI 发展",
+    "n": 8
+   },
+   {
+    "key": "world",
+    "label": "国际局势",
+    "n": 5
+   },
+   {
+    "key": "know",
+    "label": "不为人知的知识",
+    "n": 1
+   }
+  ],
+  "types": [
+   {
+    "key": "research",
+    "label": "研究进展",
+    "n": 6
+   },
+   {
+    "key": "world",
+    "label": "国际关系",
+    "n": 4
+   },
+   {
+    "key": "policy",
+    "label": "政策监管",
+    "n": 1
+   },
+   {
+    "key": "business",
+    "label": "商业资本",
+    "n": 1
+   },
+   {
+    "key": "product",
+    "label": "产品发布",
+    "n": 1
+   },
+   {
+    "key": "security",
+    "label": "安全事件",
+    "n": 1
+   },
+   {
+    "key": "industry",
+    "label": "行业观察",
+    "n": 1
+   },
+   {
+    "key": "tech",
+    "label": "技术进展",
+    "n": 1
+   }
+  ],
+  "regions": [
+   {
+    "key": "global",
+    "label": "全球",
+    "n": 7
+   },
+   {
+    "key": "us",
+    "label": "美国",
+    "n": 4
+   },
+   {
+    "key": "cn",
+    "label": "中国",
+    "n": 2
+   },
+   {
+    "key": "eu",
+    "label": "欧洲",
+    "n": 2
+   },
+   {
+    "key": "me",
+    "label": "中东",
+    "n": 1
+   }
+  ],
+  "confirmed": [
+   {
+    "title": "Perplexity and Intelligence",
+    "n": 2
+   }
+  ],
+  "confirmed_n": 1,
+  "source_kinds": [
+   {
+    "kind": "垂直媒体",
+    "n": 7
+   },
+   {
+    "kind": "市场化媒体",
+    "n": 4
+   },
+   {
+    "kind": "通讯社",
+    "n": 2
+   },
+   {
+    "kind": "社区",
+    "n": 2
+   },
+   {
+    "kind": "厂商官方",
+    "n": 1
+   }
+  ],
+  "note": "数字由程序统计；类型/地区标签来自模型或关键词规则；「归纳判断」是编辑视角的概括，不是事实，每条都附原文链接可核对。"
+ },
+ "stats": {
+  "scanned": 311,
+  "selected": 16,
+  "raw": 2971,
+  "clusters": 280,
+  "dedup": 300,
+  "sources_ok": 26,
+  "sources_total": 26,
+  "lookback_hours": 48,
+  "llm_mode": "llm",
+  "model": "deepseek-flash ×13",
+  "llm_calls": 13,
+  "cost": 0.0411,
+  "generated_at": "2026-11-23 06:18",
+  "errors": []
+ },
+ "archives": [
+  {
+   "date": "2026-11-22",
+   "weekday": "周日"
+  },
+  {
+   "date": "2026-11-21",
+   "weekday": "周六"
+  },
+  {
+   "date": "2026-11-20",
+   "weekday": "周五"
+  },
+  {
+   "date": "2026-11-19",
+   "weekday": "周四"
+  },
+  {
+   "date": "2026-11-18",
+   "weekday": "周三"
+  },
+  {
+   "date": "2026-11-17",
+   "weekday": "周二"
+  },
+  {
+   "date": "2026-11-16",
+   "weekday": "周一"
+  },
+  {
+   "date": "2026-11-15",
+   "weekday": "周日"
+  },
+  {
+   "date": "2026-11-14",
+   "weekday": "周六"
+  },
+  {
+   "date": "2026-11-13",
+   "weekday": "周五"
+  },
+  {
+   "date": "2026-11-12",
+   "weekday": "周四"
+  },
+  {
+   "date": "2026-11-11",
+   "weekday": "周三"
+  }
+ ]
+}

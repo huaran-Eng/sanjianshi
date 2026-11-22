@@ -1,6 +1,38 @@
 {
- "updated": "2026-11-21 22:01",
+ "updated": "2026-11-22 22:18",
  "issues": [
+  {
+   "date": "2026-11-23",
+   "weekday": "周一",
+   "issue_no": 29,
+   "one_liner": "今天值得看：特朗普表态：英伟达Blackwell芯…；Claude 的黎曼猜想证明获 Lea…",
+   "selected": 16,
+   "sources_ok": 26,
+   "groups": {
+    "ai": 8,
+    "world": 5,
+    "know": 1,
+    "other": 2
+   },
+   "types": {
+    "research": 6,
+    "world": 4,
+    "policy": 1,
+    "business": 1,
+    "product": 1,
+    "security": 1,
+    "industry": 1,
+    "tech": 1
+   },
+   "regions": {
+    "global": 7,
+    "us": 4,
+    "cn": 2,
+    "eu": 2,
+    "me": 1
+   },
+   "head": "本期含AI参与黎曼猜想证明的多条进展，可灵发布图像模型4.0并完成约198亿元融资交割。国际方面有特朗普谈Blackwell对华出口条件、中"
+  },
   {
    "date": "2026-11-22",
    "weekday": "周日",
@@ -845,30 +877,30 @@
   }
  ],
  "aggregate": {
-  "issues": 28,
-  "items": 448,
+  "issues": 29,
+  "items": 464,
   "first": "2026-10-26",
-  "last": "2026-11-22",
+  "last": "2026-11-23",
   "types": [
    {
     "key": "world",
     "label": "国际关系",
-    "n": 115
+    "n": 119
    },
    {
     "key": "product",
     "label": "产品发布",
-    "n": 81
+    "n": 82
    },
    {
     "key": "tech",
     "label": "技术进展",
-    "n": 56
+    "n": 57
    },
    {
     "key": "business",
     "label": "商业资本",
-    "n": 49
+    "n": 50
    },
    {
     "key": "other",
@@ -876,24 +908,24 @@
     "n": 44
    },
    {
-    "key": "industry",
-    "label": "行业观察",
-    "n": 30
-   },
-   {
     "key": "research",
     "label": "研究进展",
-    "n": 28
+    "n": 34
+   },
+   {
+    "key": "industry",
+    "label": "行业观察",
+    "n": 31
    },
    {
     "key": "policy",
     "label": "政策监管",
-    "n": 16
+    "n": 17
    },
    {
     "key": "security",
     "label": "安全事件",
-    "n": 16
+    "n": 17
    },
    {
     "key": "society",
@@ -905,27 +937,27 @@
    {
     "key": "cn",
     "label": "中国",
-    "n": 123
+    "n": 125
    },
    {
     "key": "us",
     "label": "美国",
-    "n": 116
+    "n": 120
    },
    {
     "key": "global",
     "label": "全球",
-    "n": 102
+    "n": 109
    },
    {
     "key": "me",
     "label": "中东",
-    "n": 52
+    "n": 53
    },
    {
     "key": "eu",
     "label": "欧洲",
-    "n": 39
+    "n": 41
    },
    {
     "key": "asia",
