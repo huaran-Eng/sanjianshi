@@ -1,6 +1,37 @@
 {
- "updated": "2026-11-22 22:18",
+ "updated": "2026-11-24 03:10",
  "issues": [
+  {
+   "date": "2026-11-24",
+   "weekday": "周二",
+   "issue_no": 30,
+   "one_liner": "今天值得看：不等英伟达了，机器人公司自己造芯；AI办公，不再只拼大模型",
+   "selected": 16,
+   "sources_ok": 26,
+   "groups": {
+    "ai": 7,
+    "world": 4,
+    "know": 3,
+    "other": 2
+   },
+   "types": {
+    "policy": 3,
+    "world": 3,
+    "industry": 3,
+    "business": 2,
+    "research": 2,
+    "product": 1,
+    "society": 1,
+    "other": 1
+   },
+   "regions": {
+    "cn": 6,
+    "global": 6,
+    "us": 2,
+    "eu": 2
+   },
+   "head": "机器人厂商联手自研芯片降本，国内办公AI转向多模型接入；加州起诉OpenAI智能体。德国总理会见北约秘书长讨论乌克兰，安理会通报袭击加剧平民"
+  },
   {
    "date": "2026-11-23",
    "weekday": "周一",
@@ -877,20 +908,20 @@
   }
  ],
  "aggregate": {
-  "issues": 29,
-  "items": 464,
+  "issues": 30,
+  "items": 480,
   "first": "2026-10-26",
-  "last": "2026-11-23",
+  "last": "2026-11-24",
   "types": [
    {
     "key": "world",
     "label": "国际关系",
-    "n": 119
+    "n": 122
    },
    {
     "key": "product",
     "label": "产品发布",
-    "n": 82
+    "n": 83
    },
    {
     "key": "tech",
@@ -900,27 +931,27 @@
    {
     "key": "business",
     "label": "商业资本",
-    "n": 50
+    "n": 52
    },
    {
     "key": "other",
     "label": "其他",
-    "n": 44
+    "n": 45
    },
    {
     "key": "research",
     "label": "研究进展",
-    "n": 34
+    "n": 36
    },
    {
     "key": "industry",
     "label": "行业观察",
-    "n": 31
+    "n": 34
    },
    {
     "key": "policy",
     "label": "政策监管",
-    "n": 17
+    "n": 20
    },
    {
     "key": "security",
@@ -930,24 +961,24 @@
    {
     "key": "society",
     "label": "社会民生",
-    "n": 13
+    "n": 14
    }
   ],
   "regions": [
    {
     "key": "cn",
     "label": "中国",
-    "n": 125
+    "n": 131
    },
    {
     "key": "us",
     "label": "美国",
-    "n": 120
+    "n": 122
    },
    {
     "key": "global",
     "label": "全球",
-    "n": 109
+    "n": 115
    },
    {
     "key": "me",
@@ -957,7 +988,7 @@
    {
     "key": "eu",
     "label": "欧洲",
-    "n": 41
+    "n": 43
    },
    {
     "key": "asia",
