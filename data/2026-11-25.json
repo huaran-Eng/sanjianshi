@@ -1,0 +1,535 @@
+{
+ "date": "2026-11-25",
+ "date_cn": "11 月 25 日",
+ "weekday": "周三",
+ "issue_no": 31,
+ "one_liner": "今天值得看：蚂蚁OceanBase发布AI数据平台…；黄仁勋回归催生三大赢家，适合长线布局",
+ "lede": "扫描 396 条，从 26/26 个可用来源里留下 16 条：国际局势 6 条 · AI 发展 10 条。",
+ "cover_image": "assets/img/fd18ac453f4868e2.jpg",
+ "headline": [
+  {
+   "id": "fd18ac453f4868e2",
+   "source_id": "leiphone",
+   "source_name": "雷锋网",
+   "source_kind": "垂直媒体",
+   "title": "蚂蚁OceanBase发布AI数据平台：统一管理多模态数据，为Agent提供业务上下文",
+   "link": "https://www.leiphone.com/category/industrynews/vo7BI6hIy3wL6Mi4.html",
+   "published": "2026-11-24T15:18:00+08:00",
+   "image_url": "https://static.leiphone.com/uploads/new/images/20261124/6b0539fa59c02.jpg?imageView2/2/w/740",
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "img": "assets/img/fd18ac453f4868e2.jpg",
+   "summary": "11月24日，蚂蚁OceanBase在北京召开AI数据大会，CEO杨冰表示，当模型和Agent基建逐渐成熟，挑战终将回归数据。会上OceanBase发布湖库一体AI数据平台OceanLake，并宣布开源其核心引擎AI数据库，开源项目代号为OceanSeek。原文称，OceanLake已在多个产业场景落地，包括支撑蚂蚁灵光超过3000万个“闪应用”运行、帮助平安寿险将典型取数交付时间从2—5天缩短至约15分钟。",
+   "why": "读者关注AI发展，这条讲的是AI时代数据基础设施的产品发布与开源动向，属于产业侧信息。",
+   "tags": [
+    "AI数据平台",
+    "OceanBase",
+    "开源"
+   ],
+   "summary_mode": "llm",
+   "type": "product",
+   "region": "cn",
+   "topic": "OceanBase发布AI数据平台",
+   "type_label": "产品发布",
+   "region_label": "中国"
+  },
+  {
+   "id": "d8f2471fb492f92f",
+   "source_id": "tmtpost",
+   "source_name": "钛媒体",
+   "source_kind": "市场化媒体",
+   "title": "黄仁勋回归催生三大赢家，适合长线布局",
+   "link": "https://www.tmtpost.com/8216930.html",
+   "published": "2026-11-25T08:49:57+08:00",
+   "image_url": "https://images.tmtpost.com/uploads/images/2023/tkrss/23r4grhtngh3.png",
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "img": "assets/img/d8f2471fb492f92f.jpg",
+   "summary": "原文称，华尔街对英伟达首席执行官黄仁勋的兴奋情绪在周二消退，此前因其出人意料的回归而大幅上涨的 AI 股票未能在不到 24 小时内保持涨势。原文认为，长期看黄仁勋的复出将对英特尔、迈威尔和戴尔产生积极影响，并恢复市场对 AI 交易的信心。原文称英特尔是最大赢家，将因与英伟达在 x86 架构应用上的合作而受益，这一联盟还可能为英特尔的代工业务带来认可。",
+   "why": "涉及 AI 算力与芯片产业链的格局变化，属于读者关注的 AI 发展议题，且原文为付费墙前的摘要，信息有限，适合快速了解要点。",
+   "tags": [
+    "英伟达",
+    "AI芯片",
+    "产业链"
+   ],
+   "summary_mode": "llm",
+   "type": "business",
+   "region": "us",
+   "topic": "黄仁勋回归带动AI股",
+   "type_label": "商业资本",
+   "region_label": "美国"
+  },
+  {
+   "id": "8b4e244354432982",
+   "source_id": "jiemian",
+   "source_name": "界面新闻",
+   "source_kind": "市场化媒体",
+   "title": "现代汽车集团计划明年在韩国推出标准化电动汽车充电系统",
+   "link": "https://www.jiemian.com/article/15370235.html",
+   "published": "2026-11-25T09:00:57+08:00",
+   "image_url": "https:https://img.jiemian.com/101/original/20220307/164664251748738900_a580x330.png",
+   "source_count": 1,
+   "pr": 0,
+   "group": "world",
+   "summary": "现代汽车集团11月25日表示，计划于明年在韩国推出一套标准化电动汽车充电系统，专为韩国公寓小区及海外住宅车库的慢充场景设计。该系统提供7千瓦和11千瓦两种功率版本，有壁挂式和独立式两种配置，并搭载“即插即充”技术，在连接时可自动完成用户认证和支付。该集团计划明年先在韩国推出该系统，随后逐步扩展至美国、欧洲和印度等主要海外市场。",
+   "why": "涉及电动车基础设施与车企出海布局，属产业动向而非明星八卦，与该读者关注的国际与科技议题相关度中等。",
+   "tags": [
+    "电动汽车",
+    "充电系统",
+    "现代汽车集团"
+   ],
+   "summary_mode": "llm",
+   "type": "product",
+   "region": "asia",
+   "topic": "现代汽车推标准充电系统",
+   "type_label": "产品发布",
+   "region_label": "亚太"
+  }
+ ],
+ "featured": [
+  {
+   "id": "27573ffb7d305d04",
+   "source_id": "chinanews_world",
+   "source_name": "中国新闻网·国际",
+   "source_kind": "通讯社",
+   "title": "马来西亚拟加强AI陪伴类应用监管",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-25/10737278.shtml",
+   "published": "2026-11-25T06:21:35+08:00",
+   "image_url": null,
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "summary": "马来西亚数字部部长戈宾德·辛格·德奥24日在国会下议院表示，政府正研究针对AI陪伴类应用及互动聊天机器人的保护措施，包括为陷入情绪困扰的用户提供援助机制。政府还拟研究对高风险AI应用强制实施危机处置规程，并建立安全事件报告机制。戈宾德表示，AI开发者和部署者均可能对AI相关有害内容承担法律责任，具体取决于各方的角色及控制程度。",
+   "why": "这是各国政府针对AI陪伴类应用着手立规的最新动向，涉及责任划分和危机处置机制，对关注AI治理的读者有参考价值。",
+   "tags": [
+    "AI监管",
+    "马来西亚",
+    "AI陪伴应用"
+   ],
+   "summary_mode": "llm",
+   "type": "policy",
+   "region": "asia",
+   "topic": "马来西亚拟监管AI陪伴应用",
+   "type_label": "政策监管",
+   "region_label": "亚太"
+  },
+  {
+   "id": "f111e39a7ba45023",
+   "source_id": "chinanews_world",
+   "source_name": "中国新闻网·国际",
+   "source_kind": "通讯社",
+   "title": "欧盟“点名”5个成员国存在经济失衡风险",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-25/10737298.shtml",
+   "published": "2026-11-25T08:30:20+08:00",
+   "image_url": null,
+   "source_count": 1,
+   "pr": 0,
+   "group": "world",
+   "summary": "欧盟依据“欧洲学期”机制发布成员国宏观经济预警报告，认定意大利、匈牙利、斯洛伐克、罗马尼亚和保加利亚存在经济失衡风险。报告显示，意大利、匈牙利和斯洛伐克存在经济失衡风险，罗马尼亚存在经济过度失衡风险，2027年上半年将对这4国进行深入审查。保加利亚受经常账户赤字扩大、成本竞争力下降、房价攀升、家庭房贷规模庞大等问题影响，可能出现经济失衡风险，2027年上半年也将接受欧盟委员会深入审查。",
+   "why": "这条涉及欧盟对成员国的宏观经济监督，属于国际局势动态，可了解欧洲经济治理机制的运作方式。",
+   "tags": [
+    "欧盟",
+    "经济失衡",
+    "欧洲学期"
+   ],
+   "summary_mode": "llm",
+   "type": "policy",
+   "region": "eu",
+   "topic": "欧盟点名五国经济失衡",
+   "type_label": "政策监管",
+   "region_label": "欧洲"
+  },
+  {
+   "id": "d0d9f82296d44db6",
+   "source_id": "tmtpost",
+   "source_name": "钛媒体",
+   "source_kind": "市场化媒体",
+   "title": "新鲜感之后，陪伴机器人如何被用起来？",
+   "link": "https://www.tmtpost.com/8212446.html",
+   "published": "2026-11-25T08:39:00+08:00",
+   "image_url": "https://images.tmtpost.com/uploads/images/2026/11/485989fa455547bcc1255abc15c5ceca_1795490459.png",
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "img": "assets/img/d0d9f82296d44db6.jpg",
+   "summary": "在德国IFA展上，OlloBot团队观察到，一些孩子只花5到10分钟就摸出OlloNi身上的触摸感应区，给它起名字、跟它说话。GROOVE X曾披露，LOVOT从2018年12月上市到2026年6月底，有效契约数约2万台。今年，优必选优世界U1系列、心言集团巴布、卧安KATA Friends、会畅科技OlloBot等多形态陪伴机器人相继发布或亮相，这类产品很少以家务能力为卖点，主要主打情绪互动、娱乐、触觉体验和家庭照护。",
+   "why": "这条报道讲陪伴机器人如何从短期好奇走向长期高频使用，涉及主动交互设计与融资节奏变化，属于AI硬件落地的方法论观察，不是明星八卦。",
+   "tags": [
+    "AI硬件",
+    "陪伴机器人",
+    "行业观察"
+   ],
+   "summary_mode": "llm",
+   "type": "industry",
+   "region": "global",
+   "topic": "陪伴机器人实际使用观察",
+   "type_label": "行业观察",
+   "region_label": "全球"
+  },
+  {
+   "id": "9dfdd1d951790e64",
+   "source_id": "jiemian",
+   "source_name": "界面新闻",
+   "source_kind": "市场化媒体",
+   "title": "世卫组织呼吁美国结束对古巴的燃料封锁",
+   "link": "https://www.jiemian.com/article/15370238.html",
+   "published": "2026-11-25T09:01:27+08:00",
+   "image_url": "https:https://img.jiemian.com/101/original/20220307/164664253426029700_a580x330.png",
+   "source_count": 1,
+   "pr": 0,
+   "group": "world",
+   "summary": "当地时间11月24日，正在古巴访问的世卫组织总干事谭德塞在哈瓦那举行记者会表示，古巴医疗体系正面临困境和危机，呼吁美国结束对古巴的燃料封锁。谭德塞表示，燃料短缺以及对药品、医疗设备采购的制裁正给古巴医疗服务带来巨大压力。世卫组织将捐赠200万美元，帮助改善古巴的医疗卫生状况。",
+   "why": "这条反映国际组织与制裁之间的现实张力，属于读者关注的国际局势议题。",
+   "tags": [
+    "世卫组织",
+    "古巴",
+    "制裁"
+   ],
+   "summary_mode": "llm",
+   "type": "world",
+   "region": "global",
+   "topic": "世卫吁美结束对古巴封锁",
+   "type_label": "国际关系",
+   "region_label": "全球"
+  },
+  {
+   "id": "9cc7c37fe512dcd6",
+   "source_id": "leiphone",
+   "source_name": "雷锋网",
+   "source_kind": "垂直媒体",
+   "title": "蚂蚁OceanBase发布湖库一体AI数据平台OceanLake，CTO杨传辉解读三大能力",
+   "link": "https://www.leiphone.com/category/industrynews/HXbRi8ascVBkUsJP.html",
+   "published": "2026-11-24T15:38:00+08:00",
+   "image_url": "https://static.leiphone.com/uploads/new/images/20261124/6b053f07c5a11.jpg?imageMogr2/quality/90",
+   "source_count": 2,
+   "pr": 0,
+   "group": "ai",
+   "img": "assets/img/9cc7c37fe512dcd6.jpg",
+   "summary": "11月24日，蚂蚁OceanBase AI数据大会在北京召开，会上发布湖库一体AI数据平台OceanLake，并宣布开源其核心引擎AI数据库OceanSeek。OceanBase CTO杨传辉提出，面向AI时代的数据基础设施需具备湖库一体、在离线一体、Agent友好和多模混合搜索等能力。大会披露，面向Agent调用的MCP访问量从4月到9月增长约13.36倍，人工页面访问量PAGE同期增长约9.86倍。",
+   "why": "读者关注AI发展，这条涉及AI数据基础设施的技术判断、平台构成及公开的落地测试数据，不含明星八卦。",
+   "tags": [
+    "AI基础设施",
+    "数据库",
+    "OceanBase"
+   ],
+   "summary_mode": "llm",
+   "type": "product",
+   "region": "cn",
+   "topic": "OceanBase发布OceanLake",
+   "type_label": "产品发布",
+   "region_label": "中国"
+  }
+ ],
+ "quick": [
+  {
+   "title": "安理会讨论乌克兰局势：袭击加剧平民苦难，黑海粮食运输受阻",
+   "title_cn": "",
+   "link": "https://news.un.org/feed/view/zh/story/2026/11/1143250",
+   "source_name": "联合国新闻·中文",
+   "source_kind": "公共媒体",
+   "id": "e58bea657cb8e605",
+   "type": "world",
+   "type_label": "国际关系",
+   "region": "global",
+   "region_label": "全球"
+  },
+  {
+   "title": "从“望闻问切”到开源模型，蚂蚁阿福加速打通AI健康服务闭环",
+   "title_cn": "",
+   "link": "https://www.leiphone.com/category/medigital/P6Ota0mqLwk8wsN2.html",
+   "source_name": "雷锋网",
+   "source_kind": "垂直媒体",
+   "id": "0dad38b08cdbc165",
+   "type": "product",
+   "type_label": "产品发布",
+   "region": "cn",
+   "region_label": "中国"
+  },
+  {
+   "title": "芝加哥奥黑尔机场连续第二天实施“地面停飞”",
+   "title_cn": "",
+   "link": "https://www.jiemian.com/article/15370187.html",
+   "source_name": "界面新闻",
+   "source_kind": "市场化媒体",
+   "id": "8591af179d5c7d4a",
+   "type": "society",
+   "type_label": "社会民生",
+   "region": "us",
+   "region_label": "美国"
+  },
+  {
+   "title": "AI办公，不再只拼大模型",
+   "title_cn": "",
+   "link": "https://www.tmtpost.com/8215293.html",
+   "source_name": "钛媒体",
+   "source_kind": "市场化媒体",
+   "id": "ce793dc7c7755d10",
+   "type": "industry",
+   "type_label": "行业观察",
+   "region": "cn",
+   "region_label": "中国"
+  },
+  {
+   "title": "COP31 气候谈判未达成任何共识",
+   "title_cn": "",
+   "link": "https://www.solidot.org/story?sid=85963",
+   "source_name": "奇客 Solidot",
+   "source_kind": "垂直媒体",
+   "id": "781c7877c41ce3b2",
+   "type": "world",
+   "type_label": "国际关系",
+   "region": "global",
+   "region_label": "全球"
+  },
+  {
+   "title": "Three LLM inflection points in twelve months",
+   "title_cn": "十二个月内大语言模型的三个转折点",
+   "link": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/",
+   "source_name": "Simon Willison",
+   "source_kind": "个人",
+   "id": "4a3e2f846a806b26",
+   "type": "tech",
+   "type_label": "技术进展",
+   "region": "global",
+   "region_label": "全球"
+  }
+ ],
+ "challenge": {
+  "question": "自变量发布 WALL-API-1.0，主流榜单超",
+  "a": "达·芬奇画鸡蛋的故事，世人只讲了一半。教科书里的版本是勤奋的叙事，老师韦罗基奥让他对着鸡蛋画了三年。",
+  "b": "11月23日，具身智能公司自变量机器人发布新一代具身基础模型WALL-OSS-1.0，并同步开放调用接口WALL-API-1.0。自变量披露，该模型将动作数据前置到预训练阶段，面对陌生任务无需微调即可执行；",
+  "diff": "两家来源类型不同（垂直媒体 / 市场化媒体），原文表述不一致之处需要对照阅读。",
+  "mode": "extractive",
+  "pair": [
+   {
+    "id": "e224aa7a61a2f511",
+    "source_id": "ifanr",
+    "source_name": "爱范儿",
+    "source_kind": "垂直媒体",
+    "title": "自变量发布 WALL-API-1.0，主流榜单超越 Astra，扛起具身智能「预训练」的大旗",
+    "link": "https://www.ifanr.com/1691043?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "published": "2026-11-23T16:55:14+08:00",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1795422320393-1.jpg",
+    "source_count": 1,
+    "pr": 0,
+    "group": "ai",
+    "type": "product",
+    "region": "cn",
+    "topic": "自变量发布WALL-API接口",
+    "type_label": "产品发布",
+    "region_label": "中国"
+   },
+   {
+    "id": "f561e5bac93f04cc",
+    "source_id": "tmtpost",
+    "source_name": "钛媒体",
+    "source_kind": "市场化媒体",
+    "title": "自变量发布具身基础模型WALL-OSS-1.0，自测零样本成功率55.1%",
+    "link": "https://www.tmtpost.com/8216666.html",
+    "published": "2026-11-24T21:09:16+08:00",
+    "image_url": "https://images.tmtpost.com/uploads/images/2023/tkrss/1345y24htrwfgn3.png",
+    "source_count": 1,
+    "pr": 0,
+    "group": "ai",
+    "type": "research",
+    "region": "cn",
+    "topic": "自变量发布具身基础模型",
+    "type_label": "研究进展",
+    "region_label": "中国"
+   }
+  ],
+  "kind": "两个视角"
+ },
+ "counts": {
+  "ai": 10,
+  "world": 6
+ },
+ "report": {
+  "mode": "llm",
+  "overview": "本期蚂蚁OceanBase发布湖库一体AI数据平台OceanLake并开源核心引擎，自变量机器人发布具身基础模型WALL-OSS-1.0及调用接口。政策层面，马来西亚拟加强AI陪伴类应用监管，欧盟点名5个成员国存在经济失衡风险。国际议题上，COP31气候谈判未达成共识，安理会讨论乌克兰局势。",
+  "signals": [
+   "AI数据平台与具身基础模型同期发布，竞争焦点转向数据与动作预训练。",
+   "AI应用监管在多国推进，马来西亚正研究陪伴类应用保护措施。",
+   "气候与地区冲突议题均无进展：COP31无共识，乌克兰袭击持续。"
+  ],
+  "groups": [
+   {
+    "key": "ai",
+    "label": "AI 发展",
+    "n": 10
+   },
+   {
+    "key": "world",
+    "label": "国际局势",
+    "n": 6
+   }
+  ],
+  "types": [
+   {
+    "key": "product",
+    "label": "产品发布",
+    "n": 5
+   },
+   {
+    "key": "world",
+    "label": "国际关系",
+    "n": 3
+   },
+   {
+    "key": "policy",
+    "label": "政策监管",
+    "n": 2
+   },
+   {
+    "key": "industry",
+    "label": "行业观察",
+    "n": 2
+   },
+   {
+    "key": "business",
+    "label": "商业资本",
+    "n": 1
+   },
+   {
+    "key": "research",
+    "label": "研究进展",
+    "n": 1
+   },
+   {
+    "key": "society",
+    "label": "社会民生",
+    "n": 1
+   },
+   {
+    "key": "tech",
+    "label": "技术进展",
+    "n": 1
+   }
+  ],
+  "regions": [
+   {
+    "key": "cn",
+    "label": "中国",
+    "n": 6
+   },
+   {
+    "key": "global",
+    "label": "全球",
+    "n": 5
+   },
+   {
+    "key": "us",
+    "label": "美国",
+    "n": 2
+   },
+   {
+    "key": "asia",
+    "label": "亚太",
+    "n": 2
+   },
+   {
+    "key": "eu",
+    "label": "欧洲",
+    "n": 1
+   }
+  ],
+  "confirmed": [
+   {
+    "title": "蚂蚁OceanBase发布湖库一体AI数据平台OceanLake，CTO杨传辉解读三大能力",
+    "n": 2
+   }
+  ],
+  "confirmed_n": 1,
+  "source_kinds": [
+   {
+    "kind": "市场化媒体",
+    "n": 7
+   },
+   {
+    "kind": "垂直媒体",
+    "n": 5
+   },
+   {
+    "kind": "通讯社",
+    "n": 2
+   },
+   {
+    "kind": "公共媒体",
+    "n": 1
+   },
+   {
+    "kind": "个人",
+    "n": 1
+   }
+  ],
+  "note": "数字由程序统计；类型/地区标签来自模型或关键词规则；「归纳判断」是编辑视角的概括，不是事实，每条都附原文链接可核对。"
+ },
+ "stats": {
+  "scanned": 396,
+  "selected": 16,
+  "raw": 2982,
+  "clusters": 370,
+  "dedup": 391,
+  "sources_ok": 26,
+  "sources_total": 26,
+  "lookback_hours": 48,
+  "llm_mode": "llm",
+  "model": "deepseek-flash ×13",
+  "llm_calls": 13,
+  "cost": 0.0413,
+  "generated_at": "2026-11-25 09:16",
+  "errors": []
+ },
+ "archives": [
+  {
+   "date": "2026-11-24",
+   "weekday": "周二"
+  },
+  {
+   "date": "2026-11-23",
+   "weekday": "周一"
+  },
+  {
+   "date": "2026-11-22",
+   "weekday": "周日"
+  },
+  {
+   "date": "2026-11-21",
+   "weekday": "周六"
+  },
+  {
+   "date": "2026-11-20",
+   "weekday": "周五"
+  },
+  {
+   "date": "2026-11-19",
+   "weekday": "周四"
+  },
+  {
+   "date": "2026-11-18",
+   "weekday": "周三"
+  },
+  {
+   "date": "2026-11-17",
+   "weekday": "周二"
+  },
+  {
+   "date": "2026-11-16",
+   "weekday": "周一"
+  },
+  {
+   "date": "2026-11-15",
+   "weekday": "周日"
+  },
+  {
+   "date": "2026-11-14",
+   "weekday": "周六"
+  },
+  {
+   "date": "2026-11-13",
+   "weekday": "周五"
+  }
+ ]
+}

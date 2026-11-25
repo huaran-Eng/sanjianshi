@@ -1,6 +1,36 @@
 {
- "updated": "2026-11-24 03:10",
+ "updated": "2026-11-25 01:16",
  "issues": [
+  {
+   "date": "2026-11-25",
+   "weekday": "周三",
+   "issue_no": 31,
+   "one_liner": "今天值得看：蚂蚁OceanBase发布AI数据平台…；黄仁勋回归催生三大赢家，适合长线布局",
+   "selected": 16,
+   "sources_ok": 26,
+   "groups": {
+    "ai": 10,
+    "world": 6
+   },
+   "types": {
+    "product": 5,
+    "world": 3,
+    "policy": 2,
+    "industry": 2,
+    "business": 1,
+    "research": 1,
+    "society": 1,
+    "tech": 1
+   },
+   "regions": {
+    "cn": 6,
+    "global": 5,
+    "us": 2,
+    "asia": 2,
+    "eu": 1
+   },
+   "head": "本期蚂蚁OceanBase发布湖库一体AI数据平台OceanLake并开源核心引擎，自变量机器人发布具身基础模型WALL-OSS-1.0及调"
+  },
   {
    "date": "2026-11-24",
    "weekday": "周二",
@@ -908,30 +938,30 @@
   }
  ],
  "aggregate": {
-  "issues": 30,
-  "items": 480,
+  "issues": 31,
+  "items": 496,
   "first": "2026-10-26",
-  "last": "2026-11-24",
+  "last": "2026-11-25",
   "types": [
    {
     "key": "world",
     "label": "国际关系",
-    "n": 122
+    "n": 125
    },
    {
     "key": "product",
     "label": "产品发布",
-    "n": 83
+    "n": 88
    },
    {
     "key": "tech",
     "label": "技术进展",
-    "n": 57
+    "n": 58
    },
    {
     "key": "business",
     "label": "商业资本",
-    "n": 52
+    "n": 53
    },
    {
     "key": "other",
@@ -941,17 +971,17 @@
    {
     "key": "research",
     "label": "研究进展",
-    "n": 36
+    "n": 37
    },
    {
     "key": "industry",
     "label": "行业观察",
-    "n": 34
+    "n": 36
    },
    {
     "key": "policy",
     "label": "政策监管",
-    "n": 20
+    "n": 22
    },
    {
     "key": "security",
@@ -961,24 +991,24 @@
    {
     "key": "society",
     "label": "社会民生",
-    "n": 14
+    "n": 15
    }
   ],
   "regions": [
    {
     "key": "cn",
     "label": "中国",
-    "n": 131
+    "n": 137
    },
    {
     "key": "us",
     "label": "美国",
-    "n": 122
+    "n": 124
    },
    {
     "key": "global",
     "label": "全球",
-    "n": 115
+    "n": 120
    },
    {
     "key": "me",
@@ -988,12 +1018,12 @@
    {
     "key": "eu",
     "label": "欧洲",
-    "n": 43
+    "n": 44
    },
    {
     "key": "asia",
     "label": "亚太",
-    "n": 16
+    "n": 18
    }
   ]
  }
