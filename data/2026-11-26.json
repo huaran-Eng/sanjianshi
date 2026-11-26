@@ -1,0 +1,533 @@
+{
+ "date": "2026-11-26",
+ "date_cn": "11 月 26 日",
+ "weekday": "周四",
+ "issue_no": 32,
+ "one_liner": "英伟达、OpenAI、Anthropic 相关动态同日出现，涉及AI算力光通信、GPU优化与蛋白质预测。",
+ "lede": "扫描 400 条，从 26/26 个可用来源里留下 16 条：国际局势 4 条 · AI 发展 10 条 · 不为人知的知识 2 条。",
+ "cover_image": "assets/img/c43381de2f4a792b.jpg",
+ "headline": [
+  {
+   "id": "c43381de2f4a792b",
+   "source_id": "tmtpost",
+   "source_name": "钛媒体",
+   "source_kind": "市场化媒体",
+   "title": "黄仁勋的“光”：详解AI算力背后的光通信产业链、英伟达赌注与技术博弈",
+   "link": "https://www.tmtpost.com/8217634.html",
+   "published": "2026-11-26T08:35:00+08:00",
+   "image_url": "https://images.tmtpost.com/uploads/images/2026/11/b64373c19aa543a51e5a2aed2d1384c1_1795652013.jpg",
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "img": "assets/img/c43381de2f4a792b.jpg",
+   "summary": "英伟达围绕AI数据中心通信，向Marvell、Lumentum、Coherent和康宁等公司投入了几十亿美元，以解决GPU增多后网络成为瓶颈的问题。11月2日传出Marvell计划以1150亿美元估值收购Lumentum，两家公司的共同投资方是英伟达。原文称交易公布当天两家公司股价双双暴跌，之后随着黄仁勋相关风波，光通信行业前景变得黯淡。",
+   "why": "这条讲清AI算力扩张中光通信为何成为关键环节，涉及英伟达的产业布局与技术路线争议，贴合读者对AI发展的关注。",
+   "tags": [
+    "AI算力",
+    "光通信",
+    "英伟达"
+   ],
+   "summary_mode": "llm",
+   "type": "business",
+   "region": "global",
+   "topic": "英伟达投资光通信产业链",
+   "type_label": "商业资本",
+   "region_label": "全球"
+  },
+  {
+   "id": "889247f8aced154f",
+   "source_id": "leiphone",
+   "source_name": "雷锋网",
+   "source_kind": "垂直媒体",
+   "title": "OpenAI 联手 AMD，在旗舰 GPU 中抠出 14% 物理极限",
+   "link": "https://www.leiphone.com/category/ai/9tAw4Cw8AcxtFzUm.html",
+   "published": "2026-11-25T15:01:00+08:00",
+   "image_url": "https://static.leiphone.com/uploads/new/images/20261125/6b06878b9de19.jpg?imageMogr2/quality/90",
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "img": "assets/img/889247f8aced154f.jpg",
+   "summary": "OpenAI 的模型直接改写 SystemVerilog RTL，使既有设计获得最高 14% 的 PPA 改进，部分改动已被 AMD 采用并进入制造设计流程。OpenAI 自研推理芯片 Jalapeño 的一款乘法器由模型重写后，标准单元面积减少约 15%，计算延迟从两周期缩短到一周期，并已在实物硅片上得到验证。OpenAI 未公布修改前后的门级网表。",
+   "why": "这条内容同时涉及 AI 发展与国际芯片产业动向：模型已开始参与改写商用旗舰 GPU 电路，并且这种改动已经进入实际制造流程。",
+   "tags": [
+    "OpenAI",
+    "AMD",
+    "芯片设计"
+   ],
+   "summary_mode": "llm",
+   "type": "tech",
+   "region": "us",
+   "topic": "AI改写芯片RTL设计",
+   "type_label": "技术进展",
+   "region_label": "美国"
+  },
+  {
+   "id": "c15306ffa2fba5f7",
+   "source_id": "solidot",
+   "source_name": "奇客 Solidot",
+   "source_kind": "垂直媒体",
+   "title": "Claude 和 ChatGPT 在蛋白质结构预测和设计上挑战 AlphaFold",
+   "link": "https://www.solidot.org/story?sid=85992",
+   "published": "2026-11-25T23:26:31+08:00",
+   "image_url": null,
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "summary": "本站提到的所有注册商标属于他们各自的所有人所有，评论属于其发表者所有，其余内容版权属于 solidot.org(2009- ) 所有 。京ICP证161336号 京ICP备15039648号-15 北京市公安局海淀分局备案号：11010802021500",
+   "why": "属于你关注的「AI 发展、不为人知的知识」。",
+   "tags": [],
+   "summary_mode": "extractive",
+   "type": "research",
+   "region": "global",
+   "topic": "大模型挑战蛋白结构预测",
+   "type_label": "研究进展",
+   "region_label": "全球"
+  }
+ ],
+ "featured": [
+  {
+   "id": "c5707015ea089e21",
+   "source_id": "tmtpost",
+   "source_name": "钛媒体",
+   "source_kind": "市场化媒体",
+   "title": "交期最长20周，高端PCB正在卡住AI扩产",
+   "link": "https://www.tmtpost.com/8217580.html",
+   "published": "2026-11-26T08:12:34+08:00",
+   "image_url": "https://images.tmtpost.com/uploads/images/2023/tkrss/23r4grhtngh3.png",
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "img": "assets/img/c5707015ea089e21.jpg",
+   "summary": "全球电子协会11月19日发布预警，指出AI服务器需求正挤压高端PCB及相关材料供应，部分高多层板交期已达16至20周甚至更长。该协会数据显示，截至2026年9月行业订单量同比增长56.1%，出货量仅增长13.3%，预计供应紧张至少持续到2027年上半年。SemiAnalysis认为英伟达Kyber NVL144机柜所用78层PCB中板制造难度可能导致其推出时间从2027年推迟到2028年，英伟达回应称产品路线图保持不变，未确认延期。",
+   "why": "这条涉及AI算力扩张背后的硬件供应链瓶颈，属于AI发展与国际产业格局的交汇点，适合关注AI进展的读者。",
+   "tags": [
+    "AI硬件",
+    "PCB供应链",
+    "英伟达"
+   ],
+   "summary_mode": "llm",
+   "type": "industry",
+   "region": "global",
+   "topic": "高端PCB供应紧张",
+   "type_label": "行业观察",
+   "region_label": "全球"
+  },
+  {
+   "id": "cd91f839b7108641",
+   "source_id": "un_news_zh",
+   "source_name": "联合国新闻·中文",
+   "source_kind": "公共媒体",
+   "title": "安理会聚焦人工智能军事应用 古特雷斯和红十字国际委员会呼吁加强国际规范",
+   "link": "https://news.un.org/feed/view/zh/story/2026/11/1143258",
+   "published": "2026-11-24T20:00:00+08:00",
+   "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/09/23-09-2026-UN-Photo-SC-widview.jpg/image560x340cropped.jpg",
+   "source_count": 1,
+   "pr": 0,
+   "group": "world",
+   "img": "assets/img/cd91f839b7108641.jpg",
+   "summary": "联合国秘书长古特雷斯在安理会关于“技术快速变革时代下的冲突解决”高级别公开辩论会上警告，人工智能正在进入战场，并带来自主武器、虚假信息和技术竞争等一系列和平与安全风险。他强调，人类必须始终掌握涉及生死的决策权，不能允许人工智能成为规避问责的借口。他呼吁紧急启动谈判，制定关于致命自主武器系统的具有法律约束力的文书。",
+   "why": "读者关注 AI 发展与国际局势，这条同时涉及两者：联合国层面讨论人工智能军事应用的规范问题。",
+   "tags": [
+    "人工智能",
+    "国际安全",
+    "联合国"
+   ],
+   "summary_mode": "llm",
+   "type": "world",
+   "region": "global",
+   "topic": "安理会讨论AI军事应用",
+   "type_label": "国际关系",
+   "region_label": "全球"
+  },
+  {
+   "id": "232fa11fdcb4f559",
+   "source_id": "chinanews_world",
+   "source_name": "中国新闻网·国际",
+   "source_kind": "通讯社",
+   "title": "英国知名平价零售商一镑店进入破产托管 上万岗位面临风险",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-26/10737872.shtml",
+   "published": "2026-11-26T08:19:28+08:00",
+   "image_url": null,
+   "source_count": 1,
+   "pr": 0,
+   "group": "know",
+   "summary": "英国平价连锁零售商一镑店11月25日正式进入破产托管程序，控股方未能找到合适接盘买家，约1.1万个工作岗位面临风险。控股方戈登兄弟集团此前与多家意向收购方谈判，纾困收购方案均未达成一致，公司董事会决定申请托管，阿里克斯合伙人事务所被指定为托管人。托管期间所有门店和配送中心仍正常营业，托管团队将评估整体或分拆出售资产等处置方案。",
+   "why": "英国实体折扣零售的困境是全球消费降级与线下零售承压的一个具体样本，可与AI对零售业的冲击等议题对照阅读。",
+   "tags": [
+    "英国零售",
+    "破产托管",
+    "就业"
+   ],
+   "summary_mode": "llm",
+   "type": "business",
+   "region": "eu",
+   "topic": "英国一镑店破产托管",
+   "type_label": "商业资本",
+   "region_label": "欧洲"
+  },
+  {
+   "id": "1ed23073a35c93f0",
+   "source_id": "jiemian",
+   "source_name": "界面新闻",
+   "source_kind": "市场化媒体",
+   "title": "三部门：推动人工智能与信息网络融合发展，研究布局智能互联网",
+   "link": "https://www.jiemian.com/article/15374788.html",
+   "published": "2026-11-26T08:24:49+08:00",
+   "image_url": "https:https://img.jiemian.com/101/original/20220307/164664251748738900_a580x330.png",
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "summary": "工业和信息化部、国家网信办、国家发展改革委等三部门近日联合印发《新一代通信网建设实施方案》。方案提出，推动通信网架构向以支持人工智能应用为中心演进，提升算内、算间、入算的网络性能。方案还提出，探索边缘设备部署推理算力和智能算法，并在5G-A/6G、高速光网络、“IPv6+”、工业互联网等领域加强人工智能驱动的关键网络技术部署应用。",
+   "why": "这是AI与通信基础设施融合的官方政策动向，直接对应读者对AI发展的关注。",
+   "tags": [
+    "AI政策",
+    "通信网",
+    "智能互联网"
+   ],
+   "summary_mode": "llm",
+   "type": "policy",
+   "region": "cn",
+   "topic": "推动AI与信息网络融合",
+   "type_label": "政策监管",
+   "region_label": "中国"
+  },
+  {
+   "id": "8e53946c2421eb3c",
+   "source_id": "jiemian",
+   "source_name": "界面新闻",
+   "source_kind": "市场化媒体",
+   "title": "三部委：到2030年建成性能领先的新一代通信网",
+   "link": "https://www.jiemian.com/article/15374714.html",
+   "published": "2026-11-26T08:07:09+08:00",
+   "image_url": "https:https://img.jiemian.com/101/original/20220307/164664251748738900_a580x330.png",
+   "source_count": 1,
+   "pr": 0,
+   "group": "world",
+   "summary": "工业和信息化部联合国家网信办、国家发展改革委印发《新一代通信网建设实施方案》，提出到2030年建成覆盖完善、性能领先的新一代通信网。方案以5G-A/6G、万兆光网、卫星互联网为核心支撑，要求系统建强基础网络、空间网络、国际网络、融合网络四张网络。方案提出适时开展6G网络建设，低轨卫星互联网系统基本建成，空间网络形成全球服务能力。",
+   "why": "这条涉及6G、卫星互联网和AI基础设施的国家级建设规划，与读者关注的AI发展方向直接相关。",
+   "tags": [
+    "通信网",
+    "6G",
+    "卫星互联网"
+   ],
+   "summary_mode": "llm",
+   "type": "policy",
+   "region": "cn",
+   "topic": "2030建成新一代通信网",
+   "type_label": "政策监管",
+   "region_label": "中国"
+  }
+ ],
+ "quick": [
+  {
+   "title": "梅奥诊所向每天用自己的时间启动电脑的员工补发工资",
+   "title_cn": "",
+   "link": "https://www.solidot.org/story?sid=85985",
+   "source_name": "奇客 Solidot",
+   "source_kind": "垂直媒体",
+   "id": "2a1d0714250b5003",
+   "type": "society",
+   "type_label": "社会民生",
+   "region": "us",
+   "region_label": "美国"
+  },
+  {
+   "title": "实测豆包小豆：眼里有活儿，还得心里有数",
+   "title_cn": "",
+   "link": "https://www.tmtpost.com/8217672.html",
+   "source_name": "钛媒体",
+   "source_kind": "市场化媒体",
+   "id": "72103dd58b46bda7",
+   "type": "product",
+   "type_label": "产品发布",
+   "region": "cn",
+   "region_label": "中国"
+  },
+  {
+   "title": "以军证实：打死一名哈马斯内部安全机构负责人",
+   "title_cn": "",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-26/10737861.shtml",
+   "source_name": "中国新闻网·国际",
+   "source_kind": "通讯社",
+   "id": "8009012c6ee962e6",
+   "type": "world",
+   "type_label": "国际关系",
+   "region": "me",
+   "region_label": "中东"
+  },
+  {
+   "title": "算力唤醒真实世界：九章云极发布物理AI工厂与生态开放计划",
+   "title_cn": "",
+   "link": "https://www.leiphone.com/category/chips/Qz3QPf26nVIVA0ga.html",
+   "source_name": "雷锋网",
+   "source_kind": "垂直媒体",
+   "id": "e8a149568fe0ba3d",
+   "type": "product",
+   "type_label": "产品发布",
+   "region": "cn",
+   "region_label": "中国"
+  },
+  {
+   "title": "希音发布三季度业绩，经调整净利润同比增长近27%",
+   "title_cn": "",
+   "link": "https://www.leiphone.com/category/industrynews/Cnxqgh4z73YfXvCm.html",
+   "source_name": "雷锋网",
+   "source_kind": "垂直媒体",
+   "id": "c6381669c2088957",
+   "type": "business",
+   "type_label": "商业资本",
+   "region": "global",
+   "region_label": "全球"
+  },
+  {
+   "title": "Seedance 2.5 级别，价格只要 1/10，我们实测了计划开源的 MAGI-2",
+   "title_cn": "",
+   "link": "https://www.ifanr.com/1691445?utm_source=rss&utm_medium=rss&utm_campaign",
+   "source_name": "爱范儿",
+   "source_kind": "垂直媒体",
+   "id": "bdee61d99bdf0216",
+   "type": "product",
+   "type_label": "产品发布",
+   "region": "global",
+   "region_label": "全球"
+  }
+ ],
+ "challenge": {
+  "question": "协同所指的对象与场景差异",
+  "a": "三部门方案提出探索大小模型、人机、机机协同的网络运维新范式，建高等级自智网络",
+  "b": "具身智能需多模型与技能协同，浙江人形推出SPIRE 2.0全链路任务对齐体系",
+  "diff": "A指通信网络运维，B指机器人物理作业；原文未说明二者关联",
+  "mode": "llm",
+  "pair": [
+   {
+    "id": "c05405e763a2ef9f",
+    "source_id": "jiemian",
+    "source_name": "界面新闻",
+    "source_kind": "市场化媒体",
+    "title": "三部门：探索大小模型协同、人机协同、机机协同等网络运维新范式",
+    "link": "https://www.jiemian.com/article/15374809.html",
+    "published": "2026-11-26T08:29:27+08:00",
+    "image_url": "https:https://img.jiemian.com/101/original/20220307/164664251748738900_a580x330.png",
+    "source_count": 1,
+    "pr": 0,
+    "group": "ai",
+    "type": "policy",
+    "region": "cn",
+    "topic": "探索网络智能运维新范式",
+    "type_label": "政策监管",
+    "region_label": "中国"
+   },
+   {
+    "id": "46ef80cf15ec50aa",
+    "source_id": "leiphone",
+    "source_name": "雷锋网",
+    "source_kind": "垂直媒体",
+    "title": "多模型协同落地，浙江人形 NAVIAI 提升长序列任务作业稳定性",
+    "link": "https://www.leiphone.com/category/industrynews/KnGzlsg6xlU9Nnpk.html",
+    "published": "2026-11-25T21:51:00+08:00",
+    "image_url": "https://static.leiphone.com/uploads/new/images/20261125/6b06e7ca2b40a.jpg?imageMogr2/quality/90",
+    "source_count": 1,
+    "pr": 0,
+    "group": "ai",
+    "type": "tech",
+    "region": "cn",
+    "topic": "人形机器人多模型协同",
+    "type_label": "技术进展",
+    "region_label": "中国"
+   }
+  ],
+  "kind": "两个视角"
+ },
+ "counts": {
+  "ai": 10,
+  "world": 4,
+  "know": 2
+ },
+ "report": {
+  "mode": "llm",
+  "overview": "三部门联合印发《新一代通信网建设实施方案》，涉及AI与通信网融合、2030年建成目标及网络运维新范式。英伟达向多家公司投入数十亿美元布局光通信，高端PCB交期最长达20周。",
+  "signals": [
+   "多条目聚焦新一代通信网方案，政策指向AI与网络融合。",
+   "算力扩张遇供应链制约：光通信投资活跃，高端PCB交期拉长。",
+   "AI能力向芯片设计、蛋白质预测、视频生成等场景渗透。"
+  ],
+  "groups": [
+   {
+    "key": "ai",
+    "label": "AI 发展",
+    "n": 10
+   },
+   {
+    "key": "world",
+    "label": "国际局势",
+    "n": 4
+   },
+   {
+    "key": "know",
+    "label": "不为人知的知识",
+    "n": 2
+   }
+  ],
+  "types": [
+   {
+    "key": "policy",
+    "label": "政策监管",
+    "n": 3
+   },
+   {
+    "key": "business",
+    "label": "商业资本",
+    "n": 3
+   },
+   {
+    "key": "product",
+    "label": "产品发布",
+    "n": 3
+   },
+   {
+    "key": "world",
+    "label": "国际关系",
+    "n": 2
+   },
+   {
+    "key": "tech",
+    "label": "技术进展",
+    "n": 2
+   },
+   {
+    "key": "research",
+    "label": "研究进展",
+    "n": 1
+   },
+   {
+    "key": "society",
+    "label": "社会民生",
+    "n": 1
+   },
+   {
+    "key": "industry",
+    "label": "行业观察",
+    "n": 1
+   }
+  ],
+  "regions": [
+   {
+    "key": "cn",
+    "label": "中国",
+    "n": 6
+   },
+   {
+    "key": "global",
+    "label": "全球",
+    "n": 6
+   },
+   {
+    "key": "us",
+    "label": "美国",
+    "n": 2
+   },
+   {
+    "key": "eu",
+    "label": "欧洲",
+    "n": 1
+   },
+   {
+    "key": "me",
+    "label": "中东",
+    "n": 1
+   }
+  ],
+  "confirmed": [
+   {
+    "title": "算力唤醒真实世界：九章云极发布物理AI工厂与生态开放计划",
+    "n": 2
+   }
+  ],
+  "confirmed_n": 1,
+  "source_kinds": [
+   {
+    "kind": "垂直媒体",
+    "n": 7
+   },
+   {
+    "kind": "市场化媒体",
+    "n": 6
+   },
+   {
+    "kind": "通讯社",
+    "n": 2
+   },
+   {
+    "kind": "公共媒体",
+    "n": 1
+   }
+  ],
+  "note": "数字由程序统计；类型/地区标签来自模型或关键词规则；「归纳判断」是编辑视角的概括，不是事实，每条都附原文链接可核对。"
+ },
+ "stats": {
+  "scanned": 400,
+  "selected": 16,
+  "raw": 2980,
+  "clusters": 379,
+  "dedup": 394,
+  "sources_ok": 26,
+  "sources_total": 26,
+  "lookback_hours": 48,
+  "llm_mode": "llm",
+  "model": "deepseek-flash ×12",
+  "llm_calls": 12,
+  "cost": 0.0409,
+  "generated_at": "2026-11-26 08:51",
+  "errors": []
+ },
+ "archives": [
+  {
+   "date": "2026-11-25",
+   "weekday": "周三"
+  },
+  {
+   "date": "2026-11-24",
+   "weekday": "周二"
+  },
+  {
+   "date": "2026-11-23",
+   "weekday": "周一"
+  },
+  {
+   "date": "2026-11-22",
+   "weekday": "周日"
+  },
+  {
+   "date": "2026-11-21",
+   "weekday": "周六"
+  },
+  {
+   "date": "2026-11-20",
+   "weekday": "周五"
+  },
+  {
+   "date": "2026-11-19",
+   "weekday": "周四"
+  },
+  {
+   "date": "2026-11-18",
+   "weekday": "周三"
+  },
+  {
+   "date": "2026-11-17",
+   "weekday": "周二"
+  },
+  {
+   "date": "2026-11-16",
+   "weekday": "周一"
+  },
+  {
+   "date": "2026-11-15",
+   "weekday": "周日"
+  },
+  {
+   "date": "2026-11-14",
+   "weekday": "周六"
+  }
+ ]
+}

@@ -1,6 +1,37 @@
 {
- "updated": "2026-11-25 01:16",
+ "updated": "2026-11-26 00:51",
  "issues": [
+  {
+   "date": "2026-11-26",
+   "weekday": "周四",
+   "issue_no": 32,
+   "one_liner": "英伟达、OpenAI、Anthropic 相关动态同日出现，涉及AI算力光通信、GPU优化与蛋白质预测。",
+   "selected": 16,
+   "sources_ok": 26,
+   "groups": {
+    "ai": 10,
+    "world": 4,
+    "know": 2
+   },
+   "types": {
+    "policy": 3,
+    "business": 3,
+    "product": 3,
+    "world": 2,
+    "tech": 2,
+    "research": 1,
+    "society": 1,
+    "industry": 1
+   },
+   "regions": {
+    "cn": 6,
+    "global": 6,
+    "us": 2,
+    "eu": 1,
+    "me": 1
+   },
+   "head": "三部门联合印发《新一代通信网建设实施方案》，涉及AI与通信网融合、2030年建成目标及网络运维新范式。英伟达向多家公司投入数十亿美元布局光通"
+  },
   {
    "date": "2026-11-25",
    "weekday": "周三",
@@ -938,30 +969,30 @@
   }
  ],
  "aggregate": {
-  "issues": 31,
-  "items": 496,
+  "issues": 32,
+  "items": 512,
   "first": "2026-10-26",
-  "last": "2026-11-25",
+  "last": "2026-11-26",
   "types": [
    {
     "key": "world",
     "label": "国际关系",
-    "n": 125
+    "n": 127
    },
    {
     "key": "product",
     "label": "产品发布",
-    "n": 88
+    "n": 91
    },
    {
     "key": "tech",
     "label": "技术进展",
-    "n": 58
+    "n": 60
    },
    {
     "key": "business",
     "label": "商业资本",
-    "n": 53
+    "n": 56
    },
    {
     "key": "other",
@@ -971,17 +1002,17 @@
    {
     "key": "research",
     "label": "研究进展",
-    "n": 37
+    "n": 38
    },
    {
     "key": "industry",
     "label": "行业观察",
-    "n": 36
+    "n": 37
    },
    {
     "key": "policy",
     "label": "政策监管",
-    "n": 22
+    "n": 25
    },
    {
     "key": "security",
@@ -991,34 +1022,34 @@
    {
     "key": "society",
     "label": "社会民生",
-    "n": 15
+    "n": 16
    }
   ],
   "regions": [
    {
     "key": "cn",
     "label": "中国",
-    "n": 137
+    "n": 143
    },
    {
     "key": "us",
     "label": "美国",
-    "n": 124
+    "n": 126
    },
    {
     "key": "global",
     "label": "全球",
-    "n": 120
+    "n": 126
    },
    {
     "key": "me",
     "label": "中东",
-    "n": 53
+    "n": 54
    },
    {
     "key": "eu",
     "label": "欧洲",
-    "n": 44
+    "n": 45
    },
    {
     "key": "asia",
