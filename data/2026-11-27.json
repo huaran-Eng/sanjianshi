@@ -1,0 +1,525 @@
+{
+ "date": "2026-11-27",
+ "date_cn": "11 月 27 日",
+ "weekday": "周五",
+ "issue_no": 33,
+ "one_liner": "多家模型在蛋白质结构预测与设计上挑战AlphaFold，国产模型追赶进展受关注",
+ "lede": "扫描 392 条，从 26/26 个可用来源里留下 16 条：国际局势 4 条 · AI 发展 7 条 · 不为人知的知识 3 条。",
+ "cover_image": "assets/img/e69e521c605da8d0.jpg",
+ "headline": [
+  {
+   "id": "e69e521c605da8d0",
+   "source_id": "leiphone",
+   "source_name": "雷锋网",
+   "source_kind": "垂直媒体",
+   "title": "直播 25 天训出一个模型，五项登顶，一群 00 后的 Physical AI 实验",
+   "link": "https://www.leiphone.com/category/ai/0DEts3fxmZTZ7ojp.html",
+   "published": "2026-11-26T20:50:00+08:00",
+   "image_url": "https://static.leiphone.com/uploads/new/images/20261126/6b082aae55b8d.jpg?imageMogr2/quality/90",
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "img": "assets/img/e69e521c605da8d0.jpg",
+   "summary": "生数科技发布 Motubrain 2.0，包含一个 20B 参数的世界动作模型（WAM）和一套名为 Motubrain-Harness 的智能体系统，并宣布将于近期开源。过去一个月里，公司把预训练搬上公开直播：25 天、600 小时、20 万步训练、5624 次有效真机评测，直播中曾发现一批数据里夹爪的“开”“关”被标反，团队放弃此前权重从第 0 步重训。在六项代表性机器人操作 Benchmark 中，该模型拿下五项第一，在 RoboDojo 公开评测中含 Open 类任务的五项综合计分为 41.28 分，高于 GPT-6 Astra（28.97）和 Claude Opus 5.5（39.40）。",
+   "why": "这条涉及 AI 发展（物理 AI 与机器人模型）和国际前沿模型对比，且完整公开训练过程与失败细节，属于少见的方法论观察样本。",
+   "tags": [
+    "物理AI",
+    "模型训练",
+    "机器人"
+   ],
+   "summary_mode": "llm",
+   "type": "product",
+   "region": "cn",
+   "topic": "生数发布20B世界动作模型",
+   "type_label": "产品发布",
+   "region_label": "中国"
+  },
+  {
+   "id": "3d0ca4fdbc677431",
+   "source_id": "ifanr",
+   "source_name": "爱范儿",
+   "source_kind": "垂直媒体",
+   "title": "2026 年，国产模型还能追上 Opus 5.5 吗",
+   "link": "https://www.ifanr.com/1695555?utm_source=rss&utm_medium=rss&utm_campaign",
+   "published": "2026-11-26T18:02:35+08:00",
+   "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/sbcover.jpg",
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "img": "assets/img/3d0ca4fdbc677431.jpg",
+   "summary": "SemiAnalysis 创始人 Dylan Patel 在 Runtime 2026 大会演讲中披露，英伟达四年前发布的 H100 租赁价格不降反涨，一年期合同成交价中位数已达每小时 2.8 美元，比去年 10 月每小时 1.7 美元的低点高出超过 60%。他预计 OpenAI 和 Anthropic 在 2027 年将新增约 12 GW 算力基础设施容量，约占全球当年新增 40 GW 的 30%。原文以 DeepSeek-V3 公开的训练数据为例说明大模型训练的算力开销，并解释了 AI 训练和推理为何高度依赖 GPU 及英伟达生态。",
+   "why": "这条内容涉及 AI 算力供需和模型训练成本，直接对应读者对 AI 发展的关注。",
+   "tags": [
+    "AI 算力",
+    "大模型训练",
+    "英伟达"
+   ],
+   "summary_mode": "llm",
+   "type": "industry",
+   "region": "global",
+   "topic": "H100租金上涨与国产模型差距",
+   "type_label": "行业观察",
+   "region_label": "全球"
+  },
+  {
+   "id": "c15306ffa2fba5f7",
+   "source_id": "solidot",
+   "source_name": "奇客 Solidot",
+   "source_kind": "垂直媒体",
+   "title": "Claude 和 ChatGPT 在蛋白质结构预测和设计上挑战 AlphaFold",
+   "link": "https://www.solidot.org/story?sid=85992",
+   "published": "2026-11-25T23:26:31+08:00",
+   "image_url": null,
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "summary": "本站提到的所有注册商标属于他们各自的所有人所有，评论属于其发表者所有，其余内容版权属于 solidot.org(2009- ) 所有 。京ICP证161336号 京ICP备15039648号-15 北京市公安局海淀分局备案号：11010802021500",
+   "why": "属于你关注的「AI 发展、不为人知的知识」。",
+   "tags": [],
+   "summary_mode": "extractive",
+   "type": "research",
+   "region": "global",
+   "topic": "大模型挑战AlphaFold预测",
+   "type_label": "研究进展",
+   "region_label": "全球"
+  }
+ ],
+ "featured": [
+  {
+   "id": "29f17a9acf828033",
+   "source_id": "ifanr",
+   "source_name": "爱范儿",
+   "source_kind": "垂直媒体",
+   "title": "蔚来发布 NOMI 4.0！0.6 秒极速响应，正式迈入「智能体」时代",
+   "link": "https://www.ifanr.com/1695482?utm_source=rss&utm_medium=rss&utm_campaign",
+   "published": "2026-11-25T18:47:45+08:00",
+   "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1795678093502-1.jpg",
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "img": "assets/img/29f17a9acf828033.jpg",
+   "summary": "今天是蔚来的 12 岁生日。在下午的 NIO IN 蔚来创新科技日上，蔚来讲了很多。从组织架构讲到了换电体系，又从辅助驾驶讲到了语音助手。",
+   "why": "属于你关注的「AI 发展」。",
+   "tags": [],
+   "summary_mode": "extractive",
+   "type": "product",
+   "region": "cn",
+   "topic": "蔚来发布NOMI 4.0",
+   "type_label": "产品发布",
+   "region_label": "中国"
+  },
+  {
+   "id": "81ea51994239ff01",
+   "source_id": "chinanews_world",
+   "source_name": "中国新闻网·国际",
+   "source_kind": "通讯社",
+   "title": "特朗普：与普京会谈中，已敦促其尽快与乌克兰达成协议",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-27/10738478.shtml",
+   "published": "2026-11-27T07:02:40+08:00",
+   "image_url": null,
+   "source_count": 1,
+   "pr": 0,
+   "group": "world",
+   "summary": "美国总统特朗普当地时间26日在社交媒体发文表示，他日前在与俄罗斯总统普京的会谈中敦促其尽快与乌克兰达成协议，以结束俄乌冲突。特朗普称，他25日晚在佛罗里达州海湖庄园会见北约秘书长吕特，并向吕特通报了他与普京的谈话内容。特朗普26日早些时候发文说，他在与吕特会见时重点讨论了俄乌冲突及伊朗战事，强调俄乌双方应避免采取任何可能导致冲突升级的行动，并应尽快通过和平方式解决这场冲突。",
+   "why": "这条消息涉及美俄、北约围绕俄乌冲突的互动，属于读者关注的国际局势。",
+   "tags": [
+    "国际局势",
+    "俄乌冲突",
+    "美俄关系"
+   ],
+   "summary_mode": "llm",
+   "type": "world",
+   "region": "global",
+   "topic": "特朗普促普京与乌达成协议",
+   "type_label": "国际关系",
+   "region_label": "全球"
+  },
+  {
+   "id": "c6f2c65405f4dece",
+   "source_id": "sspai",
+   "source_name": "少数派",
+   "source_kind": "社区",
+   "title": "怀旧手记｜Palm Pre：内藏「划时代」系统的手机",
+   "link": "https://sspai.com/post/118791",
+   "published": "2026-11-25T11:07:41+08:00",
+   "image_url": "https://rssfile.sspai.com/2026/11/09/956353deb7c7c9fcc7c26e7b17c2dad1.jpg?imageMogr2/auto-orient/ignore-error/1",
+   "source_count": 1,
+   "pr": 0,
+   "group": "know",
+   "img": "assets/img/c6f2c65405f4dece.jpg",
+   "summary": "webOS 是 Palm 公司基于 Linux 内核开发的嵌入式操作系统，2009 年随智能手机 Palm Pre 首次亮相。Palm Pre 于 2009 年发布，配备 3.1 英寸 TFT 电容触摸屏，分辨率 320×480，支持多点触控，整机重约 135 克。屏幕下方的黑色区域是触控感应区，官方称之为「手势区域」；在这一区域左右滑动，可以实现「返回」上一级界面。",
+   "why": "内容偏数码怀旧，讲的是早期移动系统的交互史，与读者关注的三类话题关联有限。",
+   "tags": [
+    "数码怀旧",
+    "webOS",
+    "交互设计"
+   ],
+   "summary_mode": "llm",
+   "type": "other",
+   "region": "global",
+   "topic": "Palm Pre与webOS回顾",
+   "type_label": "其他",
+   "region_label": "全球"
+  },
+  {
+   "id": "e8a149568fe0ba3d",
+   "source_id": "leiphone",
+   "source_name": "雷锋网",
+   "source_kind": "垂直媒体",
+   "title": "算力唤醒真实世界：九章云极发布物理AI工厂与生态开放计划",
+   "link": "https://www.leiphone.com/category/chips/Qz3QPf26nVIVA0ga.html",
+   "published": "2026-11-25T22:15:00+08:00",
+   "image_url": "https://static.leiphone.com/uploads/new/images/20261125/6b06ebb276a87.jpeg?imageView2/2/w/740",
+   "source_count": 1,
+   "pr": 0,
+   "group": "ai",
+   "img": "assets/img/e8a149568fe0ba3d.jpg",
+   "summary": "11月25日，2026物理AI行业峰会在深圳举行，九章云极在会上推出面向物理AI的算力基础设施与工具栈服务体系Physical AI Factory。易观发布的报告显示，2026年中国物理AI开发基础设施市场规模约335亿元，2030年预计超800亿元。九章云极发起成立的“极光物理AI产业生态联盟”在深圳龙华区成立，同步开启合作计划。",
+   "why": "涉及AI基础设施与算力工程化的产业动向，属读者关注的AI发展领域。",
+   "tags": [
+    "物理AI",
+    "算力基础设施",
+    "产业联盟"
+   ],
+   "summary_mode": "llm",
+   "type": "product",
+   "region": "cn",
+   "topic": "九章云极发布物理AI工厂",
+   "type_label": "产品发布",
+   "region_label": "中国"
+  },
+  {
+   "id": "ea34ddbfea4d3761",
+   "source_id": "jiemian",
+   "source_name": "界面新闻",
+   "source_kind": "市场化媒体",
+   "title": "伊朗外长：调解方仍在美伊间传递消息，沟通未中断",
+   "link": "https://www.jiemian.com/article/15379739.html",
+   "published": "2026-11-27T08:34:59+08:00",
+   "image_url": "https:https://img.jiemian.com/101/original/20220307/164664253426029700_a580x330.png",
+   "source_count": 1,
+   "pr": 0,
+   "group": "world",
+   "summary": "伊朗外长阿拉格齐11月26日表示，卡塔尔和巴基斯坦仍在进行调解，继续在伊朗与美国之间传递消息，相关沟通渠道并未中断。他表示各方可以找到解决办法，目前有一些方案正在研究中。他同时强调，伊朗的主要关切没有改变：伊方提出的一系列要求必须得到满足，霍尔木兹海峡才能开放，协议也才能达成。",
+   "why": "这是美伊沟通渠道现状的直接表态，属于国际局势中与能源航道霍尔木兹海峡挂钩的动态。",
+   "tags": [
+    "伊朗",
+    "美伊关系",
+    "霍尔木兹海峡"
+   ],
+   "summary_mode": "llm",
+   "type": "world",
+   "region": "me",
+   "topic": "美伊经调解方传话未中断",
+   "type_label": "国际关系",
+   "region_label": "中东"
+  }
+ ],
+ "quick": [
+  {
+   "title": "基因编辑猪肾在人体内正常工作一年",
+   "title_cn": "",
+   "link": "https://www.solidot.org/story?sid=86003",
+   "source_name": "奇客 Solidot",
+   "source_kind": "垂直媒体",
+   "id": "abc757a6d17a79d4",
+   "type": "research",
+   "type_label": "研究进展",
+   "region": "us",
+   "region_label": "美国"
+  },
+  {
+   "title": "ChatGPT即将到来的大更新，为何让老用户集体破防",
+   "title_cn": "",
+   "link": "https://www.ifanr.com/1695589?utm_source=rss&utm_medium=rss&utm_campaign",
+   "source_name": "爱范儿",
+   "source_kind": "垂直媒体",
+   "id": "c9159f09978f68e9",
+   "type": "product",
+   "type_label": "产品发布",
+   "region": "us",
+   "region_label": "美国"
+  },
+  {
+   "title": "格鲁吉亚外长：待领土问题解决后，才可能恢复格俄外交关系",
+   "title_cn": "",
+   "link": "https://www.jiemian.com/article/15379713.html",
+   "source_name": "界面新闻",
+   "source_kind": "市场化媒体",
+   "id": "0acb0153207a0ac1",
+   "type": "world",
+   "type_label": "国际关系",
+   "region": "asia",
+   "region_label": "亚太"
+  },
+  {
+   "title": "如何维护超算",
+   "title_cn": "",
+   "link": "https://www.solidot.org/story?sid=85989",
+   "source_name": "奇客 Solidot",
+   "source_kind": "垂直媒体",
+   "id": "1fed838adc8ca261",
+   "type": "tech",
+   "type_label": "技术进展",
+   "region": "us",
+   "region_label": "美国"
+  },
+  {
+   "title": "Anthropic上市：从Uber的预算看Claude怎么赚钱",
+   "title_cn": "",
+   "link": "https://www.tmtpost.com/8218636.html",
+   "source_name": "钛媒体",
+   "source_kind": "市场化媒体",
+   "id": "62770cc51dcb2bf0",
+   "type": "business",
+   "type_label": "商业资本",
+   "region": "us",
+   "region_label": "美国"
+  },
+  {
+   "title": "巴西副总统：美国对巴西加征新关税完全不合理",
+   "title_cn": "",
+   "link": "https://www.chinanews.com.cn/gj/2026/11-27/10738476.shtml",
+   "source_name": "中国新闻网·国际",
+   "source_kind": "通讯社",
+   "id": "ff86c8e1698b287a",
+   "type": "world",
+   "type_label": "国际关系",
+   "region": "global",
+   "region_label": "全球"
+  }
+ ],
+ "challenge": {
+  "question": "特朗普批准美国佛州重大灾害声明",
+  "a": "特朗普批准美国佛州重大灾害声明-中新网 即时 时政 财经 同心 东西问 国际 社会 理论·评论 中国侨网 大湾区 文娱 体育 教育 法治 健康 生活 铸牢中华民族共同体意识 宗教 一带一路 中国—东盟商贸资讯平台 中国新闻周刊 国是直通车 创意 直播 视频 图片 专栏 各地 安徽 | 北京 | 重庆 | 福建 | 甘肃 | 贵州 | 广东 | 广西 | 海南 | 河北 | 河南 | 湖北 | 湖南 | 黑龙江 | 江苏 | 江西 | 吉",
+  "b": "特朗普批准美国佛州重大灾害声明|界面新闻 · 快讯 天下快讯 特朗普批准美国佛州重大灾害声明 原创新闻 界面快报 · 来源：界面新闻 当地时间11月26日，美国总统特朗普批准佛罗里达州因本月历史性洪灾提出的重大灾害声明申请，正式启动联邦灾后援助机制，为佛州南部及中部地区受灾居民、企业和地方政府提供灾后恢复资金与资源支持。点赞 收藏 看评论 分享至 微博分享 微信分享 QQzone 评论 暂无评论哦，快来评价一下吧！",
+  "diff": "两家来源类型不同（通讯社 / 市场化媒体），原文表述不一致之处需要对照阅读。",
+  "mode": "extractive",
+  "pair": [
+   {
+    "id": "a252de6c73a57d6e",
+    "source_id": "chinanews_world",
+    "source_name": "中国新闻网·国际",
+    "source_kind": "通讯社",
+    "title": "特朗普批准美国佛州重大灾害声明",
+    "link": "https://www.chinanews.com.cn/gj/2026/11-27/10738495.shtml",
+    "published": "2026-11-27T08:11:50+08:00",
+    "image_url": null,
+    "type": "society",
+    "region": "us",
+    "topic": "特朗普批准佛州灾害声明",
+    "type_label": "社会民生",
+    "region_label": "美国"
+   },
+   {
+    "id": "3899971016c53cb3",
+    "source_id": "jiemian",
+    "source_name": "界面新闻",
+    "source_kind": "市场化媒体",
+    "title": "特朗普批准美国佛州重大灾害声明",
+    "link": "https://www.jiemian.com/article/15379600.html",
+    "published": "2026-11-27T07:52:56+08:00",
+    "image_url": "https:https://img.jiemian.com/101/original/20220307/164664253426029700_a580x330.png",
+    "type": "society",
+    "region": "us",
+    "topic": "特朗普批准佛州灾害声明",
+    "type_label": "社会民生",
+    "region_label": "美国"
+   }
+  ],
+  "kind": "同一事件"
+ },
+ "counts": {
+  "ai": 7,
+  "world": 4,
+  "know": 3,
+  "other": 2
+ },
+ "report": {
+  "mode": "llm",
+  "overview": "本期条目包含生数科技 Motubrain 2.0、蔚来 NOMI 4.0、九章云极物理 AI 工厂等发布，Anthropic 在纳斯达克上市，H100 一年期租赁价中位数达每小时 2.8 美元。国际方面有特朗普与普京会谈、美伊经调解方传话、格俄关系及美国对巴西关税等表态。另有基因编辑猪肾移植一年、佛州重大灾害声明等条目。",
+  "signals": [
+   "物理 AI 成发布热点，生数与九章云极同期推出模型与算力设施",
+   "AI 商业动态密集：Anthropic 上市、ChatGPT 改版引付费用户不满",
+   "外交表态类条目居多，涉及美俄、美伊、格俄与美巴关税"
+  ],
+  "groups": [
+   {
+    "key": "ai",
+    "label": "AI 发展",
+    "n": 7
+   },
+   {
+    "key": "world",
+    "label": "国际局势",
+    "n": 4
+   },
+   {
+    "key": "know",
+    "label": "不为人知的知识",
+    "n": 3
+   }
+  ],
+  "types": [
+   {
+    "key": "product",
+    "label": "产品发布",
+    "n": 4
+   },
+   {
+    "key": "world",
+    "label": "国际关系",
+    "n": 4
+   },
+   {
+    "key": "research",
+    "label": "研究进展",
+    "n": 2
+   },
+   {
+    "key": "society",
+    "label": "社会民生",
+    "n": 2
+   },
+   {
+    "key": "business",
+    "label": "商业资本",
+    "n": 1
+   },
+   {
+    "key": "industry",
+    "label": "行业观察",
+    "n": 1
+   },
+   {
+    "key": "tech",
+    "label": "技术进展",
+    "n": 1
+   },
+   {
+    "key": "other",
+    "label": "其他",
+    "n": 1
+   }
+  ],
+  "regions": [
+   {
+    "key": "us",
+    "label": "美国",
+    "n": 6
+   },
+   {
+    "key": "global",
+    "label": "全球",
+    "n": 5
+   },
+   {
+    "key": "cn",
+    "label": "中国",
+    "n": 3
+   },
+   {
+    "key": "me",
+    "label": "中东",
+    "n": 1
+   },
+   {
+    "key": "asia",
+    "label": "亚太",
+    "n": 1
+   }
+  ],
+  "confirmed": [
+   {
+    "title": "特朗普批准美国佛州重大灾害声明",
+    "n": 2
+   }
+  ],
+  "confirmed_n": 1,
+  "source_kinds": [
+   {
+    "kind": "垂直媒体",
+    "n": 8
+   },
+   {
+    "kind": "市场化媒体",
+    "n": 4
+   },
+   {
+    "kind": "通讯社",
+    "n": 3
+   },
+   {
+    "kind": "社区",
+    "n": 1
+   }
+  ],
+  "note": "数字由程序统计；类型/地区标签来自模型或关键词规则；「归纳判断」是编辑视角的概括，不是事实，每条都附原文链接可核对。"
+ },
+ "stats": {
+  "scanned": 392,
+  "selected": 16,
+  "raw": 2983,
+  "clusters": 371,
+  "dedup": 388,
+  "sources_ok": 26,
+  "sources_total": 26,
+  "lookback_hours": 48,
+  "llm_mode": "llm",
+  "model": "deepseek-flash ×12",
+  "llm_calls": 12,
+  "cost": 0.0457,
+  "generated_at": "2026-11-27 08:57",
+  "errors": []
+ },
+ "archives": [
+  {
+   "date": "2026-11-26",
+   "weekday": "周四"
+  },
+  {
+   "date": "2026-11-25",
+   "weekday": "周三"
+  },
+  {
+   "date": "2026-11-24",
+   "weekday": "周二"
+  },
+  {
+   "date": "2026-11-23",
+   "weekday": "周一"
+  },
+  {
+   "date": "2026-11-22",
+   "weekday": "周日"
+  },
+  {
+   "date": "2026-11-21",
+   "weekday": "周六"
+  },
+  {
+   "date": "2026-11-20",
+   "weekday": "周五"
+  },
+  {
+   "date": "2026-11-19",
+   "weekday": "周四"
+  },
+  {
+   "date": "2026-11-18",
+   "weekday": "周三"
+  },
+  {
+   "date": "2026-11-17",
+   "weekday": "周二"
+  },
+  {
+   "date": "2026-11-16",
+   "weekday": "周一"
+  },
+  {
+   "date": "2026-11-15",
+   "weekday": "周日"
+  }
+ ]
+}

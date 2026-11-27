@@ -1,6 +1,38 @@
 {
- "updated": "2026-11-26 00:51",
+ "updated": "2026-11-27 00:57",
  "issues": [
+  {
+   "date": "2026-11-27",
+   "weekday": "周五",
+   "issue_no": 33,
+   "one_liner": "多家模型在蛋白质结构预测与设计上挑战AlphaFold，国产模型追赶进展受关注",
+   "selected": 16,
+   "sources_ok": 26,
+   "groups": {
+    "ai": 7,
+    "world": 4,
+    "know": 3,
+    "other": 2
+   },
+   "types": {
+    "product": 4,
+    "world": 4,
+    "research": 2,
+    "society": 2,
+    "business": 1,
+    "industry": 1,
+    "tech": 1,
+    "other": 1
+   },
+   "regions": {
+    "us": 6,
+    "global": 5,
+    "cn": 3,
+    "me": 1,
+    "asia": 1
+   },
+   "head": "本期条目包含生数科技 Motubrain 2.0、蔚来 NOMI 4.0、九章云极物理 AI 工厂等发布，Anthropic 在纳斯达克上市"
+  },
   {
    "date": "2026-11-26",
    "weekday": "周四",
@@ -969,45 +1001,45 @@
   }
  ],
  "aggregate": {
-  "issues": 32,
-  "items": 512,
+  "issues": 33,
+  "items": 528,
   "first": "2026-10-26",
-  "last": "2026-11-26",
+  "last": "2026-11-27",
   "types": [
    {
     "key": "world",
     "label": "国际关系",
-    "n": 127
+    "n": 131
    },
    {
     "key": "product",
     "label": "产品发布",
-    "n": 91
+    "n": 95
    },
    {
     "key": "tech",
     "label": "技术进展",
-    "n": 60
+    "n": 61
    },
    {
     "key": "business",
     "label": "商业资本",
-    "n": 56
+    "n": 57
    },
    {
     "key": "other",
     "label": "其他",
-    "n": 45
+    "n": 46
    },
    {
     "key": "research",
     "label": "研究进展",
-    "n": 38
+    "n": 40
    },
    {
     "key": "industry",
     "label": "行业观察",
-    "n": 37
+    "n": 38
    },
    {
     "key": "policy",
@@ -1015,36 +1047,36 @@
     "n": 25
    },
    {
+    "key": "society",
+    "label": "社会民生",
+    "n": 18
+   },
+   {
     "key": "security",
     "label": "安全事件",
     "n": 17
-   },
-   {
-    "key": "society",
-    "label": "社会民生",
-    "n": 16
    }
   ],
   "regions": [
    {
     "key": "cn",
     "label": "中国",
-    "n": 143
+    "n": 146
    },
    {
     "key": "us",
     "label": "美国",
-    "n": 126
+    "n": 132
    },
    {
     "key": "global",
     "label": "全球",
-    "n": 126
+    "n": 131
    },
    {
     "key": "me",
     "label": "中东",
-    "n": 54
+    "n": 55
    },
    {
     "key": "eu",
@@ -1054,7 +1086,7 @@
    {
     "key": "asia",
     "label": "亚太",
-    "n": 18
+    "n": 19
    }
   ]
  }
