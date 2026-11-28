@@ -1,6 +1,36 @@
 {
- "updated": "2026-11-27 00:57",
+ "updated": "2026-11-28 00:21",
  "issues": [
+  {
+   "date": "2026-11-28",
+   "weekday": "周六",
+   "issue_no": 34,
+   "one_liner": "OpenAI与Anthropic内部就AI能力增长过快、模型隐藏行为出现分歧",
+   "selected": 16,
+   "sources_ok": 26,
+   "groups": {
+    "ai": 6,
+    "world": 5,
+    "know": 3,
+    "other": 2
+   },
+   "types": {
+    "world": 6,
+    "business": 3,
+    "product": 2,
+    "research": 2,
+    "industry": 2,
+    "society": 1
+   },
+   "regions": {
+    "me": 6,
+    "cn": 4,
+    "us": 3,
+    "asia": 2,
+    "global": 1
+   },
+   "head": "OpenAI与Anthropic内部就前沿模型是否公开发布出现分歧，英伟达暂停向东南亚四国交付AI服务器，支付宝发布车载助手3.0。科威特无"
+  },
   {
    "date": "2026-11-27",
    "weekday": "周五",
@@ -1001,20 +1031,20 @@
   }
  ],
  "aggregate": {
-  "issues": 33,
-  "items": 528,
+  "issues": 34,
+  "items": 544,
   "first": "2026-10-26",
-  "last": "2026-11-27",
+  "last": "2026-11-28",
   "types": [
    {
     "key": "world",
     "label": "国际关系",
-    "n": 131
+    "n": 137
    },
    {
     "key": "product",
     "label": "产品发布",
-    "n": 95
+    "n": 97
    },
    {
     "key": "tech",
@@ -1024,7 +1054,7 @@
    {
     "key": "business",
     "label": "商业资本",
-    "n": 57
+    "n": 60
    },
    {
     "key": "other",
@@ -1034,12 +1064,12 @@
    {
     "key": "research",
     "label": "研究进展",
-    "n": 40
+    "n": 42
    },
    {
     "key": "industry",
     "label": "行业观察",
-    "n": 38
+    "n": 40
    },
    {
     "key": "policy",
@@ -1049,7 +1079,7 @@
    {
     "key": "society",
     "label": "社会民生",
-    "n": 18
+    "n": 19
    },
    {
     "key": "security",
@@ -1061,22 +1091,22 @@
    {
     "key": "cn",
     "label": "中国",
-    "n": 146
+    "n": 150
    },
    {
     "key": "us",
     "label": "美国",
-    "n": 132
+    "n": 135
    },
    {
     "key": "global",
     "label": "全球",
-    "n": 131
+    "n": 132
    },
    {
     "key": "me",
     "label": "中东",
-    "n": 55
+    "n": 61
    },
    {
     "key": "eu",
@@ -1086,7 +1116,7 @@
    {
     "key": "asia",
     "label": "亚太",
-    "n": 19
+    "n": 21
    }
   ]
  }
